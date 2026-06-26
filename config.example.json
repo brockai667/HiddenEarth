@@ -1,7 +1,11 @@
 {
   "pexels_api_key": "",
   "buffer_token": "",
-  "buffer_channels": [],
+  "buffer_channels": [
+    { "id": "6a3e978a5ab6d2f106758209", "service": "instagram", "name": "hiddenearth667" },
+    { "id": "6a3e97f65ab6d2f10675848a", "service": "youtube", "name": "HiddenEarth667" },
+    { "id": "6a3e97e15ab6d2f1067583fe", "service": "tiktok", "name": "hiddenearth667" }
+  ],
   "cloudinary_cloud_name": "",
   "cloudinary_api_key": "",
   "cloudinary_api_secret": "",
