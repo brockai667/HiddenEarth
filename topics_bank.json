@@ -2,43 +2,653 @@
   {
     "title": "3 Places That Don't Look Real",
     "segments": [
-      {"text": "This lake is bright pink, and it's completely real.", "keywords": "pink lake aerial"},
-      {"text": "And it's only the beginning.", "keywords": "aerial turquoise coast"},
-      {"text": "A desert of golden dunes spills straight into the sea.", "keywords": "desert meets ocean"},
-      {"text": "A whole forest of stone rises from the ground.", "keywords": "stone forest rocks"},
-      {"text": "And a waterfall seems to pour into the clouds.", "keywords": "waterfall clouds mountain"},
-      {"text": "Earth looks photoshopped, but every bit is real.", "keywords": "aerial mountains drone"},
-      {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset"}
+      {
+        "text": "This lake is bright pink, and it's completely real.",
+        "keywords": "pink lake aerial"
+      },
+      {
+        "text": "And it's only the beginning.",
+        "keywords": "aerial turquoise coast"
+      },
+      {
+        "text": "A desert of golden dunes spills straight into the sea.",
+        "keywords": "desert meets ocean"
+      },
+      {
+        "text": "A whole forest of stone rises from the ground.",
+        "keywords": "stone forest rocks"
+      },
+      {
+        "text": "And a waterfall seems to pour into the clouds.",
+        "keywords": "waterfall clouds mountain"
+      },
+      {
+        "text": "Earth looks photoshopped, but every bit is real.",
+        "keywords": "aerial mountains drone"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
     ],
     "description": "Earth looks photoshopped — but it's all real. Follow for daily hidden places!",
-    "hashtags": ["#travel", "#hiddengems", "#wanderlust", "#places", "#earth", "#shorts", "#fyp", "#beautifuldestinations"]
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#wanderlust",
+      "#places",
+      "#earth",
+      "#shorts",
+      "#fyp",
+      "#beautifuldestinations"
+    ]
   },
   {
     "title": "Hidden Wonders Most People Never See",
     "segments": [
-      {"text": "Some of Earth's best places almost no one visits.", "keywords": "hidden valley fog"},
-      {"text": "And the first one feels like another planet.", "keywords": "alien landscape desert"},
-      {"text": "Glowing blue caves hide beneath quiet hills.", "keywords": "glowing cave blue"},
-      {"text": "Turquoise pools step down a mountainside.", "keywords": "turquoise terraces water"},
-      {"text": "And a sea of clouds rolls below the peaks.", "keywords": "sea of clouds mountain"},
-      {"text": "The most beautiful places are often the quietest.", "keywords": "empty mountain trail"},
-      {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset"}
+      {
+        "text": "Some of Earth's best places almost no one visits.",
+        "keywords": "hidden valley fog"
+      },
+      {
+        "text": "And the first one feels like another planet.",
+        "keywords": "alien landscape desert"
+      },
+      {
+        "text": "Glowing blue caves hide beneath quiet hills.",
+        "keywords": "glowing cave blue"
+      },
+      {
+        "text": "Turquoise pools step down a mountainside.",
+        "keywords": "turquoise terraces water"
+      },
+      {
+        "text": "And a sea of clouds rolls below the peaks.",
+        "keywords": "sea of clouds mountain"
+      },
+      {
+        "text": "The most beautiful places are often the quietest.",
+        "keywords": "empty mountain trail"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
     ],
     "description": "Earth's most beautiful places are often the quietest. Follow for daily hidden places!",
-    "hashtags": ["#travel", "#hiddengems", "#wanderlust", "#nature", "#earth", "#shorts", "#fyp", "#beautifuldestinations"]
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#wanderlust",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp",
+      "#beautifuldestinations"
+    ]
   },
   {
     "title": "Earth's Most Surreal Landscapes",
     "segments": [
-      {"text": "Some landscapes look like a painting, not a place.", "keywords": "surreal landscape colorful"},
-      {"text": "And the last one barely looks possible.", "keywords": "dramatic canyon"},
-      {"text": "Salt flats turn into the world's largest mirror.", "keywords": "salt flat reflection"},
-      {"text": "Red mountains ripple like waves of stone.", "keywords": "red rock waves"},
-      {"text": "And fields of lavender stretch past the horizon.", "keywords": "lavender field sunset"},
-      {"text": "Our planet is stranger and more beautiful than fiction.", "keywords": "aerial earth landscape"},
-      {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset"}
+      {
+        "text": "Some landscapes look like a painting, not a place.",
+        "keywords": "surreal landscape colorful"
+      },
+      {
+        "text": "And the last one barely looks possible.",
+        "keywords": "dramatic canyon"
+      },
+      {
+        "text": "Salt flats turn into the world's largest mirror.",
+        "keywords": "salt flat reflection"
+      },
+      {
+        "text": "Red mountains ripple like waves of stone.",
+        "keywords": "red rock waves"
+      },
+      {
+        "text": "And fields of lavender stretch past the horizon.",
+        "keywords": "lavender field sunset"
+      },
+      {
+        "text": "Our planet is stranger and more beautiful than fiction.",
+        "keywords": "aerial earth landscape"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
     ],
     "description": "Our planet is stranger than fiction. Follow for daily hidden places!",
-    "hashtags": ["#travel", "#landscape", "#wanderlust", "#nature", "#earth", "#shorts", "#fyp", "#beautifuldestinations"]
+    "hashtags": [
+      "#travel",
+      "#landscape",
+      "#wanderlust",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp",
+      "#beautifuldestinations"
+    ]
+  },
+  {
+    "title": "Magical Spots You Have to See to Believe",
+    "segments": [
+      {
+        "text": "A rainbow-hued river flows through lush mountains.",
+        "keywords": "colorful river aerial"
+      },
+      {
+        "text": "And this beauty is just the beginning.",
+        "keywords": "lush mountains"
+      },
+      {
+        "text": "A hidden cave of mesmerizing blue light awaits.",
+        "keywords": "blue cave light"
+      },
+      {
+        "text": "Giant rock formations look like a surreal sculpture park.",
+        "keywords": "unusual rock formations"
+      },
+      {
+        "text": "And a misty valley feels like a dreamland.",
+        "keywords": "misty valley morning"
+      },
+      {
+        "text": "This river appears to glow in shades of turquoise.",
+        "keywords": "glowing river turquoise"
+      },
+      {
+        "text": "A rainbow-hued river flows through lush mountains.",
+        "keywords": "colorful river aerial"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Experience the magic of these breathtaking places. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#wanderlust",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Nature's Most Breathtaking Illusions",
+    "segments": [
+      {
+        "text": "A forest of tall, colorful trees looks like a painting.",
+        "keywords": "colorful trees forest"
+      },
+      {
+        "text": "And there's more awe to come.",
+        "keywords": "scenic forest"
+      },
+      {
+        "text": "A mirrored lake reflects a stunning mountain backdrop.",
+        "keywords": "mirrored lake mountain"
+      },
+      {
+        "text": "Golden grasslands contrast against the blue sky.",
+        "keywords": "golden grasslands"
+      },
+      {
+        "text": "A canyon glows in vibrant hues at sunset.",
+        "keywords": "colorful canyon sunset"
+      },
+      {
+        "text": "A forest of tall, colorful trees looks like a painting.",
+        "keywords": "colorful trees forest"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Discover nature's most breathtaking illusions. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#wanderlust",
+      "#nature",
+      "#outdoors",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Hidden Landscapes That Defy Belief",
+    "segments": [
+      {
+        "text": "An otherworldly landscape covered in vibrant salt flats.",
+        "keywords": "vibrant salt flats"
+      },
+      {
+        "text": "And wait until you see more.",
+        "keywords": "salt flat aerial"
+      },
+      {
+        "text": "A waterfall cascades into a breathtaking infinity pool.",
+        "keywords": "waterfall infinity pool"
+      },
+      {
+        "text": "Giant dunes dance in the golden sunset glow.",
+        "keywords": "golden sand dunes"
+      },
+      {
+        "text": "This beach has crystals sparkling like stars.",
+        "keywords": "crystal beach"
+      },
+      {
+        "text": "An otherworldly landscape covered in vibrant salt flats.",
+        "keywords": "vibrant salt flats"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Explore hidden landscapes that truly defy belief. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#wanderlust",
+      "#nature",
+      "#beach",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Unbelievable Sights From Around the World",
+    "segments": [
+      {
+        "text": "A valley of vibrant wildflower blooms stretches endless.",
+        "keywords": "wildflower valley"
+      },
+      {
+        "text": "And there's so much more to discover.",
+        "keywords": "scenic valley"
+      },
+      {
+        "text": "An ancient stone circle stands in bright green pastures.",
+        "keywords": "stone circle aerial"
+      },
+      {
+        "text": "This mountain range pierces through rolling clouds.",
+        "keywords": "mountain clouds"
+      },
+      {
+        "text": "An island oasis emerges from shimmering blue waters.",
+        "keywords": "island oasis"
+      },
+      {
+        "text": "A valley of vibrant wildflower blooms stretches endless.",
+        "keywords": "wildflower valley"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Unveil unbelievable sights from our beautiful planet. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#wanderlust",
+      "#nature",
+      "#landscape",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Incredible Natural Wonders You Must See",
+    "segments": [
+      {
+        "text": "Bright-blue geysers bubble in a surreal landscape.",
+        "keywords": "blue geysers"
+      },
+      {
+        "text": "And that's just the beginning of the wonders.",
+        "keywords": "surreal landscape"
+      },
+      {
+        "text": "A crystal-clear lake reflects towering snow-capped peaks.",
+        "keywords": "lake reflection mountains"
+      },
+      {
+        "text": "An untouched beach glistens under the sun's rays.",
+        "keywords": "untouched beach"
+      },
+      {
+        "text": "A red rock formation rises dramatically from the desert.",
+        "keywords": "red rock formation"
+      },
+      {
+        "text": "Bright-blue geysers bubble in a surreal landscape.",
+        "keywords": "blue geysers"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Witness incredible natural wonders that will take your breath away. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#exploration",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Beautiful Places That Seem Out of This World",
+    "segments": [
+      {
+        "text": "This island shrouded in mist looks magical.",
+        "keywords": "misty island"
+      },
+      {
+        "text": "And there's even more beauty ahead.",
+        "keywords": "island beauty"
+      },
+      {
+        "text": "A meteorite crater forms a stunning natural lake.",
+        "keywords": "meteorite crater lake"
+      },
+      {
+        "text": "Waves crash against vibrant, colorful cliffs.",
+        "keywords": "colorful cliffs waves"
+      },
+      {
+        "text": "A surreal pink sand beach stretches into the horizon.",
+        "keywords": "pink sand beach"
+      },
+      {
+        "text": "This island shrouded in mist looks magical.",
+        "keywords": "misty island"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Explore beautiful places that seem out of this world. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#beach",
+      "#landscape",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Extraordinary Sites You Won't Believe Exist",
+    "segments": [
+      {
+        "text": "A vast desert with hypnotic, swirling sand patterns.",
+        "keywords": "swirling sand desert"
+      },
+      {
+        "text": "And this is just the tip of the iceberg.",
+        "keywords": "vast desert"
+      },
+      {
+        "text": "A colorful coral reef teems with vibrant life.",
+        "keywords": "coral reef underwater"
+      },
+      {
+        "text": "A canyon carved through strange rock formations.",
+        "keywords": "canyon rock formations"
+      },
+      {
+        "text": "A lake that changes colors with the seasons.",
+        "keywords": "color changing lake"
+      },
+      {
+        "text": "A vast desert with hypnotic, swirling sand patterns.",
+        "keywords": "swirling sand desert"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Discover extraordinary sites that seem too amazing to be true. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#seascape",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Nature's Hidden Masterpieces",
+    "segments": [
+      {
+        "text": "A hidden valley filled with colorful hot springs.",
+        "keywords": "colorful hot springs"
+      },
+      {
+        "text": "And that's just the beginning of the magic.",
+        "keywords": "hot springs landscape"
+      },
+      {
+        "text": "Giant icebergs float in crystal-clear blue waters.",
+        "keywords": "icebergs ocean"
+      },
+      {
+        "text": "A rocky coastline glows as the sun sets.",
+        "keywords": "rocky coastline sunset"
+      },
+      {
+        "text": "A dense forest with a canopy of colorful butterflies.",
+        "keywords": "butterfly forest"
+      },
+      {
+        "text": "A hidden valley filled with colorful hot springs.",
+        "keywords": "colorful hot springs"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Uncover nature's hidden masterpieces that inspire awe. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#exploration",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Remarkable Realities That Feel Like Dreams",
+    "segments": [
+      {
+        "text": "A forest where the trees glow under the moonlight.",
+        "keywords": "glowing forest night"
+      },
+      {
+        "text": "And there's so much more beauty ahead.",
+        "keywords": "mystical forest"
+      },
+      {
+        "text": "An emerald lake sparkles in the sunshine.",
+        "keywords": "emerald lake sparkle"
+      },
+      {
+        "text": "Giant sand dunes create waves of gold.",
+        "keywords": "sand dunes golden"
+      },
+      {
+        "text": "A cascading waterfall hides in a lush jungle.",
+        "keywords": "waterfall jungle"
+      },
+      {
+        "text": "A forest where the trees glow under the moonlight.",
+        "keywords": "glowing forest night"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Explore remarkable realities that feel like dreams. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#adventure",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Unseen Wonders of Our Planet",
+    "segments": [
+      {
+        "text": "A breathtaking valley with cascading lavender fields.",
+        "keywords": "lavender fields valley"
+      },
+      {
+        "text": "And this is just the start of the wonders.",
+        "keywords": "lavender fields"
+      },
+      {
+        "text": "A vast expanse of glowing green moss covers the ground.",
+        "keywords": "glowing moss landscape"
+      },
+      {
+        "text": "An amazing rock formation stands against a blue sky.",
+        "keywords": "rock formation blue sky"
+      },
+      {
+        "text": "This beach has unique, multicolored pebbles.",
+        "keywords": "multicolored pebbles beach"
+      },
+      {
+        "text": "A breathtaking valley with cascading lavender fields.",
+        "keywords": "lavender fields valley"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Discover unseen wonders of our planet. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#adventure",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The World's Most Stunning Hidden Treasures",
+    "segments": [
+      {
+        "text": "A mesmerizing lake that reflects the colors of the sky.",
+        "keywords": "reflective lake"
+      },
+      {
+        "text": "And the journey has just begun.",
+        "keywords": "colorful sky reflection"
+      },
+      {
+        "text": "An enchanted forest filled with ancient trees.",
+        "keywords": "enchanted forest"
+      },
+      {
+        "text": "A unique island of pink-hued rocks awaits.",
+        "keywords": "pink rocks island"
+      },
+      {
+        "text": "A vibrant festival lights up a serene village.",
+        "keywords": "festival village"
+      },
+      {
+        "text": "A mesmerizing lake that reflects the colors of the sky.",
+        "keywords": "reflective lake"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Explore the world's most stunning hidden treasures. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#exploration",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Awe-Inspiring Locations That Will Captivate You",
+    "segments": [
+      {
+        "text": "A mystical cave with bright, shimmering crystals.",
+        "keywords": "crystal cave"
+      },
+      {
+        "text": "And there's so much more enchanting beauty.",
+        "keywords": "mystical cave"
+      },
+      {
+        "text": "A hidden waterfall cascades into a serene pond.",
+        "keywords": "hidden waterfall"
+      },
+      {
+        "text": "A valley surrounded by colorful wildflowers.",
+        "keywords": "colored wildflowers valley"
+      },
+      {
+        "text": "A dramatic cliffside overlooks the vast ocean.",
+        "keywords": "cliff ocean view"
+      },
+      {
+        "text": "A mystical cave with bright, shimmering crystals.",
+        "keywords": "crystal cave"
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "keywords": "drone landscape sunset"
+      }
+    ],
+    "description": "Uncover awe-inspiring locations that will captivate you. Follow for daily hidden places!",
+    "hashtags": [
+      "#travel",
+      "#hiddengems",
+      "#nature",
+      "#landscape",
+      "#exploration",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
