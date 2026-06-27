@@ -62,6 +62,8 @@ def build_prompt(n, existing_titles):
         "- the SECOND-TO-LAST segment should loop back to the opening hook so a rewatch feels seamless.\n"
         "- the LAST segment text MUST be exactly: 'Follow for places that don't feel real.'\n"
         "- description: one dreamy sentence ending with 'Follow for daily hidden places!'.\n"
+        "- About half the time, add ONE fitting emoji at the very END of the description (e.g. 🌍, 🏔️, 🌊, ✨). "
+        "Emoji ONLY in the description text, NEVER inside any segment 'text' (spoken captions).\n"
         "- hashtags: 6-8 tags including #travel #hiddengems #shorts #fyp.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "Return ONLY the JSON array."
