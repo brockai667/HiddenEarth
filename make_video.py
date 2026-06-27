@@ -212,9 +212,10 @@ def build_ass(all_words, cfg, path):
         outline_col = f"&H00{box_hex}"                    # farba boxu (Style: bez koncoveho &)
         back_col = "&HA0000000"                           # tmavy tien pod textom
     else:
-        border_style, outline, shadow = 1, 7, 3
-        outline_col = "&H00000000"
-        back_col = "&H00000000"
+        # CISTY color-styl (bez boxu): tenky tmavy obrys + jemny tien -> citatelne a moderne
+        border_style, outline, shadow = 1, 5, 2
+        outline_col = "&H00202020"
+        back_col = "&H80000000"
 
     header = (
         "[Script Info]\n"
