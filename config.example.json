@@ -27,6 +27,12 @@
   "caption_fontsize": 80,
   "caption_margin_v": 880,
   "caption_margin_h": 185,
+  "caption_style": "box",
+  "caption_box_hex": "FF901E",
+  "caption_text_hex": "FFFFFF",
+  "caption_pop_scale": 112,
+  "brand_primary": "0x0b1d3a",
+  "brand_accent": "0x1e90ff",
   "ffmpeg": "ffmpeg",
   "ffprobe": "ffprobe"
 }

@@ -23,13 +23,13 @@ SYSTEM = ("You are a viral short-form scriptwriter for a travel & hidden-places 
 EXAMPLE = {
     "title": "3 Places That Don't Look Real",
     "segments": [
-        {"text": "This lake is bright pink, and it's completely real.", "keywords": "pink lake aerial"},
-        {"text": "And it's only the beginning.", "keywords": "aerial turquoise coast"},
-        {"text": "A desert of golden dunes spills straight into the sea.", "keywords": "desert meets ocean"},
-        {"text": "A whole forest of stone rises from the ground.", "keywords": "stone forest rocks"},
-        {"text": "And a waterfall seems to pour into the clouds.", "keywords": "waterfall clouds mountain"},
-        {"text": "Earth looks photoshopped, but every bit is real.", "keywords": "aerial mountains drone"},
-        {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset"},
+        {"text": "This lake is bright pink, and it's completely real.", "keywords": "pink lake aerial", "highlight": "PINK LAKE"},
+        {"text": "And it's only the beginning.", "keywords": "aerial turquoise coast", "highlight": "JUST THE START"},
+        {"text": "A desert of golden dunes spills straight into the sea.", "keywords": "desert meets ocean", "highlight": "DESERT MEETS SEA"},
+        {"text": "A whole forest of stone rises from the ground.", "keywords": "stone forest rocks", "highlight": "STONE FOREST"},
+        {"text": "And a waterfall seems to pour into the clouds.", "keywords": "waterfall clouds mountain", "highlight": "INTO THE CLOUDS"},
+        {"text": "Earth looks photoshopped, but every bit is real.", "keywords": "aerial mountains drone", "highlight": "ALL REAL"},
+        {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset", "highlight": "FOLLOW"},
     ],
     "description": "Earth looks photoshopped — but it's all real. Follow for daily hidden places!",
     "hashtags": ["#travel", "#hiddengems", "#wanderlust", "#places", "#earth", "#shorts", "#fyp", "#beautifuldestinations"],
@@ -44,9 +44,14 @@ def build_prompt(n, existing_titles):
         "Return ONLY a JSON array (no markdown). Each item EXACTLY this schema:\n"
         f"{json.dumps(EXAMPLE, ensure_ascii=False, indent=2)}\n\n"
         "Rules (make it feel PRO and VIRAL):\n"
-        "- title: dreamy, like '3 Places That Don't Look Real' or 'Hidden Wonders Most People Never See'.\n"
-        "- 6 to 9 segments. Segment 1 is THE HOOK: one jaw-dropping real place under 12 words. "
-        "Never start with 'Did you know'.\n"
+        "- title: dreamy/curiosity, like '3 Places That Don't Look Real', 'A City With No Cars', "
+        "or 'The Lake That Shouldn't Exist'.\n"
+        "- 6 to 9 segments. Segment 1 is THE HOOK: a scroll-stopping curiosity line under 12 words. "
+        "Use one of these proven hook shapes: a 'What if...' question, a bold claim, a surprising number, "
+        "or naming an unbelievable real place. Never start with 'Did you know'. The hook should make the "
+        "viewer NEED to know where it is.\n"
+        "- include a 'highlight' field per segment: the 1-3 word KEY phrase from that segment's text to "
+        "emphasize on screen (the place name or the striking word), e.g. 'AVORIAZ', 'PINK LAKE', 'NO CARS'.\n"
         "- segment 2 keeps them watching (e.g. 'And it's only the beginning.').\n"
         "- feature ONLY REAL places (you can describe the type without naming the country if unsure). "
         "NO invented places, NO fake statistics. Pure awe and wonder.\n"
