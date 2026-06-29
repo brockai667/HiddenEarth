@@ -2,9 +2,21 @@
   "pexels_api_key": "",
   "buffer_token": "",
   "buffer_channels": [
-    { "id": "6a3e978a5ab6d2f106758209", "service": "instagram", "name": "hiddenearth667" },
-    { "id": "6a3e97f65ab6d2f10675848a", "service": "youtube", "name": "HiddenEarth667" },
-    { "id": "6a3e97e15ab6d2f1067583fe", "service": "tiktok", "name": "hiddenearth667" }
+    {
+      "id": "6a3e978a5ab6d2f106758209",
+      "service": "instagram",
+      "name": "hiddenearth667"
+    },
+    {
+      "id": "6a3e97f65ab6d2f10675848a",
+      "service": "youtube",
+      "name": "HiddenEarth667"
+    },
+    {
+      "id": "6a3e97e15ab6d2f1067583fe",
+      "service": "tiktok",
+      "name": "hiddenearth667"
+    }
   ],
   "cloudinary_cloud_name": "",
   "cloudinary_api_key": "",
@@ -21,7 +33,16 @@
   "brand_name": "HiddenEarth",
   "brand_handle": "",
   "brand_cta": "Follow for places that don't feel real 🌍",
-  "brand_hashtags": ["#travel", "#hiddengems", "#wanderlust", "#places", "#earth", "#shorts", "#fyp", "#beautifuldestinations"],
+  "brand_hashtags": [
+    "#travel",
+    "#hiddengems",
+    "#wanderlust",
+    "#places",
+    "#earth",
+    "#shorts",
+    "#fyp",
+    "#beautifuldestinations"
+  ],
   "color_grade": "eq=contrast=1.08:saturation=1.2:gamma=0.98,vignette=angle=PI/6",
   "caption_words_per_line": 3,
   "caption_fontsize": 80,
@@ -35,5 +56,7 @@
   "brand_primary": "0x0b1d3a",
   "brand_accent": "0x1e90ff",
   "ffmpeg": "ffmpeg",
-  "ffprobe": "ffprobe"
+  "ffprobe": "ffprobe",
+  "tts_engine": "kokoro",
+  "kokoro_voice": "af_sarah"
 }
