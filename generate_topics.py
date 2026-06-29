@@ -16,55 +16,59 @@ MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
 BASE = os.environ.get("MODELS_BASE_URL", "https://models.github.ai/inference")
 TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
-SYSTEM = ("You are a viral short-form scriptwriter for a travel & hidden-places brand. You only feature "
-          "REAL places on Earth, described with awe. No invented places, no fake statistics. "
-          "You output strict JSON, nothing else. THE HOOK (the very first line / segment 1) is the single most important thing in the whole video: it MUST stop the scroll within 2 seconds. Make it concrete and specific (a number, a name, a vivid image, or a sharp contradiction) and open a curiosity gap that can ONLY be closed by watching to the end. Lead with the most shocking part FIRST, never a slow setup. Forbidden hook openers: 'Did you know', 'Have you ever', 'Imagine', 'Here are', 'In this video', 'Let me tell you'.")
+SYSTEM = ("You are a viral short-form scriptwriter for a travel brand that profiles ONE specific, real, "
+          "stunning place on Earth per video — a tiny travel mini-doc. You ALWAYS name the place and say "
+          "WHERE it is (region + country), accurately. Only REAL places, REAL locations, REAL facts — "
+          "never invent a place, a location, or a statistic. If unsure of any detail, leave it out or pick "
+          "a place you are sure about. You output strict JSON, nothing else.")
 
 EXAMPLE = {
-    "title": "3 Places That Don't Look Real",
+    "title": "The Lake That's Naturally Bright Pink",
     "segments": [
-        {"text": "This lake is bright pink, and it's completely real.", "keywords": "pink lake aerial", "highlight": "PINK LAKE"},
-        {"text": "And it's only the beginning.", "keywords": "aerial turquoise coast", "highlight": "JUST THE START"},
-        {"text": "A desert of golden dunes spills straight into the sea.", "keywords": "desert meets ocean", "highlight": "DESERT MEETS SEA"},
-        {"text": "A whole forest of stone rises from the ground.", "keywords": "stone forest rocks", "highlight": "STONE FOREST"},
-        {"text": "And a waterfall seems to pour into the clouds.", "keywords": "waterfall clouds mountain", "highlight": "INTO THE CLOUDS"},
-        {"text": "Earth looks photoshopped, but every bit is real.", "keywords": "aerial mountains drone", "highlight": "ALL REAL"},
+        {"text": "This lake is bubblegum pink, and it's completely real.", "keywords": "pink lake aerial", "highlight": "BUBBLEGUM PINK"},
+        {"text": "It's called Lake Hillier.", "keywords": "pink lake shore aerial", "highlight": "LAKE HILLIER"},
+        {"text": "You'll find it on Middle Island, off Western Australia.", "keywords": "australia island coast aerial", "highlight": "WESTERN AUSTRALIA"},
+        {"text": "Its pink comes from salt-loving algae and bacteria.", "keywords": "pink salt lake water", "highlight": "PINK ALGAE"},
+        {"text": "And it stays pink even in a glass of its water.", "keywords": "pink water close up", "highlight": "STILL PINK"},
+        {"text": "A pink lake hiding at the edge of the world.", "keywords": "pink lake drone aerial", "highlight": "LAKE HILLIER"},
         {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset", "highlight": "FOLLOW"},
     ],
-    "description": "Earth looks photoshopped — but it's all real. Follow for daily hidden places!",
-    "hashtags": ["#travel", "#hiddengems", "#wanderlust", "#places", "#earth", "#shorts", "#fyp", "#beautifuldestinations"],
+    "description": "📍 Lake Hillier, Middle Island — Western Australia. A naturally bubblegum-pink lake. Follow for daily hidden places! 🌍",
+    "hashtags": ["#travel", "#lakehillier", "#australia", "#hiddengems", "#places", "#earth", "#shorts", "#fyp"],
 }
 
 
 def build_prompt(n, existing_titles):
     return (
-        f"Generate {n} NEW faceless short-form video topics for a TRAVEL & HIDDEN-PLACES brand "
-        "(TikTok / Reels / YouTube Shorts).\n"
-        "Niche: real but surreal/hidden places on Earth — strange landscapes, hidden gems, places that look fake.\n"
+        f"Generate {n} NEW faceless short-form video topics for a TRAVEL brand that profiles ONE specific, "
+        "real, jaw-dropping place on Earth per video (TikTok / Reels / YouTube Shorts).\n"
+        "Each video is a tiny mesmerizing MICRO-DOC of ONE real place: show how unreal it looks, say WHAT it "
+        "is, WHERE it is (region + country), and ONE fascinating TRUE fact about it.\n"
         "Return ONLY a JSON array (no markdown). Each item EXACTLY this schema:\n"
         f"{json.dumps(EXAMPLE, ensure_ascii=False, indent=2)}\n\n"
         "Rules (make it feel PRO and VIRAL):\n"
-        "- title: dreamy/curiosity, like '3 Places That Don't Look Real', 'A City With No Cars', "
-        "or 'The Lake That Shouldn't Exist'.\n"
-        "- 6 to 9 segments. Segment 1 is THE HOOK: a scroll-stopping curiosity line under 12 words. "
-        "Use one of these proven hook shapes: a 'What if...' question, a bold claim, a surprising number, "
-        "or naming an unbelievable real place. Never start with 'Did you know'. The hook should make the "
-        "viewer NEED to know where it is.\n"
-        "- include a 'highlight' field per segment: the 1-3 word KEY phrase from that segment's text to "
-        "emphasize on screen (the place name or the striking word), e.g. 'AVORIAZ', 'PINK LAKE', 'NO CARS'.\n"
-        "- segment 2 keeps them watching (e.g. 'And it's only the beginning.').\n"
-        "- feature ONLY REAL places (you can describe the type without naming the country if unsure). "
-        "NO invented places, NO fake statistics. Pure awe and wonder.\n"
+        "- Pick a SPECIFIC, REAL, visually unreal place — e.g. Lake Hillier, Zhangye Danxia rainbow mountains, "
+        "Pamukkale, Salar de Uyuni, Socotra, Lencois Maranhenses, Cano Cristales, Fly Geyser, Vaadhoo glowing "
+        "beach, Antelope Canyon. REAL name + REAL location only. Each video = ONE place.\n"
+        "- title: a curiosity hook about THAT place, e.g. 'The Lake That's Naturally Bright Pink' or "
+        "'China's Rainbow Mountains Look Painted'. Never start with 'Did you know'.\n"
+        "- 6 to 8 segments forming a mini-doc: (1) HOOK = the most unreal thing about it, scroll-stopping, "
+        "under 12 words; (2) NAME the place; (3) WHERE it is — region + country (REQUIRED and accurate); "
+        "(4) ONE fascinating TRUE fact (why it looks like that); optionally (5) one more wow detail; "
+        "then loop back to the place name; the LAST segment text MUST be exactly "
+        "'Follow for places that don't feel real.'\n"
+        "- include a 'highlight' field per segment: the 1-3 word KEY phrase to emphasize on screen — the PLACE "
+        "NAME, the COUNTRY, or the striking word, e.g. 'LAKE HILLIER', 'CHINA', 'PINK ALGAE'.\n"
+        "- 'keywords': 2-4 ENGLISH words describing how the place LOOKS so it matches real Pexels footage "
+        "(e.g. 'pink lake aerial', 'rainbow mountains china', 'white travertine terraces', 'salt flat "
+        "reflection', 'slot canyon light'). Describe the VISUAL, not just the proper name alone.\n"
+        "- ACCURACY IS CRITICAL: the place, its location, and the fact must be REAL and correct. No invented "
+        "places, no fake numbers. If unsure, choose a place you are certain about.\n"
         "- write for a calm, awe-filled SPOKEN voiceover: short, vivid, simple sentences.\n"
-        "- each segment 'keywords': 1-3 ENGLISH words for real Pexels footage that VISUALLY MATCHES the place "
-        "described (e.g. 'pink lake aerial', 'desert meets ocean', 'waterfall clouds mountain', "
-        "'drone landscape sunset'). Beautiful and concrete, never abstract.\n"
-        "- the SECOND-TO-LAST segment should loop back to the opening hook so a rewatch feels seamless.\n"
-        "- the LAST segment text MUST be exactly: 'Follow for places that don't feel real.'\n"
-        "- description: one dreamy sentence ending with 'Follow for daily hidden places!'.\n"
-        "- About half the time, add ONE fitting emoji at the very END of the description (e.g. 🌍, 🏔️, 🌊, ✨). "
-        "Emoji ONLY in the description text, NEVER inside any segment 'text' (spoken captions).\n"
-        "- hashtags: 6-8 tags including #travel #hiddengems #shorts #fyp.\n"
+        "- description: MUST begin with a location pin in this format: '\U0001F4CD <Place>, <Region> — <Country>.' "
+        "then one intriguing sentence, then 'Follow for daily hidden places!' (optionally ONE emoji at the very end). "
+        "Emoji/pin ONLY in the description, NEVER inside any segment 'text'.\n"
+        "- hashtags: 6-8 tags including #travel #hiddengems #shorts #fyp, plus 1-2 specific to the place or country.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "Return ONLY the JSON array."
     )
