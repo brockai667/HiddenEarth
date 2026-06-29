@@ -2,7 +2,7 @@ name: TravelFactory Daily
 
 on:
   schedule:
-    - cron: "15 1 * * *"   # 01:15 UTC (~03:15 Bratislava) - skoro rano, hotove davno pred publik. slotom
+    - cron: "15 20 * * *"   # 01:15 UTC (~03:15 Bratislava) - skoro rano, hotove davno pred publik. slotom
   workflow_dispatch: {}    # umoznuje rucne spustenie z GitHub UI
 
 permissions:
