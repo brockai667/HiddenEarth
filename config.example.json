@@ -65,5 +65,6 @@
   "caption_fade_ms": 120,
   "caption_lead": 0.12,
   "caption_font": "Poppins",
-  "kokoro_speed": 0.92
+  "kokoro_speed": 0.92,
+  "tiktok_per_run": 1
 }
