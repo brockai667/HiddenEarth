@@ -16,6 +16,7 @@ Pouzitie:
 import datetime
 import json
 import os
+import random
 import sys
 import time
 
@@ -42,6 +43,7 @@ def next_slots(n):
         for h in SLOT_HOURS:
             t = (now + datetime.timedelta(days=day)).replace(hour=h, minute=0, second=0, microsecond=0)
             if t > now:
+                t += datetime.timedelta(minutes=random.randint(2, 27), seconds=random.randint(0, 59))
                 out.append(t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"))
                 if len(out) >= n:
                     break
@@ -216,7 +218,9 @@ def main():
             print(f"  (dry-run) {v} -> chyba: {', '.join(pend)}")
         return
 
-    slots = next_slots(len(todo))  # 08:00/15:00/20:00 Bratislava - i-te video -> i-ty slot
+    slots = next_slots(len(todo))  # casy publikovania (s jitterom) - i-te video -> i-ty slot
+    tiktok_per_run = int(cfg.get("tiktok_per_run", 10**9))  # limit TikTok postov/beh (warm-up novych uctov); default bez limitu
+    tiktok_done = 0
     for i, vid in enumerate(todo):
         due = slots[i]
         done = set(pushed.get(vid, []))
@@ -232,11 +236,20 @@ def main():
         url = upload_cloudinary(cfg, mp4)
         for c in pending:
             svc = c["service"].lower()
+            if svc == "tiktok" and tiktok_done >= tiktok_per_run:
+                # warm-up: novy TikTok ucet nezahlcuj (3x/den cez API = spam signal). Oznac vybavene, nepostuj.
+                done.add(svc)
+                pushed[vid] = sorted(done)
+                save_pushed(pushed)
+                print(f"  [tiktok] preskocene (limit {tiktok_per_run}/beh - zahrievanie uctu)")
+                continue
             t = yt_title if svc == "youtube" else title
             # volitelna kriz. reklama na dokumenty (len fabriky co maju promo_* v configu)
             promo = cfg.get("promo_yt", "") if svc == "youtube" else cfg.get("promo_social", "")
             ok, msg = create_post(token, svc, c["id"], body + promo, url, t, due)
             if ok:
+                if svc == "tiktok":
+                    tiktok_done += 1
                 done.add(svc)
                 pushed[vid] = sorted(done)
                 save_pushed(pushed)
