@@ -66,5 +66,8 @@
   "caption_lead": 0.12,
   "caption_font": "Poppins",
   "kokoro_speed": 0.92,
-  "tiktok_per_run": 1
+  "tiktok_per_run": 1,
+  "caption_renderer": "pop",
+  "caption_pop_fontsize": 116,
+  "caption_pop_margin_v": 560
 }
