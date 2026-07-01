@@ -70,6 +70,8 @@ def build_prompt(n, existing_titles):
         "Emoji/pin ONLY in the description, NEVER inside any segment 'text'.\n"
         "- hashtags: 6-8 tags including #travel #hiddengems #shorts #fyp, plus 1-2 specific to the place or country.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
+        "- Do NOT repeat the same SUBJECT, fact or concept as any existing title above, even reworded, "
+        "renumbered or from a different angle. Every topic must be a genuinely DIFFERENT idea.\n"
         "Return ONLY the JSON array."
     )
 
@@ -111,6 +113,31 @@ def valid(t):
     return True
 
 
+_STOP = {"why", "your", "the", "is", "a", "of", "you", "that", "are", "and", "to", "in",
+         "on", "how", "this", "for", "with", "it", "its", "can", "cant", "not", "be", "do",
+         "than", "them", "their", "own", "what", "when", "was", "were", "has", "have", "from",
+         "more", "most", "just", "every", "an", "as", "or", "but", "so", "hidden", "secret",
+         "surprising", "truth", "facts", "fact", "these", "there", "they"}
+
+
+def _sig(title):
+    return set(w for w in re.findall(r"[a-z]+", str(title).lower()) if len(w) > 2 and w not in _STOP)
+
+
+def _too_similar(sig, existing_sigs):
+    if not sig:
+        return False
+    for es in existing_sigs:
+        if not es:
+            continue
+        inter = len(sig & es)
+        if inter >= 3:
+            return True
+        if inter >= 2 and inter / (len(sig | es) or 1) >= 0.5:
+            return True
+    return False
+
+
 def main():
     if not TOKEN:
         print("CHYBA: chyba MODELS_TOKEN/GITHUB_TOKEN"); sys.exit(1)
@@ -124,10 +151,14 @@ def main():
     print(f"Generujem ~{need} novych tem cez {MODEL}...")
     items = extract_json(call_model(build_prompt(need + 3, sorted(titles))))
     added = 0
+    existing_sigs = [_sig(x) for x in titles]
     for t in items:
         if not valid(t) or t["title"] in titles:
             continue
-        bank.append(t); titles.add(t["title"]); added += 1
+        _s = _sig(t["title"])
+        if _too_similar(_s, existing_sigs):   # ta ista TEMA (iny nazov) -> preskoc (ziadne opakovanie)
+            print("  preskocene (podobna tema):", t["title"]); continue
+        bank.append(t); titles.add(t["title"]); existing_sigs.append(_s); added += 1
     json.dump(bank, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"Pridanych {added} tem. Banka ma {len(bank)} tem.")
 
