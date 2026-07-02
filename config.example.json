@@ -73,6 +73,6 @@
   "broll_fallback_query": "nature landscape aerial",
   "pixabay_api_key": "",
   "visual_engine": "motion",
-  "motion_bg": "gradient",
+  "motion_bg": "auto",
   "motion_style": "breathtaking landscape photograph, golden hour light, epic scale, single clear subject, no text, no watermark"
 }
