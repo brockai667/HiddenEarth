@@ -1844,5 +1844,279 @@
       "#fyp",
       "#gansu"
     ]
+  },
+  {
+    "title": "The World's Most Colorful Canyon",
+    "segments": [
+      {
+        "text": "This canyon looks like a painter's palette.",
+        "keywords": "colorful canyon aerial",
+        "highlight": "COLORFUL PALETTE",
+        "visual": {
+          "type": "hook",
+          "prompt": "aerial view of a vibrant canyon"
+        }
+      },
+      {
+        "text": "It's called Zhangye Danxia.",
+        "keywords": "zhangye danxia landscape",
+        "highlight": "ZHANGYE DANXIA",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "close-up of Zhangye Danxia rock formations"
+        }
+      },
+      {
+        "text": "You'll find it in Gansu — China.",
+        "keywords": "gansu china aerial",
+        "highlight": "GANSU, CHINA",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "map highlighting Gansu province, China"
+        }
+      },
+      {
+        "text": "Its colors come from red sandstone and mineral deposits.",
+        "keywords": "rock layers colors close up",
+        "highlight": "MINERAL DEPOSITS",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "detailed view of colored sandstone layers"
+        }
+      },
+      {
+        "text": "This formation took millions of years to create.",
+        "keywords": "beautiful landscape formation",
+        "highlight": "MILLIONS OF YEARS",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "close-up of various layers of rocks"
+            },
+            {
+              "name": "B",
+              "prompt": "panorama of the entire canyon"
+            },
+            {
+              "name": "C",
+              "prompt": "hiker silhouette against the canyon"
+            }
+          ]
+        }
+      },
+      {
+        "text": "A feast for the eyes awaits in the middle of the desert.",
+        "keywords": "vibrant colors desert landscape",
+        "highlight": "DESERT FEAST",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "expansive view of multicolored canyon against desert"
+        }
+      },
+      {
+        "text": "Follow for daily wonders of our world.",
+        "keywords": "dramatic landscape call to action",
+        "highlight": "FOLLOW",
+        "visual": {
+          "type": "cta",
+          "prompt": "iconic view of Zhangye Danxia"
+        }
+      }
+    ],
+    "description": "📍 Zhangye Danxia, Gansu — China. This canyon looks like a painter's palette. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#zhangyedanxia",
+      "#china",
+      "#hiddengems",
+      "#places",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Colorful River of Five Colors",
+    "segments": [
+      {
+        "text": "This river looks like a painter's canvas.",
+        "keywords": "colorful river aerial",
+        "highlight": "PAINTER'S CANVAS",
+        "visual": {
+          "type": "hook",
+          "prompt": "aerial view of Cano Cristales river"
+        }
+      },
+      {
+        "text": "It's called Cano Cristales.",
+        "keywords": "cano cristales river",
+        "highlight": "CANO CRISTALES",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "detailed view of Cano Cristales colors"
+        }
+      },
+      {
+        "text": "You'll find it in Meta — Colombia.",
+        "keywords": "meta colombia map",
+        "highlight": "META, COLOMBIA",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "map showing Meta province in Colombia"
+        }
+      },
+      {
+        "text": "The vibrant colors arise from aquatic plants.",
+        "keywords": "aquatic plants colors close up",
+        "highlight": "AQUATIC PLANTS",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "close-up of colorful plants in water"
+        }
+      },
+      {
+        "text": "Its beauty peaks during the rainy season.",
+        "keywords": "rainy season river colors",
+        "highlight": "RAINY SEASON",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "river view during rainy season"
+        }
+      },
+      {
+        "text": "A hidden treasure tucked away in the jungle.",
+        "keywords": "jungle river view",
+        "highlight": "HIDDEN TREASURE",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "panoramic view of river"
+            },
+            {
+              "name": "B",
+              "prompt": "people kayaking"
+            },
+            {
+              "name": "C",
+              "prompt": "colorful reflections in water"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Follow for daily wonders of our world.",
+        "keywords": "vibrant river call to action",
+        "highlight": "FOLLOW",
+        "visual": {
+          "type": "cta",
+          "prompt": "iconic view of Cano Cristales"
+        }
+      }
+    ],
+    "description": "📍 Cano Cristales, Meta — Colombia. This river looks like a painter's canvas. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#canocristales",
+      "#colombia",
+      "#hiddengems",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Island with Dragon Blood Trees",
+    "segments": [
+      {
+        "text": "These trees ooze red sap that looks like blood.",
+        "keywords": "dragon blood trees",
+        "highlight": "DRAGON BLOOD TREES",
+        "visual": {
+          "type": "hook",
+          "prompt": "image of dragon blood trees"
+        }
+      },
+      {
+        "text": "It's called Socotra Island.",
+        "keywords": "socotra island aerial",
+        "highlight": "SOCOTRA ISLAND",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "aerial view of Socotra landscape"
+        }
+      },
+      {
+        "text": "You'll find it in Aden — Yemen.",
+        "keywords": "aden yemen map",
+        "highlight": "ADEN, YEMEN",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "map pinpointing Aden, Yemen"
+        }
+      },
+      {
+        "text": "The sap has medicinal properties and is used in perfumes.",
+        "keywords": "dragon blood sap close up",
+        "highlight": "MEDICINAL PROPERTIES",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "close-up of red dragon blood sap"
+        }
+      },
+      {
+        "text": "Home to many unique species found nowhere else.",
+        "keywords": "unique species socotra",
+        "highlight": "UNIQUE SPECIES",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "images of unique flora and fauna of Socotra"
+        }
+      },
+      {
+        "text": "A wonderland of biodiversity and oddities.",
+        "keywords": "biodiversity island view",
+        "highlight": "BIODIVERSITY WONDERLAND",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "dragon blood trees silhouette"
+            },
+            {
+              "name": "B",
+              "prompt": "panoramic view of the island"
+            },
+            {
+              "name": "C",
+              "prompt": "unique plants in habitat"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Follow to see the world's hidden places.",
+        "keywords": "exotic island call to action",
+        "highlight": "FOLLOW",
+        "visual": {
+          "type": "cta",
+          "prompt": "iconic view of Socotra Island"
+        }
+      }
+    ],
+    "description": "📍 Socotra Island, Aden — Yemen. These trees ooze red sap that looks like blood. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#socotra",
+      "#yemen",
+      "#hiddengems",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
