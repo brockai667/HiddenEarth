@@ -294,10 +294,11 @@ def get_image(query, img_dir):
                     continue
                 info = ii[0]
                 cand = info.get("thumburl") or info.get("url") or ""
-                # len skutocne FOTKY: jpg/png, ziadne ikony/mapy/loga/vlajky (velkost overime po stiahnuti)
+                # len skutocne FOTKY/SKENY: jpg/png, ziadne ikony/loga/vlajky
+                # (mapy a rytiny NECHAVAME - pre historiu miest su ziadane archivne vizualy)
                 if not cand.lower().split("?")[0].endswith((".jpg", ".jpeg", ".png")):
                     continue
-                if any(bad in title for bad in ("icon", "logo", "map", "flag", "diagram", "seal", "coat of arms")):
+                if any(bad in title for bad in ("icon", "logo", "flag", "seal", "coat of arms")):
                     continue
                 url = cand; break
             if not url:

@@ -67,11 +67,13 @@ def chapter_prompt(place, title, chapter, idx, total, prev_tail):
         "'keywords' = 1-3 ENGLISH words for concrete cinematic STOCK footage matching the line "
         "(e.g. 'aerial jungle temple','desert canyon sunrise','ancient stone carving','misty mountain ruins',"
         "'old parchment map','archaeologist excavation'). Cinematic and concrete.\n"
-        "Add 'image' to 2-3 segments here where a REAL archival image almost certainly exists on "
-        "Wikimedia Commons - for famous places Commons is rich: old maps, 19th-century engravings, "
-        "early excavation photographs, artifacts, aerial photos (e.g. 'Pompeii 1900 photograph', "
-        "'Angkor Wat old map', 'Machu Picchu 1912 expedition'). Use a precise Commons search term; "
-        "if unsure it exists, omit 'image'.\n"
+        "ARCHIVAL IMAGES ARE THE SOUL OF THIS CHANNEL: you MUST add 'image' to AT LEAST 4 of the "
+        "segments in this chapter. For famous places Wikimedia Commons is guaranteed to have: old maps, "
+        "antique engravings, 19th-century photographs, excavation photos, frescoes, artifacts, aerial "
+        "photographs, historical paintings. Use precise Commons search terms tied to what the line says "
+        "(e.g. 'Pompeii old map', 'Pompeii engraving', 'Pompeii excavation photograph', 'Pompeii fresco', "
+        "'Vesuvius eruption painting', 'Angkor Wat 19th century photograph'). Vary the type across the "
+        "chapter (map / engraving / photo / artifact / painting).\n"
         "Return ONLY JSON: {\"segments\": [ {\"text\": \"...\", \"keywords\": \"...\", \"image\": \"OPTIONAL\"} ] }."
     )
 
@@ -85,8 +87,9 @@ def continue_prompt(title, segs, n):
         "rediscovery, the excavations, what the place tells us today, and its legacy). "
         "Do NOT repeat anything already said. Do NOT include any closing or subscribe line.\n"
         "Same rules: each segment = one or two short calm documentary sentences; 'keywords' = 1-3 ENGLISH "
-        "words for concrete cinematic stock footage; optional 'image' = a precise Wikimedia Commons search "
-        "term ONLY if a real archival image almost certainly exists. ACCURACY IS SACRED, only real history.\n"
+        "words for concrete cinematic stock footage; add 'image' (a precise Wikimedia Commons search term - "
+        "old map / engraving / archival photo / artifact / painting) to AT LEAST a third of the new "
+        "segments. ACCURACY IS SACRED, only real history.\n"
         "Return ONLY a JSON object: {\"segments\": [ {\"text\": \"...\", \"keywords\": \"...\"} ] }."
     )
 
@@ -210,6 +213,30 @@ def refill_bank(min_unused=4, target=8):
     return bank
 
 
+def ensure_images(segs, place):
+    """POISTKA: archivne obrazky su dusa kanala - ak ich model dal malo, dopln vlastne
+    Wikimedia vyrazy tak, aby mal obrazok aspon kazdy ~4. segment. Vyrazy sa tocia cez
+    rozne typy archivov (mapa/rytina/foto/artefakt/malba); ak sa na Commons nenajdu,
+    make_longform.py automaticky spadne na stock b-roll, takze horsie to byt nemoze."""
+    short = re.split(r"[,(]", str(place))[0].strip() or str(place).strip()
+    kinds = ["old map", "antique map", "engraving", "19th century photograph",
+             "ruins photograph", "excavation photograph", "archaeological site",
+             "artifact", "fresco", "painting", "aerial photograph", "historical photograph"]
+    target = max(8, len(segs) // 4)
+    have = sum(1 for s in segs if s.get("image"))
+    if have >= target:
+        return 0
+    ki, added = 0, 0
+    idxs = [i for i in range(1, len(segs) - 1) if not segs[i].get("image")]
+    gap = max(1, len(idxs) // max(1, target - have))
+    for i in idxs[::gap]:
+        if have + added >= target or ki >= len(kinds):
+            break
+        segs[i]["image"] = f"{short} {kinds[ki]}"
+        ki += 1; added += 1
+    return added
+
+
 def pick_place():
     bank = refill_bank()
     used = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else []
@@ -287,6 +314,9 @@ def main():
 
     if len(clean) < 40:
         print(f"CHYBA: po vsetkych pokusoch len {len(clean)} segmentov."); sys.exit(1)
+    extra = ensure_images(clean, place)
+    if extra:
+        print(f"[poistka] doplnenych {extra} archivnych obrazkov (Wikimedia)")
     spec["segments"] = clean
     spec.setdefault("title", place)
     spec.setdefault("hashtags", ["#history", "#documentary", "#lostcity", "#archaeology", "#hiddenearth"])
