@@ -1,0 +1,76 @@
+name: HiddenEarth Documentary
+
+on:
+  schedule:
+    - cron: "30 2 * * 2,5"   # utorok + piatok 02:30 UTC (~04:30 Bratislava)
+  workflow_dispatch: {}      # manualne spustenie z GitHub UI
+
+permissions:
+  contents: write            # commit stavu (longform_used.json, scripts_longform/)
+  models: read               # GitHub Models (generovanie scenara zadarmo)
+
+concurrency:
+  group: longform
+  cancel-in-progress: false
+
+jobs:
+  make-and-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install FFmpeg + fonts
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Install Python deps
+        run: pip install edge-tts requests pillow kokoro-onnx soundfile faster-whisper
+
+      - name: Prepare config (long-form)
+        run: cp config_longform.example.json config.json
+
+      - name: Generate 8-10 min documentary script (GitHub Models, free)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_longform.py
+
+      - name: Render video + upload to YouTube
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          SCRIPT=$(ls -t scripts_longform/*.json | head -1)
+          echo "Scenar: $SCRIPT"
+          python make_longform.py "$SCRIPT"
+          VIDEO=$(ls -t output/*.mp4 | head -1)
+          echo "Video: $VIDEO"
+          if [ -n "$YOUTUBE_REFRESH_TOKEN" ]; then
+            python youtube_upload.py "$VIDEO" "$SCRIPT"
+          else
+            echo "::warning::YOUTUBE_* secrets chybaju - video sa NEnahralo, je ulozene ako artifact."
+          fi
+
+      - name: Save video as artifact (kontrola / zaloha)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hiddenearth-longform
+          path: output/*.mp4
+          retention-days: 3
+          if-no-files-found: ignore
+
+      - name: Persist state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          rm -f config.json
+          git add longform_used.json longform_topics.json scripts_longform/ 2>/dev/null || true
+          git commit -m "long-form run $(date -u +%F)" || echo "no changes"
+          git pull --rebase --autostash origin ${{ github.ref_name }} || true
+          git push || echo "nothing to push"
