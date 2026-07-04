@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Doplni banku tem cez GitHub Models (zadarmo). Nika: CESTOVANIE / skryte a surrealne miesta."""
+"""Doplni banku tem cez GitHub Models (zadarmo). Nika: CESTOVANIE / skryte a surrealne miesta.
+NOVY FORMAT (PRO engine, schvaleny 2026-07-04): tema = place + country + 5-6 scen
+(hook/map/fact/callout/cta) s presnymi stock queries, sync chipmi a popisom s pinom.
+Stare temy bez 'scenes' sa pri generovani z banky vyradia (nepouzite), publikovane ostavaju."""
 import json
 import os
 import re
@@ -24,25 +27,32 @@ TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 TREND_SUBREDDITS = ['travel', 'geography', 'MostBeautiful', 'EarthPorn', 'AbandonedPorn']
 TREND_YT_QUERIES = ['hidden places on earth', 'most beautiful places', 'abandoned places']
 
-SYSTEM = ("You are a viral short-form scriptwriter for a travel brand that profiles ONE specific, real, "
-          "stunning place on Earth per video — a tiny travel mini-doc. You ALWAYS name the place and say "
-          "WHERE it is (region + country), accurately. Only REAL places, REAL locations, REAL facts — "
-          "never invent a place, a location, or a statistic. If unsure of any detail, leave it out or pick "
-          "a place you are sure about. You output strict JSON, nothing else.")
+SYSTEM = ("You are a scriptwriter for a premium travel brand that profiles ONE specific, real, "
+          "stunning place on Earth per video - a tiny cinematic mini-doc. You ALWAYS name the place "
+          "and say WHERE it is (region + country), accurately. Only REAL places, REAL locations, REAL "
+          "facts - never invent a place, a location, or a statistic. If unsure of any detail, leave it "
+          "out or pick a place you are sure about. You output strict JSON, nothing else.")
 
 EXAMPLE = {
     "title": "The Lake That's Naturally Bright Pink",
-    "segments": [
-        {"text": "This lake is bubblegum pink, and it's completely real.", "keywords": "pink lake aerial", "highlight": "BUBBLEGUM PINK"},
-        {"text": "It's called Lake Hillier.", "keywords": "pink lake shore aerial", "highlight": "LAKE HILLIER"},
-        {"text": "You'll find it on Middle Island, off Western Australia.", "keywords": "australia island coast aerial", "highlight": "WESTERN AUSTRALIA"},
-        {"text": "Its pink comes from salt-loving algae and bacteria.", "keywords": "pink salt lake water", "highlight": "PINK ALGAE"},
-        {"text": "And it stays pink even in a glass of its water.", "keywords": "pink water close up", "highlight": "STILL PINK"},
-        {"text": "A pink lake hiding at the edge of the world.", "keywords": "pink lake drone aerial", "highlight": "LAKE HILLIER"},
-        {"text": "Follow for places that don't feel real.", "keywords": "drone landscape sunset", "highlight": "FOLLOW"},
+    "place": "Lake Hillier",
+    "country": "Australia",
+    "scenes": [
+        {"role": "hook", "text": "This lake is bubblegum pink, and it is completely real.",
+         "hook_top": "A LAKE THAT IS PINK", "query": "lake hillier pink lake aerial",
+         "query2": "pink lake aerial"},
+        {"role": "map", "text": "This is Lake Hillier, on Middle Island off Western Australia."},
+        {"role": "fact", "text": "The pink comes from salt-loving algae that thrive in water ten times saltier than the ocean.",
+         "query": "lake hillier pink water", "query2": "pink salt lake water", "photo_hint": "aerial",
+         "chips": [{"t": "10x SALTIER THAN SEA", "on": "saltier", "style": "orange"}], "punch": "algae"},
+        {"role": "callout", "text": "And even in a glass, the water stays pink.",
+         "query": "pink water close up", "query2": "pink lake shore",
+         "label": "STAYS PINK", "sub": "even in a glass", "label_on": "glass", "punch": "pink"},
+        {"role": "cta", "text": "Follow for places that don't feel real.",
+         "query": "lake hillier aerial sunset", "query2": "drone island coast sunset"}
     ],
-    "description": "📍 Lake Hillier, Middle Island — Western Australia. A naturally bubblegum-pink lake. Follow for daily hidden places! 🌍",
-    "hashtags": ["#travel", "#lakehillier", "#australia", "#hiddengems", "#places", "#earth", "#shorts", "#fyp"],
+    "description": "\U0001F4CD Lake Hillier, Middle Island - Western Australia. A naturally bubblegum-pink lake that keeps its color even in a glass. Follow for daily hidden places! \U0001F30D",
+    "hashtags": ["#travel", "#lakehillier", "#australia", "#hiddengems", "#pinklake", "#earth", "#shorts", "#fyp"],
 }
 
 
@@ -53,11 +63,11 @@ CTAS = [
     "Follow for a new corner of Earth every day.",
     "Follow if you love to travel from your screen.",
     "Follow for the planet's best-kept secrets.",
-    "Follow for daily wonders of our world.",
+    "Follow for places that don't feel real.",
 ]
 
 
-def build_prompt(n, existing_titles, trending=None):
+def build_prompt(n, existing_titles, existing_places, trending=None):
     trend_block = ""
     if trending:
         joined = chr(10).join("- " + t for t in trending)
@@ -69,43 +79,44 @@ def build_prompt(n, existing_titles, trending=None):
             "headline word-for-word, and NEVER mention Reddit or YouTube. "
         )
     return (
-        f"Generate {n} NEW faceless short-form video topics for a TRAVEL brand that profiles ONE specific, "
-        "real, jaw-dropping place on Earth per video (TikTok / Reels / YouTube Shorts).\n"
-        "Each video is a tiny mesmerizing MICRO-DOC of ONE real place: show how unreal it looks, say WHAT it "
-        "is, WHERE it is (region + country), and ONE fascinating TRUE fact about it.\n"
+        f"Generate {n} NEW faceless short-form video topics for a premium TRAVEL brand. Each video is a "
+        "cinematic MICRO-DOC of ONE specific, real, jaw-dropping place on Earth (TikTok / Reels / Shorts).\n"
         "Return ONLY a JSON array (no markdown). Each item EXACTLY this schema:\n"
         f"{json.dumps(EXAMPLE, ensure_ascii=False, indent=2)}\n\n"
-        "Rules (make it feel PRO and VIRAL):\n"
-        "- Pick a SPECIFIC, REAL, visually unreal place — e.g. Lake Hillier, Zhangye Danxia rainbow mountains, "
-        "Pamukkale, Salar de Uyuni, Socotra, Lencois Maranhenses, Cano Cristales, Fly Geyser, Vaadhoo glowing "
-        "beach, Antelope Canyon. REAL name + REAL location only. Each video = ONE place.\n"
-        "- title: a curiosity hook about THAT place, e.g. 'The Lake That's Naturally Bright Pink' or "
-        "'China's Rainbow Mountains Look Painted'. Never start with 'Did you know'.\n"
-        "- 6 to 8 segments forming a mini-doc: (1) HOOK = the most unreal thing about it, scroll-stopping, "
-        "under 12 words; (2) NAME the place; (3) WHERE it is — region + country (REQUIRED and accurate); "
-        "(4) ONE fascinating TRUE fact (why it looks like that); optionally (5) one more wow detail; "
-        "then loop back to the place name; the LAST segment text MUST be exactly "
-        "'Follow for places that don't feel real.'\n"
-        "- include a 'highlight' field per segment: the 1-3 word KEY phrase to emphasize on screen — the PLACE "
-        "NAME, the COUNTRY, or the striking word, e.g. 'LAKE HILLIER', 'CHINA', 'PINK ALGAE'.\n"
-        "- 'keywords': 2-4 ENGLISH words describing how the place LOOKS so it matches real Pexels footage "
-        "(e.g. 'pink lake aerial', 'rainbow mountains china', 'white travertine terraces', 'salt flat "
-        "reflection', 'slot canyon light'). Describe the VISUAL, not just the proper name alone.\n"
-        "- ACCURACY IS CRITICAL: the place, its location, and the fact must be REAL and correct. No invented "
-        "places, no fake numbers. If unsure, choose a place you are certain about.\n"
-        "- write for a calm, awe-filled SPOKEN voiceover: short, vivid, simple sentences.\n"
-        "- description: MUST begin with a location pin in this format: '\U0001F4CD <Place>, <Region> — <Country>.' "
-        "then one intriguing sentence, then 'Follow for daily hidden places!' (optionally ONE emoji at the very end). "
-        "Emoji/pin ONLY in the description, NEVER inside any segment 'text'.\n"
-        "- hashtags: 6-8 tags including #travel #hiddengems #shorts #fyp, plus 1-2 specific to the place or country.\n"
-        "- VARY THE TITLE FORMAT: do NOT start more than one in five titles with a number "
-        "(avoid the repetitive 'N things' pattern). Mix a bold claim, a question, a "
-        "'why/how' angle and a curiosity gap so titles never look the same.\n"
+        "Rules (PRO editing pipeline depends on these):\n"
+        "- Pick a SPECIFIC, REAL, visually unreal place (e.g. Zhangye Danxia, Pamukkale, Socotra, "
+        "Lencois Maranhenses, Cano Cristales, Fly Geyser, Antelope Canyon, Spotted Lake, Deadvlei, "
+        "Giant's Causeway). REAL name + REAL location only. ONE place per video.\n"
+        "- 'place' = official short name, 'country' = country (both REQUIRED, used for the map pin and "
+        "geocoding - must be findable on OpenStreetMap).\n"
+        "- EXACTLY 5 or 6 scenes in this order: hook, map, fact, (optional second fact or callout), "
+        "callout, cta. Each scene 'text' = 1-2 short spoken sentences (calm, awe-filled voiceover).\n"
+        "- hook: the most unreal TRUE thing about the place, under 14 words. 'hook_top' = the same idea "
+        "compressed to MAX 6 punchy words (big kinetic text on screen). Never start with 'Did you know'.\n"
+        "- map scene 'text' MUST say where it is: region + country, accurately.\n"
+        "- fact scenes: ONE fascinating TRUE fact each (why it looks like that / how it formed). "
+        "'chips' = 1-2 short TRUE fact-chips shown on screen: {'t': 'MAX 22 CHARS TEXT', 'on': 'the spoken "
+        "word that triggers it', 'style': 'white'|'orange'}. NEVER invent numbers for chips - only widely "
+        "documented ones; if no reliable number exists, use a word chip (e.g. 'STILL GROWING').\n"
+        "- callout scene: 'label' = 2-4 word on-screen label of WHAT we point at (e.g. 'THE MIRROR EFFECT'), "
+        "'sub' = short sub-line (max 34 chars), 'label_on' = spoken word that triggers it.\n"
+        "- 'punch' (optional, fact/callout scenes): ONE spoken word where the shot subtly zooms.\n"
+        "- EVERY scene except map needs 'query' = Pexels search that STARTS with the place's proper name "
+        "(e.g. 'salar de uyuni reflection') and 'query2' = visual fallback WITHOUT the name describing how "
+        "it LOOKS (e.g. 'salt flat mirror reflection'). Optional 'photo_hint' for archival photo fallback.\n"
+        "- the LAST scene text MUST be exactly: 'Follow for places that don't feel real.'\n"
+        "- ACCURACY IS CRITICAL: the place, its location, and every fact must be REAL and correct. "
+        "No invented places, no fake numbers. If unsure, choose a place you are certain about.\n"
+        "- description: MUST begin with a location pin: '\U0001F4CD <Place>, <Region> - <Country>.' then 1-2 "
+        "intriguing sentences about what makes it unreal, then 'Follow for daily hidden places!' "
+        "(optionally ONE emoji at the very end). Emoji/pin ONLY in the description, never in scene texts.\n"
+        "- hashtags: 6-9 tags: #travel #hiddengems #shorts #fyp + 2-3 specific to the place/country.\n"
+        "- VARY THE TITLE FORMAT: mix a bold claim, a question, a 'why/how' angle and a curiosity gap; "
+        "do NOT start more than one in five titles with a number.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
-        "- Do NOT repeat the same SUBJECT, fact or concept as any existing title above, even reworded, "
-        "renumbered or from a different angle. Every topic must be a genuinely DIFFERENT idea.\n"
+        f"- Do NOT use any of these already-covered places (no repeats, not even from a new angle): {existing_places}\n"
         + trend_block +
-        "STORYBOARD (visual directing, IMPORTANT): to EVERY segment ADD a field 'visual' = an object choosing HOW to visualize exactly what that line SAYS (never generic): {\"type\":\"kenburns\",\"prompt\":\"LITERAL ENGLISH image prompt naming ONE concrete, instantly recognizable subject/scene that depicts exactly what the line says (a real thing a camera could photograph; NEVER abstract, NEVER metaphors)\"} for normal lines; {\"type\":\"counter\",\"target\":1000,\"suffix\":\"x\",\"label\":\"3-4 WORD CAPTION\"} when the line contains a big number; {\"type\":\"compare\",\"small_prompt\":\"...\",\"big_prompt\":\"...\",\"small_label\":\"X\",\"big_label\":\"Y\",\"stat\":\"300x\"} for size/amount comparisons; {\"type\":\"callouts\",\"prompt\":\"subject image\",\"labels\":[\"SHORT LABEL\"]} to point at parts of a subject; {\"type\":\"lineup\",\"items\":[{\"name\":\"A\",\"prompt\":\"...\"}]} for listing 3-5 things; {\"type\":\"arrow\",\"from_prompt\":\"...\",\"to_prompt\":\"...\",\"label\":\"WHAT MOVES\"} for movement/flow. First segment gets {\"type\":\"hook\",\"prompt\":\"dramatic scene image\",\"big\":\"SHORT PUNCHY QUESTION OR CLAIM (max 5 words)\"}; last segment {\"type\":\"cta\",\"prompt\":\"iconic subject of the video\"}. Labels MUST describe what the narration says at that moment - never invent unrelated text. Image prompts must describe 3D RENDERED CGI assets in a modern 3D-explainer style - NEVER photographs, NEVER photorealistic people; if a person is needed, describe an elegant dark silhouette with dramatic rim light, or the relevant anatomy/object instead - NEVER cartoon characters, NEVER toys; prefer objects, anatomy, environments, close-up details; the subject must FILL the frame and be well lit. Return ONLY the JSON array."
+        "Return ONLY the JSON array."
     )
 
 
@@ -133,15 +144,47 @@ def extract_json(s):
     return json.loads(s)
 
 
+def _place_first_query(q, place):
+    """Zaisti, ze query zacina menom miesta (presny stock je zaklad pristupu)."""
+    q = str(q or "").strip()
+    pl = str(place or "").strip()
+    if not pl:
+        return q
+    if pl.lower() not in q.lower():
+        return (pl + " " + q).strip()
+    return q
+
+
 def valid(t):
-    if not isinstance(t, dict) or "title" not in t or "segments" not in t:
+    """Overi + doopravi NOVY format temy (scenes). Stare/nevalidne temy odmietne."""
+    if not isinstance(t, dict) or not t.get("title") or not t.get("place") or not t.get("country"):
         return False
-    if not isinstance(t["segments"], list) or len(t["segments"]) < 4:
+    scenes = t.get("scenes")
+    if not isinstance(scenes, list) or not (4 <= len(scenes) <= 7):
         return False
-    for seg in t["segments"]:
-        if "text" not in seg or "keywords" not in seg:
+    for sc in scenes:
+        if not isinstance(sc, dict) or not sc.get("text"):
             return False
-    t.setdefault("description", t["title"] + " Follow for daily hidden places!")
+        sc.setdefault("role", "fact")
+    roles = [sc["role"] for sc in scenes]
+    scenes[0]["role"] = "hook"
+    scenes[-1]["role"] = "cta"
+    if "map" not in roles:
+        return False
+    for sc in scenes:
+        if sc["role"] == "hook":
+            top = re.sub(r"[^A-Za-z0-9' ]", "", str(sc.get("hook_top") or sc["text"]))
+            sc["hook_top"] = " ".join(top.split()[:6]).upper()
+        if sc["role"] != "map":
+            sc["query"] = _place_first_query(sc.get("query"), t["place"])
+            if not sc.get("query2"):
+                sc["query2"] = str(sc.get("query", "")).replace(str(t["place"]), "").strip() or "aerial landscape"
+        if sc["role"] == "fact":
+            chips = [c for c in (sc.get("chips") or []) if isinstance(c, dict) and c.get("t")]
+            for c in chips:
+                c["t"] = str(c["t"])[:24]
+            sc["chips"] = chips[:2]
+    t.setdefault("description", f"\U0001F4CD {t['place']} - {t['country']}. " + t["title"] + " Follow for daily hidden places!")
     t.setdefault("hashtags", ["#travel", "#hiddengems", "#shorts", "#fyp"])
     return True
 
@@ -171,6 +214,11 @@ def _too_similar(sig, existing_sigs):
     return False
 
 
+def _place_key(t):
+    """Normalizovany kluc miesta - rovnake miesto sa NIKDY neopakuje."""
+    return re.sub(r"[^a-z0-9]+", "", str(t.get("place", "") if isinstance(t, dict) else t).lower())
+
+
 
 # --- ANTI-OPAKOVANIE (dedup): po behu odstrani z banky NEPOUZITE temy, ktore su subjektom
 # prilis podobne inej teme. Signatura = title+description+hook + cisla/roky; caste niche-slova
@@ -185,8 +233,13 @@ revealed discover""".split())
 
 
 def _dd_sig(t):
-    txt = (str(t.get("title", "")) + " " + str(t.get("description", "")) + " "
-           + (t.get("segments", [{}])[0].get("text", "") if t.get("segments") else ""))
+    first = ""
+    if t.get("scenes"):
+        first = t["scenes"][0].get("text", "")
+    elif t.get("segments"):
+        first = t["segments"][0].get("text", "")
+    txt = (str(t.get("title", "")) + " " + str(t.get("place", "")) + " "
+           + str(t.get("description", "")) + " " + str(first))
     low = txt.lower()
     toks = set(w for w in re.findall(r"[a-z]+", low) if len(w) > 2 and w not in _DD_STOP)
     toks |= set("#" + n for n in re.findall(r"\d{2,}", low))
@@ -214,7 +267,7 @@ def _dd_dup(si, sj):
 
 
 def _clean_bank():
-    """Odstrani NEPOUZITE temy prilis podobne inej teme (ziadne opakovanie videi).
+    """Odstrani NEPOUZITE temy prilis podobne inej teme + duplicitne MIESTA (ziadne opakovanie).
     Publikovane (used_topics) sa nikdy nemazu. Best-effort, nikdy nezhodi denny beh."""
     from collections import Counter
     bank = json.load(open(BANK, encoding="utf-8"))
@@ -227,19 +280,23 @@ def _clean_bank():
     cutoff = max(2, int(len(bank) * 0.25))             # slovo vo >25% tem = niche-filler -> ignoruj
     sigs = [set(w for w in s if df[w] <= cutoff) for s in raws]
     ks = [s for t, s in zip(bank, sigs) if t.get("title") in used]   # seed: vsetky publikovane
+    places = {_place_key(t) for t in bank if t.get("title") in used and t.get("place")}
     kept, removed = [], 0
     for t, s in zip(bank, sigs):
         if t.get("title") in used:
             kept.append(t)
             continue
-        if s and any(_dd_dup(s, k) for k in ks):
+        pk = _place_key(t)
+        if (s and any(_dd_dup(s, k) for k in ks)) or (pk and pk in places):
             removed += 1
             continue
         kept.append(t)
         ks.append(s)
+        if pk:
+            places.add(pk)
     if removed:
         json.dump(kept, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-        print("Dedup: odstranenych %d podobnych nepouzitych tem (ziadne opakovanie)." % removed)
+        print("Dedup: odstranenych %d podobnych/duplicitnych nepouzitych tem." % removed)
     else:
         print("Dedup: ziadne podobne nepouzite temy.")
 
@@ -250,10 +307,17 @@ def main():
         print("CHYBA: chyba MODELS_TOKEN/GITHUB_TOKEN"); sys.exit(1)
     bank = json.load(open(BANK, encoding="utf-8"))
     used = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else []
+    # MIGRACIA na PRO format: nepouzite temy STAREHO formatu (bez 'scenes') vyrad -
+    # odteraz sa vyraba len novym enginom; publikovane ostavaju kvoli dedup historii
+    old = [t for t in bank if not t.get("scenes") and t["title"] not in used]
+    if old:
+        bank = [t for t in bank if t.get("scenes") or t["title"] in used]
+        print(f"Migracia: vyradenych {len(old)} nepouzitych tem stareho formatu.")
     titles = {t["title"] for t in bank}
     unused = [t for t in bank if t["title"] not in used]
     need = TARGET - len(unused)
     if need <= 0:
+        json.dump(bank, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
         print(f"Banka OK: {len(unused)} nepouzitych tem."); return
     print(f"Generujem ~{need} novych tem cez {MODEL}...")
     trending = []
@@ -264,18 +328,26 @@ def main():
                 print(f"Trendy: {len(trending)} titulkov (Reddit={meta['reddit']}, YouTube={meta['youtube']}) -> temy z realneho dopytu.")
         except Exception as e:
             print("Trendy preskocene:", str(e)[:120])
-    items = extract_json(call_model(build_prompt(need + 3, sorted(titles), trending)))
+    places = sorted({_place_key(t) for t in bank if t.get("place")} |
+                    {_place_key(u) for u in used})
+    items = extract_json(call_model(build_prompt(need + 3, sorted(titles), places, trending)))
     added = 0
     existing_sigs = [_sig(x) for x in titles]
+    existing_places = {_place_key(t) for t in bank if t.get("place")}
     for t in items:
         if not valid(t) or t["title"] in titles:
             continue
         _s = _sig(t["title"])
         if _too_similar(_s, existing_sigs):   # ta ista TEMA (iny nazov) -> preskoc (ziadne opakovanie)
             print("  preskocene (podobna tema):", t["title"]); continue
-        if t.get("segments"):
-            t["segments"][-1]["text"] = random.choice(CTAS)  # CTAS_ROTATE: nie vzdy rovnaka veta
+        pk = _place_key(t)
+        if pk and pk in existing_places:      # rovnake MIESTO -> preskoc (nikdy 2x to iste miesto)
+            print("  preskocene (miesto uz bolo):", t["place"]); continue
+        if t.get("scenes"):
+            t["scenes"][-1]["text"] = random.choice(CTAS)  # CTAS_ROTATE: nie vzdy rovnaka veta
         bank.append(t); titles.add(t["title"]); existing_sigs.append(_s); added += 1
+        if pk:
+            existing_places.add(pk)
     json.dump(bank, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"Pridanych {added} tem. Banka ma {len(bank)} tem.")
 

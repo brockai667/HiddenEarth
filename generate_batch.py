@@ -46,7 +46,9 @@ def main():
         with open(path, "w", encoding="utf-8") as f:
             json.dump(spec, f, ensure_ascii=False, indent=2)
         print(f"\n===== [{i}/{len(batch)}] {title} =====")
-        r = subprocess.run([sys.executable, os.path.join(ROOT, "make_video.py"), path])
+        # NOVY format (scenes + place) -> PRO engine; stary format -> povodny renderer
+        renderer = "pro_engine.py" if spec.get("scenes") else "make_video.py"
+        r = subprocess.run([sys.executable, os.path.join(ROOT, renderer), path])
         if r.returncode == 0:
             made.append(title)
             used.append(title)
