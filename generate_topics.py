@@ -308,9 +308,11 @@ def main():
     bank = json.load(open(BANK, encoding="utf-8"))
     used = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else []
     # MIGRACIA na PRO format: nepouzite temy STAREHO formatu (bez 'scenes') vyrad -
-    # odteraz sa vyraba len novym enginom; publikovane ostavaju kvoli dedup historii
+    # ale LEN ak uz mame aspon 3 nove PRO temy (poistka: den nikdy neostane bez videi,
+    # keby LLM generovanie zlyhalo)
     old = [t for t in bank if not t.get("scenes") and t["title"] not in used]
-    if old:
+    new_unused = [t for t in bank if t.get("scenes") and t["title"] not in used]
+    if old and len(new_unused) >= 3:
         bank = [t for t in bank if t.get("scenes") or t["title"] in used]
         print(f"Migracia: vyradenych {len(old)} nepouzitych tem stareho formatu.")
     titles = {t["title"] for t in bank}
