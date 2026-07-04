@@ -31,6 +31,8 @@ def main():
     used = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else []
 
     remaining = [t for t in bank if t["title"] not in used]
+    # preferuj temy NOVEHO (PRO) formatu - stare su len zaloha kym sa banka nemigruje
+    remaining.sort(key=lambda t: 0 if t.get("scenes") else 1)
     if not remaining:
         print("Vsetky temy z banky su uz pouzite. Pridaj nove do topics_bank.json.")
         return
