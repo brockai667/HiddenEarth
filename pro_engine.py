@@ -686,6 +686,8 @@ def render_scene(sc, spec, idx, work):
             cwd=work)
         return
     kind, path = get_scene_visual(sc, spec, work, idx)
+    if kind == "video":
+        path = seamless_base(path, dur, idx, work)   # kratky klip -> ping-pong (ziadne sekanie)
     odir = render_overlay_seq(sc, idx, work)
     punch = ""
     if sc.get("punch"):
