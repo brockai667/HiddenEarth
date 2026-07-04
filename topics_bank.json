@@ -2118,5 +2118,359 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Enchanting Blue Caves by the Sea",
+    "place": "Blue Caves",
+    "country": "Greece",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These caves glow with an ethereal blue light.",
+        "hook_top": "MAGICAL BLUE GLOW",
+        "query": "blue caves zakynthos",
+        "query2": "glowing sea caves"
+      },
+      {
+        "role": "map",
+        "text": "This is the Blue Caves, located on Zakynthos Island, Greece."
+      },
+      {
+        "role": "fact",
+        "text": "The blue color results from sunlight reflecting off the white cave walls.",
+        "query": "blue caves reflection",
+        "query2": "cave water reflection",
+        "chips": [
+          {
+            "t": "NATURAL LIGHT SHOW",
+            "on": "blue color",
+            "style": "white"
+          }
+        ],
+        "punch": "light"
+      },
+      {
+        "role": "callout",
+        "text": "Visitors can swim inside these luminous waters.",
+        "query": "blue caves swimming",
+        "query2": "people swimming caves",
+        "label": "SWIM IN GLORY",
+        "sub": "experience the magic",
+        "label_on": "swim",
+        "punch": "experience"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "blue caves aerial view",
+        "query2": "aerial sea caves"
+      }
+    ],
+    "description": "📍 Blue Caves, Zakynthos Island - Greece. These stunning caves radiate a magical blue light, drawing visitors to their glowing waters. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#bluecaves",
+      "#greece",
+      "#hiddengems",
+      "#seacaves",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Hidden Gem of Slovenia's Lakes",
+    "place": "Lake Bled",
+    "country": "Slovenia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This fairytale lake features a tiny island with a church!",
+        "hook_top": "FAIRYTALE LAKE ISLAND",
+        "query": "lake bled island",
+        "query2": "slovenia lake island"
+      },
+      {
+        "role": "map",
+        "text": "This is Lake Bled, located in the Julian Alps of Slovenia."
+      },
+      {
+        "role": "fact",
+        "text": "The island holds the Assumption of Mary Church, dating back to 994 AD.",
+        "query": "lake bled island church",
+        "query2": "church on lake",
+        "chips": [
+          {
+            "t": "HISTORIC LANDMARK",
+            "on": "Assumption of Mary",
+            "style": "orange"
+          }
+        ],
+        "punch": "church"
+      },
+      {
+        "role": "callout",
+        "text": "You can ring the church bell for good luck!",
+        "query": "lake bled bell",
+        "query2": "church bell close up",
+        "label": "RING FOR LUCK",
+        "sub": "a local tradition",
+        "label_on": "bell",
+        "punch": "luck"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "lake bled drone view",
+        "query2": "aerial lake bled"
+      }
+    ],
+    "description": "📍 Lake Bled, Julian Alps - Slovenia. A picturesque lake home to a charming island with an ancient church. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#lakebled",
+      "#slovenia",
+      "#hiddengems",
+      "#fairytalelake",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Dazzling Sand Dunes That Sing",
+    "place": "Dunas de Maspalomas",
+    "country": "Spain",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These dunes hum with the wind – a natural phenomenon!",
+        "hook_top": "SINGING SAND DUNES",
+        "query": "Dunas de Maspalomas maspalomas dunes sound",
+        "query2": "singing sand dunes"
+      },
+      {
+        "role": "map",
+        "text": "These are the Dunas de Maspalomas, located on Gran Canaria, Spain."
+      },
+      {
+        "role": "fact",
+        "text": "The dunes can reach heights of up to 10 meters and shift with the wind.",
+        "query": "Dunas de Maspalomas maspalomas dunes height",
+        "query2": "sand dune wind shift",
+        "chips": [
+          {
+            "t": "UP TO 10 METERS",
+            "on": "height",
+            "style": "white"
+          }
+        ],
+        "punch": "shift"
+      },
+      {
+        "role": "callout",
+        "text": "Listen closely as the sands 'sing' when disturbed.",
+        "query": "Dunas de Maspalomas maspalomas dunes sound",
+        "query2": "dunes wind sound",
+        "label": "THE SAND'S SONG",
+        "sub": "a unique experience",
+        "label_on": "sing",
+        "punch": "sound"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Dunas de Maspalomas maspalomas dunes sunset",
+        "query2": "dunes at sunset"
+      }
+    ],
+    "description": "📍 Dunas de Maspalomas, Gran Canaria - Spain. Stunning dunes that create a mesmerizing sound when the wind blows. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#maspalomas",
+      "#spain",
+      "#hiddengems",
+      "#sanddunes",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Stunning Gardens of Mexico's Waterfalls",
+    "place": "Hierve el Agua",
+    "country": "Mexico",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These waterfalls look frozen in time, cascading from cliffs!",
+        "hook_top": "FROZEN WATERFALLS",
+        "query": "hierve el agua",
+        "query2": "frozen waterfall"
+      },
+      {
+        "role": "map",
+        "text": "This is Hierve el Agua, located in Oaxaca, Mexico."
+      },
+      {
+        "role": "fact",
+        "text": "The rock formations are created by mineral-rich spring water flowing from the cliffs.",
+        "query": "hierve el agua minerals",
+        "query2": "mineral springs rocks",
+        "chips": [
+          {
+            "t": "MINERAL-RICH SPRINGS",
+            "on": "spring water",
+            "style": "orange"
+          }
+        ],
+        "punch": "water"
+      },
+      {
+        "role": "callout",
+        "text": "You can see beautiful pools at the top of the cliffs!",
+        "query": "hierve el agua pools",
+        "query2": "water pools cliff edge",
+        "label": "BREATHTAKING POOLS",
+        "sub": "at the cliff's height",
+        "label_on": "pools",
+        "punch": "view"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "hierve el agua aerial",
+        "query2": "aerial cliffs waterfalls"
+      }
+    ],
+    "description": "📍 Hierve el Agua, Oaxaca - Mexico. A striking site where mineral springs create the illusion of frozen waterfalls. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#hierveelagua",
+      "#mexico",
+      "#hiddengems",
+      "#waterfalls",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Mysterious Lake That Changes Color",
+    "place": "Lake Batur",
+    "country": "Indonesia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This lake can shift from deep blue to emerald green!",
+        "hook_top": "COLORCHANGING LAKE",
+        "query": "lake batur colors",
+        "query2": "color changing lake"
+      },
+      {
+        "role": "map",
+        "text": "This is Lake Batur, located in Bali, Indonesia."
+      },
+      {
+        "role": "fact",
+        "text": "The color changes due to volcanic activity and algae growth.",
+        "query": "lake batur volcanic activity",
+        "query2": "batur lake algae",
+        "chips": [
+          {
+            "t": "VOLCANIC INFLUENCE",
+            "on": "volcanic",
+            "style": "white"
+          }
+        ],
+        "punch": "activity"
+      },
+      {
+        "role": "callout",
+        "text": "Surrounded by stunning mountains and lush greenery.",
+        "query": "lake batur mountains",
+        "query2": "lake batur landscape",
+        "label": "SCENIC SURROUNDINGS",
+        "sub": "a paradise on earth",
+        "label_on": "surrounded",
+        "punch": "paradise"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "lake batur sunrise",
+        "query2": "sunrise over batur"
+      }
+    ],
+    "description": "📍 Lake Batur, Bali - Indonesia. A picturesque lake with mesmerizing colors that shift with volcanic activity. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#lakebatur",
+      "#indonesia",
+      "#hiddengems",
+      "#colorchanginglake",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Surreal Colors of the Painted Hills",
+    "place": "Painted Hills",
+    "country": "United States",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These hills look like a painter's palette, full of color!",
+        "hook_top": "PAINTER'S PALETTE LANDSCAPE",
+        "query": "painted hills oregon",
+        "query2": "colorful hills"
+      },
+      {
+        "role": "map",
+        "text": "This is the Painted Hills, located in Oregon, United States."
+      },
+      {
+        "role": "fact",
+        "text": "The colors are caused by different layers of volcanic ash and clay.",
+        "query": "painted hills colors",
+        "query2": "layers of volcanic ash",
+        "chips": [
+          {
+            "t": "VOLCANIC ORIGINS",
+            "on": "different layers",
+            "style": "orange"
+          }
+        ],
+        "punch": "colors"
+      },
+      {
+        "role": "callout",
+        "text": "Best viewed during sunset when the colors intensify.",
+        "query": "painted hills sunset",
+        "query2": "sunset over colorful hills",
+        "label": "SUNSET SPLENDOR",
+        "sub": "colors come alive",
+        "label_on": "sunset",
+        "punch": "intensify"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "painted hills aerial",
+        "query2": "aerial painted hills"
+      }
+    ],
+    "description": "📍 Painted Hills, Oregon - United States. A vibrant landscape painted by nature, showcasing mesmerizing colors. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#paintedhills",
+      "#oregon",
+      "#hiddengems",
+      "#colorfullandscape",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

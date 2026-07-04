@@ -1,0 +1,59 @@
+{
+  "title": "The Dazzling Sand Dunes That Sing",
+  "place": "Dunas de Maspalomas",
+  "country": "Spain",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These dunes hum with the wind – a natural phenomenon!",
+      "hook_top": "SINGING SAND DUNES",
+      "query": "Dunas de Maspalomas maspalomas dunes sound",
+      "query2": "singing sand dunes"
+    },
+    {
+      "role": "map",
+      "text": "These are the Dunas de Maspalomas, located on Gran Canaria, Spain."
+    },
+    {
+      "role": "fact",
+      "text": "The dunes can reach heights of up to 10 meters and shift with the wind.",
+      "query": "Dunas de Maspalomas maspalomas dunes height",
+      "query2": "sand dune wind shift",
+      "chips": [
+        {
+          "t": "UP TO 10 METERS",
+          "on": "height",
+          "style": "white"
+        }
+      ],
+      "punch": "shift"
+    },
+    {
+      "role": "callout",
+      "text": "Listen closely as the sands 'sing' when disturbed.",
+      "query": "Dunas de Maspalomas maspalomas dunes sound",
+      "query2": "dunes wind sound",
+      "label": "THE SAND'S SONG",
+      "sub": "a unique experience",
+      "label_on": "sing",
+      "punch": "sound"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Dunas de Maspalomas maspalomas dunes sunset",
+      "query2": "dunes at sunset"
+    }
+  ],
+  "description": "📍 Dunas de Maspalomas, Gran Canaria - Spain. Stunning dunes that create a mesmerizing sound when the wind blows. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#maspalomas",
+    "#spain",
+    "#hiddengems",
+    "#sanddunes",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

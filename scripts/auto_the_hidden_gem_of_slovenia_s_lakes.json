@@ -1,0 +1,59 @@
+{
+  "title": "The Hidden Gem of Slovenia's Lakes",
+  "place": "Lake Bled",
+  "country": "Slovenia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This fairytale lake features a tiny island with a church!",
+      "hook_top": "FAIRYTALE LAKE ISLAND",
+      "query": "lake bled island",
+      "query2": "slovenia lake island"
+    },
+    {
+      "role": "map",
+      "text": "This is Lake Bled, located in the Julian Alps of Slovenia."
+    },
+    {
+      "role": "fact",
+      "text": "The island holds the Assumption of Mary Church, dating back to 994 AD.",
+      "query": "lake bled island church",
+      "query2": "church on lake",
+      "chips": [
+        {
+          "t": "HISTORIC LANDMARK",
+          "on": "Assumption of Mary",
+          "style": "orange"
+        }
+      ],
+      "punch": "church"
+    },
+    {
+      "role": "callout",
+      "text": "You can ring the church bell for good luck!",
+      "query": "lake bled bell",
+      "query2": "church bell close up",
+      "label": "RING FOR LUCK",
+      "sub": "a local tradition",
+      "label_on": "bell",
+      "punch": "luck"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "lake bled drone view",
+      "query2": "aerial lake bled"
+    }
+  ],
+  "description": "📍 Lake Bled, Julian Alps - Slovenia. A picturesque lake home to a charming island with an ancient church. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#lakebled",
+    "#slovenia",
+    "#hiddengems",
+    "#fairytalelake",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
