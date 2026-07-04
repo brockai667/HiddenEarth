@@ -153,7 +153,7 @@ def _place_tokens(spec):
     return {t for t in toks if len(t) > 3 and t not in {"lake", "lakes", "national", "park", "island", "city", "the"}}
 
 
-def pexels_find(query, place_toks):
+def pexels_find(query, place_toks, min_dur=0.0):
     """Najde portrait video; preferuje vysledky, ktorych slug obsahuje token miesta."""
     try:
         r = requests.get("https://api.pexels.com/videos/search",
@@ -163,6 +163,9 @@ def pexels_find(query, place_toks):
     except Exception:
         return None, False
     vids = r.get("videos", [])
+    if min_dur:
+        long_enough = [v for v in vids if v.get("duration", 0) >= min_dur + 0.5]
+        vids = long_enough + [v for v in vids if v not in long_enough]   # dlhsie klipy prve
     exact = [v for v in vids if place_toks & set(re.findall(r"[a-z]+", (v.get("url") or "").lower()))]
     pick_from = exact or vids
     for v in pick_from:
@@ -211,7 +214,7 @@ def get_scene_visual(sc, spec, work, idx):
     for q in [sc.get("query"), sc.get("query2")]:
         if not q:
             continue
-        url, exact = pexels_find(q, toks)
+        url, exact = pexels_find(q, toks, sc.get("dur", 0))
         if url and exact:
             p = os.path.join(work, f"stock_{idx}.mp4")
             open(p, "wb").write(requests.get(url, timeout=180).content)
@@ -222,12 +225,36 @@ def get_scene_visual(sc, spec, work, idx):
     for q in [sc.get("query"), sc.get("query2"), spec.get("place")]:
         if not q:
             continue
-        url, _ = pexels_find(q, set())
+        url, _ = pexels_find(q, set(), sc.get("dur", 0))
         if url:
             p = os.path.join(work, f"stock_{idx}.mp4")
             open(p, "wb").write(requests.get(url, timeout=180).content)
             return "video", p
     raise RuntimeError(f"scena {idx}: ziadny vizual pre '{sc.get('query')}'")
+
+
+def clip_duration(path, cwd):
+    """Dlzka klipu bez ffprobe: parsuje 'Duration: HH:MM:SS.xx' z ffmpeg -i stderr."""
+    import subprocess as _sp, re as _re
+    r = _sp.run([FF, "-i", os.path.basename(path)], cwd=cwd, capture_output=True, text=True)
+    m = _re.search(r"Duration:\s*(\d+):(\d+):(\d+\.?\d*)", (r.stderr or ""))
+    if not m:
+        return 0.0
+    return int(m.group(1)) * 3600 + int(m.group(2)) * 60 + float(m.group(3))
+
+
+def seamless_base(path, need_dur, idx, work):
+    """Ak je klip kratsi nez scena, sprav ping-pong (tam-spat) verziu = bezsvikovy loop
+    (ziadne sekave skoky na svu loopu). Vrati cestu k pouzitelnemu zdroju."""
+    d = clip_duration(path, work)
+    if d <= 0.1 or d >= need_dur + 0.25:
+        return path
+    pp = os.path.join(work, f"pp_{idx}.mp4")
+    run([FF, "-y", "-i", os.path.basename(path), "-filter_complex",
+         "[0:v]split[a][b];[b]reverse[r];[a][r]concat=n=2:v=1[v]",
+         "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+         "-pix_fmt", "yuv420p", os.path.basename(pp)], cwd=work)
+    return pp
 
 
 # ---------------------------------------------------------------- geokod (ziadne vymyslene suradnice)
@@ -637,8 +664,9 @@ def build_ass(work):
 GRADE = "eq=contrast=1.06:saturation=1.14:brightness=0.01,vignette=angle=PI/5,noise=alls=4:allf=t"
 
 
-def punch_expr(T, amt=0.045, d=0.28):
-    p = f"(1+{amt}*min(max((t-{T})/{d},0),1))"
+def punch_expr(T, amt=0.045, d=0.34):
+    st = f"min(max((t-{T})/{d},0),1)"
+    p = f"(1+{amt}*({st}*{st}*(3-2*{st})))"
     return (f"crop=w='floor(iw/{p}/2)*2':h='floor(ih/{p}/2)*2':x='(iw-ow)/2':y='(ih-oh)/2',"
             f"scale={W}:{H}")
 
