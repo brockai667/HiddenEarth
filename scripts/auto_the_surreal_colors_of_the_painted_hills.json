@@ -1,0 +1,59 @@
+{
+  "title": "The Surreal Colors of the Painted Hills",
+  "place": "Painted Hills",
+  "country": "United States",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These hills look like a painter's palette, full of color!",
+      "hook_top": "PAINTER'S PALETTE LANDSCAPE",
+      "query": "painted hills oregon",
+      "query2": "colorful hills"
+    },
+    {
+      "role": "map",
+      "text": "This is the Painted Hills, located in Oregon, United States."
+    },
+    {
+      "role": "fact",
+      "text": "The colors are caused by different layers of volcanic ash and clay.",
+      "query": "painted hills colors",
+      "query2": "layers of volcanic ash",
+      "chips": [
+        {
+          "t": "VOLCANIC ORIGINS",
+          "on": "different layers",
+          "style": "orange"
+        }
+      ],
+      "punch": "colors"
+    },
+    {
+      "role": "callout",
+      "text": "Best viewed during sunset when the colors intensify.",
+      "query": "painted hills sunset",
+      "query2": "sunset over colorful hills",
+      "label": "SUNSET SPLENDOR",
+      "sub": "colors come alive",
+      "label_on": "sunset",
+      "punch": "intensify"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "painted hills aerial",
+      "query2": "aerial painted hills"
+    }
+  ],
+  "description": "📍 Painted Hills, Oregon - United States. A vibrant landscape painted by nature, showcasing mesmerizing colors. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#paintedhills",
+    "#oregon",
+    "#hiddengems",
+    "#colorfullandscape",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

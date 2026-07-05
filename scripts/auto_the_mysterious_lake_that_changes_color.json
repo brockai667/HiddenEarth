@@ -1,0 +1,59 @@
+{
+  "title": "The Mysterious Lake That Changes Color",
+  "place": "Lake Batur",
+  "country": "Indonesia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This lake can shift from deep blue to emerald green!",
+      "hook_top": "COLORCHANGING LAKE",
+      "query": "lake batur colors",
+      "query2": "color changing lake"
+    },
+    {
+      "role": "map",
+      "text": "This is Lake Batur, located in Bali, Indonesia."
+    },
+    {
+      "role": "fact",
+      "text": "The color changes due to volcanic activity and algae growth.",
+      "query": "lake batur volcanic activity",
+      "query2": "batur lake algae",
+      "chips": [
+        {
+          "t": "VOLCANIC INFLUENCE",
+          "on": "volcanic",
+          "style": "white"
+        }
+      ],
+      "punch": "activity"
+    },
+    {
+      "role": "callout",
+      "text": "Surrounded by stunning mountains and lush greenery.",
+      "query": "lake batur mountains",
+      "query2": "lake batur landscape",
+      "label": "SCENIC SURROUNDINGS",
+      "sub": "a paradise on earth",
+      "label_on": "surrounded",
+      "punch": "paradise"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "lake batur sunrise",
+      "query2": "sunrise over batur"
+    }
+  ],
+  "description": "📍 Lake Batur, Bali - Indonesia. A picturesque lake with mesmerizing colors that shift with volcanic activity. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#lakebatur",
+    "#indonesia",
+    "#hiddengems",
+    "#colorchanginglake",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

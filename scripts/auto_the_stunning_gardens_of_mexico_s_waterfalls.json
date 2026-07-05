@@ -1,0 +1,59 @@
+{
+  "title": "The Stunning Gardens of Mexico's Waterfalls",
+  "place": "Hierve el Agua",
+  "country": "Mexico",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These waterfalls look frozen in time, cascading from cliffs!",
+      "hook_top": "FROZEN WATERFALLS",
+      "query": "hierve el agua",
+      "query2": "frozen waterfall"
+    },
+    {
+      "role": "map",
+      "text": "This is Hierve el Agua, located in Oaxaca, Mexico."
+    },
+    {
+      "role": "fact",
+      "text": "The rock formations are created by mineral-rich spring water flowing from the cliffs.",
+      "query": "hierve el agua minerals",
+      "query2": "mineral springs rocks",
+      "chips": [
+        {
+          "t": "MINERAL-RICH SPRINGS",
+          "on": "spring water",
+          "style": "orange"
+        }
+      ],
+      "punch": "water"
+    },
+    {
+      "role": "callout",
+      "text": "You can see beautiful pools at the top of the cliffs!",
+      "query": "hierve el agua pools",
+      "query2": "water pools cliff edge",
+      "label": "BREATHTAKING POOLS",
+      "sub": "at the cliff's height",
+      "label_on": "pools",
+      "punch": "view"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "hierve el agua aerial",
+      "query2": "aerial cliffs waterfalls"
+    }
+  ],
+  "description": "📍 Hierve el Agua, Oaxaca - Mexico. A striking site where mineral springs create the illusion of frozen waterfalls. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#hierveelagua",
+    "#mexico",
+    "#hiddengems",
+    "#waterfalls",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
