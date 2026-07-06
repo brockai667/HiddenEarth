@@ -1,0 +1,59 @@
+{
+  "title": "The Fantastic Colors of Zhangye Danxia",
+  "place": "Zhangye Danxia Geopark",
+  "country": "China",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These mountains look like a painter's palette.",
+      "hook_top": "MOUNTAINS LIKE A PAINTING",
+      "query": "Zhangye Danxia Geopark zhangye danxia landscape",
+      "query2": "colorful mountains"
+    },
+    {
+      "role": "map",
+      "text": "This is Zhangye Danxia in Gansu province, China."
+    },
+    {
+      "role": "fact",
+      "text": "The stripes of color result from red sandstone uplifted over millions of years.",
+      "query": "Zhangye Danxia Geopark zhangye danxia colors",
+      "query2": "sandstone formations",
+      "chips": [
+        {
+          "t": "MILLIONS OF YEARS OLD",
+          "on": "millions",
+          "style": "white"
+        }
+      ],
+      "punch": "uplifted"
+    },
+    {
+      "role": "callout",
+      "text": "Visit during sunrise for the most magical light.",
+      "query": "Zhangye Danxia Geopark zhangye danxia sunrise",
+      "query2": "dramatic light on mountains",
+      "label": "MAGICAL SUNRISE",
+      "sub": "the best time to visit",
+      "label_on": "sunrise",
+      "punch": "light"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Zhangye Danxia Geopark zhangye danxia aerial",
+      "query2": "drone colorful mountains"
+    }
+  ],
+  "description": "📍 Zhangye Danxia Geopark, Gansu - China. A breathtaking landscape that looks painted with vibrant colors. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#zhangyedanxia",
+    "#china",
+    "#hiddengems",
+    "#colorfulmountains",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

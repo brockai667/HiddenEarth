@@ -1,0 +1,59 @@
+{
+  "title": "Why You Must See The Antelope Canyon",
+  "place": "Antelope Canyon",
+  "country": "United States",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These slot canyons glow with incredible light patterns.",
+      "hook_top": "NATURAL LIGHT SHOW",
+      "query": "antelope canyon light",
+      "query2": "slot canyon colors"
+    },
+    {
+      "role": "map",
+      "text": "This is Antelope Canyon, located in Arizona, USA."
+    },
+    {
+      "role": "fact",
+      "text": "Water erosion over thousands of years shaped these surreal canyon walls.",
+      "query": "antelope canyon erosion",
+      "query2": "canyon walls",
+      "chips": [
+        {
+          "t": "THOUSANDS OF YEARS",
+          "on": "thousands",
+          "style": "orange"
+        }
+      ],
+      "punch": "erosion"
+    },
+    {
+      "role": "callout",
+      "text": "The best views are in the upper canyon.",
+      "query": "antelope canyon upper",
+      "query2": "upper canyon views",
+      "label": "BEST VIEWS HERE",
+      "sub": "don't miss this spot",
+      "label_on": "upper canyon",
+      "punch": "views"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "antelope canyon drones",
+      "query2": "aerial slot canyon"
+    }
+  ],
+  "description": "📍 Antelope Canyon, Arizona - United States. A stunning display of light and shadow in the canyon's walls. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#antelopecanyon",
+    "#arizona",
+    "#hiddengems",
+    "#slotcanyon",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

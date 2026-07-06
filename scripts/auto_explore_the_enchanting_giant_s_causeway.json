@@ -1,0 +1,59 @@
+{
+  "title": "Explore the Enchanting Giant's Causeway",
+  "place": "Giant's Causeway",
+  "country": "United Kingdom",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These perfectly shaped basalt columns are a true natural wonder.",
+      "hook_top": "NATURE'S PERFECT COLUMNS",
+      "query": "giant's causeway columns",
+      "query2": "basalt formations"
+    },
+    {
+      "role": "map",
+      "text": "This is Giant's Causeway, located in County Antrim, Northern Ireland."
+    },
+    {
+      "role": "fact",
+      "text": "Formed by volcanic activity, these columns are around 60 million years old.",
+      "query": "giant's causeway facts",
+      "query2": "basalt column age",
+      "chips": [
+        {
+          "t": "60 MILLION YEARS OLD",
+          "on": "million",
+          "style": "white"
+        }
+      ],
+      "punch": "volcanic"
+    },
+    {
+      "role": "callout",
+      "text": "The stunning view of the Atlantic Ocean complements the columns beautifully.",
+      "query": "giant's causeway ocean view",
+      "query2": "atlantic ocean view",
+      "label": "ATLANTIC OCEAN VIEW",
+      "sub": "a perfect backdrop",
+      "label_on": "ocean",
+      "punch": "stunning"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "giant's causeway aerial",
+      "query2": "coastal drone views"
+    }
+  ],
+  "description": "📍 Giant's Causeway, County Antrim - United Kingdom. A breathtaking natural formation of unique basalt columns. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#giantscauseway",
+    "#uk",
+    "#hiddengems",
+    "#basaltcolumns",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
