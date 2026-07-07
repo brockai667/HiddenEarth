@@ -1,0 +1,59 @@
+{
+  "title": "The Amazing Formation of Deadvlei",
+  "place": "Deadvlei",
+  "country": "Namibia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This dry lake bed is home to ancient blackened trees.",
+      "hook_top": "ANCIENT DRIED LAND",
+      "query": "deadvlei ancient trees",
+      "query2": "dead trees"
+    },
+    {
+      "role": "map",
+      "text": "This is Deadvlei, located in the Namib Desert, Namibia."
+    },
+    {
+      "role": "fact",
+      "text": "The trees in this surreal landscape have been dead for over 900 years.",
+      "query": "deadvlei tree history",
+      "query2": "ancient tree lifespan",
+      "chips": [
+        {
+          "t": "OVER 900 YEARS OLD",
+          "on": "900",
+          "style": "white"
+        }
+      ],
+      "punch": "surreal"
+    },
+    {
+      "role": "callout",
+      "text": "The contrast of white clay and orange dunes creates a stunning visual.",
+      "query": "deadvlei contrast colors",
+      "query2": "desert scenery",
+      "label": "STUNNING CONTRAST",
+      "sub": "breathtaking visuals",
+      "label_on": "contrast",
+      "punch": "breathtaking"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "deadvlei aerial view",
+      "query2": "namib desert landscapes"
+    }
+  ],
+  "description": "📍 Deadvlei, Namib Desert - Namibia. A surreal landscape filled with ancient blackened trees against a backdrop of orange dunes. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#deadvlei",
+    "#namibia",
+    "#hiddengems",
+    "#desertlandscape",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

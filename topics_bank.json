@@ -2734,5 +2734,233 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Experience the Enchanted Valley of Green",
+    "place": "Glencoe",
+    "country": "Scotland",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This valley boasts an unreal green that seems painted.",
+        "hook_top": "AN UNREAL GREEN VALLEY",
+        "query": "glencoe valley green",
+        "query2": "glencoe landscape"
+      },
+      {
+        "role": "map",
+        "text": "This is Glencoe, located in the Scottish Highlands."
+      },
+      {
+        "role": "fact",
+        "text": "Glencoe is known for its dramatic landscapes and rich history, including the infamous Glencoe Massacre.",
+        "query": "glencoe scotland history",
+        "query2": "glencoe valley view",
+        "chips": [
+          {
+            "t": "DRASTIC LANDSCAPES",
+            "on": "dramatic",
+            "style": "white"
+          }
+        ],
+        "punch": "history"
+      },
+      {
+        "role": "callout",
+        "text": "Look at the steep sides of the valley.",
+        "query": "glencoe valley cliffs",
+        "query2": "glencoe mountain sides",
+        "label": "STEPPED CLIFFS",
+        "sub": "towering over the valley",
+        "label_on": "cliffs"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "glencoe landscape sunrise",
+        "query2": "glencoe mountain reflection"
+      }
+    ],
+    "description": "📍 Glencoe, Scottish Highlands - Scotland. This valley showcases an otherworldly green landscape, captivating all who visit. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#glencoe",
+      "#scotland",
+      "#hiddengems",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "This Is What a Rainbow Valley Looks Like",
+    "place": "Zhangye Danxia",
+    "country": "China",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These mountains look like a painted canvas.",
+        "hook_top": "NATURE'S PAINTED CANVAS",
+        "query": "zhangye danxia colorful mountains",
+        "query2": "danxia landform colors"
+      },
+      {
+        "role": "map",
+        "text": "This is Zhangye Danxia, located in Gansu Province, China."
+      },
+      {
+        "role": "fact",
+        "text": "The vibrant colors come from red sandstone and mineral deposits formed over millions of years.",
+        "query": "zhangye danxia geology",
+        "query2": "colorful rocks formation",
+        "chips": [
+          {
+            "t": "MILLIONS OF YEARS OLD",
+            "on": "millions",
+            "style": "orange"
+          }
+        ],
+        "punch": "colors"
+      },
+      {
+        "role": "callout",
+        "text": "Each layer tells a story of Earth’s past.",
+        "query": "zhangye danxia layers",
+        "query2": "danxia rock layers",
+        "label": "EACH LAYER TELLS A STORY",
+        "sub": "of earth's history",
+        "label_on": "layers"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "zhangye danxia sunset",
+        "query2": "zhangye danxia aerial view"
+      }
+    ],
+    "description": "📍 Zhangye Danxia, Gansu Province - China. Witness breathtaking formations that resemble a rainbow-painted landscape born from geological wonders. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#zhangyedanxia",
+      "#china",
+      "#hiddengems",
+      "#naturelovers",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Truly Magical White Desert",
+    "place": "White Sands",
+    "country": "USA",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This desert shimmers like snow but is made of gypsum.",
+        "hook_top": "A SHIMMERING WHITE DESERT",
+        "query": "white sands desert gypsum",
+        "query2": "white sands dunes"
+      },
+      {
+        "role": "map",
+        "text": "This is White Sands, located in New Mexico, USA."
+      },
+      {
+        "role": "fact",
+        "text": "White Sands is the largest gypsum dune field in the world, covering over 275 square miles.",
+        "query": "white sands size",
+        "query2": "white sands geography",
+        "chips": [
+          {
+            "t": "LARGEST GYPSUM DUNES",
+            "on": "gypsum",
+            "style": "white"
+          }
+        ],
+        "punch": "largest"
+      },
+      {
+        "role": "callout",
+        "text": "The dunes react to the sunlight, creating a mesmerizing glow.",
+        "query": "white sands dunes sunlight",
+        "query2": "white sands glowing dunes",
+        "label": "MESMERIZING GLOW",
+        "sub": "created by sunlight",
+        "label_on": "glow"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "white sands sunset",
+        "query2": "white sands aerial"
+      }
+    ],
+    "description": "📍 White Sands, New Mexico - USA. A surreal desert that glows brilliantly under the sun, made entirely of shimmering gypsum. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#whitesands",
+      "#usa",
+      "#hiddengems",
+      "#desert",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "A Hidden Valley with Flowing Colors",
+    "place": "Cano Cristales",
+    "country": "Colombia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This river glows in vibrant colors during the wet season.",
+        "hook_top": "A COLORFUL RIVER",
+        "query": "cano cristales river colors",
+        "query2": "cano cristales flow"
+      },
+      {
+        "role": "map",
+        "text": "This is Cano Cristales, located in the Sierra de la Macarena, Colombia."
+      },
+      {
+        "role": "fact",
+        "text": "The river's colors are due to a unique aquatic plant called Macarenia clavigera, which thrives under specific conditions.",
+        "query": "cano cristales macarenia",
+        "query2": "colorful plant river",
+        "chips": [
+          {
+            "t": "NATURE'S ARTISTRY",
+            "on": "plant",
+            "style": "orange"
+          }
+        ],
+        "punch": "colors"
+      },
+      {
+        "role": "callout",
+        "text": "Witness the stunning hues of the river—like nature's own watercolor.",
+        "query": "cano cristales hues",
+        "query2": "colorful river view",
+        "label": "NATURE'S WATERCOLOR",
+        "sub": "a sight to behold",
+        "label_on": "hues"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "cano cristales aerial view",
+        "query2": "colorful river landscape"
+      }
+    ],
+    "description": "📍 Cano Cristales, Sierra de la Macarena - Colombia. Known as the 'River of Five Colors', this stunning waterway is a vibrant spectacle worth experiencing. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#canocristales",
+      "#colombia",
+      "#hiddengems",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

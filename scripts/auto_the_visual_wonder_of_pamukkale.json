@@ -1,0 +1,59 @@
+{
+  "title": "The Visual Wonder of Pamukkale",
+  "place": "Pamukkale",
+  "country": "Turkey",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This is a surreal cascading mineral terrace with thermal pools.",
+      "hook_top": "NATURAL THERMAL TERRACES",
+      "query": "pamukkale thermal pools",
+      "query2": "cascading white terraces"
+    },
+    {
+      "role": "map",
+      "text": "This is Pamukkale, located in Denizli, Turkey."
+    },
+    {
+      "role": "fact",
+      "text": "Formed by carbonate minerals, these terraces are known for their healing properties.",
+      "query": "pamukkale healing properties",
+      "query2": "thermal water benefits",
+      "chips": [
+        {
+          "t": "NATURAL HEALING",
+          "on": "healing",
+          "style": "white"
+        }
+      ],
+      "punch": "healing"
+    },
+    {
+      "role": "callout",
+      "text": "The water's turquoise hue offers mesmerizing reflections.",
+      "query": "pamukkale turquoise water",
+      "query2": "aqua terraces",
+      "label": "TURQUOISE REFLECTIONS",
+      "sub": "stunning color contrast",
+      "label_on": "turquoise",
+      "punch": "mesmerizing"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "pamukkale sunset",
+      "query2": "drone thermal pools"
+    }
+  ],
+  "description": "📍 Pamukkale, Denizli - Turkey. Stunning white travertine terraces filled with thermal pools rich in minerals. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#pamukkale",
+    "#turkey",
+    "#hiddengems",
+    "#thermalpools",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

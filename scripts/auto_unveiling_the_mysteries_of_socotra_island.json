@@ -1,0 +1,59 @@
+{
+  "title": "Unveiling the Mysteries of Socotra Island",
+  "place": "Socotra",
+  "country": "Yemen",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This island is home to trees that look otherworldly.",
+      "hook_top": "OTHERWORLDLY LANDSCAPE",
+      "query": "socotra island trees",
+      "query2": "dragon blood tree"
+    },
+    {
+      "role": "map",
+      "text": "This is Socotra, located in Yemen."
+    },
+    {
+      "role": "fact",
+      "text": "Over a third of its plant species are found nowhere else on Earth.",
+      "query": "socotra unique plants",
+      "query2": "endemic species",
+      "chips": [
+        {
+          "t": "1/3 PLANT SPECIES",
+          "on": "third",
+          "style": "orange"
+        }
+      ],
+      "punch": "endemic"
+    },
+    {
+      "role": "callout",
+      "text": "The iconic Dragon's Blood Tree, with its umbrella shape, is a must-see.",
+      "query": "socotra dragon blood tree",
+      "query2": "iconic tree shapes",
+      "label": "ICONIC DRAGON TREE",
+      "sub": "a unique shape",
+      "label_on": "dragon",
+      "punch": "iconic"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "socotra aerial view",
+      "query2": "island landscapes"
+    }
+  ],
+  "description": "📍 Socotra, Yemen. An enchanting island with bizarre trees and unique flora. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#socotra",
+    "#yemen",
+    "#hiddengems",
+    "#bizarreplants",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
