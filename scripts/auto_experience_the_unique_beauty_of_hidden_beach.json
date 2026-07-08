@@ -1,0 +1,59 @@
+{
+  "title": "Experience the Unique Beauty of Hidden Beach",
+  "place": "Hidden Beach",
+  "country": "Mexico",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This beach is hidden inside a cave, accessible only by water.",
+      "hook_top": "BEACH IN A CAVE",
+      "query": "hidden beach cove",
+      "query2": "cave beach"
+    },
+    {
+      "role": "map",
+      "text": "This is Hidden Beach, located in Marieta Islands, Mexico."
+    },
+    {
+      "role": "fact",
+      "text": "Formed by volcanic activity, the beach is encased within a collapsed cave.",
+      "query": "hidden beach formation",
+      "query2": "volcanic activity beach",
+      "chips": [
+        {
+          "t": "NOT FAMOUS",
+          "on": "hidden",
+          "style": "white"
+        }
+      ],
+      "punch": "collapsed"
+    },
+    {
+      "role": "callout",
+      "text": "It's a secluded paradise perfect for relaxation.",
+      "query": "hidden beach relaxation",
+      "query2": "secluded beach access",
+      "label": "SECLUDED PARADISE",
+      "sub": "ideal for escaping",
+      "label_on": "paradise",
+      "punch": "relaxation"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "hidden beach aerial",
+      "query2": "beach views"
+    }
+  ],
+  "description": "📍 Hidden Beach, Marieta Islands - Mexico. An enchanting beach nestled within a cave, perfect for an exclusive getaway. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#hiddenbeach",
+    "#mexico",
+    "#hiddengems",
+    "#secludedparadise",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

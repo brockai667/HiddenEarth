@@ -1,0 +1,59 @@
+{
+  "title": "Visit the Unbelievable Spotted Lake",
+  "place": "Spotted Lake",
+  "country": "Canada",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This lake showcases vibrant spots of color during summer.",
+      "hook_top": "COLORFUL SPOTS IN A LAKE",
+      "query": "spotted lake summer",
+      "query2": "colorful lake patterns"
+    },
+    {
+      "role": "map",
+      "text": "This is Spotted Lake, located in British Columbia, Canada."
+    },
+    {
+      "role": "fact",
+      "text": "The minerals evaporate leaving behind vibrant colors in the summer sun.",
+      "query": "spotted lake minerals",
+      "query2": "colorful minerals",
+      "chips": [
+        {
+          "t": "VIBRANT COLOR CHANGES",
+          "on": "color",
+          "style": "white"
+        }
+      ],
+      "punch": "evaporate"
+    },
+    {
+      "role": "callout",
+      "text": "These mesmerizing spots are a sight to behold.",
+      "query": "spotted lake aerial view",
+      "query2": "lake patterns",
+      "label": "MESMERIZING SPOTS",
+      "sub": "a sight to behold",
+      "label_on": "spots",
+      "punch": "sight"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "spotted lake patterns",
+      "query2": "colorful spots lake"
+    }
+  ],
+  "description": "📍 Spotted Lake, British Columbia - Canada. A colorful and unique lake renowned for its vibrant mineral deposits. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#spottedlake",
+    "#canada",
+    "#hiddengems",
+    "#colorfullake",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
