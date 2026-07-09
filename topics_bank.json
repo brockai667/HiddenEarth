@@ -2962,5 +2962,241 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Mysterious Island of Crete's Skalia",
+    "place": "Skalia",
+    "country": "Greece",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This hidden beach offers a surreal swim in crystal-clear waters.",
+        "hook_top": "A SECRET COVE AWAITS",
+        "query": "skalia crete beach",
+        "query2": "crete hidden beach"
+      },
+      {
+        "role": "map",
+        "text": "This is Skalia, a hidden beach located in Crete, Greece."
+      },
+      {
+        "role": "fact",
+        "text": "The calm waters are perfect for snorkeling and exploring marine life.",
+        "query": "skalia beach snorkeling",
+        "query2": "crete underwater",
+        "photo_hint": "underwater",
+        "chips": [
+          {
+            "t": "SNORKELING PARADISE",
+            "on": "snorkeling",
+            "style": "white"
+          }
+        ],
+        "punch": "exploring"
+      },
+      {
+        "role": "callout",
+        "text": "And the surrounding cliffs create a breathtaking backdrop.",
+        "query": "skalia cliffs",
+        "query2": "crete scenic cliffs",
+        "label": "CLIFFSIDE SPLENDOR",
+        "sub": "nature's majestic design",
+        "label_on": "cliffs",
+        "punch": "breathtaking"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "skalia beach sunset",
+        "query2": "crete beach sunset"
+      }
+    ],
+    "description": "📍 Skalia, Crete - Greece. A secluded beach offering crystal-clear waters and stunning coastal cliffs, perfect for a dreamy escape. Follow for daily hidden places! 🌊",
+    "hashtags": [
+      "#travel",
+      "#skalia",
+      "#greece",
+      "#hiddengems",
+      "#beachlife",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Hidden Gem of Sacred Valley",
+    "place": "Sacred Valley",
+    "country": "Peru",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This valley is filled with ancient ruins and vibrant culture.",
+        "hook_top": "A VALLEY OF ANCIENT WONDERS",
+        "query": "sacred valley ruins",
+        "query2": "peru ancient site"
+      },
+      {
+        "role": "map",
+        "text": "This is Sacred Valley, located in the Andes of Peru."
+      },
+      {
+        "role": "fact",
+        "text": "The valley was vital to the Inca civilization, providing resources and shelter.",
+        "query": "sacred valley peru",
+        "query2": "inca civilization secrets",
+        "photo_hint": "aerial",
+        "chips": [
+          {
+            "t": "ANCESTRAL HERITAGE",
+            "on": "inca",
+            "style": "orange"
+          }
+        ],
+        "punch": "inca"
+      },
+      {
+        "role": "callout",
+        "text": "And the vibrant local markets are a feast for the senses.",
+        "query": "sacred valley market",
+        "query2": "peru local market",
+        "label": "VIBRANT LOCAL CULTURE",
+        "sub": "shop and experience",
+        "label_on": "markets",
+        "punch": "feast"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "sacred valley sunset",
+        "query2": "inca valley sunset"
+      }
+    ],
+    "description": "📍 Sacred Valley, Andes - Peru. An ancient valley rich in history, culture, and breathtaking landscapes. Follow for daily hidden places! 🌄",
+    "hashtags": [
+      "#travel",
+      "#sacredvalley",
+      "#peru",
+      "#hiddengems",
+      "#incacivilization",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Corridor of Colors in Iceland",
+    "place": "Reynisfjara Beach",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This beach boasts black sands and striking basalt columns.",
+        "hook_top": "A BEACH OF CONTRASTING COLORS",
+        "query": "reynisfjara beach basalt",
+        "query2": "iceland black sand beach"
+      },
+      {
+        "role": "map",
+        "text": "This is Reynisfjara Beach, located on the southern coast of Iceland."
+      },
+      {
+        "role": "fact",
+        "text": "The black sand comes from volcanic minerals, creating a striking landscape.",
+        "query": "Reynisfjara Beach reynisfjara black sand",
+        "query2": "iceland volcanic beach",
+        "photo_hint": "aerial",
+        "chips": [
+          {
+            "t": "VOLCANIC ORIGIN",
+            "on": "volcanic",
+            "style": "orange"
+          }
+        ],
+        "punch": "landscape"
+      },
+      {
+        "role": "callout",
+        "text": "And the roaring ocean waves create a dramatic setting.",
+        "query": "Reynisfjara Beach reynisfjara ocean waves",
+        "query2": "iceland dramatic waves",
+        "label": "DRAMATIC OCEAN SCENERY",
+        "sub": "nature at its rawest",
+        "label_on": "waves",
+        "punch": "dramatic"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Reynisfjara Beach reynisfjara sunset",
+        "query2": "iceland black beach sunset"
+      }
+    ],
+    "description": "📍 Reynisfjara Beach, Southern Coast - Iceland. A breathtaking beach with black sands and iconic basalt columns, showcasing nature's raw beauty. Follow for daily hidden places! 🌊",
+    "hashtags": [
+      "#travel",
+      "#reynisfjara",
+      "#iceland",
+      "#hiddengems",
+      "#blackbeach",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Breathtaking Dunes of the Namib Desert",
+    "place": "Dune 45",
+    "country": "Namibia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This dune is one of the tallest in the world, radiating vibrant colors.",
+        "hook_top": "A DUNE LIKE NO OTHER",
+        "query": "dune 45 namibia",
+        "query2": "namib desert dunes"
+      },
+      {
+        "role": "map",
+        "text": "This is Dune 45, located in the Namib Desert, Namibia."
+      },
+      {
+        "role": "fact",
+        "text": "Dune 45 is made of ancient sand, over five million years old.",
+        "query": "dune 45 sand age",
+        "query2": "namibia ancient sand",
+        "photo_hint": "aerial",
+        "chips": [
+          {
+            "t": "OVER 5 MILLION YEARS",
+            "on": "million",
+            "style": "white"
+          }
+        ],
+        "punch": "ancient"
+      },
+      {
+        "role": "callout",
+        "text": "And its vibrant hues change with the sunlight.",
+        "query": "dune 45 colors",
+        "query2": "namibia changing sands",
+        "label": "SUNLIGHT PLAY",
+        "sub": "vibrant shades revealed",
+        "label_on": "hues",
+        "punch": "vibrant"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "dune 45 sunset",
+        "query2": "namib desert sunset"
+      }
+    ],
+    "description": "📍 Dune 45, Namib Desert - Namibia. A spectacular dune known for its age and mesmerizing colors that shift with the sun. Follow for daily hidden places! 🌵",
+    "hashtags": [
+      "#travel",
+      "#dune45",
+      "#namibia",
+      "#hiddengems",
+      "#desert",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

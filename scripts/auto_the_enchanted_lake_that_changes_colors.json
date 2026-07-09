@@ -1,0 +1,59 @@
+{
+  "title": "The Enchanted Lake That Changes Colors",
+  "place": "Lake Cauma",
+  "country": "Switzerland",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This lake’s colors shift with sunlight and seasons.",
+      "hook_top": "A COLORCHANGING LAKE",
+      "query": "lake cauma colors",
+      "query2": "colorful lake cauma"
+    },
+    {
+      "role": "map",
+      "text": "This is Lake Cauma, nestled in the heart of the Swiss Alps."
+    },
+    {
+      "role": "fact",
+      "text": "The lake's vibrant hues come from its mineral-rich water.",
+      "query": "lake cauma mineral water",
+      "query2": "vibrant lake cauma",
+      "chips": [
+        {
+          "t": "MINERAL-RICH WATER",
+          "on": "vibrant hues",
+          "style": "white"
+        }
+      ],
+      "punch": "hues"
+    },
+    {
+      "role": "callout",
+      "text": "It’s surrounded by lush conifer forests.",
+      "query": "lake cauma forest",
+      "query2": "forest surrounding lake",
+      "label": "THE SURROUNDING FOREST",
+      "sub": "lush & tranquil",
+      "label_on": "surrounded",
+      "punch": "tranquil"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "lake cauma aerial",
+      "query2": "stunning swiss lake"
+    }
+  ],
+  "description": "📍 Lake Cauma, Graubünden - Switzerland. A breathtaking lake that transforms colors with the light. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#lakecauma",
+    "#switzerland",
+    "#hiddengems",
+    "#colorfulexperience",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

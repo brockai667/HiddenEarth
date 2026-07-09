@@ -1,0 +1,59 @@
+{
+  "title": "The Magical Wonders of Mount Roraima",
+  "place": "Mount Roraima",
+  "country": "Venezuela",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This flat-topped mountain seems to rise to the clouds.",
+      "hook_top": "MOUNTAIN IN THE CLOUDS",
+      "query": "mount roraima aerial",
+      "query2": "tabletop mountain"
+    },
+    {
+      "role": "map",
+      "text": "This is Mount Roraima, located in Venezuela."
+    },
+    {
+      "role": "fact",
+      "text": "This ancient formation is over two billion years old.",
+      "query": "mount roraima age",
+      "query2": "ancient mountain formation",
+      "chips": [
+        {
+          "t": "2 BILLION YEARS OLD",
+          "on": "billion",
+          "style": "white"
+        }
+      ],
+      "punch": "ancient"
+    },
+    {
+      "role": "callout",
+      "text": "The unique ecosystem here is home to many endemic species.",
+      "query": "mount roraima ecosystem",
+      "query2": "unique biodiversity",
+      "label": "ENDANGERED SPECIES",
+      "sub": "a unique environment",
+      "label_on": "endemic",
+      "punch": "unique"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "mount roraima hiking",
+      "query2": "tall mountain views"
+    }
+  ],
+  "description": "📍 Mount Roraima, Venezuela. A mystical flat-topped mountain rich in biodiversity and unique formations. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#mountRoraima",
+    "#venezuela",
+    "#hiddengems",
+    "#tabletopmountain",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
