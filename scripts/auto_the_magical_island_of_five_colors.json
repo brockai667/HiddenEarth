@@ -1,0 +1,59 @@
+{
+  "title": "The Magical Island of Five Colors",
+  "place": "Isla del Sol",
+  "country": "Bolivia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This island is said to hold the colors of the rainbow!",
+      "hook_top": "RAINBOW ISLAND MAGIC",
+      "query": "isla del sol colors",
+      "query2": "colorful island bolivia"
+    },
+    {
+      "role": "map",
+      "text": "This is Isla del Sol, located in Lake Titicaca, Bolivia."
+    },
+    {
+      "role": "fact",
+      "text": "According to local legend, it’s the birthplace of the sun god.",
+      "query": "isla del sol legend",
+      "query2": "bolivia sun god",
+      "chips": [
+        {
+          "t": "BIRTHPLACE OF THE SUN",
+          "on": "legend",
+          "style": "orange"
+        }
+      ],
+      "punch": "birthplace"
+    },
+    {
+      "role": "callout",
+      "text": "It's dotted with ancient Inca ruins.",
+      "query": "isla del sol ruins",
+      "query2": "inca sites isla del sol",
+      "label": "ANCIENT INCAN RUINS",
+      "sub": "a glimpse into history",
+      "label_on": "dotted",
+      "punch": "ruins"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "isla del sol sunset",
+      "query2": "stunning lake titicaca"
+    }
+  ],
+  "description": "📍 Isla del Sol, Lake Titicaca - Bolivia. A breathtaking island rich with legend and surrounded by stunning waters. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#isladelsol",
+    "#bolivia",
+    "#hiddengems",
+    "#inca",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

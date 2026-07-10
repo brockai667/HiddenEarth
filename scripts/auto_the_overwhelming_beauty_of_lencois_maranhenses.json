@@ -1,0 +1,59 @@
+{
+  "title": "The Overwhelming Beauty of Lencois Maranhenses",
+  "place": "Lencois Maranhenses National Park",
+  "country": "Brazil",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This expansive desert is dotted with shimmering blue lagoons!",
+      "hook_top": "A DESERT OF LAGOONS",
+      "query": "Lencois Maranhenses National Park lencois maranhenses lagoons",
+      "query2": "lencois maranhenses beauty"
+    },
+    {
+      "role": "map",
+      "text": "This is Lencois Maranhenses, located in Maranhão, Brazil."
+    },
+    {
+      "role": "fact",
+      "text": "The lagoons form during the rainy season, creating a stunning contrast with the dunes.",
+      "query": "Lencois Maranhenses National Park lencois maranhenses rainy season",
+      "query2": "dunes lagoons contrast",
+      "chips": [
+        {
+          "t": "RAINY SEASON MAGIC",
+          "on": "forming",
+          "style": "white"
+        }
+      ],
+      "punch": "contrast"
+    },
+    {
+      "role": "callout",
+      "text": "It's home to unique wildlife adapted to this environment.",
+      "query": "Lencois Maranhenses National Park lencois maranhenses wildlife",
+      "query2": "unique species lencois",
+      "label": "UNIQUE WILDLIFE",
+      "sub": "adapted to challenges",
+      "label_on": "home",
+      "punch": "wildlife"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Lencois Maranhenses National Park lencois maranhenses aerial view",
+      "query2": "breathtaking desert lagoons"
+    }
+  ],
+  "description": "📍 Lencois Maranhenses, Maranhão - Brazil. A surreal landscape where dunes meet crystal-clear lagoons. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#lencois",
+    "#brazil",
+    "#hiddengems",
+    "#desertlagoons",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

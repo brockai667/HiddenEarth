@@ -3198,5 +3198,179 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "A Day in the Enchanted Valley of Sintra",
+    "place": "Sintra",
+    "country": "Portugal",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Explore a fairy tale town with palaces that look from another world.",
+        "hook_top": "FAIRYTALE TOWN",
+        "query": "sintra palaces aerial",
+        "query2": "sintra landscape"
+      },
+      {
+        "role": "map",
+        "text": "This is Sintra, perched in the hills of the Lisbon region."
+      },
+      {
+        "role": "fact",
+        "text": "Sintra is a UNESCO World Heritage Site known for its romantic 19th-century architecture.",
+        "query": "sintra architecture",
+        "query2": "sintra palaces",
+        "chips": [
+          {
+            "t": "UNESCO WORLD HERITAGE",
+            "on": "heritage site",
+            "style": "white"
+          }
+        ],
+        "punch": "architecture"
+      },
+      {
+        "role": "callout",
+        "text": "Each palace whispers stories of royalty and whimsy.",
+        "query": "sintra palace details",
+        "query2": "sintra gardens",
+        "label": "STORIES OF ROYALTY",
+        "sub": "and whimsical tales",
+        "label_on": "whispers",
+        "punch": "stories"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "sintra sunset view",
+        "query2": "sintra mountain view"
+      }
+    ],
+    "description": "📍 Sintra, Lisbon Region - Portugal. A magical town filled with colorful palaces and breathtaking views. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#sintra",
+      "#portugal",
+      "#hiddengems",
+      "#architecture",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Enigmatic Colors of Lake Hillier",
+    "place": "Lake Hillier",
+    "country": "Australia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This lake is a vibrant bubblegum pink, and it defies all logic.",
+        "hook_top": "BUBBLEGUM PINK LAKE",
+        "query": "lake hillier pink lake",
+        "query2": "bubblegum pink lake"
+      },
+      {
+        "role": "map",
+        "text": "This is Lake Hillier, located on Middle Island in Western Australia."
+      },
+      {
+        "role": "fact",
+        "text": "The lake's distinct color comes from algae that produce a red pigment.",
+        "query": "lake hillier algae",
+        "query2": "pink algae lake",
+        "chips": [
+          {
+            "t": "ALGAE PIGMENT",
+            "on": "distinct color",
+            "style": "orange"
+          }
+        ],
+        "punch": "algae"
+      },
+      {
+        "role": "callout",
+        "text": "Even bottled, this water retains its striking hue.",
+        "query": "lake hillier water in bottle",
+        "query2": "lake hillier close-up",
+        "label": "STAYS STRIKING",
+        "sub": "even in a bottle",
+        "label_on": "bottled",
+        "punch": "hue"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "lake hillier aerial view",
+        "query2": "lake hillier island view"
+      }
+    ],
+    "description": "📍 Lake Hillier, Middle Island - Western Australia. A naturally bubblegum-pink lake whose color holds true even in a bottle. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#lakehillier",
+      "#australia",
+      "#hiddengems",
+      "#pinklake",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Breathtaking Roof of the World: Machu Picchu",
+    "place": "Machu Picchu",
+    "country": "Peru",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "An incredible ancient city perched at over 2,400 meters high.",
+        "hook_top": "ANCIENT INCA CITY",
+        "query": "machu picchu aerial",
+        "query2": "machu picchu view"
+      },
+      {
+        "role": "map",
+        "text": "This is Machu Picchu, located in the Andes Mountains in Peru."
+      },
+      {
+        "role": "fact",
+        "text": "This site was built in the 15th century and is renowned for its sophisticated dry-stone construction.",
+        "query": "machu picchu construction",
+        "query2": "inca ruins",
+        "chips": [
+          {
+            "t": "15TH CENTURY",
+            "on": "built",
+            "style": "orange"
+          }
+        ],
+        "punch": "construction"
+      },
+      {
+        "role": "callout",
+        "text": "Machu Picchu is often enveloped in mystical clouds.",
+        "query": "machu picchu clouds",
+        "query2": "machu picchu misty",
+        "label": "MYSTICAL CLOUDS",
+        "sub": "that enhance its aura",
+        "label_on": "enveloped",
+        "punch": "clouds"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "machu picchu view",
+        "query2": "machu picchu sunrise"
+      }
+    ],
+    "description": "📍 Machu Picchu, Andes Mountains - Peru. An ancient Inca city that rises dramatically above the clouds, showcasing remarkable construction. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#machupicchu",
+      "#peru",
+      "#hiddengems",
+      "#inca",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
