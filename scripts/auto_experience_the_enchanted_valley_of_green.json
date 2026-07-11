@@ -1,0 +1,57 @@
+{
+  "title": "Experience the Enchanted Valley of Green",
+  "place": "Glencoe",
+  "country": "Scotland",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This valley boasts an unreal green that seems painted.",
+      "hook_top": "AN UNREAL GREEN VALLEY",
+      "query": "glencoe valley green",
+      "query2": "glencoe landscape"
+    },
+    {
+      "role": "map",
+      "text": "This is Glencoe, located in the Scottish Highlands."
+    },
+    {
+      "role": "fact",
+      "text": "Glencoe is known for its dramatic landscapes and rich history, including the infamous Glencoe Massacre.",
+      "query": "glencoe scotland history",
+      "query2": "glencoe valley view",
+      "chips": [
+        {
+          "t": "DRASTIC LANDSCAPES",
+          "on": "dramatic",
+          "style": "white"
+        }
+      ],
+      "punch": "history"
+    },
+    {
+      "role": "callout",
+      "text": "Look at the steep sides of the valley.",
+      "query": "glencoe valley cliffs",
+      "query2": "glencoe mountain sides",
+      "label": "STEPPED CLIFFS",
+      "sub": "towering over the valley",
+      "label_on": "cliffs"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "glencoe landscape sunrise",
+      "query2": "glencoe mountain reflection"
+    }
+  ],
+  "description": "📍 Glencoe, Scottish Highlands - Scotland. This valley showcases an otherworldly green landscape, captivating all who visit. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#glencoe",
+    "#scotland",
+    "#hiddengems",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}
