@@ -1,0 +1,57 @@
+{
+  "title": "The Truly Magical White Desert",
+  "place": "White Sands",
+  "country": "USA",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This desert shimmers like snow but is made of gypsum.",
+      "hook_top": "A SHIMMERING WHITE DESERT",
+      "query": "white sands desert gypsum",
+      "query2": "white sands dunes"
+    },
+    {
+      "role": "map",
+      "text": "This is White Sands, located in New Mexico, USA."
+    },
+    {
+      "role": "fact",
+      "text": "White Sands is the largest gypsum dune field in the world, covering over 275 square miles.",
+      "query": "white sands size",
+      "query2": "white sands geography",
+      "chips": [
+        {
+          "t": "LARGEST GYPSUM DUNES",
+          "on": "gypsum",
+          "style": "white"
+        }
+      ],
+      "punch": "largest"
+    },
+    {
+      "role": "callout",
+      "text": "The dunes react to the sunlight, creating a mesmerizing glow.",
+      "query": "white sands dunes sunlight",
+      "query2": "white sands glowing dunes",
+      "label": "MESMERIZING GLOW",
+      "sub": "created by sunlight",
+      "label_on": "glow"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "white sands sunset",
+      "query2": "white sands aerial"
+    }
+  ],
+  "description": "📍 White Sands, New Mexico - USA. A surreal desert that glows brilliantly under the sun, made entirely of shimmering gypsum. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#whitesands",
+    "#usa",
+    "#hiddengems",
+    "#desert",
+    "#shorts",
+    "#fyp"
+  ]
+}

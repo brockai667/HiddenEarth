@@ -1,0 +1,57 @@
+{
+  "title": "A Hidden Valley with Flowing Colors",
+  "place": "Cano Cristales",
+  "country": "Colombia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This river glows in vibrant colors during the wet season.",
+      "hook_top": "A COLORFUL RIVER",
+      "query": "cano cristales river colors",
+      "query2": "cano cristales flow"
+    },
+    {
+      "role": "map",
+      "text": "This is Cano Cristales, located in the Sierra de la Macarena, Colombia."
+    },
+    {
+      "role": "fact",
+      "text": "The river's colors are due to a unique aquatic plant called Macarenia clavigera, which thrives under specific conditions.",
+      "query": "cano cristales macarenia",
+      "query2": "colorful plant river",
+      "chips": [
+        {
+          "t": "NATURE'S ARTISTRY",
+          "on": "plant",
+          "style": "orange"
+        }
+      ],
+      "punch": "colors"
+    },
+    {
+      "role": "callout",
+      "text": "Witness the stunning hues of the river—like nature's own watercolor.",
+      "query": "cano cristales hues",
+      "query2": "colorful river view",
+      "label": "NATURE'S WATERCOLOR",
+      "sub": "a sight to behold",
+      "label_on": "hues"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "cano cristales aerial view",
+      "query2": "colorful river landscape"
+    }
+  ],
+  "description": "📍 Cano Cristales, Sierra de la Macarena - Colombia. Known as the 'River of Five Colors', this stunning waterway is a vibrant spectacle worth experiencing. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#canocristales",
+    "#colombia",
+    "#hiddengems",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

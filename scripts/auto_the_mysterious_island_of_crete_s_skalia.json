@@ -1,0 +1,59 @@
+{
+  "title": "The Mysterious Island of Crete's Skalia",
+  "place": "Skalia",
+  "country": "Greece",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This hidden beach offers a surreal swim in crystal-clear waters.",
+      "hook_top": "A SECRET COVE AWAITS",
+      "query": "skalia crete beach",
+      "query2": "crete hidden beach"
+    },
+    {
+      "role": "map",
+      "text": "This is Skalia, a hidden beach located in Crete, Greece."
+    },
+    {
+      "role": "fact",
+      "text": "The calm waters are perfect for snorkeling and exploring marine life.",
+      "query": "skalia beach snorkeling",
+      "query2": "crete underwater",
+      "photo_hint": "underwater",
+      "chips": [
+        {
+          "t": "SNORKELING PARADISE",
+          "on": "snorkeling",
+          "style": "white"
+        }
+      ],
+      "punch": "exploring"
+    },
+    {
+      "role": "callout",
+      "text": "And the surrounding cliffs create a breathtaking backdrop.",
+      "query": "skalia cliffs",
+      "query2": "crete scenic cliffs",
+      "label": "CLIFFSIDE SPLENDOR",
+      "sub": "nature's majestic design",
+      "label_on": "cliffs",
+      "punch": "breathtaking"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "skalia beach sunset",
+      "query2": "crete beach sunset"
+    }
+  ],
+  "description": "📍 Skalia, Crete - Greece. A secluded beach offering crystal-clear waters and stunning coastal cliffs, perfect for a dreamy escape. Follow for daily hidden places! 🌊",
+  "hashtags": [
+    "#travel",
+    "#skalia",
+    "#greece",
+    "#hiddengems",
+    "#beachlife",
+    "#shorts",
+    "#fyp"
+  ]
+}
