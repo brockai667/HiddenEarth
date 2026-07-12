@@ -178,6 +178,51 @@ def create_post(token, service, channel_id, text, url, title, due):
     return False, last
 
 
+def upload_github_release(cfg, path):
+    """Nahra MP4 ako asset GitHub Release (public repo = neobmedzeny free bandwidth).
+    Buffer stiahne video z verejnej browser_download_url. Vrati URL alebo vyhodi vynimku."""
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN") or cfg.get("gh_token", "")
+    repo = os.environ.get("GH_REPO") or os.environ.get("GITHUB_REPOSITORY") or cfg.get("gh_repo", "")
+    if not token or not repo:
+        raise RuntimeError("chyba GITHUB_TOKEN/GITHUB_REPOSITORY pre GitHub Release hosting")
+    api = "https://api.github.com"
+    H = {"Authorization": "Bearer " + token, "Accept": "application/vnd.github+json"}
+    tag = "media"
+    r = requests.get(api + "/repos/" + repo + "/releases/tags/" + tag, headers=H, timeout=30)
+    if r.status_code == 404:
+        r = requests.post(api + "/repos/" + repo + "/releases", headers=H, timeout=30,
+                          json={"tag_name": tag, "name": "media assets",
+                                "body": "auto-hostovane videa pre Buffer (docasne, cistene automaticky)",
+                                "prerelease": True})
+    r.raise_for_status()
+    rel = r.json()
+    assets = rel.get("assets", [])
+    name = os.path.basename(path)
+    for a in assets:                       # prepis rovnomenneho assetu
+        if a.get("name") == name:
+            requests.delete(api + "/repos/" + repo + "/releases/assets/" + str(a["id"]), headers=H, timeout=30)
+    old = sorted([a for a in assets if a.get("name") != name], key=lambda a: a.get("created_at", ""))
+    for a in (old[:-40] if len(old) > 40 else []):   # hygiena: drz max 40 najnovsich
+        requests.delete(api + "/repos/" + repo + "/releases/assets/" + str(a["id"]), headers=H, timeout=30)
+    up = rel["upload_url"].split("{")[0]
+    with open(path, "rb") as f:
+        ur = requests.post(up + "?name=" + name,
+                          headers={"Authorization": "Bearer " + token, "Content-Type": "video/mp4"},
+                          data=f.read(), timeout=900)
+    ur.raise_for_status()
+    return ur.json()["browser_download_url"]
+
+
+def host_video(cfg, path):
+    """Primarne GitHub Releases (zadarmo, neobmedzeny bandwidth); fallback Cloudinary ak by zlyhal."""
+    try:
+        url = upload_github_release(cfg, path)
+        print("  [host] GitHub Release OK -> " + url)
+        return url
+    except Exception as e:
+        print("  [host] GitHub Release zlyhal (" + str(e)[:160] + ") -> fallback Cloudinary")
+        return upload_cloudinary(cfg, path)
+
 def main():
     args = sys.argv[1:]
     dry = "--dry-run" in args
@@ -232,8 +277,8 @@ def main():
         title = title or "Daily Facts"
         yt_title = (title + " #shorts")[:100]
         print(f"\n=== {vid} ===  (cas {due}; chyba: {', '.join(c['service'] for c in pending)})")
-        print("  nahravam na Cloudinary...")
-        url = upload_cloudinary(cfg, mp4)
+        print("  nahravam video (GitHub Release / Cloudinary)...")
+        url = host_video(cfg, mp4)
         for c in pending:
             svc = c["service"].lower()
             if svc == "tiktok" and tiktok_done >= tiktok_per_run:
