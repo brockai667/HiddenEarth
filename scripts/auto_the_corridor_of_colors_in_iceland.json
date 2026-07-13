@@ -1,0 +1,59 @@
+{
+  "title": "The Corridor of Colors in Iceland",
+  "place": "Reynisfjara Beach",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This beach boasts black sands and striking basalt columns.",
+      "hook_top": "A BEACH OF CONTRASTING COLORS",
+      "query": "reynisfjara beach basalt",
+      "query2": "iceland black sand beach"
+    },
+    {
+      "role": "map",
+      "text": "This is Reynisfjara Beach, located on the southern coast of Iceland."
+    },
+    {
+      "role": "fact",
+      "text": "The black sand comes from volcanic minerals, creating a striking landscape.",
+      "query": "Reynisfjara Beach reynisfjara black sand",
+      "query2": "iceland volcanic beach",
+      "photo_hint": "aerial",
+      "chips": [
+        {
+          "t": "VOLCANIC ORIGIN",
+          "on": "volcanic",
+          "style": "orange"
+        }
+      ],
+      "punch": "landscape"
+    },
+    {
+      "role": "callout",
+      "text": "And the roaring ocean waves create a dramatic setting.",
+      "query": "Reynisfjara Beach reynisfjara ocean waves",
+      "query2": "iceland dramatic waves",
+      "label": "DRAMATIC OCEAN SCENERY",
+      "sub": "nature at its rawest",
+      "label_on": "waves",
+      "punch": "dramatic"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Reynisfjara Beach reynisfjara sunset",
+      "query2": "iceland black beach sunset"
+    }
+  ],
+  "description": "📍 Reynisfjara Beach, Southern Coast - Iceland. A breathtaking beach with black sands and iconic basalt columns, showcasing nature's raw beauty. Follow for daily hidden places! 🌊",
+  "hashtags": [
+    "#travel",
+    "#reynisfjara",
+    "#iceland",
+    "#hiddengems",
+    "#blackbeach",
+    "#shorts",
+    "#fyp"
+  ]
+}

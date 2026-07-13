@@ -1,0 +1,59 @@
+{
+  "title": "The Breathtaking Dunes of the Namib Desert",
+  "place": "Dune 45",
+  "country": "Namibia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This dune is one of the tallest in the world, radiating vibrant colors.",
+      "hook_top": "A DUNE LIKE NO OTHER",
+      "query": "dune 45 namibia",
+      "query2": "namib desert dunes"
+    },
+    {
+      "role": "map",
+      "text": "This is Dune 45, located in the Namib Desert, Namibia."
+    },
+    {
+      "role": "fact",
+      "text": "Dune 45 is made of ancient sand, over five million years old.",
+      "query": "dune 45 sand age",
+      "query2": "namibia ancient sand",
+      "photo_hint": "aerial",
+      "chips": [
+        {
+          "t": "OVER 5 MILLION YEARS",
+          "on": "million",
+          "style": "white"
+        }
+      ],
+      "punch": "ancient"
+    },
+    {
+      "role": "callout",
+      "text": "And its vibrant hues change with the sunlight.",
+      "query": "dune 45 colors",
+      "query2": "namibia changing sands",
+      "label": "SUNLIGHT PLAY",
+      "sub": "vibrant shades revealed",
+      "label_on": "hues",
+      "punch": "vibrant"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "dune 45 sunset",
+      "query2": "namib desert sunset"
+    }
+  ],
+  "description": "📍 Dune 45, Namib Desert - Namibia. A spectacular dune known for its age and mesmerizing colors that shift with the sun. Follow for daily hidden places! 🌵",
+  "hashtags": [
+    "#travel",
+    "#dune45",
+    "#namibia",
+    "#hiddengems",
+    "#desert",
+    "#shorts",
+    "#fyp"
+  ]
+}

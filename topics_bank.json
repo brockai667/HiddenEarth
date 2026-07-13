@@ -3488,5 +3488,64 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Emerald Lakes of New Zealand",
+    "place": "Emerald Lakes",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These lakes glow with an unreal emerald hue.",
+        "hook_top": "UNREAL EMERALD HUES",
+        "query": "emerald lakes aerial",
+        "query2": "green volcanic lakes"
+      },
+      {
+        "role": "map",
+        "text": "This is the Emerald Lakes, located in Tongariro National Park, North Island."
+      },
+      {
+        "role": "fact",
+        "text": "The vibrant color comes from minerals and sulfur, creating a striking contrast.",
+        "query": "emerald lakes mineral colors",
+        "query2": "volcanic lakes colors",
+        "chips": [
+          {
+            "t": "MINERAL-INFUSED",
+            "on": "mineral",
+            "style": "orange"
+          }
+        ],
+        "punch": "vibrant"
+      },
+      {
+        "role": "callout",
+        "text": "The lakes are formed from volcanic activity.",
+        "query": "emerald lakes volcanic",
+        "query2": "tongariro national park lakes",
+        "label": "VOLCANIC ORIGINS",
+        "sub": "formed by volcanic activity",
+        "label_on": "formed",
+        "punch": "volcanic"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "emerald lakes sunset",
+        "query2": "tongariro park view"
+      }
+    ],
+    "description": "📍 Emerald Lakes, Tongariro National Park - New Zealand. These lakes are a mesmerizing blend of minerals that create vibrant hues. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#emeraldlakes",
+      "#newzealand",
+      "#hiddengems",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

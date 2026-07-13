@@ -1,0 +1,59 @@
+{
+  "title": "The Hidden Gem of Sacred Valley",
+  "place": "Sacred Valley",
+  "country": "Peru",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This valley is filled with ancient ruins and vibrant culture.",
+      "hook_top": "A VALLEY OF ANCIENT WONDERS",
+      "query": "sacred valley ruins",
+      "query2": "peru ancient site"
+    },
+    {
+      "role": "map",
+      "text": "This is Sacred Valley, located in the Andes of Peru."
+    },
+    {
+      "role": "fact",
+      "text": "The valley was vital to the Inca civilization, providing resources and shelter.",
+      "query": "sacred valley peru",
+      "query2": "inca civilization secrets",
+      "photo_hint": "aerial",
+      "chips": [
+        {
+          "t": "ANCESTRAL HERITAGE",
+          "on": "inca",
+          "style": "orange"
+        }
+      ],
+      "punch": "inca"
+    },
+    {
+      "role": "callout",
+      "text": "And the vibrant local markets are a feast for the senses.",
+      "query": "sacred valley market",
+      "query2": "peru local market",
+      "label": "VIBRANT LOCAL CULTURE",
+      "sub": "shop and experience",
+      "label_on": "markets",
+      "punch": "feast"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "sacred valley sunset",
+      "query2": "inca valley sunset"
+    }
+  ],
+  "description": "📍 Sacred Valley, Andes - Peru. An ancient valley rich in history, culture, and breathtaking landscapes. Follow for daily hidden places! 🌄",
+  "hashtags": [
+    "#travel",
+    "#sacredvalley",
+    "#peru",
+    "#hiddengems",
+    "#incacivilization",
+    "#shorts",
+    "#fyp"
+  ]
+}
