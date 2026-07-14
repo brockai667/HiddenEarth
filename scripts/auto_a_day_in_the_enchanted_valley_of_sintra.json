@@ -1,0 +1,58 @@
+{
+  "title": "A Day in the Enchanted Valley of Sintra",
+  "place": "Sintra",
+  "country": "Portugal",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Explore a fairy tale town with palaces that look from another world.",
+      "hook_top": "FAIRYTALE TOWN",
+      "query": "sintra palaces aerial",
+      "query2": "sintra landscape"
+    },
+    {
+      "role": "map",
+      "text": "This is Sintra, perched in the hills of the Lisbon region."
+    },
+    {
+      "role": "fact",
+      "text": "Sintra is a UNESCO World Heritage Site known for its romantic 19th-century architecture.",
+      "query": "sintra architecture",
+      "query2": "sintra palaces",
+      "chips": [
+        {
+          "t": "UNESCO WORLD HERITAGE",
+          "on": "heritage site",
+          "style": "white"
+        }
+      ],
+      "punch": "architecture"
+    },
+    {
+      "role": "callout",
+      "text": "Each palace whispers stories of royalty and whimsy.",
+      "query": "sintra palace details",
+      "query2": "sintra gardens",
+      "label": "STORIES OF ROYALTY",
+      "sub": "and whimsical tales",
+      "label_on": "whispers",
+      "punch": "stories"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "sintra sunset view",
+      "query2": "sintra mountain view"
+    }
+  ],
+  "description": "📍 Sintra, Lisbon Region - Portugal. A magical town filled with colorful palaces and breathtaking views. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#sintra",
+    "#portugal",
+    "#hiddengems",
+    "#architecture",
+    "#shorts",
+    "#fyp"
+  ]
+}

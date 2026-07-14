@@ -1,0 +1,58 @@
+{
+  "title": "The Breathtaking Roof of the World: Machu Picchu",
+  "place": "Machu Picchu",
+  "country": "Peru",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "An incredible ancient city perched at over 2,400 meters high.",
+      "hook_top": "ANCIENT INCA CITY",
+      "query": "machu picchu aerial",
+      "query2": "machu picchu view"
+    },
+    {
+      "role": "map",
+      "text": "This is Machu Picchu, located in the Andes Mountains in Peru."
+    },
+    {
+      "role": "fact",
+      "text": "This site was built in the 15th century and is renowned for its sophisticated dry-stone construction.",
+      "query": "machu picchu construction",
+      "query2": "inca ruins",
+      "chips": [
+        {
+          "t": "15TH CENTURY",
+          "on": "built",
+          "style": "orange"
+        }
+      ],
+      "punch": "construction"
+    },
+    {
+      "role": "callout",
+      "text": "Machu Picchu is often enveloped in mystical clouds.",
+      "query": "machu picchu clouds",
+      "query2": "machu picchu misty",
+      "label": "MYSTICAL CLOUDS",
+      "sub": "that enhance its aura",
+      "label_on": "enveloped",
+      "punch": "clouds"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "machu picchu view",
+      "query2": "machu picchu sunrise"
+    }
+  ],
+  "description": "📍 Machu Picchu, Andes Mountains - Peru. An ancient Inca city that rises dramatically above the clouds, showcasing remarkable construction. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#machupicchu",
+    "#peru",
+    "#hiddengems",
+    "#inca",
+    "#shorts",
+    "#fyp"
+  ]
+}

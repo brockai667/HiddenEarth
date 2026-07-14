@@ -1,0 +1,58 @@
+{
+  "title": "The Enigmatic Colors of Lake Hillier",
+  "place": "Lake Hillier",
+  "country": "Australia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This lake is a vibrant bubblegum pink, and it defies all logic.",
+      "hook_top": "BUBBLEGUM PINK LAKE",
+      "query": "lake hillier pink lake",
+      "query2": "bubblegum pink lake"
+    },
+    {
+      "role": "map",
+      "text": "This is Lake Hillier, located on Middle Island in Western Australia."
+    },
+    {
+      "role": "fact",
+      "text": "The lake's distinct color comes from algae that produce a red pigment.",
+      "query": "lake hillier algae",
+      "query2": "pink algae lake",
+      "chips": [
+        {
+          "t": "ALGAE PIGMENT",
+          "on": "distinct color",
+          "style": "orange"
+        }
+      ],
+      "punch": "algae"
+    },
+    {
+      "role": "callout",
+      "text": "Even bottled, this water retains its striking hue.",
+      "query": "lake hillier water in bottle",
+      "query2": "lake hillier close-up",
+      "label": "STAYS STRIKING",
+      "sub": "even in a bottle",
+      "label_on": "bottled",
+      "punch": "hue"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "lake hillier aerial view",
+      "query2": "lake hillier island view"
+    }
+  ],
+  "description": "📍 Lake Hillier, Middle Island - Western Australia. A naturally bubblegum-pink lake whose color holds true even in a bottle. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#lakehillier",
+    "#australia",
+    "#hiddengems",
+    "#pinklake",
+    "#shorts",
+    "#fyp"
+  ]
+}
