@@ -1,0 +1,58 @@
+{
+  "title": "The Oasis Within a Desert",
+  "place": "Huacachina",
+  "country": "Peru",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Welcome to the only oasis built around a lagoon in South America.",
+      "hook_top": "AN OASIS IN THE DESERT",
+      "query": "huacachina oasis",
+      "query2": "peru desert oasis"
+    },
+    {
+      "role": "map",
+      "text": "This is Huacachina, located in the Ica Region of Peru."
+    },
+    {
+      "role": "fact",
+      "text": "The oasis is surrounded by massive sand dunes that rise over 100 meters tall.",
+      "query": "huacachina sand dunes",
+      "query2": "huacachina dunes height",
+      "chips": [
+        {
+          "t": "OVER 100 METERS HIGH",
+          "on": "dunes",
+          "style": "orange"
+        }
+      ],
+      "punch": "dunes"
+    },
+    {
+      "role": "callout",
+      "text": "It’s a popular spot for sandboarding and sunset views.",
+      "query": "huacachina sandboarding",
+      "query2": "huacachina sunset",
+      "label": "SANDBOARDING PARADISE",
+      "sub": "adventure awaits",
+      "label_on": "sandboarding",
+      "punch": "adventure"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "huacachina aerial",
+      "query2": "peru oasis view"
+    }
+  ],
+  "description": "📍 Huacachina, Ica Region - Peru. This unique oasis surrounded by towering dunes offers incredible adventures in sandboarding and breathtaking sunsets. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#huacachina",
+    "#peru",
+    "#hiddengems",
+    "#sandboarding",
+    "#shorts",
+    "#fyp"
+  ]
+}

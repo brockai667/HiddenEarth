@@ -3547,5 +3547,182 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Gelato Capital of the World",
+    "place": "Bologna",
+    "country": "Italy",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Bologna is considered the gelato capital, serving delicious flavors everywhere.",
+        "hook_top": "A GELATO PARADISE",
+        "query": "bologna gelato shops",
+        "query2": "bologna ice cream"
+      },
+      {
+        "role": "map",
+        "text": "This is Bologna, situated in the Emilia-Romagna region of Italy."
+      },
+      {
+        "role": "fact",
+        "text": "Bologna boasts some of the oldest gelato shops, crafting this treat since the 16th century.",
+        "query": "bologna gelato history",
+        "query2": "old gelato shops bologna",
+        "chips": [
+          {
+            "t": "SERVED SINCE 16TH CENTUR",
+            "on": "oldest shops",
+            "style": "orange"
+          }
+        ],
+        "punch": "gelato"
+      },
+      {
+        "role": "callout",
+        "text": "You can find unique flavors you can't resist!",
+        "query": "Bologna unique gelato flavors",
+        "query2": "bologna creative gelato",
+        "label": "UNIQUE FLAVORS",
+        "sub": "surprising tastes await!",
+        "label_on": "flavors",
+        "punch": "can't resist"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "bologna architecture",
+        "query2": "bologna beautiful streets"
+      }
+    ],
+    "description": "📍 Bologna, Emilia-Romagna - Italy. Known as the gelato capital, it offers flavors dating back to the 16th century. Follow for daily hidden places! 🍦",
+    "hashtags": [
+      "#travel",
+      "#bologna",
+      "#italy",
+      "#gelato",
+      "#hiddengems",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Maldives of the North",
+    "place": "Lake Bohinj",
+    "country": "Slovenia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "This pristine lake is surrounded by majestic mountain views.",
+        "hook_top": "THE MALDIVES OF EUROPE",
+        "query": "lake bohinj aerial",
+        "query2": "lake bohinj landscape"
+      },
+      {
+        "role": "map",
+        "text": "This is Lake Bohinj, nestled in the Julian Alps, Slovenia."
+      },
+      {
+        "role": "fact",
+        "text": "Lake Bohinj is the largest glacial lake in Slovenia, known for its crystal-clear waters.",
+        "query": "lake bohinj clear water",
+        "query2": "slovenia glacial lakes",
+        "chips": [
+          {
+            "t": "LARGEST GLACIAL LAKE",
+            "on": "largest",
+            "style": "orange"
+          }
+        ],
+        "punch": "crystal-clear"
+      },
+      {
+        "role": "callout",
+        "text": "Its vibrant colors range from deep blue to emerald green.",
+        "query": "lake bohinj colors",
+        "query2": "lake bohinj reflections",
+        "label": "VIBRANT COLORS",
+        "sub": "nature’s palette",
+        "label_on": "colors",
+        "punch": "emerald"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "lake bohinj sunset",
+        "query2": "slovenia alps"
+      }
+    ],
+    "description": "📍 Lake Bohinj, Julian Alps - Slovenia. This stunning glacial lake is famed for its crystal-clear waters and breathtaking views. Follow for daily hidden places! 🌊",
+    "hashtags": [
+      "#travel",
+      "#lakebohinj",
+      "#slovenia",
+      "#hiddengems",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Magical Valley of Rakaposhi",
+    "place": "Rakaposhi Base Camp",
+    "country": "Pakistan",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Witness the highest peak rising above an enchanting valley.",
+        "hook_top": "THE MAGIC OF RAKAPOSHI",
+        "query": "rakaposhi base camp view",
+        "query2": "rakaposhi panoramic view"
+      },
+      {
+        "role": "map",
+        "text": "This is Rakaposhi Base Camp, located in the Hunza Valley, Pakistan."
+      },
+      {
+        "role": "fact",
+        "text": "Rakaposhi stands 7,788 meters tall, making it one of the highest peaks in the Karakoram range.",
+        "query": "Rakaposhi Base Camp rakaposhi height",
+        "query2": "rakaposhi mountain details",
+        "chips": [
+          {
+            "t": "7,788 METERS HIGH",
+            "on": "height",
+            "style": "orange"
+          }
+        ],
+        "punch": "high"
+      },
+      {
+        "role": "callout",
+        "text": "The base camp offers stunning views of glaciers and lush landscapes.",
+        "query": "rakaposhi base camp scenery",
+        "query2": "rakaposhi glaciers",
+        "label": "STUNNING SCENERY",
+        "sub": "nature's grandeur",
+        "label_on": "views",
+        "punch": "stunning"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Rakaposhi Base Camp rakaposhi sunset",
+        "query2": "rakaposhi hiking"
+      }
+    ],
+    "description": "📍 Rakaposhi Base Camp, Hunza Valley - Pakistan. Experience the breathtaking views of the majestic Rakaposhi peak. Follow for daily hidden places! 🏔️",
+    "hashtags": [
+      "#travel",
+      "#rakaposhi",
+      "#pakistan",
+      "#hiddengems",
+      "#mountains",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

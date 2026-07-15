@@ -1,0 +1,58 @@
+{
+  "title": "The Magic of Floating Islands",
+  "place": "Uros Islands",
+  "country": "Peru",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These islands are made entirely of reeds that float on water.",
+      "hook_top": "FLOATING ISLANDS",
+      "query": "uros islands floating",
+      "query2": "floating islands"
+    },
+    {
+      "role": "map",
+      "text": "This is Uros Islands, located on Lake Titicaca in Peru."
+    },
+    {
+      "role": "fact",
+      "text": "The Uros people have lived on these islands for centuries, crafting them from totora reeds.",
+      "query": "uros islands history",
+      "query2": "totora reed islands",
+      "chips": [
+        {
+          "t": "HOMES FOR CENTURIES",
+          "on": "lived",
+          "style": "orange"
+        }
+      ],
+      "punch": "lived"
+    },
+    {
+      "role": "callout",
+      "text": "Visitors can sail between islands and learn about the local culture.",
+      "query": "uros islands culture",
+      "query2": "visit uros islands",
+      "label": "CULTURAL EXPERIENCE",
+      "sub": "sail and explore",
+      "label_on": "cultural",
+      "punch": "sail"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "uros islands sunset",
+      "query2": "lake titicaca view"
+    }
+  ],
+  "description": "📍 Uros Islands, Lake Titicaca - Peru. These unique floating islands are made of reeds, home to the Uros people for centuries. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#urosislands",
+    "#peru",
+    "#hiddengems",
+    "#lakeTiticaca",
+    "#shorts",
+    "#fyp"
+  ]
+}
