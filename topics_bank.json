@@ -3724,5 +3724,295 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Dolomites: A Hiker's Paradise",
+    "place": "Dolomites",
+    "country": "Italy",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The Dolomites rise dramatically from the earth, stunning any traveler.",
+        "hook_top": "A HIKER'S PARADISE",
+        "query": "dolomites mountain landscape",
+        "query2": "italian alps hiking"
+      },
+      {
+        "role": "map",
+        "text": "These majestic mountains are located in northeastern Italy."
+      },
+      {
+        "role": "fact",
+        "text": "The Dolomites were declared a UNESCO World Heritage Site in 2009.",
+        "query": "dolomites UNESCO site",
+        "query2": "mountain UNESCO",
+        "chips": [
+          {
+            "t": "UNESCO SITE",
+            "on": "heritage",
+            "style": "white"
+          }
+        ],
+        "punch": "heritage"
+      },
+      {
+        "role": "callout",
+        "text": "The diversity of trails attracts both novice and expert hikers.",
+        "query": "dolomites hiking trails",
+        "query2": "mountain trails",
+        "label": "ENDLESS TRAILS",
+        "sub": "for all skill levels",
+        "label_on": "trails"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "dolomites sunset view",
+        "query2": "mountain sunset"
+      }
+    ],
+    "description": "📍 Dolomites, Trentino-Alto Adige - Italy. A breathtaking mountain range perfect for hikers and nature lovers. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#dolomites",
+      "#italy",
+      "#hiddengems",
+      "#mountains",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Experience the Breathtaking Svalbard",
+    "place": "Svalbard",
+    "country": "Norway",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Svalbard is one of the northernmost inhabited places on Earth.",
+        "hook_top": "THE ARCTIC WILDERNESS",
+        "query": "svalbard arctic landscape",
+        "query2": "northern lights svalbard"
+      },
+      {
+        "role": "map",
+        "text": "Located in the Arctic Ocean, Svalbard belongs to Norway."
+      },
+      {
+        "role": "fact",
+        "text": "Svalbard has more polar bears than people, making it a unique ecosystem.",
+        "query": "svalbard polar bears",
+        "query2": "arctic wildlife",
+        "chips": [
+          {
+            "t": "MORE POLAR BEARS",
+            "on": "polar bears",
+            "style": "orange"
+          }
+        ],
+        "punch": "polar"
+      },
+      {
+        "role": "callout",
+        "text": "The Northern Lights dance vividly across its skies.",
+        "query": "svalbard northern lights",
+        "query2": "aurora borealis",
+        "label": "NORTHERN LIGHTS",
+        "sub": "a spectacular show",
+        "label_on": "dance"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "svalbard landscape view",
+        "query2": "arctic scenery"
+      }
+    ],
+    "description": "📍 Svalbard, Arctic Ocean - Norway. An Arctic wilderness with stunning landscapes and more polar bears than humans. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#svalbard",
+      "#norway",
+      "#hiddengems",
+      "#arctic",
+      "#wildlife",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Discover the Enchanting Beauty of Croatia",
+    "place": "Plitvice Lakes",
+    "country": "Croatia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Plitvice Lakes showcase cascading waterfalls and vibrant blue waters.",
+        "hook_top": "NATURE'S WATERFALLS",
+        "query": "plitvice lakes waterfalls",
+        "query2": "croatia lakes"
+      },
+      {
+        "role": "map",
+        "text": "Located in central Croatia, Plitvice Lakes is a national park."
+      },
+      {
+        "role": "fact",
+        "text": "It's home to 16 terraced lakes connected by waterfalls.",
+        "query": "plitvice lakes terraced",
+        "query2": "waterfall formations",
+        "chips": [
+          {
+            "t": "16 TERACED LAKES",
+            "on": "lakes",
+            "style": "white"
+          }
+        ],
+        "punch": "waterfalls"
+      },
+      {
+        "role": "callout",
+        "text": "The park is renowned for its vibrant hues of blue and green.",
+        "query": "plitvice lakes colors",
+        "query2": "blue green lakes",
+        "label": "VIBRANT COLORS",
+        "sub": "a natural palette",
+        "label_on": "colors"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "plitvice lakes sunrise",
+        "query2": "sunrise over lakes"
+      }
+    ],
+    "description": "📍 Plitvice Lakes, Lika-Senj - Croatia. A breathtaking national park with stunning waterfalls and colorful lakes. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#plitvicelakes",
+      "#croatia",
+      "#hiddengems",
+      "#nature",
+      "#waterfalls",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Unbelievable Ice Caves of Iceland",
+    "place": "Crystal Ice Caves",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "These crystal blue ice caves are nature's art galleries.",
+        "hook_top": "NATURAL ICE CAVES",
+        "query": "iceland crystal ice caves",
+        "query2": "blue ice caves"
+      },
+      {
+        "role": "map",
+        "text": "Located beneath Vatnajökull, Iceland's largest glacier."
+      },
+      {
+        "role": "fact",
+        "text": "These caves form during melting seasons, creating stunning blue ice formations.",
+        "query": "Crystal Ice Caves iceland cave formation",
+        "query2": "ice glacier caves",
+        "chips": [
+          {
+            "t": "SPECTACULAR FORMATIONS",
+            "on": "form",
+            "style": "orange"
+          }
+        ],
+        "punch": "blue"
+      },
+      {
+        "role": "callout",
+        "text": "Each cave is unique and changes with the seasons.",
+        "query": "Crystal Ice Caves ice cave uniqueness",
+        "query2": "seasonal ice caves",
+        "label": "NEVER THE SAME",
+        "sub": "changing beauty",
+        "label_on": "unique"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Crystal Ice Caves ice caves iceland photo",
+        "query2": "glacier cave"
+      }
+    ],
+    "description": "📍 Crystal Ice Caves, Vatnajökull - Iceland. Stunning caves filled with crystal blue ice, each unique with every season. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#icedcaves",
+      "#iceland",
+      "#hiddengems",
+      "#glaciers",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Journey Through Tanzania's Wilderness",
+    "place": "Serengeti National Park",
+    "country": "Tanzania",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The Serengeti hosts the world's greatest wildlife spectacle each year.",
+        "hook_top": "WILDLIFE SPECTACLE",
+        "query": "Serengeti National Park serengeti migrations",
+        "query2": "serengeti big five"
+      },
+      {
+        "role": "map",
+        "text": "Located in northern Tanzania, it is one of the most famous national parks."
+      },
+      {
+        "role": "fact",
+        "text": "The Great Migration involves over two million animals moving in search of greener pastures.",
+        "query": "Serengeti National Park great migration numbers",
+        "query2": "animal migration",
+        "chips": [
+          {
+            "t": "2 MILLION ANIMALS",
+            "on": "migration",
+            "style": "white"
+          }
+        ],
+        "punch": "migration"
+      },
+      {
+        "role": "callout",
+        "text": "Encounter lions, elephants, zebras, and more in their natural habitat.",
+        "query": "Serengeti National Park serengeti wildlife",
+        "query2": "big five safari",
+        "label": "DIVERSE WILDLIFE",
+        "sub": "in action",
+        "label_on": "wildlife"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Serengeti National Park serengeti landscape",
+        "query2": "savanna sunset"
+      }
+    ],
+    "description": "📍 Serengeti National Park, Mara Region - Tanzania. A haven for wildlife lovers, witnessing the Great Migration. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#serengeti",
+      "#tanzania",
+      "#hiddengems",
+      "#wildlife",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

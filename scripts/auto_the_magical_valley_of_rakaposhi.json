@@ -1,0 +1,59 @@
+{
+  "title": "The Magical Valley of Rakaposhi",
+  "place": "Rakaposhi Base Camp",
+  "country": "Pakistan",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Witness the highest peak rising above an enchanting valley.",
+      "hook_top": "THE MAGIC OF RAKAPOSHI",
+      "query": "rakaposhi base camp view",
+      "query2": "rakaposhi panoramic view"
+    },
+    {
+      "role": "map",
+      "text": "This is Rakaposhi Base Camp, located in the Hunza Valley, Pakistan."
+    },
+    {
+      "role": "fact",
+      "text": "Rakaposhi stands 7,788 meters tall, making it one of the highest peaks in the Karakoram range.",
+      "query": "Rakaposhi Base Camp rakaposhi height",
+      "query2": "rakaposhi mountain details",
+      "chips": [
+        {
+          "t": "7,788 METERS HIGH",
+          "on": "height",
+          "style": "orange"
+        }
+      ],
+      "punch": "high"
+    },
+    {
+      "role": "callout",
+      "text": "The base camp offers stunning views of glaciers and lush landscapes.",
+      "query": "rakaposhi base camp scenery",
+      "query2": "rakaposhi glaciers",
+      "label": "STUNNING SCENERY",
+      "sub": "nature's grandeur",
+      "label_on": "views",
+      "punch": "stunning"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Rakaposhi Base Camp rakaposhi sunset",
+      "query2": "rakaposhi hiking"
+    }
+  ],
+  "description": "📍 Rakaposhi Base Camp, Hunza Valley - Pakistan. Experience the breathtaking views of the majestic Rakaposhi peak. Follow for daily hidden places! 🏔️",
+  "hashtags": [
+    "#travel",
+    "#rakaposhi",
+    "#pakistan",
+    "#hiddengems",
+    "#mountains",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

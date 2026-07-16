@@ -1,0 +1,59 @@
+{
+  "title": "The Gelato Capital of the World",
+  "place": "Bologna",
+  "country": "Italy",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Bologna is considered the gelato capital, serving delicious flavors everywhere.",
+      "hook_top": "A GELATO PARADISE",
+      "query": "bologna gelato shops",
+      "query2": "bologna ice cream"
+    },
+    {
+      "role": "map",
+      "text": "This is Bologna, situated in the Emilia-Romagna region of Italy."
+    },
+    {
+      "role": "fact",
+      "text": "Bologna boasts some of the oldest gelato shops, crafting this treat since the 16th century.",
+      "query": "bologna gelato history",
+      "query2": "old gelato shops bologna",
+      "chips": [
+        {
+          "t": "SERVED SINCE 16TH CENTUR",
+          "on": "oldest shops",
+          "style": "orange"
+        }
+      ],
+      "punch": "gelato"
+    },
+    {
+      "role": "callout",
+      "text": "You can find unique flavors you can't resist!",
+      "query": "Bologna unique gelato flavors",
+      "query2": "bologna creative gelato",
+      "label": "UNIQUE FLAVORS",
+      "sub": "surprising tastes await!",
+      "label_on": "flavors",
+      "punch": "can't resist"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "bologna architecture",
+      "query2": "bologna beautiful streets"
+    }
+  ],
+  "description": "📍 Bologna, Emilia-Romagna - Italy. Known as the gelato capital, it offers flavors dating back to the 16th century. Follow for daily hidden places! 🍦",
+  "hashtags": [
+    "#travel",
+    "#bologna",
+    "#italy",
+    "#gelato",
+    "#hiddengems",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

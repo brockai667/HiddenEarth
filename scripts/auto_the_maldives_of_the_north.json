@@ -1,0 +1,59 @@
+{
+  "title": "The Maldives of the North",
+  "place": "Lake Bohinj",
+  "country": "Slovenia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This pristine lake is surrounded by majestic mountain views.",
+      "hook_top": "THE MALDIVES OF EUROPE",
+      "query": "lake bohinj aerial",
+      "query2": "lake bohinj landscape"
+    },
+    {
+      "role": "map",
+      "text": "This is Lake Bohinj, nestled in the Julian Alps, Slovenia."
+    },
+    {
+      "role": "fact",
+      "text": "Lake Bohinj is the largest glacial lake in Slovenia, known for its crystal-clear waters.",
+      "query": "lake bohinj clear water",
+      "query2": "slovenia glacial lakes",
+      "chips": [
+        {
+          "t": "LARGEST GLACIAL LAKE",
+          "on": "largest",
+          "style": "orange"
+        }
+      ],
+      "punch": "crystal-clear"
+    },
+    {
+      "role": "callout",
+      "text": "Its vibrant colors range from deep blue to emerald green.",
+      "query": "lake bohinj colors",
+      "query2": "lake bohinj reflections",
+      "label": "VIBRANT COLORS",
+      "sub": "nature’s palette",
+      "label_on": "colors",
+      "punch": "emerald"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "lake bohinj sunset",
+      "query2": "slovenia alps"
+    }
+  ],
+  "description": "📍 Lake Bohinj, Julian Alps - Slovenia. This stunning glacial lake is famed for its crystal-clear waters and breathtaking views. Follow for daily hidden places! 🌊",
+  "hashtags": [
+    "#travel",
+    "#lakebohinj",
+    "#slovenia",
+    "#hiddengems",
+    "#nature",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
