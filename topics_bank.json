@@ -4014,5 +4014,359 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Enchanted Island of Madeira",
+    "place": "Madeira",
+    "country": "Portugal",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "An island where nature crafts breathtaking levadas and cliffs.",
+        "hook_top": "NATURE'S WORK OF ART",
+        "query": "madeira levada",
+        "query2": "madeira cliffs"
+      },
+      {
+        "role": "map",
+        "text": "This is Madeira, an archipelago in the Atlantic Ocean, part of Portugal."
+      },
+      {
+        "role": "fact",
+        "text": "Madeira is known for its unique network of levadas—irrigation channels created in the 16th century.",
+        "query": "madeira levada history",
+        "query2": "levadas irrigation channels",
+        "chips": [
+          {
+            "t": "16TH CENTURY",
+            "on": "century",
+            "style": "orange"
+          }
+        ],
+        "punch": "levadas"
+      },
+      {
+        "role": "callout",
+        "text": "Experience dramatic cliffs plunging into crystal-clear waters.",
+        "query": "madeira cliffs aerial",
+        "query2": "madeira coastline",
+        "label": "DRAMATIC CLIFFS",
+        "sub": "plunging into the ocean",
+        "label_on": "cliffs",
+        "punch": "dramatic"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "madeira island ocean",
+        "query2": "madeira landscapes"
+      }
+    ],
+    "description": "📍 Madeira, Atlantic Ocean - Portugal. A stunning island with picturesque levadas and soaring cliffs. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#madeira",
+      "#portugal",
+      "#hiddengems",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Explore a Week of Wonders in Iceland",
+    "place": "Iceland",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "An entire country that feels like a giant greenhouse of nature.",
+        "hook_top": "ICELAND'S NATURAL MAGIC",
+        "query": "iceland geothermal",
+        "query2": "iceland landscapes"
+      },
+      {
+        "role": "map",
+        "text": "This is Iceland, located in the North Atlantic Ocean."
+      },
+      {
+        "role": "fact",
+        "text": "Iceland is home to geysers, waterfalls, and hot springs, thanks to its volcanic activity.",
+        "query": "iceland geyser",
+        "query2": "iceland hot springs",
+        "chips": [
+          {
+            "t": "GRAND GEOFEST",
+            "on": "geothermal",
+            "style": "white"
+          }
+        ],
+        "punch": "hot springs"
+      },
+      {
+        "role": "callout",
+        "text": "Witness the Midnight Sun during summer months.",
+        "query": "iceland midnight sun",
+        "query2": "iceland summer",
+        "label": "MIDNIGHT SUN",
+        "sub": "a surreal experience",
+        "label_on": "sun",
+        "punch": "surreal"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "iceland landscapes",
+        "query2": "iceland nature"
+      }
+    ],
+    "description": "📍 Iceland, North Atlantic Ocean - Iceland. A country where nature showcases geothermal wonders and awe-inspiring landscapes. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#iceland",
+      "#hiddengems",
+      "#nature",
+      "#geothermal",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "A Week in the French Riviera's Paradise",
+    "place": "French Riviera",
+    "country": "France",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Glimpse the dazzling coastlines and luxury of the French Riviera.",
+        "hook_top": "LUXURY BY THE SEA",
+        "query": "french riviera coast",
+        "query2": "cote d'azur"
+      },
+      {
+        "role": "map",
+        "text": "This is the French Riviera, located in southeastern France along the Mediterranean Sea."
+      },
+      {
+        "role": "fact",
+        "text": "The Riviera is known for its glamorous resorts and stunning coastal views.",
+        "query": "french riviera resorts",
+        "query2": "french riviera views",
+        "chips": [
+          {
+            "t": "GLAMOROUS GETAWAY",
+            "on": "resorts",
+            "style": "orange"
+          }
+        ],
+        "punch": "views"
+      },
+      {
+        "role": "callout",
+        "text": "Experience the vibrant culture and local cuisine.",
+        "query": "french riviera food",
+        "query2": "french riviera culture",
+        "label": "VIBRANT CULTURE",
+        "sub": "flavors of the sea",
+        "label_on": "cuisine",
+        "punch": "vibrant"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "french riviera sunset",
+        "query2": "cote d'azur sunset"
+      }
+    ],
+    "description": "📍 French Riviera, Southeastern France - France. A lavish coastline filled with cultural treasures and stunning views. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#frenchriviera",
+      "#france",
+      "#hiddengems",
+      "#luxury",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "A Tiny Gem in the Jungle of Myanmar",
+    "place": "Inle Lake",
+    "country": "Myanmar",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Discover a serene lake known for its floating gardens and unique culture.",
+        "hook_top": "FLOATING GARDENS SURPRISE",
+        "query": "inle lake gardens",
+        "query2": "inle lake culture"
+      },
+      {
+        "role": "map",
+        "text": "This is Inle Lake, located in Shan State, Myanmar."
+      },
+      {
+        "role": "fact",
+        "text": "Inle Lake is famous for its traditional fishermen who row with one leg.",
+        "query": "inle lake fishermen",
+        "query2": "inle lake unique fishing",
+        "chips": [
+          {
+            "t": "LEG-ROWING FISHERMEN",
+            "on": "fishermen",
+            "style": "orange"
+          }
+        ],
+        "punch": "fishermen"
+      },
+      {
+        "role": "callout",
+        "text": "Explore the beautiful floating gardens cultivated by local families.",
+        "query": "inle lake floating gardens",
+        "query2": "inle lake agricultural methods",
+        "label": "FLOATING GARDENS",
+        "sub": "sustainable agriculture",
+        "label_on": "gardens",
+        "punch": "sustainable"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "inle lake sunrise",
+        "query2": "inle lake landscapes"
+      }
+    ],
+    "description": "📍 Inle Lake, Shan State - Myanmar. A tranquil lake renowned for its unique fishing techniques and vibrant floating gardens. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#inlelake",
+      "#myanmar",
+      "#hiddengems",
+      "#culture",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Discover the Vibrant Colors of Socotra Island",
+    "place": "Socotra Island",
+    "country": "Yemen",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "A place where plants look like they've landed from another planet.",
+        "hook_top": "AN ALIEN LANDSCAPE",
+        "query": "socotra island flora",
+        "query2": "socotra island landscape"
+      },
+      {
+        "role": "map",
+        "text": "This is Socotra Island, located off the coast of Yemen."
+      },
+      {
+        "role": "fact",
+        "text": "Socotra is home to over a third of its plant species found nowhere else on Earth.",
+        "query": "Socotra Island socotra unique plants",
+        "query2": "socotra biodiversity",
+        "chips": [
+          {
+            "t": "1/3 OF FLORA UNIQUE",
+            "on": "plants",
+            "style": "orange"
+          }
+        ],
+        "punch": "biodiversity"
+      },
+      {
+        "role": "callout",
+        "text": "Discover the iconic Dragon's Blood tree, known for its red sap.",
+        "query": "Socotra Island socotra dragon's blood tree",
+        "query2": "socotra island trees",
+        "label": "DRAGON'S BLOOD TREE",
+        "sub": "unique to Socotra",
+        "label_on": "tree",
+        "punch": "iconic"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "socotra island sunset",
+        "query2": "socotra island scenery"
+      }
+    ],
+    "description": "📍 Socotra Island, Yemen - Yemen. An island with extraordinary plant life that looks from another world. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#socotra",
+      "#yemen",
+      "#hiddengems",
+      "#flora",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Mysterious Colors of Lake Baikal",
+    "place": "Lake Baikal",
+    "country": "Russia",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Discover the world's deepest and oldest freshwater lake.",
+        "hook_top": "MYSTERY OF BAIKAL",
+        "query": "lake baikal ice",
+        "query2": "lake baikal scenery"
+      },
+      {
+        "role": "map",
+        "text": "This is Lake Baikal, located in Siberia, Russia."
+      },
+      {
+        "role": "fact",
+        "text": "Lake Baikal holds about 20% of the world's unfrozen freshwater.",
+        "query": "lake baikal facts",
+        "query2": "lake baikal water volume",
+        "chips": [
+          {
+            "t": "20% OF WORLD'S FRESHWATE",
+            "on": "freshwater",
+            "style": "orange"
+          }
+        ],
+        "punch": "unfrozen"
+      },
+      {
+        "role": "callout",
+        "text": "Witness the spectacular ice formations during winter.",
+        "query": "lake baikal winter",
+        "query2": "lake baikal ice formations",
+        "label": "SPECTACULAR ICE",
+        "sub": "nature's artistry",
+        "label_on": "ice",
+        "punch": "spectacular"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "lake baikal summer",
+        "query2": "lake baikal views"
+      }
+    ],
+    "description": "📍 Lake Baikal, Siberia - Russia. The world's deepest lake, known for its breathtaking ice formations and abundant freshwater. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#lakebaikal",
+      "#russia",
+      "#hiddengems",
+      "#nature",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

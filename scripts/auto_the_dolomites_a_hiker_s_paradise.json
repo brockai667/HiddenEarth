@@ -1,0 +1,58 @@
+{
+  "title": "The Dolomites: A Hiker's Paradise",
+  "place": "Dolomites",
+  "country": "Italy",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The Dolomites rise dramatically from the earth, stunning any traveler.",
+      "hook_top": "A HIKER'S PARADISE",
+      "query": "dolomites mountain landscape",
+      "query2": "italian alps hiking"
+    },
+    {
+      "role": "map",
+      "text": "These majestic mountains are located in northeastern Italy."
+    },
+    {
+      "role": "fact",
+      "text": "The Dolomites were declared a UNESCO World Heritage Site in 2009.",
+      "query": "dolomites UNESCO site",
+      "query2": "mountain UNESCO",
+      "chips": [
+        {
+          "t": "UNESCO SITE",
+          "on": "heritage",
+          "style": "white"
+        }
+      ],
+      "punch": "heritage"
+    },
+    {
+      "role": "callout",
+      "text": "The diversity of trails attracts both novice and expert hikers.",
+      "query": "dolomites hiking trails",
+      "query2": "mountain trails",
+      "label": "ENDLESS TRAILS",
+      "sub": "for all skill levels",
+      "label_on": "trails"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "dolomites sunset view",
+      "query2": "mountain sunset"
+    }
+  ],
+  "description": "📍 Dolomites, Trentino-Alto Adige - Italy. A breathtaking mountain range perfect for hikers and nature lovers. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#dolomites",
+    "#italy",
+    "#hiddengems",
+    "#mountains",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

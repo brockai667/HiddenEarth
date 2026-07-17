@@ -1,0 +1,58 @@
+{
+  "title": "Discover the Enchanting Beauty of Croatia",
+  "place": "Plitvice Lakes",
+  "country": "Croatia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Plitvice Lakes showcase cascading waterfalls and vibrant blue waters.",
+      "hook_top": "NATURE'S WATERFALLS",
+      "query": "plitvice lakes waterfalls",
+      "query2": "croatia lakes"
+    },
+    {
+      "role": "map",
+      "text": "Located in central Croatia, Plitvice Lakes is a national park."
+    },
+    {
+      "role": "fact",
+      "text": "It's home to 16 terraced lakes connected by waterfalls.",
+      "query": "plitvice lakes terraced",
+      "query2": "waterfall formations",
+      "chips": [
+        {
+          "t": "16 TERACED LAKES",
+          "on": "lakes",
+          "style": "white"
+        }
+      ],
+      "punch": "waterfalls"
+    },
+    {
+      "role": "callout",
+      "text": "The park is renowned for its vibrant hues of blue and green.",
+      "query": "plitvice lakes colors",
+      "query2": "blue green lakes",
+      "label": "VIBRANT COLORS",
+      "sub": "a natural palette",
+      "label_on": "colors"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "plitvice lakes sunrise",
+      "query2": "sunrise over lakes"
+    }
+  ],
+  "description": "📍 Plitvice Lakes, Lika-Senj - Croatia. A breathtaking national park with stunning waterfalls and colorful lakes. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#plitvicelakes",
+    "#croatia",
+    "#hiddengems",
+    "#nature",
+    "#waterfalls",
+    "#shorts",
+    "#fyp"
+  ]
+}

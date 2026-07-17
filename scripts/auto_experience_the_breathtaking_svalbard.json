@@ -1,0 +1,58 @@
+{
+  "title": "Experience the Breathtaking Svalbard",
+  "place": "Svalbard",
+  "country": "Norway",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Svalbard is one of the northernmost inhabited places on Earth.",
+      "hook_top": "THE ARCTIC WILDERNESS",
+      "query": "svalbard arctic landscape",
+      "query2": "northern lights svalbard"
+    },
+    {
+      "role": "map",
+      "text": "Located in the Arctic Ocean, Svalbard belongs to Norway."
+    },
+    {
+      "role": "fact",
+      "text": "Svalbard has more polar bears than people, making it a unique ecosystem.",
+      "query": "svalbard polar bears",
+      "query2": "arctic wildlife",
+      "chips": [
+        {
+          "t": "MORE POLAR BEARS",
+          "on": "polar bears",
+          "style": "orange"
+        }
+      ],
+      "punch": "polar"
+    },
+    {
+      "role": "callout",
+      "text": "The Northern Lights dance vividly across its skies.",
+      "query": "svalbard northern lights",
+      "query2": "aurora borealis",
+      "label": "NORTHERN LIGHTS",
+      "sub": "a spectacular show",
+      "label_on": "dance"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "svalbard landscape view",
+      "query2": "arctic scenery"
+    }
+  ],
+  "description": "📍 Svalbard, Arctic Ocean - Norway. An Arctic wilderness with stunning landscapes and more polar bears than humans. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#svalbard",
+    "#norway",
+    "#hiddengems",
+    "#arctic",
+    "#wildlife",
+    "#shorts",
+    "#fyp"
+  ]
+}
