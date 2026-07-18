@@ -24,8 +24,8 @@ BASE = os.environ.get("MODELS_BASE_URL", "https://models.github.ai/inference")
 TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
 # Nika: CESTOVANIE / hidden earth -> kde ludia realne diskutuju / co pozeraju
-TREND_SUBREDDITS = ['travel', 'geography', 'MostBeautiful', 'EarthPorn', 'AbandonedPorn']
-TREND_YT_QUERIES = ['hidden places on earth', 'most beautiful places', 'abandoned places']
+TREND_SUBREDDITS = ['EarthPorn', 'geography', 'MostBeautiful', 'NatureIsFuckingLit', 'travel']
+TREND_YT_QUERIES = ['amazing places on earth', 'strange natural wonders', 'unique landscapes']
 
 SYSTEM = ("You are a scriptwriter for a premium travel brand that profiles ONE specific, real, "
           "stunning place on Earth per video - a tiny cinematic mini-doc. You ALWAYS name the place "
@@ -66,6 +66,13 @@ CTAS = [
     "Follow for places that don't feel real.",
 ]
 
+
+
+PERFORMANCE = (
+    "\nPERFORMANCE DATA (real results - obey this, it decides reach):\n"
+    "- WHAT PERFORMS (strongly prefer these): ONE specific, visually striking real place with a surprising trait (a lake that is naturally pink, a desert that shimmers, a shore that glows) - nameable and findable.\n"
+    "- WHAT KILLS REACH (avoid): generic 'top travel tips', vague 'hidden gems' lists, city/tourism logistics, and any place without a single strong visual hook.\n"
+)
 
 def build_prompt(n, existing_titles, existing_places, trending=None):
     trend_block = ""
@@ -115,7 +122,7 @@ def build_prompt(n, existing_titles, existing_places, trending=None):
         "do NOT start more than one in five titles with a number.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         f"- Do NOT use any of these already-covered places (no repeats, not even from a new angle): {existing_places}\n"
-        + trend_block +
+        + PERFORMANCE + trend_block +
         "Return ONLY the JSON array."
     )
 
