@@ -1,0 +1,58 @@
+{
+  "title": "The Unbelievable Ice Caves of Iceland",
+  "place": "Crystal Ice Caves",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "These crystal blue ice caves are nature's art galleries.",
+      "hook_top": "NATURAL ICE CAVES",
+      "query": "iceland crystal ice caves",
+      "query2": "blue ice caves"
+    },
+    {
+      "role": "map",
+      "text": "Located beneath Vatnajökull, Iceland's largest glacier."
+    },
+    {
+      "role": "fact",
+      "text": "These caves form during melting seasons, creating stunning blue ice formations.",
+      "query": "Crystal Ice Caves iceland cave formation",
+      "query2": "ice glacier caves",
+      "chips": [
+        {
+          "t": "SPECTACULAR FORMATIONS",
+          "on": "form",
+          "style": "orange"
+        }
+      ],
+      "punch": "blue"
+    },
+    {
+      "role": "callout",
+      "text": "Each cave is unique and changes with the seasons.",
+      "query": "Crystal Ice Caves ice cave uniqueness",
+      "query2": "seasonal ice caves",
+      "label": "NEVER THE SAME",
+      "sub": "changing beauty",
+      "label_on": "unique"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Crystal Ice Caves ice caves iceland photo",
+      "query2": "glacier cave"
+    }
+  ],
+  "description": "📍 Crystal Ice Caves, Vatnajökull - Iceland. Stunning caves filled with crystal blue ice, each unique with every season. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#icedcaves",
+    "#iceland",
+    "#hiddengems",
+    "#glaciers",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

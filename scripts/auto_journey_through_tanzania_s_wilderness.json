@@ -1,0 +1,58 @@
+{
+  "title": "Journey Through Tanzania's Wilderness",
+  "place": "Serengeti National Park",
+  "country": "Tanzania",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The Serengeti hosts the world's greatest wildlife spectacle each year.",
+      "hook_top": "WILDLIFE SPECTACLE",
+      "query": "Serengeti National Park serengeti migrations",
+      "query2": "serengeti big five"
+    },
+    {
+      "role": "map",
+      "text": "Located in northern Tanzania, it is one of the most famous national parks."
+    },
+    {
+      "role": "fact",
+      "text": "The Great Migration involves over two million animals moving in search of greener pastures.",
+      "query": "Serengeti National Park great migration numbers",
+      "query2": "animal migration",
+      "chips": [
+        {
+          "t": "2 MILLION ANIMALS",
+          "on": "migration",
+          "style": "white"
+        }
+      ],
+      "punch": "migration"
+    },
+    {
+      "role": "callout",
+      "text": "Encounter lions, elephants, zebras, and more in their natural habitat.",
+      "query": "Serengeti National Park serengeti wildlife",
+      "query2": "big five safari",
+      "label": "DIVERSE WILDLIFE",
+      "sub": "in action",
+      "label_on": "wildlife"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Serengeti National Park serengeti landscape",
+      "query2": "savanna sunset"
+    }
+  ],
+  "description": "📍 Serengeti National Park, Mara Region - Tanzania. A haven for wildlife lovers, witnessing the Great Migration. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#serengeti",
+    "#tanzania",
+    "#hiddengems",
+    "#wildlife",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

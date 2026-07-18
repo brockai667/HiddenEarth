@@ -1,0 +1,59 @@
+{
+  "title": "The Enchanted Island of Madeira",
+  "place": "Madeira",
+  "country": "Portugal",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "An island where nature crafts breathtaking levadas and cliffs.",
+      "hook_top": "NATURE'S WORK OF ART",
+      "query": "madeira levada",
+      "query2": "madeira cliffs"
+    },
+    {
+      "role": "map",
+      "text": "This is Madeira, an archipelago in the Atlantic Ocean, part of Portugal."
+    },
+    {
+      "role": "fact",
+      "text": "Madeira is known for its unique network of levadas—irrigation channels created in the 16th century.",
+      "query": "madeira levada history",
+      "query2": "levadas irrigation channels",
+      "chips": [
+        {
+          "t": "16TH CENTURY",
+          "on": "century",
+          "style": "orange"
+        }
+      ],
+      "punch": "levadas"
+    },
+    {
+      "role": "callout",
+      "text": "Experience dramatic cliffs plunging into crystal-clear waters.",
+      "query": "madeira cliffs aerial",
+      "query2": "madeira coastline",
+      "label": "DRAMATIC CLIFFS",
+      "sub": "plunging into the ocean",
+      "label_on": "cliffs",
+      "punch": "dramatic"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "madeira island ocean",
+      "query2": "madeira landscapes"
+    }
+  ],
+  "description": "📍 Madeira, Atlantic Ocean - Portugal. A stunning island with picturesque levadas and soaring cliffs. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#madeira",
+    "#portugal",
+    "#hiddengems",
+    "#nature",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
