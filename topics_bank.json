@@ -4606,5 +4606,241 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Glacier-Laden Valley That Takes Your Breath Away",
+    "place": "Glacier Basin",
+    "country": "United States",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "A valley cradled by towering glaciers awaits you.",
+        "hook_top": "A GLACIERLADEN VALLEY",
+        "query": "glacier basin mont rainier",
+        "query2": "mount rainier glacier"
+      },
+      {
+        "role": "map",
+        "text": "This is Glacier Basin, located in Mount Rainier National Park, Washington."
+      },
+      {
+        "role": "fact",
+        "text": "The valley is home to diverse ecosystems nourished by glacial meltwater.",
+        "query": "glacier basin ecosystems",
+        "query2": "glacial meltwater valley",
+        "chips": [
+          {
+            "t": "DIVERSE ECOSYSTEMS",
+            "on": "diverse",
+            "style": "white"
+          }
+        ],
+        "punch": "meltwater"
+      },
+      {
+        "role": "callout",
+        "text": "Fern-filled forests thrive in the unique climate.",
+        "query": "glacier basin forest",
+        "query2": "forest climate glacier",
+        "label": "FERN-FILLED FORESTS",
+        "sub": "unique to glacier areas",
+        "label_on": "forests",
+        "punch": "climate"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "glacier basin aerial",
+        "query2": "mount rainier aerial view"
+      }
+    ],
+    "description": "📍 Glacier Basin, Mount Rainier National Park - Washington. A breathtaking valley surrounded by glaciers with lush ecosystems thriving from meltwater. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#glacierbasin",
+      "#mountainview",
+      "#hiddengems",
+      "#glaciers",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Valley of Giants: Nature's Own Cathedral",
+    "place": "Sequoia Kings Canyon",
+    "country": "United States",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Home to some of the largest trees on Earth.",
+        "hook_top": "VALLEY OF GIANTS",
+        "query": "sequoia kings canyon trees",
+        "query2": "giant trees valley"
+      },
+      {
+        "role": "map",
+        "text": "This is Sequoia Kings Canyon, located in California, USA."
+      },
+      {
+        "role": "fact",
+        "text": "The Giant Sequoias can grow over 300 feet tall and live for thousands of years.",
+        "query": "Sequoia Kings Canyon sequoia trees height",
+        "query2": "giant trees age",
+        "chips": [
+          {
+            "t": "OVER 300 FEET TALL",
+            "on": "tall",
+            "style": "orange"
+          }
+        ],
+        "punch": "tall"
+      },
+      {
+        "role": "callout",
+        "text": "Feel dwarfed as you walk beneath the massive trunks.",
+        "query": "Sequoia Kings Canyon sequoia forest walk",
+        "query2": "giant trees perspective",
+        "label": "WALK BENEATH GIANTS",
+        "sub": "feel their enormity",
+        "label_on": "walk",
+        "punch": "dwarfed"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "sequoia kings canyon",
+        "query2": "giant trees national park"
+      }
+    ],
+    "description": "📍 Sequoia Kings Canyon, California - United States. A majestic valley filled with the largest trees on Earth, towering over you in wonder. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#sequoiakingscanyon",
+      "#gianttrees",
+      "#hiddengems",
+      "#naturelovers",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Crystalline Waters of a Hidden Beach",
+    "place": "Playa de las Catedrales",
+    "country": "Spain",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Stunning rock formations meet crystalline blue waters.",
+        "hook_top": "HIDDEN BEACH PARADISE",
+        "query": "playa de las catedrales beach",
+        "query2": "crystalline beach view"
+      },
+      {
+        "role": "map",
+        "text": "This is Playa de las Catedrales, located in Galicia, Spain."
+      },
+      {
+        "role": "fact",
+        "text": "The beach is famous for its stunning arches and natural rock formations.",
+        "query": "playa de las catedrales formations",
+        "query2": "rock formations beach",
+        "chips": [
+          {
+            "t": "NATURAL ARCHES",
+            "on": "arches",
+            "style": "orange"
+          }
+        ],
+        "punch": "arches"
+      },
+      {
+        "role": "callout",
+        "text": "Explore the beach at low tide for breathtaking views.",
+        "query": "playa de las catedrales tide",
+        "query2": "low tide beach view",
+        "label": "EXPLORE AT LOW TIDE",
+        "sub": "discover hidden beauty",
+        "label_on": "low tide",
+        "punch": "explore"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "playa de las catedrales sunset",
+        "query2": "beach sunset views"
+      }
+    ],
+    "description": "📍 Playa de las Catedrales, Galicia - Spain. A breathtaking beach with stunning rock formations and crystalline waters, best visited at low tide. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#playadelascatedrales",
+      "#spain",
+      "#hiddengems",
+      "#beaches",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Breathtaking Patterns of Nature’s Canvas",
+    "place": "Zhangye Danxia Landform",
+    "country": "China",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Nature's own palette has painted this colorful landscape.",
+        "hook_top": "NATURE'S COLORFUL CANVAS",
+        "query": "Zhangye Danxia Landform zhangye danxia aerial",
+        "query2": "colorful landforms"
+      },
+      {
+        "role": "map",
+        "text": "This is Zhangye Danxia, located in Gansu Province, China."
+      },
+      {
+        "role": "fact",
+        "text": "The vibrant colors are a result of red sandstone and mineral deposits.",
+        "query": "Zhangye Danxia Landform zhangye danxia colors",
+        "query2": "colorful rock formations",
+        "chips": [
+          {
+            "t": "VIBRANT COLORS",
+            "on": "colors",
+            "style": "orange"
+          }
+        ],
+        "punch": "colors"
+      },
+      {
+        "role": "callout",
+        "text": "These formations are a UNESCO World Heritage site.",
+        "query": "Zhangye Danxia Landform zhangye danxia site",
+        "query2": "UNESCO heritage location",
+        "label": "UNESCO WORLD HERITAGE",
+        "sub": "protected for its beauty",
+        "label_on": "UNESCO",
+        "punch": "heritage"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Zhangye Danxia Landform zhangye danxia landscape",
+        "query2": "colorful landscape view"
+      }
+    ],
+    "description": "📍 Zhangye Danxia, Gansu Province - China. A stunning landscape painted with vibrant colors formed from sandstone and mineral deposits. Follow for daily hidden places! 🌍",
+    "hashtags": [
+      "#travel",
+      "#zhangyedanxia",
+      "#china",
+      "#hiddengems",
+      "#colorfullandforms",
+      "#earth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

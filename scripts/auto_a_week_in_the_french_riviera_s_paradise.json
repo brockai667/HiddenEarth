@@ -1,0 +1,59 @@
+{
+  "title": "A Week in the French Riviera's Paradise",
+  "place": "French Riviera",
+  "country": "France",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Glimpse the dazzling coastlines and luxury of the French Riviera.",
+      "hook_top": "LUXURY BY THE SEA",
+      "query": "french riviera coast",
+      "query2": "cote d'azur"
+    },
+    {
+      "role": "map",
+      "text": "This is the French Riviera, located in southeastern France along the Mediterranean Sea."
+    },
+    {
+      "role": "fact",
+      "text": "The Riviera is known for its glamorous resorts and stunning coastal views.",
+      "query": "french riviera resorts",
+      "query2": "french riviera views",
+      "chips": [
+        {
+          "t": "GLAMOROUS GETAWAY",
+          "on": "resorts",
+          "style": "orange"
+        }
+      ],
+      "punch": "views"
+    },
+    {
+      "role": "callout",
+      "text": "Experience the vibrant culture and local cuisine.",
+      "query": "french riviera food",
+      "query2": "french riviera culture",
+      "label": "VIBRANT CULTURE",
+      "sub": "flavors of the sea",
+      "label_on": "cuisine",
+      "punch": "vibrant"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "french riviera sunset",
+      "query2": "cote d'azur sunset"
+    }
+  ],
+  "description": "📍 French Riviera, Southeastern France - France. A lavish coastline filled with cultural treasures and stunning views. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#frenchriviera",
+    "#france",
+    "#hiddengems",
+    "#luxury",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

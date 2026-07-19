@@ -1,0 +1,59 @@
+{
+  "title": "Explore a Week of Wonders in Iceland",
+  "place": "Iceland",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "An entire country that feels like a giant greenhouse of nature.",
+      "hook_top": "ICELAND'S NATURAL MAGIC",
+      "query": "iceland geothermal",
+      "query2": "iceland landscapes"
+    },
+    {
+      "role": "map",
+      "text": "This is Iceland, located in the North Atlantic Ocean."
+    },
+    {
+      "role": "fact",
+      "text": "Iceland is home to geysers, waterfalls, and hot springs, thanks to its volcanic activity.",
+      "query": "iceland geyser",
+      "query2": "iceland hot springs",
+      "chips": [
+        {
+          "t": "GRAND GEOFEST",
+          "on": "geothermal",
+          "style": "white"
+        }
+      ],
+      "punch": "hot springs"
+    },
+    {
+      "role": "callout",
+      "text": "Witness the Midnight Sun during summer months.",
+      "query": "iceland midnight sun",
+      "query2": "iceland summer",
+      "label": "MIDNIGHT SUN",
+      "sub": "a surreal experience",
+      "label_on": "sun",
+      "punch": "surreal"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "iceland landscapes",
+      "query2": "iceland nature"
+    }
+  ],
+  "description": "📍 Iceland, North Atlantic Ocean - Iceland. A country where nature showcases geothermal wonders and awe-inspiring landscapes. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#iceland",
+    "#hiddengems",
+    "#nature",
+    "#geothermal",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

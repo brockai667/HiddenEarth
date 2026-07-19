@@ -1,0 +1,59 @@
+{
+  "title": "A Tiny Gem in the Jungle of Myanmar",
+  "place": "Inle Lake",
+  "country": "Myanmar",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Discover a serene lake known for its floating gardens and unique culture.",
+      "hook_top": "FLOATING GARDENS SURPRISE",
+      "query": "inle lake gardens",
+      "query2": "inle lake culture"
+    },
+    {
+      "role": "map",
+      "text": "This is Inle Lake, located in Shan State, Myanmar."
+    },
+    {
+      "role": "fact",
+      "text": "Inle Lake is famous for its traditional fishermen who row with one leg.",
+      "query": "inle lake fishermen",
+      "query2": "inle lake unique fishing",
+      "chips": [
+        {
+          "t": "LEG-ROWING FISHERMEN",
+          "on": "fishermen",
+          "style": "orange"
+        }
+      ],
+      "punch": "fishermen"
+    },
+    {
+      "role": "callout",
+      "text": "Explore the beautiful floating gardens cultivated by local families.",
+      "query": "inle lake floating gardens",
+      "query2": "inle lake agricultural methods",
+      "label": "FLOATING GARDENS",
+      "sub": "sustainable agriculture",
+      "label_on": "gardens",
+      "punch": "sustainable"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "inle lake sunrise",
+      "query2": "inle lake landscapes"
+    }
+  ],
+  "description": "📍 Inle Lake, Shan State - Myanmar. A tranquil lake renowned for its unique fishing techniques and vibrant floating gardens. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#inlelake",
+    "#myanmar",
+    "#hiddengems",
+    "#culture",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
