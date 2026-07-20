@@ -74,6 +74,101 @@ PERFORMANCE = (
     "- WHAT KILLS REACH (avoid): generic 'top travel tips', vague 'hidden gems' lists, city/tourism logistics, and any place without a single strong visual hook.\n"
 )
 
+
+# ===== FORMATY (pestre kostry -> ziadne "video ako video") + live self-learning z RSS =====
+CHANNEL_ID = "UCdjrqPNF0jq6yE5y_UZWxNw"
+
+FORMATS = {
+    "LOCATED":   ["hook", "map", "fact", "archive", "callout", "cta"],
+    "DEEP":      ["hook", "fact", "archive", "callout", "cta"],
+    "REVEAL":    ["hook", "fact", "fact", "reveal", "cta"],
+    "MYTH":      ["hook", "myth", "truth", "callout", "cta"],
+    "COUNTDOWN": ["hook", "count", "count", "count", "cta"],
+}
+FORMAT_MIX = ["LOCATED", "COUNTDOWN", "LOCATED", "REVEAL", "DEEP"]
+
+_ROLE_SPEC = {
+    "hook":    "hook: text (<14 words, opens a curiosity gap); 'hook_top' = same idea in MAX 6 punchy UPPERCASE words.",
+    "fact":    "fact: text (ONE concrete supporting fact); 'chips' = 1-2 {'t':'MAX 22 CHARS','on':'spoken trigger word','style':'white'|'accent'} using ONLY real documented numbers; optional 'punch' = one spoken word to zoom.",
+    "callout": "callout: text; 'label' = 2-4 word on-screen takeaway; 'sub' = <=34 chars; 'label_on' = spoken trigger word.",
+    "count":   "count: text (one distinct point); 'num' = item number (1,2,3); 'label' = that point in <=22 UPPERCASE chars; 'label_on' = spoken trigger word.",
+    "myth":    "myth: text (states a COMMON BELIEF people wrongly hold); 'label' = that myth in <=28 chars.",
+    "truth":   "truth: text (the CORRECTION / real documented fact busting the myth); 'label' = the real fact in <=28 chars.",
+    "reveal":  "reveal: text (the surprising TWIST); 'reveal_top' = the twist in MAX 6 punchy UPPERCASE words.",
+    "map":     "map: text (says accurately WHERE it happened / was found).",
+    "archive": "archive: text; 'archive_query' = precise Wikimedia Commons search for a REAL archival image (famous site/artifact/building/document - NEVER victims or private people); 'archive_label' = caption <=26 chars.",
+    "cta":     "cta: text (a short 'follow' line).",
+}
+_FMT_HINT = {
+    "COUNTDOWN": "- Shape: a 3-point countdown; the three 'count' scenes are three DISTINCT facts, num=1,2,3.\n",
+    "MYTH":      "- Shape: myth-buster; 'myth' states the common false belief, 'truth' the documented correction.\n",
+    "REVEAL":    "- Shape: build tension across the 'fact' scenes, then 'reveal' drops the surprising twist.\n",
+    "LOCATED":   "- Shape: place-anchored micro-doc; 'map' says WHERE, 'archive' shows the real thing.\n",
+    "DEEP":      "- Shape: ONE subject explored in depth; 'archive' shows the real thing.\n",
+}
+_ALLOWED_ROLES = {"hook", "fact", "callout", "cta", "count", "myth", "truth", "reveal", "map", "archive"}
+_EXTRA_RULES = "- Every topic = ONE nameable real place with a single strong visual hook.\n"
+
+
+def own_channel_performance(top=5, bottom=5):
+    """WINNERS/LOSERS z vlastneho kanala cez verejny RSS feed (ziadny kluc). Best-effort."""
+    try:
+        import urllib.request
+        import datetime
+        xml = urllib.request.urlopen("https://www.youtube.com/feeds/videos.xml?channel_id="
+                                     + CHANNEL_ID, timeout=20).read().decode("utf-8", "replace")
+        rows = []
+        for e in re.findall(r"<entry>.*?</entry>", xml, re.S):
+            t = re.search(r"<media:title>([^<]*)</media:title>", e)
+            v = re.search(r'views="(\d+)"', e)
+            p = re.search(r"<published>(\d{4}-\d{2}-\d{2})", e)
+            if t and v:
+                rows.append((int(v.group(1)), t.group(1), p.group(1) if p else ""))
+        cut = (datetime.date.today() - datetime.timedelta(days=2)).isoformat()
+        mature = [r for r in rows if r[2] and r[2] <= cut] or rows
+        if len(mature) < 4:
+            return ""
+        mature.sort(key=lambda r: -r[0])
+        win = " | ".join(t for _, t, _ in mature[:top])
+        lose = " | ".join(t for _, t, _ in mature[-bottom:])
+        return ("\nOUR CHANNEL'S LIVE RESULTS (make topics with the winners' subject-style and energy; "
+                "avoid the losers' style):\nWINNERS: " + win + "\nLOSERS: " + lose + "\n")
+    except Exception:
+        return ""
+
+
+def build_prompt_fmt(fmt, n, existing_titles, existing_places, trending=None, perf=""):
+    seq = FORMATS[fmt]
+    spec_lines = "\n".join("- " + _ROLE_SPEC[r] for r in dict.fromkeys(seq))
+    trend_block = ""
+    if trending:
+        joined = chr(10).join("- " + t for t in trending)
+        trend_block = (" REAL headlines people watch this week (let some topics be inspired by a "
+                       "specific item; never copy verbatim, never mention Reddit/YouTube): " + joined + " ")
+    return (
+        f"Generate {n} NEW faceless short-form video topics for an amazing-PLACES brand (ONE specific, visually striking real place per video), ALL in the '{fmt}' format.\n"
+        f"Each topic MUST have EXACTLY these scenes, in THIS order: {' -> '.join(seq)}.\n"
+        "Return ONLY a JSON array. Each item = {'title':..., 'thumb':..., 'place':..., 'country':..., "
+        "'scenes':[...], 'description':..., 'hashtags':[...]}.\n"
+        "Scene field rules:\n" + spec_lines + "\n"
+        "- 'place' = where it happened / was found and 'country' - BOTH REQUIRED (map pin; must be "
+        "findable on OpenStreetMap).\n"
+        "- EVERY scene except map/archive needs 'query' = cinematic stock search naming the CONCRETE "
+        "subject/mood of that line (NEVER abstract) and 'query2' = fallback.\n"
+        + _FMT_HINT.get(fmt, "") + _EXTRA_RULES +
+        "- hook MUST contain a concrete number, name or place; NEVER start with 'Imagine', "
+        "'What if', 'Did you know' or 'Have you ever'.\n"
+        "- 'thumb' = 2-3 punchy UPPERCASE words for the thumbnail (most clickable phrase, NOT a sentence).\n"
+        "- ACCURACY IS SACRED: only widely-documented facts and real numbers; never invent figures.\n"
+        "- description: 1-2 engaging sentences + a short follow line; hashtags: 6-9 incl #shorts #fyp.\n"
+        "- VARY titles (bold claim / question / curiosity gap); max 1 in 5 starts with a number.\n"
+        f"- Do NOT reuse or rephrase any of these existing titles: {existing_titles}\n"
+        f"- Do NOT reuse any of these already-covered subjects/places (not even reworded): {existing_places}\n"
+        + PERFORMANCE + perf + trend_block +
+        "Return ONLY the JSON array."
+    )
+
+
 def build_prompt(n, existing_titles, existing_places, trending=None):
     trend_block = ""
     if trending:
@@ -173,11 +268,13 @@ def valid(t):
         if not isinstance(sc, dict) or not sc.get("text"):
             return False
         sc.setdefault("role", "fact")
+        if sc["role"] not in _ALLOWED_ROLES:
+            sc["role"] = "fact"
     roles = [sc["role"] for sc in scenes]
     scenes[0]["role"] = "hook"
     scenes[-1]["role"] = "cta"
-    if "map" not in roles:
-        return False
+    cnt = 0
+    # mapa uz NIE JE povinna (formaty bez mapy = legit; geocode gate riesi zvysok)
     for sc in scenes:
         if sc["role"] == "hook":
             top = re.sub(r"[^A-Za-z0-9' ]", "", str(sc.get("hook_top") or sc["text"]))
@@ -191,7 +288,20 @@ def valid(t):
             for c in chips:
                 c["t"] = str(c["t"])[:24]
             sc["chips"] = chips[:2]
+        elif sc["role"] == "count":
+            cnt += 1
+            try:
+                sc["num"] = int(sc.get("num") or cnt)
+            except Exception:
+                sc["num"] = cnt
+            sc["label"] = str(sc.get("label") or sc.get("text", ""))[:22]
+        elif sc["role"] in ("myth", "truth"):
+            sc["label"] = str(sc.get("label") or sc.get("text", ""))[:28]
+        elif sc["role"] == "reveal":
+            rt = re.sub(r"[^A-Za-z0-9' ]", "", str(sc.get("reveal_top") or sc["text"]))
+            sc["reveal_top"] = " ".join(rt.split()[:6]).upper()
     t.setdefault("description", f"\U0001F4CD {t['place']} - {t['country']}. " + t["title"] + " Follow for daily hidden places!")
+    t["thumb"] = " ".join(str(t.get("thumb") or "").split()[:4]).upper()
     t.setdefault("hashtags", ["#travel", "#hiddengems", "#shorts", "#fyp"])
     return True
 
@@ -339,7 +449,19 @@ def main():
             print("Trendy preskocene:", str(e)[:120])
     places = sorted({_place_key(t) for t in bank if t.get("place")} |
                     {_place_key(u) for u in used})
-    items = extract_json(call_model(build_prompt(need + 3, sorted(titles), places, trending)))
+    perf = own_channel_performance()
+    if perf:
+        print("Live kanal-data: WINNERS/LOSERS zapracovane do promptu.")
+    from collections import Counter as _Ctr
+    plan = _Ctr(FORMAT_MIX[i % len(FORMAT_MIX)] for i in range(need + 2))
+    items = []
+    for _fmt, _cnt in plan.items():
+        try:
+            got = extract_json(call_model(build_prompt_fmt(_fmt, _cnt, sorted(titles), places, trending, perf)))
+            items += got
+            print(f"  format {_fmt}: {len(got)} tem")
+        except Exception as e:
+            print(f"  format {_fmt} preskoceny: {str(e)[:100]}")
     added = 0
     existing_sigs = [_sig(x) for x in titles]
     existing_places = {_place_key(t) for t in bank if t.get("place")}
