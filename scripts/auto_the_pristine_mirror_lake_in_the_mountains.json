@@ -1,0 +1,60 @@
+{
+  "title": "The Pristine Mirror Lake in the Mountains",
+  "place": "Peyto Lake",
+  "country": "Canada",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "This lake reflects a stunning heart shape and is truly breathtaking.",
+      "hook_top": "A HEARTSHAPED LAKE",
+      "query": "peyto lake aerial",
+      "query2": "heart-shaped lake"
+    },
+    {
+      "role": "map",
+      "text": "This is Peyto Lake, located in Banff National Park, Alberta, Canada."
+    },
+    {
+      "role": "fact",
+      "text": "The lake's striking blue color comes from glacial meltwater.",
+      "query": "peyto lake color",
+      "query2": "glacial lake color",
+      "photo_hint": "aerial",
+      "chips": [
+        {
+          "t": "GLACIER-MELTWATER",
+          "on": "color",
+          "style": "white"
+        }
+      ],
+      "punch": "blue"
+    },
+    {
+      "role": "callout",
+      "text": "Look at how the mountains cradle this natural splendor.",
+      "query": "peyto lake surround",
+      "query2": "mountains around lake",
+      "label": "MOUNTAIN CRADLE",
+      "sub": "Nature's embrace of beauty",
+      "label_on": "mountains",
+      "punch": "cradle"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "peyto lake sunset",
+      "query2": "banff national park"
+    }
+  ],
+  "description": "📍 Peyto Lake, Banff National Park - Alberta, Canada. A heart-shaped lake with vibrant blue water, set among majestic mountains. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#pey_tolake",
+    "#canada",
+    "#hiddengems",
+    "#banff",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

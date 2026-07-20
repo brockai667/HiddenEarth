@@ -1,0 +1,59 @@
+{
+  "title": "The Mysterious Colors of Lake Baikal",
+  "place": "Lake Baikal",
+  "country": "Russia",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Discover the world's deepest and oldest freshwater lake.",
+      "hook_top": "MYSTERY OF BAIKAL",
+      "query": "lake baikal ice",
+      "query2": "lake baikal scenery"
+    },
+    {
+      "role": "map",
+      "text": "This is Lake Baikal, located in Siberia, Russia."
+    },
+    {
+      "role": "fact",
+      "text": "Lake Baikal holds about 20% of the world's unfrozen freshwater.",
+      "query": "lake baikal facts",
+      "query2": "lake baikal water volume",
+      "chips": [
+        {
+          "t": "20% OF WORLD'S FRESHWATE",
+          "on": "freshwater",
+          "style": "orange"
+        }
+      ],
+      "punch": "unfrozen"
+    },
+    {
+      "role": "callout",
+      "text": "Witness the spectacular ice formations during winter.",
+      "query": "lake baikal winter",
+      "query2": "lake baikal ice formations",
+      "label": "SPECTACULAR ICE",
+      "sub": "nature's artistry",
+      "label_on": "ice",
+      "punch": "spectacular"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "lake baikal summer",
+      "query2": "lake baikal views"
+    }
+  ],
+  "description": "📍 Lake Baikal, Siberia - Russia. The world's deepest lake, known for its breathtaking ice formations and abundant freshwater. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#lakebaikal",
+    "#russia",
+    "#hiddengems",
+    "#nature",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
