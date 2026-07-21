@@ -1,0 +1,59 @@
+{
+  "title": "The Breathtaking Patterns of Nature’s Canvas",
+  "place": "Zhangye Danxia Landform",
+  "country": "China",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Nature's own palette has painted this colorful landscape.",
+      "hook_top": "NATURE'S COLORFUL CANVAS",
+      "query": "Zhangye Danxia Landform zhangye danxia aerial",
+      "query2": "colorful landforms"
+    },
+    {
+      "role": "map",
+      "text": "This is Zhangye Danxia, located in Gansu Province, China."
+    },
+    {
+      "role": "fact",
+      "text": "The vibrant colors are a result of red sandstone and mineral deposits.",
+      "query": "Zhangye Danxia Landform zhangye danxia colors",
+      "query2": "colorful rock formations",
+      "chips": [
+        {
+          "t": "VIBRANT COLORS",
+          "on": "colors",
+          "style": "orange"
+        }
+      ],
+      "punch": "colors"
+    },
+    {
+      "role": "callout",
+      "text": "These formations are a UNESCO World Heritage site.",
+      "query": "Zhangye Danxia Landform zhangye danxia site",
+      "query2": "UNESCO heritage location",
+      "label": "UNESCO WORLD HERITAGE",
+      "sub": "protected for its beauty",
+      "label_on": "UNESCO",
+      "punch": "heritage"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Zhangye Danxia Landform zhangye danxia landscape",
+      "query2": "colorful landscape view"
+    }
+  ],
+  "description": "📍 Zhangye Danxia, Gansu Province - China. A stunning landscape painted with vibrant colors formed from sandstone and mineral deposits. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#zhangyedanxia",
+    "#china",
+    "#hiddengems",
+    "#colorfullandforms",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}

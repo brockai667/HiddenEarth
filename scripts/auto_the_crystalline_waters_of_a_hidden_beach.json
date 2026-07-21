@@ -1,0 +1,59 @@
+{
+  "title": "The Crystalline Waters of a Hidden Beach",
+  "place": "Playa de las Catedrales",
+  "country": "Spain",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Stunning rock formations meet crystalline blue waters.",
+      "hook_top": "HIDDEN BEACH PARADISE",
+      "query": "playa de las catedrales beach",
+      "query2": "crystalline beach view"
+    },
+    {
+      "role": "map",
+      "text": "This is Playa de las Catedrales, located in Galicia, Spain."
+    },
+    {
+      "role": "fact",
+      "text": "The beach is famous for its stunning arches and natural rock formations.",
+      "query": "playa de las catedrales formations",
+      "query2": "rock formations beach",
+      "chips": [
+        {
+          "t": "NATURAL ARCHES",
+          "on": "arches",
+          "style": "orange"
+        }
+      ],
+      "punch": "arches"
+    },
+    {
+      "role": "callout",
+      "text": "Explore the beach at low tide for breathtaking views.",
+      "query": "playa de las catedrales tide",
+      "query2": "low tide beach view",
+      "label": "EXPLORE AT LOW TIDE",
+      "sub": "discover hidden beauty",
+      "label_on": "low tide",
+      "punch": "explore"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "playa de las catedrales sunset",
+      "query2": "beach sunset views"
+    }
+  ],
+  "description": "📍 Playa de las Catedrales, Galicia - Spain. A breathtaking beach with stunning rock formations and crystalline waters, best visited at low tide. Follow for daily hidden places! 🌍",
+  "hashtags": [
+    "#travel",
+    "#playadelascatedrales",
+    "#spain",
+    "#hiddengems",
+    "#beaches",
+    "#earth",
+    "#shorts",
+    "#fyp"
+  ]
+}
