@@ -1,0 +1,65 @@
+{
+  "title": "This Beach Glows with Nature's Magic",
+  "thumb": "MAGICAL GLOWING BEACH",
+  "place": "Vaadhoo Island",
+  "country": "Maldives",
+  "scenes": [
+    {
+      "text": "Witness a beach that glows at night!",
+      "hook_top": "GLOWING BEACH AT NIGHT",
+      "query": "Vaadhoo Island bioluminescent beach at night",
+      "query2": "nighttime ocean glow",
+      "role": "hook"
+    },
+    {
+      "text": "The phenomenon is caused by tiny plankton.",
+      "chips": [
+        {
+          "t": "BIOLOGICAL LUMINESCENCE",
+          "on": "tiny plankton",
+          "style": "white"
+        }
+      ],
+      "query": "Vaadhoo Island plankton glowing in water",
+      "query2": "marine life close-up",
+      "role": "fact"
+    },
+    {
+      "text": "It transforms into a mesmerizing blue paradise.",
+      "chips": [
+        {
+          "t": "MESMERIZING BLUE",
+          "on": "transforms",
+          "style": "accent"
+        }
+      ],
+      "query": "Vaadhoo Island glowing blue shoreline",
+      "query2": "captivating ocean view",
+      "role": "fact"
+    },
+    {
+      "text": "A magical experience unlike any other!",
+      "reveal_top": "MAGICAL OCEAN EXPERIENCE!",
+      "query": "Vaadhoo Island tranquil ocean at night",
+      "query2": "calm night beach scene",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for places that don't feel real.",
+      "query": "Vaadhoo Island beautiful travel content",
+      "query2": "stunning sunset views",
+      "role": "cta"
+    }
+  ],
+  "description": "Explore the enchanting Vaadhoo Island, a beach where the water glows like a starry night. Join us for more magical destinations around the globe!",
+  "hashtags": [
+    "#VaadhooIsland",
+    "#Maldives",
+    "#Bioluminescence",
+    "#BeachVibes",
+    "#Wanderlust",
+    "#shorts",
+    "#fyp"
+  ]
+}

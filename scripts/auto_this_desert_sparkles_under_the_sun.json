@@ -1,0 +1,65 @@
+{
+  "title": "This Desert Sparkles Under the Sun",
+  "thumb": "SPARKLING DESERT",
+  "place": "Great Basin National Park",
+  "country": "USA",
+  "scenes": [
+    {
+      "text": "Discover a desert that glitters under sunlight!",
+      "hook_top": "SPARKLING DESERT GLITTERS",
+      "query": "Great Basin National Park sparkling sandy desert landscape",
+      "query2": "desert at sunset",
+      "role": "hook"
+    },
+    {
+      "text": "The area features unique mineral deposits.",
+      "chips": [
+        {
+          "t": "MINERAL-RICH SAND",
+          "on": "unique",
+          "style": "white"
+        }
+      ],
+      "query": "Great Basin National Park close-up of desert minerals",
+      "query2": "detailed sandy texture",
+      "role": "fact"
+    },
+    {
+      "text": "Its shimmering sand creates an optical illusion.",
+      "chips": [
+        {
+          "t": "OPTICAL ILLUSION",
+          "on": "shimmering",
+          "style": "accent"
+        }
+      ],
+      "query": "Great Basin National Park optical illusion in nature",
+      "query2": "desert mirage effect",
+      "role": "fact"
+    },
+    {
+      "text": "Experience nature's sparkling wonders!",
+      "reveal_top": "NATURE'S SPARKLING WONDER!",
+      "query": "Great Basin National Park glistening desert landscape",
+      "query2": "stunning natural formations",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Great Basin National Park inspiring travel visuals",
+      "query2": "captivating landscapes",
+      "role": "cta"
+    }
+  ],
+  "description": "Great Basin National Park reveals a desert that not only dazzles but also surprises with its mineral-rich sands. Stay tuned for more extraordinary locations!",
+  "hashtags": [
+    "#GreatBasin",
+    "#USA",
+    "#DesertLife",
+    "#NaturalWonders",
+    "#ExploreMore",
+    "#shorts",
+    "#fyp"
+  ]
+}

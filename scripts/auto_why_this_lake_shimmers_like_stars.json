@@ -1,0 +1,65 @@
+{
+  "title": "Why This Lake Shimmers Like Stars",
+  "thumb": "SHIMMERING STARS",
+  "place": "Lake Sils",
+  "country": "Switzerland",
+  "scenes": [
+    {
+      "text": "This lake shines like gemstones at night.",
+      "hook_top": "LAKE THAT SHINES BRIGHTLY",
+      "query": "Lake Sils a shimmering lake at night",
+      "query2": "serene nighttime water reflection",
+      "role": "hook"
+    },
+    {
+      "text": "Lake Sils is renowned for its reflective surface.",
+      "chips": [
+        {
+          "t": "20 SQUARE KILOMETERS",
+          "on": "reflective",
+          "style": "white"
+        }
+      ],
+      "query": "Lake Sils a reflective lake in the mountains",
+      "query2": "beautiful scenic landscape",
+      "role": "fact"
+    },
+    {
+      "text": "The lake reflects a stunning array of colors.",
+      "chips": [
+        {
+          "t": "AMAZING COLORS",
+          "on": "array",
+          "style": "accent"
+        }
+      ],
+      "query": "Lake Sils colorful sunset over a lake",
+      "query2": "vibrant landscape",
+      "role": "fact"
+    },
+    {
+      "text": "It's a hidden gem in the Swiss Alps!",
+      "reveal_top": "HIDDEN SWISS ALP GEM!",
+      "query": "Lake Sils breathtaking Swiss Alps landscape",
+      "query2": "majestic mountain view",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Lake Sils inviting travel content",
+      "query2": "beautiful travel scenes",
+      "role": "cta"
+    }
+  ],
+  "description": "Experience the breathtaking beauty of Lake Sils, where every sunset turns the surface into a shimmering canvas. Join us to discover more stunning places around the world!",
+  "hashtags": [
+    "#LakeSils",
+    "#Switzerland",
+    "#NatureLovers",
+    "#TravelGoals",
+    "#AdventureAwaits",
+    "#shorts",
+    "#fyp"
+  ]
+}

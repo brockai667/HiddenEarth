@@ -4546,5 +4546,200 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why This Lake Shimmers Like Stars",
+    "thumb": "SHIMMERING STARS",
+    "place": "Lake Sils",
+    "country": "Switzerland",
+    "scenes": [
+      {
+        "text": "This lake shines like gemstones at night.",
+        "hook_top": "LAKE THAT SHINES BRIGHTLY",
+        "query": "Lake Sils a shimmering lake at night",
+        "query2": "serene nighttime water reflection",
+        "role": "hook"
+      },
+      {
+        "text": "Lake Sils is renowned for its reflective surface.",
+        "chips": [
+          {
+            "t": "20 SQUARE KILOMETERS",
+            "on": "reflective",
+            "style": "white"
+          }
+        ],
+        "query": "Lake Sils a reflective lake in the mountains",
+        "query2": "beautiful scenic landscape",
+        "role": "fact"
+      },
+      {
+        "text": "The lake reflects a stunning array of colors.",
+        "chips": [
+          {
+            "t": "AMAZING COLORS",
+            "on": "array",
+            "style": "accent"
+          }
+        ],
+        "query": "Lake Sils colorful sunset over a lake",
+        "query2": "vibrant landscape",
+        "role": "fact"
+      },
+      {
+        "text": "It's a hidden gem in the Swiss Alps!",
+        "reveal_top": "HIDDEN SWISS ALP GEM!",
+        "query": "Lake Sils breathtaking Swiss Alps landscape",
+        "query2": "majestic mountain view",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Lake Sils inviting travel content",
+        "query2": "beautiful travel scenes",
+        "role": "cta"
+      }
+    ],
+    "description": "Experience the breathtaking beauty of Lake Sils, where every sunset turns the surface into a shimmering canvas. Join us to discover more stunning places around the world!",
+    "hashtags": [
+      "#LakeSils",
+      "#Switzerland",
+      "#NatureLovers",
+      "#TravelGoals",
+      "#AdventureAwaits",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "This Desert Sparkles Under the Sun",
+    "thumb": "SPARKLING DESERT",
+    "place": "Great Basin National Park",
+    "country": "USA",
+    "scenes": [
+      {
+        "text": "Discover a desert that glitters under sunlight!",
+        "hook_top": "SPARKLING DESERT GLITTERS",
+        "query": "Great Basin National Park sparkling sandy desert landscape",
+        "query2": "desert at sunset",
+        "role": "hook"
+      },
+      {
+        "text": "The area features unique mineral deposits.",
+        "chips": [
+          {
+            "t": "MINERAL-RICH SAND",
+            "on": "unique",
+            "style": "white"
+          }
+        ],
+        "query": "Great Basin National Park close-up of desert minerals",
+        "query2": "detailed sandy texture",
+        "role": "fact"
+      },
+      {
+        "text": "Its shimmering sand creates an optical illusion.",
+        "chips": [
+          {
+            "t": "OPTICAL ILLUSION",
+            "on": "shimmering",
+            "style": "accent"
+          }
+        ],
+        "query": "Great Basin National Park optical illusion in nature",
+        "query2": "desert mirage effect",
+        "role": "fact"
+      },
+      {
+        "text": "Experience nature's sparkling wonders!",
+        "reveal_top": "NATURE'S SPARKLING WONDER!",
+        "query": "Great Basin National Park glistening desert landscape",
+        "query2": "stunning natural formations",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Great Basin National Park inspiring travel visuals",
+        "query2": "captivating landscapes",
+        "role": "cta"
+      }
+    ],
+    "description": "Great Basin National Park reveals a desert that not only dazzles but also surprises with its mineral-rich sands. Stay tuned for more extraordinary locations!",
+    "hashtags": [
+      "#GreatBasin",
+      "#USA",
+      "#DesertLife",
+      "#NaturalWonders",
+      "#ExploreMore",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "This Beach Glows with Nature's Magic",
+    "thumb": "MAGICAL GLOWING BEACH",
+    "place": "Vaadhoo Island",
+    "country": "Maldives",
+    "scenes": [
+      {
+        "text": "Witness a beach that glows at night!",
+        "hook_top": "GLOWING BEACH AT NIGHT",
+        "query": "Vaadhoo Island bioluminescent beach at night",
+        "query2": "nighttime ocean glow",
+        "role": "hook"
+      },
+      {
+        "text": "The phenomenon is caused by tiny plankton.",
+        "chips": [
+          {
+            "t": "BIOLOGICAL LUMINESCENCE",
+            "on": "tiny plankton",
+            "style": "white"
+          }
+        ],
+        "query": "Vaadhoo Island plankton glowing in water",
+        "query2": "marine life close-up",
+        "role": "fact"
+      },
+      {
+        "text": "It transforms into a mesmerizing blue paradise.",
+        "chips": [
+          {
+            "t": "MESMERIZING BLUE",
+            "on": "transforms",
+            "style": "accent"
+          }
+        ],
+        "query": "Vaadhoo Island glowing blue shoreline",
+        "query2": "captivating ocean view",
+        "role": "fact"
+      },
+      {
+        "text": "A magical experience unlike any other!",
+        "reveal_top": "MAGICAL OCEAN EXPERIENCE!",
+        "query": "Vaadhoo Island tranquil ocean at night",
+        "query2": "calm night beach scene",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "query": "Vaadhoo Island beautiful travel content",
+        "query2": "stunning sunset views",
+        "role": "cta"
+      }
+    ],
+    "description": "Explore the enchanting Vaadhoo Island, a beach where the water glows like a starry night. Join us for more magical destinations around the globe!",
+    "hashtags": [
+      "#VaadhooIsland",
+      "#Maldives",
+      "#Bioluminescence",
+      "#BeachVibes",
+      "#Wanderlust",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
