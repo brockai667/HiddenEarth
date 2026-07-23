@@ -7,6 +7,7 @@ import json
 import os
 import re
 import sys
+import time
 
 import requests
 try:
@@ -222,18 +223,30 @@ def build_prompt(n, existing_titles, existing_places, trending=None):
     )
 
 
-def call_model(user_text):
-    r = requests.post(
-        BASE.rstrip("/") + "/chat/completions",
-        headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json"},
-        json={"model": MODEL, "temperature": 0.95,
-              "messages": [{"role": "system", "content": SYSTEM},
-                           {"role": "user", "content": user_text}]},
-        timeout=180,
-    )
-    if r.status_code >= 400:
-        raise RuntimeError(f"Models API {r.status_code}: {r.text[:500]}")
-    return r.json()["choices"][0]["message"]["content"]
+def call_model(user_text, _tries=4):
+    # retry+backoff: vsetky fabriky trafia GitHub Models -> 429; 5xx = docasne
+    last = "Models API: neznama chyba"
+    for _i in range(_tries):
+        r = requests.post(
+            BASE.rstrip("/") + "/chat/completions",
+            headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json"},
+            json={"model": MODEL, "temperature": 0.95,
+                  "messages": [{"role": "system", "content": SYSTEM},
+                               {"role": "user", "content": user_text}]},
+            timeout=180,
+        )
+        if r.status_code < 400:
+            return r.json()["choices"][0]["message"]["content"]
+        last = f"Models API {r.status_code}: {r.text[:300]}"
+        if r.status_code == 429 or r.status_code >= 500:
+            try:
+                _w = float(r.headers.get("retry-after") or 0)
+            except Exception:
+                _w = 0
+            time.sleep(min(max(_w, 10 * (_i + 1)), 70))
+            continue
+        break
+    raise RuntimeError(last)
 
 
 def extract_json(s):
@@ -479,6 +492,21 @@ def main():
         bank.append(t); titles.add(t["title"]); existing_sigs.append(_s); added += 1
         if pk:
             existing_places.add(pk)
+    # ANTI-STARVATION: ak je nepouzitych kriticky malo, prijmi aj "podobne" (VALID, novy
+    # titul) temy - novy skript je lepsi nez 0 videi (den nikdy neostane prazdny).
+    _floor = max(6, TARGET // 2)
+    if len([t for t in bank if t["title"] not in used]) < _floor:
+        _before = added
+        for _t in items:
+            if len([x for x in bank if x["title"] not in used]) >= _floor:
+                break
+            if not valid(_t) or _t["title"] in titles:
+                continue
+            if _t.get("scenes"):
+                _t["scenes"][-1]["text"] = random.choice(CTAS)
+            bank.append(_t); titles.add(_t["title"]); added += 1
+        if added > _before:
+            print(f"[anti-starvation] uvolneny dedup: +{added - _before} tem (banka bola skoro prazdna).")
     json.dump(bank, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"Pridanych {added} tem. Banka ma {len(bank)} tem.")
 
