@@ -4741,5 +4741,314 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Unique Glass Beach",
+    "thumb": "GLASS BEACH",
+    "place": "Glass Beach, Fort Bragg",
+    "country": "USA",
+    "scenes": [
+      {
+        "hook_top": "SPARKLING GLASS BEACH",
+        "query": "Glass Beach, Fort Bragg shore filled with sea glass",
+        "query2": "colorful pebbled beach",
+        "role": "hook",
+        "text": "This beach sparkles with colorful glass!"
+      },
+      {
+        "chips": [
+          {
+            "t": "100 YEARS",
+            "on": "discarded glass",
+            "style": "white"
+          }
+        ],
+        "punch": "transformative",
+        "role": "fact",
+        "text": "Over 100 years of discarded glass created this beach.",
+        "query": "Glass Beach, Fort Bragg",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_label": "Glass Beach, USA",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Glass_Beach.jpg",
+        "query": "Glass Beach, Fort Bragg",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Marvel at nature's recycling.",
+        "label_on": "recycling",
+        "role": "callout",
+        "text": "A Beach Like No Other",
+        "query": "Glass Beach, Fort Bragg",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Glass Beach, Fort Bragg",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Glass Beach in Fort Bragg, California, is renowned for its colorful glass pebbles, a stunning reminder of how nature can transform human waste into beauty.",
+    "hashtags": [
+      "#GlassBeach",
+      "#FortBragg",
+      "#California",
+      "#nature",
+      "#beautiful",
+      "#shorts",
+      "#fyp",
+      "#beachlife"
+    ]
+  },
+  {
+    "title": "The Hidden Gem That Glows",
+    "thumb": "GLOWING CAVES",
+    "place": "Waitomo Caves",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "hook_top": "GLOWING WAITOMO CAVES",
+        "query": "Waitomo Caves glowworm caves lit by nature",
+        "query2": "cave with glowworms",
+        "role": "hook",
+        "text": "Uncover the glowing wonders inside!"
+      },
+      {
+        "chips": [
+          {
+            "t": "THOUSANDS OF GLOWWORMS",
+            "on": "home",
+            "style": "white"
+          }
+        ],
+        "punch": "luminous",
+        "role": "fact",
+        "text": "Home to thousands of luminous glowworms.",
+        "query": "Waitomo Caves",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_label": "Glowworm Caves, NZ",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Glowworm_Cave_NZ.jpg",
+        "query": "Waitomo Caves",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Experience magical underground beauty.",
+        "label_on": "magical",
+        "role": "callout",
+        "text": "Nature's Fairy Lights",
+        "query": "Waitomo Caves",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Waitomo Caves",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "The Waitomo Caves in New Zealand offer a magical underground experience illuminated by thousands of luminescent glowworms, creating a truly enchanting atmosphere.",
+    "hashtags": [
+      "#WaitomoCaves",
+      "#NewZealand",
+      "#nature",
+      "#glowworms",
+      "#travel",
+      "#shorts",
+      "#fyp",
+      "#adventure"
+    ]
+  },
+  {
+    "title": "The Enchanted Forest of Giant Trees",
+    "thumb": "GIANT TREES",
+    "place": "Redwood National and State Parks",
+    "country": "USA",
+    "scenes": [
+      {
+        "hook_top": "TALLEST TREES ON EARTH",
+        "query": "Redwood National and State Parks towering redwood trees",
+        "query2": "lush green forest",
+        "role": "hook",
+        "text": "Walk among the tallest trees on Earth!"
+      },
+      {
+        "chips": [
+          {
+            "t": "350 FEET",
+            "on": "grow",
+            "style": "white"
+          }
+        ],
+        "punch": "towering",
+        "role": "fact",
+        "text": "These trees can grow over 350 feet tall.",
+        "query": "Redwood National and State Parks",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_label": "Redwood Park, USA",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Redwood_National_and_State_Parks.jpg",
+        "query": "Redwood National and State Parks",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Experience the majesty of redwoods.",
+        "label_on": "giants",
+        "role": "callout",
+        "text": "Nature’s Giants",
+        "query": "Redwood National and State Parks",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Redwood National and State Parks",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "The Redwood National and State Parks in California are home to the tallest trees on Earth, offering visitors a feeling of awe and wonder in a serene environment.",
+    "hashtags": [
+      "#RedwoodPark",
+      "#California",
+      "#nature",
+      "#trees",
+      "#travel",
+      "#shorts",
+      "#fyp",
+      "#explore"
+    ]
+  },
+  {
+    "title": "The Hidden Glow of the Sea",
+    "thumb": "HIDDEN GLOW",
+    "place": "Mosquito Bay",
+    "country": "Vieques, Puerto Rico",
+    "scenes": [
+      {
+        "hook_top": "BAY THAT GLOWS",
+        "query": "Mosquito Bay glowing bay at night",
+        "query2": "bioluminescent water",
+        "role": "hook",
+        "text": "This bay glows brighter than stars!"
+      },
+      {
+        "chips": [
+          {
+            "t": "BRIGHTEST IN THE WORLD",
+            "on": "Mosquito Bay",
+            "style": "white"
+          }
+        ],
+        "punch": "brightest",
+        "query": "Mosquito Bay bioluminescence in water",
+        "query2": "glow of the ocean",
+        "role": "fact",
+        "text": "Mosquito Bay is considered the brightest bioluminescent bay in the world."
+      },
+      {
+        "chips": [
+          {
+            "t": "DINOFLAGELLATES",
+            "on": "microorganisms",
+            "style": "accent"
+          }
+        ],
+        "query": "Mosquito Bay scientific illustration of dinoflagellates",
+        "query2": "dinoflagellates in water",
+        "role": "fact",
+        "text": "The unique glow is caused by microscopic organisms called dinoflagellates."
+      },
+      {
+        "reveal_top": "SWIM IN A GALAXY",
+        "query": "Mosquito Bay tourists swimming in glowing water",
+        "query2": "people enjoying bioluminescent bay",
+        "role": "reveal",
+        "text": "It's like swimming in a galaxy!"
+      },
+      {
+        "query": "Mosquito Bay engaging travel content",
+        "query2": "breathtaking natural sights",
+        "role": "cta",
+        "text": "Follow to see the world's hidden places."
+      }
+    ],
+    "description": "Discover the enchanting Mosquito Bay in Vieques, Puerto Rico, a place where the ocean glows with bright blue light from bioluminescent organisms. Experience this magical phenomenon first-hand and follow for more adventures!",
+    "hashtags": [
+      "#MosquitoBay",
+      "#Vieques",
+      "#Bioluminescence",
+      "#NatureWonder",
+      "#TravelDiaries",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Desert That Shimmers",
+    "thumb": "SHIMMERING DESERT",
+    "place": "Namib Desert",
+    "country": "Namibia",
+    "scenes": [
+      {
+        "hook_top": "THE SHIMMERING DESERT",
+        "query": "Namib Desert shimmering golden sands",
+        "query2": "vast desert landscapes",
+        "role": "hook",
+        "text": "Find out why this desert sparkles!"
+      },
+      {
+        "chips": [
+          {
+            "t": "55 MILLION YRS",
+            "on": "over",
+            "style": "white"
+          }
+        ],
+        "punch": "ancient",
+        "role": "fact",
+        "text": "The Namib Desert is over 55 million years old.",
+        "query": "Namib Desert",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_label": "Namib Desert, Namibia",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Namib_Desert_Highlights.jpg",
+        "query": "Namib Desert",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Explore one of the oldest deserts.",
+        "label_on": "timeless",
+        "role": "callout",
+        "text": "A Timeless Beauty",
+        "query": "Namib Desert",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Namib Desert",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "With its stunning golden dunes, the Namib Desert is not only one of the oldest deserts in the world but also a mesmerizing landscape that mesmerizes all who visit.",
+    "hashtags": [
+      "#NamibDesert",
+      "#Namibia",
+      "#desert",
+      "#travel",
+      "#adventure",
+      "#shorts",
+      "#fyp",
+      "#wanderlust"
+    ]
   }
 ]

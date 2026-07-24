@@ -1,0 +1,61 @@
+{
+  "title": "The Enchanted Forest of Giant Trees",
+  "thumb": "GIANT TREES",
+  "place": "Redwood National and State Parks",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "TALLEST TREES ON EARTH",
+      "query": "Redwood National and State Parks towering redwood trees",
+      "query2": "lush green forest",
+      "role": "hook",
+      "text": "Walk among the tallest trees on Earth!"
+    },
+    {
+      "chips": [
+        {
+          "t": "350 FEET",
+          "on": "grow",
+          "style": "white"
+        }
+      ],
+      "punch": "towering",
+      "role": "fact",
+      "text": "These trees can grow over 350 feet tall.",
+      "query": "Redwood National and State Parks",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_label": "Redwood Park, USA",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Redwood_National_and_State_Parks.jpg",
+      "query": "Redwood National and State Parks",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Experience the majesty of redwoods.",
+      "label_on": "giants",
+      "role": "callout",
+      "text": "Nature’s Giants",
+      "query": "Redwood National and State Parks",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Redwood National and State Parks",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "The Redwood National and State Parks in California are home to the tallest trees on Earth, offering visitors a feeling of awe and wonder in a serene environment.",
+  "hashtags": [
+    "#RedwoodPark",
+    "#California",
+    "#nature",
+    "#trees",
+    "#travel",
+    "#shorts",
+    "#fyp",
+    "#explore"
+  ]
+}

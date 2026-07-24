@@ -1,0 +1,61 @@
+{
+  "title": "The Unique Glass Beach",
+  "thumb": "GLASS BEACH",
+  "place": "Glass Beach, Fort Bragg",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "SPARKLING GLASS BEACH",
+      "query": "Glass Beach, Fort Bragg shore filled with sea glass",
+      "query2": "colorful pebbled beach",
+      "role": "hook",
+      "text": "This beach sparkles with colorful glass!"
+    },
+    {
+      "chips": [
+        {
+          "t": "100 YEARS",
+          "on": "discarded glass",
+          "style": "white"
+        }
+      ],
+      "punch": "transformative",
+      "role": "fact",
+      "text": "Over 100 years of discarded glass created this beach.",
+      "query": "Glass Beach, Fort Bragg",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_label": "Glass Beach, USA",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Glass_Beach.jpg",
+      "query": "Glass Beach, Fort Bragg",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Marvel at nature's recycling.",
+      "label_on": "recycling",
+      "role": "callout",
+      "text": "A Beach Like No Other",
+      "query": "Glass Beach, Fort Bragg",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Glass Beach, Fort Bragg",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Glass Beach in Fort Bragg, California, is renowned for its colorful glass pebbles, a stunning reminder of how nature can transform human waste into beauty.",
+  "hashtags": [
+    "#GlassBeach",
+    "#FortBragg",
+    "#California",
+    "#nature",
+    "#beautiful",
+    "#shorts",
+    "#fyp",
+    "#beachlife"
+  ]
+}

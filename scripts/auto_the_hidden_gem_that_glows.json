@@ -1,0 +1,61 @@
+{
+  "title": "The Hidden Gem That Glows",
+  "thumb": "GLOWING CAVES",
+  "place": "Waitomo Caves",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "hook_top": "GLOWING WAITOMO CAVES",
+      "query": "Waitomo Caves glowworm caves lit by nature",
+      "query2": "cave with glowworms",
+      "role": "hook",
+      "text": "Uncover the glowing wonders inside!"
+    },
+    {
+      "chips": [
+        {
+          "t": "THOUSANDS OF GLOWWORMS",
+          "on": "home",
+          "style": "white"
+        }
+      ],
+      "punch": "luminous",
+      "role": "fact",
+      "text": "Home to thousands of luminous glowworms.",
+      "query": "Waitomo Caves",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_label": "Glowworm Caves, NZ",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Glowworm_Cave_NZ.jpg",
+      "query": "Waitomo Caves",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Experience magical underground beauty.",
+      "label_on": "magical",
+      "role": "callout",
+      "text": "Nature's Fairy Lights",
+      "query": "Waitomo Caves",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Waitomo Caves",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "The Waitomo Caves in New Zealand offer a magical underground experience illuminated by thousands of luminescent glowworms, creating a truly enchanting atmosphere.",
+  "hashtags": [
+    "#WaitomoCaves",
+    "#NewZealand",
+    "#nature",
+    "#glowworms",
+    "#travel",
+    "#shorts",
+    "#fyp",
+    "#adventure"
+  ]
+}
