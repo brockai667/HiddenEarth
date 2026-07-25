@@ -1,0 +1,65 @@
+{
+  "title": "The Hidden Glow of the Sea",
+  "thumb": "HIDDEN GLOW",
+  "place": "Mosquito Bay",
+  "country": "Vieques, Puerto Rico",
+  "scenes": [
+    {
+      "hook_top": "BAY THAT GLOWS",
+      "query": "Mosquito Bay glowing bay at night",
+      "query2": "bioluminescent water",
+      "role": "hook",
+      "text": "This bay glows brighter than stars!"
+    },
+    {
+      "chips": [
+        {
+          "t": "BRIGHTEST IN THE WORLD",
+          "on": "Mosquito Bay",
+          "style": "white"
+        }
+      ],
+      "punch": "brightest",
+      "query": "Mosquito Bay bioluminescence in water",
+      "query2": "glow of the ocean",
+      "role": "fact",
+      "text": "Mosquito Bay is considered the brightest bioluminescent bay in the world."
+    },
+    {
+      "chips": [
+        {
+          "t": "DINOFLAGELLATES",
+          "on": "microorganisms",
+          "style": "accent"
+        }
+      ],
+      "query": "Mosquito Bay scientific illustration of dinoflagellates",
+      "query2": "dinoflagellates in water",
+      "role": "fact",
+      "text": "The unique glow is caused by microscopic organisms called dinoflagellates."
+    },
+    {
+      "reveal_top": "SWIM IN A GALAXY",
+      "query": "Mosquito Bay tourists swimming in glowing water",
+      "query2": "people enjoying bioluminescent bay",
+      "role": "reveal",
+      "text": "It's like swimming in a galaxy!"
+    },
+    {
+      "query": "Mosquito Bay engaging travel content",
+      "query2": "breathtaking natural sights",
+      "role": "cta",
+      "text": "Follow to see the world's hidden places."
+    }
+  ],
+  "description": "Discover the enchanting Mosquito Bay in Vieques, Puerto Rico, a place where the ocean glows with bright blue light from bioluminescent organisms. Experience this magical phenomenon first-hand and follow for more adventures!",
+  "hashtags": [
+    "#MosquitoBay",
+    "#Vieques",
+    "#Bioluminescence",
+    "#NatureWonder",
+    "#TravelDiaries",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "The Unique Terracotta Army Awaits!",
+  "thumb": "TERRACOTTA WARRIORS",
+  "place": "Xi'an",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "8000 WARRIORS BURIED",
+      "query": "terracotta figures of Xi'an",
+      "query2": "Xi'an historical sites",
+      "role": "hook",
+      "text": "Discover 8,000 warriors buried here!"
+    },
+    {
+      "query": "map of Xi'an with Terracotta Army",
+      "query2": "China historical map",
+      "role": "map",
+      "text": "Xi'an, Shaanxi, China"
+    },
+    {
+      "chips": [
+        {
+          "t": "210 BC",
+          "on": "dates back",
+          "style": "accent"
+        }
+      ],
+      "query": "Xi'an Terracotta Army history",
+      "query2": "Xi'an archaeological facts",
+      "role": "fact",
+      "text": "The army dates back to 210 BC."
+    },
+    {
+      "archive_label": "Terracotta Army, China",
+      "archive_query": "Terracotta Army archival image",
+      "query": "Xi'an historical Terracotta Army image",
+      "query2": "ancient Chinese artifacts",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_01.jpg"
+    },
+    {
+      "sub": "Art of a bygone era!",
+      "label": "treasure",
+      "role": "callout",
+      "text": "A UNESCO Treasure!",
+      "query": "Xi'an",
+      "query2": "aerial landscape"
+    },
+    {
+      "query": "Xi'an incredible historical sites",
+      "query2": "ancient wonders",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Witness the impressive Terracotta Army in Xi'an, China, an archaeological marvel consisting of thousands of life-sized figures. Follow us for more historical wonders!",
+  "hashtags": [
+    "#TerracottaArmy",
+    "#XiAn",
+    "#ChinaHistory",
+    "#UNESCO",
+    "#Archaeology",
+    "#shorts",
+    "#fyp"
+  ]
+}

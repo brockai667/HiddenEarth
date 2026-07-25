@@ -1,0 +1,61 @@
+{
+  "title": "The Desert That Shimmers",
+  "thumb": "SHIMMERING DESERT",
+  "place": "Namib Desert",
+  "country": "Namibia",
+  "scenes": [
+    {
+      "hook_top": "THE SHIMMERING DESERT",
+      "query": "Namib Desert shimmering golden sands",
+      "query2": "vast desert landscapes",
+      "role": "hook",
+      "text": "Find out why this desert sparkles!"
+    },
+    {
+      "chips": [
+        {
+          "t": "55 MILLION YRS",
+          "on": "over",
+          "style": "white"
+        }
+      ],
+      "punch": "ancient",
+      "role": "fact",
+      "text": "The Namib Desert is over 55 million years old.",
+      "query": "Namib Desert",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_label": "Namib Desert, Namibia",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Namib_Desert_Highlights.jpg",
+      "query": "Namib Desert",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Explore one of the oldest deserts.",
+      "label_on": "timeless",
+      "role": "callout",
+      "text": "A Timeless Beauty",
+      "query": "Namib Desert",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Namib Desert",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "With its stunning golden dunes, the Namib Desert is not only one of the oldest deserts in the world but also a mesmerizing landscape that mesmerizes all who visit.",
+  "hashtags": [
+    "#NamibDesert",
+    "#Namibia",
+    "#desert",
+    "#travel",
+    "#adventure",
+    "#shorts",
+    "#fyp",
+    "#wanderlust"
+  ]
+}

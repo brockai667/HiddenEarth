@@ -5050,5 +5050,203 @@
       "#fyp",
       "#wanderlust"
     ]
+  },
+  {
+    "title": "The Unique Terracotta Army Awaits!",
+    "thumb": "TERRACOTTA WARRIORS",
+    "place": "Xi'an",
+    "country": "China",
+    "scenes": [
+      {
+        "hook_top": "8000 WARRIORS BURIED",
+        "query": "terracotta figures of Xi'an",
+        "query2": "Xi'an historical sites",
+        "role": "hook",
+        "text": "Discover 8,000 warriors buried here!"
+      },
+      {
+        "query": "map of Xi'an with Terracotta Army",
+        "query2": "China historical map",
+        "role": "map",
+        "text": "Xi'an, Shaanxi, China"
+      },
+      {
+        "chips": [
+          {
+            "t": "210 BC",
+            "on": "dates back",
+            "style": "accent"
+          }
+        ],
+        "query": "Xi'an Terracotta Army history",
+        "query2": "Xi'an archaeological facts",
+        "role": "fact",
+        "text": "The army dates back to 210 BC."
+      },
+      {
+        "archive_label": "Terracotta Army, China",
+        "archive_query": "Terracotta Army archival image",
+        "query": "Xi'an historical Terracotta Army image",
+        "query2": "ancient Chinese artifacts",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_01.jpg"
+      },
+      {
+        "sub": "Art of a bygone era!",
+        "label": "treasure",
+        "role": "callout",
+        "text": "A UNESCO Treasure!",
+        "query": "Xi'an",
+        "query2": "aerial landscape"
+      },
+      {
+        "query": "Xi'an incredible historical sites",
+        "query2": "ancient wonders",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Witness the impressive Terracotta Army in Xi'an, China, an archaeological marvel consisting of thousands of life-sized figures. Follow us for more historical wonders!",
+    "hashtags": [
+      "#TerracottaArmy",
+      "#XiAn",
+      "#ChinaHistory",
+      "#UNESCO",
+      "#Archaeology",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Exploring the Enchanted Forest of Hallstat",
+    "thumb": "HALLSTATT MAGIC",
+    "place": "Hallstatt",
+    "country": "Austria",
+    "scenes": [
+      {
+        "hook_top": "MOST BEAUTIFUL VILLAGE",
+        "query": "stunning views of Hallstatt",
+        "query2": "picturesque alpine village",
+        "role": "hook",
+        "text": "Is this the most beautiful village?"
+      },
+      {
+        "query": "location of Hallstatt",
+        "query2": "Austria map",
+        "role": "map",
+        "text": "Salzburg, Austria"
+      },
+      {
+        "chips": [
+          {
+            "t": "7000 YEARS OLD",
+            "on": "old",
+            "style": "white"
+          }
+        ],
+        "query": "Hallstatt history facts",
+        "query2": "what to see in Hallstatt",
+        "role": "fact",
+        "text": "It's over 7,000 years old."
+      },
+      {
+        "archive_label": "Hallstatt, Austria",
+        "archive_query": "archive images of Hallstatt",
+        "query": "historical Hallstatt images",
+        "query2": "pictures of Hallstatt village",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Hallstatt_2012.jpg"
+      },
+      {
+        "sub": "Wonders of the Alps await!",
+        "label": "explore",
+        "role": "callout",
+        "text": "A Hidden Gem!",
+        "query": "Hallstatt",
+        "query2": "aerial landscape"
+      },
+      {
+        "query": "Hallstatt magical village landscapes",
+        "query2": "beautiful alpine settings",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Hallstatt, Austria, is a charming village known for its breathtaking beauty and rich history dating back over 7,000 years. Explore with us for more enchanting destinations!",
+    "hashtags": [
+      "#Hallstatt",
+      "#Austria",
+      "#Alps",
+      "#VillageLife",
+      "#TravelInspo",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Discover the Crystal Waters of Blue Lake",
+    "thumb": "CRYSTAL CLEAR WATERS",
+    "place": "Blue Lake",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "hook_top": "UNBELIEVABLY BLUE LAKE",
+        "query": "stunning views of Blue Lake",
+        "query2": "clear water lakes",
+        "role": "hook",
+        "text": "Can a lake be this blue?"
+      },
+      {
+        "query": "map showing Blue Lake's location",
+        "query2": "New Zealand map",
+        "role": "map",
+        "text": "Tasman District, New Zealand"
+      },
+      {
+        "chips": [
+          {
+            "t": "CLEAREST LAKE",
+            "on": "clearest",
+            "style": "accent"
+          }
+        ],
+        "query": "facts about Blue Lake",
+        "query2": "cleanest lakes information",
+        "role": "fact",
+        "text": "It's one of the clearest lakes!"
+      },
+      {
+        "archive_label": "Blue Lake, New Zealand",
+        "archive_query": "archival image of Blue Lake",
+        "query": "historical images of Blue Lake",
+        "query2": "clearest water photos",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Blue_Lake_NZ.jpg"
+      },
+      {
+        "sub": "Unmatched clarity and beauty!",
+        "label": "wonder",
+        "role": "callout",
+        "text": "A Natural Wonder!",
+        "query": "Blue Lake",
+        "query2": "aerial landscape"
+      },
+      {
+        "query": "Blue Lake incredible nature destinations",
+        "query2": "hidden gems around the world",
+        "role": "cta",
+        "text": "Follow for places that don't feel real."
+      }
+    ],
+    "description": "Blue Lake in New Zealand is renowned for its stunning clarity, offering breathtaking views reflective of the surrounding nature. Join us for more stunning spots to explore!",
+    "hashtags": [
+      "#BlueLake",
+      "#NewZealand",
+      "#NatureBeauty",
+      "#Lakes",
+      "#TravelGoals",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
