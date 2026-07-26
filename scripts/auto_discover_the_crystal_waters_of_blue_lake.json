@@ -1,0 +1,66 @@
+{
+  "title": "Discover the Crystal Waters of Blue Lake",
+  "thumb": "CRYSTAL CLEAR WATERS",
+  "place": "Blue Lake",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "hook_top": "UNBELIEVABLY BLUE LAKE",
+      "query": "stunning views of Blue Lake",
+      "query2": "clear water lakes",
+      "role": "hook",
+      "text": "Can a lake be this blue?"
+    },
+    {
+      "query": "map showing Blue Lake's location",
+      "query2": "New Zealand map",
+      "role": "map",
+      "text": "Tasman District, New Zealand"
+    },
+    {
+      "chips": [
+        {
+          "t": "CLEAREST LAKE",
+          "on": "clearest",
+          "style": "accent"
+        }
+      ],
+      "query": "facts about Blue Lake",
+      "query2": "cleanest lakes information",
+      "role": "fact",
+      "text": "It's one of the clearest lakes!"
+    },
+    {
+      "archive_label": "Blue Lake, New Zealand",
+      "archive_query": "archival image of Blue Lake",
+      "query": "historical images of Blue Lake",
+      "query2": "clearest water photos",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Blue_Lake_NZ.jpg"
+    },
+    {
+      "sub": "Unmatched clarity and beauty!",
+      "label": "wonder",
+      "role": "callout",
+      "text": "A Natural Wonder!",
+      "query": "Blue Lake",
+      "query2": "aerial landscape"
+    },
+    {
+      "query": "Blue Lake incredible nature destinations",
+      "query2": "hidden gems around the world",
+      "role": "cta",
+      "text": "Follow for places that don't feel real."
+    }
+  ],
+  "description": "Blue Lake in New Zealand is renowned for its stunning clarity, offering breathtaking views reflective of the surrounding nature. Join us for more stunning spots to explore!",
+  "hashtags": [
+    "#BlueLake",
+    "#NewZealand",
+    "#NatureBeauty",
+    "#Lakes",
+    "#TravelGoals",
+    "#shorts",
+    "#fyp"
+  ]
+}

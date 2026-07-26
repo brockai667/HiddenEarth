@@ -1,0 +1,66 @@
+{
+  "title": "Explore Doubtful Sound's Hidden Beauty",
+  "thumb": "HIDDEN BEAUTY REVEALED",
+  "place": "Doubtful Sound",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "hook_top": "MAGICAL DOUBTFUL SOUND",
+      "query": "Doubtful Sound stunning fjord views",
+      "query2": "picturesque landscapes",
+      "role": "hook",
+      "text": "Is this the most beautiful fjord on Earth?"
+    },
+    {
+      "query": "maps of Doubtful Sound",
+      "query2": "Doubtful Sound location",
+      "role": "map",
+      "text": "Doubtful Sound, New Zealand"
+    },
+    {
+      "chips": [
+        {
+          "t": "1,200 MILES OF WATER",
+          "on": "spoken trigger word",
+          "style": "accent"
+        }
+      ],
+      "query": "Doubtful Sound length",
+      "query2": "Doubtful Sound statistics",
+      "role": "fact",
+      "text": "Doubtful Sound is over 40 km long."
+    },
+    {
+      "archive_query": "Doubtful Sound image site:commons.wikimedia.org",
+      "archive_label": "Doubtful Sound View",
+      "role": "archive",
+      "text": "Doubtful Sound landscape",
+      "query": "Doubtful Sound",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "A fjord of dramatic beauty!",
+      "label_on": "spoken trigger word",
+      "role": "callout",
+      "text": "Nature's Masterpiece",
+      "query": "Doubtful Sound",
+      "query2": "aerial landscape"
+    },
+    {
+      "query": "Doubtful Sound fjords landscape",
+      "query2": "pictures of natural beauty",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Doubtful Sound is a breathtaking fjord teeming with hidden beauty and wildlife. Discover why it's considered New Zealand's most stunning natural wonder and follow for more visuals of paradise!",
+  "hashtags": [
+    "#DoubtfulSound",
+    "#NewZealand",
+    "#NatureLovers",
+    "#Travel",
+    "#Adventure",
+    "#shorts",
+    "#fyp"
+  ]
+}
