@@ -1,0 +1,66 @@
+{
+  "title": "Witness the Rainbow Mountains of Peru",
+  "thumb": "RAINBOW MOUNTAIN MAGIC",
+  "place": "Vinicunca",
+  "country": "Peru",
+  "scenes": [
+    {
+      "hook_top": "RAINBOW MOUNTAINS REVEALED",
+      "query": "Vinicunca vibrant mountain landscapes",
+      "query2": "colorful Andes scenery",
+      "role": "hook",
+      "text": "These mountains burst with colors like a rainbow!"
+    },
+    {
+      "query": "maps of Rainbow Mountains",
+      "query2": "Vinicunca location",
+      "role": "map",
+      "text": "Vinicunca, Peru"
+    },
+    {
+      "chips": [
+        {
+          "t": "1.5 KM DISTANCE",
+          "on": "spoken trigger word",
+          "style": "accent"
+        }
+      ],
+      "query": "Vinicunca Rainbow Mountain height",
+      "query2": "Vinicunca statistics",
+      "role": "fact",
+      "text": "Vinicunca peaks reach 5,200 meters high."
+    },
+    {
+      "archive_query": "Rainbow Mountain image site:commons.wikimedia.org",
+      "archive_label": "Colors of Vinicunca",
+      "role": "archive",
+      "text": "Vinicunca landscape",
+      "query": "Vinicunca",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Nature's paintbrush at work!",
+      "label_on": "spoken trigger word",
+      "role": "callout",
+      "text": "Andes' Colorful Wonder",
+      "query": "Vinicunca",
+      "query2": "aerial landscape"
+    },
+    {
+      "query": "Vinicunca mountain color landscapes",
+      "query2": "Peruvian wonders",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "The Rainbow Mountains of Peru are a breathtaking display of natural artistry, inviting all to witness their vibrant hues. Embrace this geological wonder and follow for more colorful destinations!",
+  "hashtags": [
+    "#RainbowMountain",
+    "#Peru",
+    "#Nature",
+    "#Travel",
+    "#Beauty",
+    "#shorts",
+    "#fyp"
+  ]
+}

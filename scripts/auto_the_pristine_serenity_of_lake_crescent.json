@@ -1,0 +1,66 @@
+{
+  "title": "The Pristine Serenity of Lake Crescent",
+  "thumb": "SERENITY OF LAKE",
+  "place": "Lake Crescent",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "CRYSTAL CLEAR LAKE",
+      "query": "Lake Crescent beautiful lake views",
+      "query2": "stunning lake scenery",
+      "role": "hook",
+      "text": "A lake so clear, it's almost unreal!"
+    },
+    {
+      "query": "maps of Lake Crescent",
+      "query2": "Lake Crescent location",
+      "role": "map",
+      "text": "Lake Crescent, Washington, USA"
+    },
+    {
+      "chips": [
+        {
+          "t": "30 MILES OF COASTLINE",
+          "on": "spoken trigger word",
+          "style": "white"
+        }
+      ],
+      "query": "Lake Crescent depth",
+      "query2": "Lake statistics",
+      "role": "fact",
+      "text": "Lake Crescent reaches depths of 624 feet."
+    },
+    {
+      "archive_query": "Lake Crescent image site:commons.wikimedia.org",
+      "archive_label": "Lake Crescent Reflection",
+      "role": "archive",
+      "text": "Lake Crescent reflection",
+      "query": "Lake Crescent",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Find peace by the lake!",
+      "label_on": "spoken trigger word",
+      "role": "callout",
+      "text": "Nature's Tranquil Escape",
+      "query": "Lake Crescent",
+      "query2": "aerial landscape"
+    },
+    {
+      "query": "Lake Crescent lake tranquility",
+      "query2": "peaceful lake scenes",
+      "role": "cta",
+      "text": "Follow to see the world's hidden places."
+    }
+  ],
+  "description": "Lake Crescent is renowned for its crystal-clear waters and stunning mountain backdrop. Join us as we explore this serene escape amidst nature's beauty. Follow for more tranquil destinations!",
+  "hashtags": [
+    "#LakeCrescent",
+    "#Washington",
+    "#Nature",
+    "#Travel",
+    "#Serenity",
+    "#shorts",
+    "#fyp"
+  ]
+}

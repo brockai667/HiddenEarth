@@ -1,0 +1,65 @@
+{
+  "title": "The Stunning Mirror Lake You Must See!",
+  "thumb": "MIRROR LAKE REFLECTION",
+  "place": "Tipsoo Lake",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "MIRRORLIKE SURFACE",
+      "query": "Tipsoo Lake stunning lake reflection",
+      "query2": "beautiful landscape reflection",
+      "role": "hook",
+      "text": "This lake reflects mountains and skies perfectly!"
+    },
+    {
+      "chips": [
+        {
+          "t": "4200 FEET",
+          "on": "elevation",
+          "style": "white"
+        }
+      ],
+      "query": "Tipsoo Lake elevated scenic views",
+      "query2": "majestic mountain lake",
+      "role": "fact",
+      "text": "Tipsoo Lake is located at 4,200 feet elevation."
+    },
+    {
+      "chips": [
+        {
+          "t": "MOUNT RAINIER",
+          "on": "views",
+          "style": "accent"
+        }
+      ],
+      "query": "Tipsoo Lake lake and mountain scenery",
+      "query2": "picturesque nature views",
+      "role": "fact",
+      "text": "It offers breathtaking views of Mount Rainier."
+    },
+    {
+      "reveal_top": "PHOTOGRAPHER'S DREAM",
+      "query": "Tipsoo Lake photographers capturing reflections",
+      "query2": "stunning nature photography",
+      "role": "reveal",
+      "text": "It's a photographer's paradise!"
+    },
+    {
+      "query": "Tipsoo Lake social media engagement",
+      "query2": "travel inspiration",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Tipsoo Lake is a stunning destination where the reflections make it look like a painter's masterpiece. Discover its beauty and perfect photographic moments!",
+  "hashtags": [
+    "#TipsooLake",
+    "#MountRainier",
+    "#reflection",
+    "#nature",
+    "#photography",
+    "#fyp",
+    "#shorts",
+    "#travel"
+  ]
+}
