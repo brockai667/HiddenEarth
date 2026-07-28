@@ -1,0 +1,63 @@
+{
+  "title": "Unveil the Mystery of the Black Forest Waterfalls!",
+  "thumb": "MYSTERIOUS WATERFALLS",
+  "place": "Triberg Waterfalls",
+  "country": "Germany",
+  "scenes": [
+    {
+      "hook_top": "GERMANY'S TALLEST WATERFALL",
+      "query": "majestic view of Triberg Waterfalls",
+      "query2": "falling water from great height",
+      "role": "hook",
+      "text": "The tallest waterfall in Germany hides here!"
+    },
+    {
+      "chips": [
+        {
+          "t": "163 METERS",
+          "on": "drop height",
+          "style": "accent"
+        }
+      ],
+      "query": "Triberg Waterfalls water cascading beautifully down rocks",
+      "query2": "flowing water in a forest",
+      "role": "fact",
+      "text": "Triberg Waterfalls drop 163 meters over seven cascades."
+    },
+    {
+      "chips": [
+        {
+          "t": "ENCHANTING FOREST PATHS",
+          "on": "forest paths",
+          "style": "white"
+        }
+      ],
+      "query": "Triberg Waterfalls lush green forest trails leading to waterfall",
+      "query2": "forest path scenery",
+      "role": "fact",
+      "text": "The location is surrounded by enchanting forest paths."
+    },
+    {
+      "reveal_top": "NATURE LOVER'S HAVEN",
+      "query": "Triberg Waterfalls wide view of waterfall with surrounding nature",
+      "query2": "nature photography spot",
+      "role": "reveal",
+      "text": "It's a majestic spot for nature lovers and photographers alike!"
+    },
+    {
+      "query": "Triberg Waterfalls inviting call to action",
+      "query2": "scenic nature shots",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Dive into the beauty of Triberg Waterfalls, Germany's tallest, as it tumbles down an enchanting landscape. Join us on a journey through nature's wonders!",
+  "hashtags": [
+    "#TribergWaterfalls",
+    "#Germany",
+    "#NaturePhotography",
+    "#Waterfalls",
+    "#shorts",
+    "#fyp"
+  ]
+}

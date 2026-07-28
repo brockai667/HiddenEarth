@@ -1,0 +1,66 @@
+{
+  "title": "The Famous Whistling Dunes of Wadi Rum",
+  "thumb": "WHISTLING DESERT DUNES",
+  "place": "Wadi Rum",
+  "country": "Jordan",
+  "scenes": [
+    {
+      "hook_top": "WHISTLING DUNES SOUNDS",
+      "query": "Wadi Rum desert dunes",
+      "query2": "stunning desert landscapes",
+      "role": "hook",
+      "text": "Have you heard Wadi Rum's dunes whistle?"
+    },
+    {
+      "query": "map of Wadi Rum",
+      "query2": "Jordan map",
+      "role": "map",
+      "text": "Located in southern Jordan"
+    },
+    {
+      "chips": [
+        {
+          "t": "WHISTLING SAND",
+          "on": "whistling",
+          "style": "white"
+        }
+      ],
+      "query": "facts about Wadi Rum",
+      "query2": "desert sound phenomenon",
+      "role": "fact",
+      "text": "The dunes can produce a whistling sound when you walk on them."
+    },
+    {
+      "archive_label": "Wadi Rum desert view",
+      "archive_query": "Wadi Rum scenic image",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_Japan.JPG",
+      "query": "Wadi Rum",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": "Experience the whispers",
+      "label_on": "whispers",
+      "role": "callout",
+      "text": "Sound of the Desert",
+      "query": "Wadi Rum",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Wadi Rum",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the intriguing whistling dunes of Wadi Rum, a desert wonder where the sands produce a unique sound. Join us as we explore more unique locations!",
+  "hashtags": [
+    "#WadiRum",
+    "#Jordan",
+    "#DesertSounds",
+    "#Travel",
+    "#Nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

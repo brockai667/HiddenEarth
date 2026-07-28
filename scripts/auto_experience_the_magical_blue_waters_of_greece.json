@@ -1,0 +1,63 @@
+{
+  "title": "Experience the Magical Blue Waters of Greece!",
+  "thumb": "MAGICAL BLUE WATERS",
+  "place": "Navagio Beach",
+  "country": "Greece",
+  "scenes": [
+    {
+      "hook_top": "SHIPWRECKED TREASURE BEACH",
+      "query": "breathtaking view of Navagio Beach with shipwreck",
+      "query2": "secluded beach with turquoise waters",
+      "role": "hook",
+      "text": "A beach with shipwrecked treasure awaits!"
+    },
+    {
+      "chips": [
+        {
+          "t": "STRIKING BLUE WATERS",
+          "on": "blue",
+          "style": "accent"
+        }
+      ],
+      "query": "Navagio Beach turquoise water contrasted with white sand",
+      "query2": "vivid beach scenery",
+      "role": "fact",
+      "text": "Navagio Beach is famous for its striking blue waters."
+    },
+    {
+      "chips": [
+        {
+          "t": "ACCESSIBLE BY BOAT",
+          "on": "boat",
+          "style": "white"
+        }
+      ],
+      "query": "Navagio Beach boat approaching the secluded beach",
+      "query2": "boats on scenic water",
+      "role": "fact",
+      "text": "The beach is accessible only by boat."
+    },
+    {
+      "reveal_top": "PHOTOGRAPHER'S PARADISE",
+      "query": "aerial view of Navagio Beach showcasing beauty",
+      "query2": "beach landscape photography",
+      "role": "reveal",
+      "text": "This hidden treasure is a photographer's paradise!"
+    },
+    {
+      "query": "Navagio Beach inviting call to action",
+      "query2": "scenic beach shots",
+      "role": "cta",
+      "text": "Follow for places that don't feel real."
+    }
+  ],
+  "description": "Navagio Beach, nestled amid steep cliffs, boasts some of the most breathtaking blue waters in Greece. Join us to explore this visual treasure!",
+  "hashtags": [
+    "#NavagioBeach",
+    "#Greece",
+    "#BeachLife",
+    "#TravelGoals",
+    "#shorts",
+    "#fyp"
+  ]
+}
