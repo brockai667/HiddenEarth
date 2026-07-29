@@ -1,0 +1,64 @@
+{
+  "title": "Discover the Twisted Cactus of the Sonoran Desert",
+  "thumb": "TWISTED CACTUS FUN!",
+  "place": "Organ Pipe Cactus National Monument",
+  "country": "Arizona, USA",
+  "scenes": [
+    {
+      "hook_top": "UNUSUAL CACTUS FOUND",
+      "query": "Organ Pipe Cactus National Monument organ pipe cactus landscape",
+      "query2": "desert cactus fields",
+      "role": "hook",
+      "text": "What makes these cacti unique?"
+    },
+    {
+      "role": "map",
+      "text": "Organ Pipe Cactus National Monument, Arizona, USA"
+    },
+    {
+      "chips": [
+        {
+          "t": "28 SPECIES",
+          "on": "spoken trigger word",
+          "style": "accent"
+        }
+      ],
+      "query": "Organ Pipe Cactus National Monument close-up shot of cacti",
+      "query2": "diverse cactus plants",
+      "role": "fact",
+      "text": "Home to 28 cactus species!"
+    },
+    {
+      "archive_label": "Unique Organ Pipe Cactus",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Organ_Pipe_Cactus_National_Monument_037.jpg",
+      "query": "Organ Pipe Cactus National Monument",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Explore its unique varieties.",
+      "label_on": "cactus",
+      "role": "callout",
+      "text": "A Cactus Paradise!",
+      "query": "Organ Pipe Cactus National Monument",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Organ Pipe Cactus National Monument",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "The Organ Pipe Cactus National Monument offers a rare view of twisting cacti unique to the Sonoran Desert. Explore its remarkable biodiversity and beauty. #shorts #fyp #OrganPipeCactus #CactusParadise #USA #Nature #Explore #Adventure",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#OrganPipeCactus",
+    "#CactusParadise",
+    "#USA",
+    "#Nature",
+    "#Explore",
+    "#Adventure"
+  ]
+}

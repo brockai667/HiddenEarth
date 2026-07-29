@@ -1,0 +1,68 @@
+{
+  "title": "The Waterfall You’ve Never Seen",
+  "thumb": "HIDDEN WATERFALL!",
+  "place": "Trolltunga",
+  "country": "Norway",
+  "scenes": [
+    {
+      "hook_top": "HIDDEN WATERFALL",
+      "query": "Trolltunga dramatic fjord view",
+      "query2": "Norway's scenic landscape",
+      "role": "hook",
+      "text": "This waterfall is hidden in Norway’s fjords!"
+    },
+    {
+      "chips": [
+        {
+          "t": "80 METERS",
+          "on": "80",
+          "style": "white"
+        }
+      ],
+      "punch": "stunning",
+      "query": "Trolltunga waterfall cascading down",
+      "query2": "powerful waterfall scene",
+      "role": "fact",
+      "text": "It drops 80 meters into a lake."
+    },
+    {
+      "chips": [
+        {
+          "t": "TROLLTUNGA CLIFF",
+          "on": "cliff",
+          "style": "accent"
+        }
+      ],
+      "punch": "breathtaking",
+      "query": "view from the Trolltunga edge",
+      "query2": "scenic backdrop",
+      "role": "fact",
+      "text": "Best viewed from the Trolltunga cliff."
+    },
+    {
+      "reveal_top": "A TREK WORTH TAKING",
+      "query": "Trolltunga hikers approaching the waterfall",
+      "query2": "nature walk in fjords",
+      "role": "reveal",
+      "text": "It's a trek to get here!"
+    },
+    {
+      "query": "Trolltunga stunning nature trails",
+      "query2": "wilderness exploration",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Discover the stunning Trolltunga waterfall in Norway, where a steep drop creates one of nature’s hidden gems. Join the hikers on this breathtaking journey!",
+  "hashtags": [
+    "#Trolltunga",
+    "#Waterfall",
+    "#Norway",
+    "#Adventure",
+    "#Travel",
+    "#fyp",
+    "#shorts",
+    "#Explore",
+    "#Nature"
+  ]
+}

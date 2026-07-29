@@ -1,0 +1,68 @@
+{
+  "title": "Why This Glacier is so Blue",
+  "thumb": "VIBRANT GLACIER!",
+  "place": "Perito Moreno Glacier",
+  "country": "Argentina",
+  "scenes": [
+    {
+      "hook_top": "VIBRANT GLACIER",
+      "query": "aerial shot of Perito Moreno Glacier",
+      "query2": "glacier overview",
+      "role": "hook",
+      "text": "This glacier has vibrant blue ice!"
+    },
+    {
+      "chips": [
+        {
+          "t": "LIGHT ABSORPTION",
+          "on": "absorption",
+          "style": "white"
+        }
+      ],
+      "punch": "science",
+      "query": "Perito Moreno Glacier close-up of blue glacial ice",
+      "query2": "ice texture detail",
+      "role": "fact",
+      "text": "The blue color comes from light absorption."
+    },
+    {
+      "chips": [
+        {
+          "t": "FEW ADVANCING",
+          "on": "advancing",
+          "style": "accent"
+        }
+      ],
+      "punch": "rare",
+      "query": "Perito Moreno Glacier expanding glacier landscape",
+      "query2": "glacier changes",
+      "role": "fact",
+      "text": "It's one of the few advancing glaciers."
+    },
+    {
+      "reveal_top": "ICEBERGS CALVING LIVE",
+      "query": "Perito Moreno Glacier icebergs breaking off from glacier",
+      "query2": "dynamic glacier activity",
+      "role": "reveal",
+      "text": "Witness the calving icebergs!"
+    },
+    {
+      "query": "Perito Moreno Glacier majestic glacier scenery",
+      "query2": "nature's icy beauty",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Perito Moreno Glacier in Argentina is famous for its breathtaking blue ice, able to mesmerize anyone who visits. Experience nature’s powerful beauty!",
+  "hashtags": [
+    "#PeritoMoreno",
+    "#Glacier",
+    "#Argentina",
+    "#NatureBeauty",
+    "#Adventure",
+    "#fyp",
+    "#shorts",
+    "#Explore",
+    "#Travel"
+  ]
+}

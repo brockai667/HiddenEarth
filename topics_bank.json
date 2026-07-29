@@ -5839,5 +5839,391 @@
       "#Explore",
       "#Travel"
     ]
+  },
+  {
+    "title": "Discover the Twisted Cactus of the Sonoran Desert",
+    "thumb": "TWISTED CACTUS FUN!",
+    "place": "Organ Pipe Cactus National Monument",
+    "country": "Arizona, USA",
+    "scenes": [
+      {
+        "hook_top": "UNUSUAL CACTUS FOUND",
+        "query": "Organ Pipe Cactus National Monument organ pipe cactus landscape",
+        "query2": "desert cactus fields",
+        "role": "hook",
+        "text": "What makes these cacti unique?"
+      },
+      {
+        "role": "map",
+        "text": "Organ Pipe Cactus National Monument, Arizona, USA"
+      },
+      {
+        "chips": [
+          {
+            "t": "28 SPECIES",
+            "on": "spoken trigger word",
+            "style": "accent"
+          }
+        ],
+        "query": "Organ Pipe Cactus National Monument close-up shot of cacti",
+        "query2": "diverse cactus plants",
+        "role": "fact",
+        "text": "Home to 28 cactus species!"
+      },
+      {
+        "archive_label": "Unique Organ Pipe Cactus",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Organ_Pipe_Cactus_National_Monument_037.jpg",
+        "query": "Organ Pipe Cactus National Monument",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Explore its unique varieties.",
+        "label_on": "cactus",
+        "role": "callout",
+        "text": "A Cactus Paradise!",
+        "query": "Organ Pipe Cactus National Monument",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Organ Pipe Cactus National Monument",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "The Organ Pipe Cactus National Monument offers a rare view of twisting cacti unique to the Sonoran Desert. Explore its remarkable biodiversity and beauty. #shorts #fyp #OrganPipeCactus #CactusParadise #USA #Nature #Explore #Adventure",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#OrganPipeCactus",
+      "#CactusParadise",
+      "#USA",
+      "#Nature",
+      "#Explore",
+      "#Adventure"
+    ]
+  },
+  {
+    "title": "Why Is This Beach Completely MADE OF Shells?",
+    "thumb": "BEACH OF SHELLS!",
+    "place": "Shell Beach",
+    "country": "Shark Bay, Australia",
+    "scenes": [
+      {
+        "hook_top": "SHELL BEACH MAGIC",
+        "query": "stunning aerial of shell beach",
+        "query2": "shell beach landscape",
+        "role": "hook",
+        "text": "This beach is unique in the world!"
+      },
+      {
+        "role": "map",
+        "text": "Shell Beach, Shark Bay, Australia"
+      },
+      {
+        "chips": [
+          {
+            "t": "MILLIONS OF SHELLS",
+            "on": "spoken trigger word",
+            "style": "white"
+          }
+        ],
+        "query": "close-up of shell beach",
+        "query2": "shell composition",
+        "role": "fact",
+        "text": "Consists of millions of shells!"
+      },
+      {
+        "archive_label": "Famous Shell Beach",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Shell_Beach.jpg",
+        "query": "Shell Beach",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Discover this shell paradise.",
+        "label_on": "shell",
+        "role": "callout",
+        "text": "Nature's Artwork!",
+        "query": "Shell Beach",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Shell Beach",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Shell Beach is a natural wonder that showcases a stunning coastline made entirely of shells. Experience this unique beauty in Australia! #shorts #fyp #ShellBeach #NaturalWonders #Australia #Travel #Explore #Adventure",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#ShellBeach",
+      "#NaturalWonders",
+      "#Australia",
+      "#Travel",
+      "#Explore",
+      "#Adventure"
+    ]
+  },
+  {
+    "title": "The Mysterious Blue Waters of the Grotto",
+    "thumb": "MYSTICAL BLUE GROTTO",
+    "place": "Blue Grotto",
+    "country": "Malta",
+    "scenes": [
+      {
+        "hook_top": "GLITTERING BLUE GROTTO",
+        "query": "inside blue grotto cave",
+        "query2": "glowing cave waters",
+        "role": "hook",
+        "text": "Why does this cave glow blue?"
+      },
+      {
+        "role": "map",
+        "text": "Blue Grotto, Malta"
+      },
+      {
+        "chips": [
+          {
+            "t": "DAZZLING LIGHT",
+            "on": "spoken trigger word",
+            "style": "accent"
+          }
+        ],
+        "query": "boat entering blue grotto",
+        "query2": "grotto exploration",
+        "role": "fact",
+        "text": "Known for its dazzling blue light!"
+      },
+      {
+        "archive_label": "Famous Blue Grotto",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Malta_Grotto.jpg",
+        "query": "Blue Grotto",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Experience the magical glow.",
+        "label_on": "blue",
+        "role": "callout",
+        "text": "Cave of Lights!",
+        "query": "Blue Grotto",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Blue Grotto",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "The Blue Grotto in Malta is renowned for its mesmerizing glowing blue waters. It's a must-visit for anyone captivated by natural beauty. #shorts #fyp #BlueGrotto #Malta #Nature #Explore #Adventure #Travel",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#BlueGrotto",
+      "#Malta",
+      "#Nature",
+      "#Explore",
+      "#Adventure",
+      "#Travel"
+    ]
+  },
+  {
+    "title": "Discover the Hidden Waterfall of Laverne",
+    "thumb": "HIDDEN WATERFALL FOUND",
+    "place": "Laverne Falls",
+    "country": "Pahang, Malaysia",
+    "scenes": [
+      {
+        "hook_top": "HIDDEN FALLS REVEALED",
+        "query": "Laverne Falls lush rainforest around waterfall",
+        "query2": "tropical waterfall scene",
+        "role": "hook",
+        "text": "This waterfall is well-hidden!"
+      },
+      {
+        "role": "map",
+        "text": "Laverne Falls, Pahang, Malaysia"
+      },
+      {
+        "chips": [
+          {
+            "t": "30 METERS HIGH",
+            "on": "spoken trigger word",
+            "style": "white"
+          }
+        ],
+        "query": "Laverne Falls water cascading over rocks",
+        "query2": "falling water close-up",
+        "role": "fact",
+        "text": "Stands at a stunning 30 meters!"
+      },
+      {
+        "archive_label": "Laverne Falls Beauty",
+        "role": "archive",
+        "text": "https://commons.wikimedia.org/wiki/File:Laverne_Falls.jpg",
+        "query": "Laverne Falls",
+        "query2": "aerial landscape"
+      },
+      {
+        "sub": "Unearth this waterfall's beauty.",
+        "label_on": "waterfall",
+        "role": "callout",
+        "text": "A Natural Gem!",
+        "query": "Laverne Falls",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Laverne Falls",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Nestled in Malaysia's lush jungle, Laverne Falls is a breathtaking hidden gem that captivates with its height and beauty. Discover it with us! #shorts #fyp #LaverneFalls #HiddenGem #Malaysia #Nature #Adventure #Explore",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#LaverneFalls",
+      "#HiddenGem",
+      "#Malaysia",
+      "#Nature",
+      "#Adventure",
+      "#Explore"
+    ]
+  },
+  {
+    "title": "The Largest Natural Hot Springs on Earth!",
+    "thumb": "NATURAL HOT SPRINGS",
+    "place": "Grand Prismatic Spring",
+    "country": "Wyoming, USA",
+    "scenes": [
+      {
+        "hook_top": "LARGEST HOT SPRING",
+        "query": "aerial view of Grand Prismatic Spring",
+        "query2": "colorful hot spring",
+        "role": "hook",
+        "text": "This hot spring is truly gigantic!"
+      },
+      {
+        "chips": [
+          {
+            "t": "370 FEET WIDE",
+            "on": "wide",
+            "style": "white"
+          }
+        ],
+        "query": "Grand Prismatic Spring aerial view showcasing the size of the spring",
+        "query2": "size comparison with surrounding landscape",
+        "role": "fact",
+        "text": "It measures 370 feet wide and is 121 feet deep."
+      },
+      {
+        "chips": [
+          {
+            "t": "UNIQUE COLORS",
+            "on": "colors",
+            "style": "accent"
+          }
+        ],
+        "query": "Grand Prismatic Spring close-up of colorful bacteria in hot spring",
+        "query2": "color variations in hot springs",
+        "role": "fact",
+        "text": "Its unique colors come from bacterial mats and mineral-rich water."
+      },
+      {
+        "reveal_top": "THE FIRST NATIONAL PARK",
+        "query": "Grand Prismatic Spring panoramic view of Yellowstone National Park",
+        "query2": "natural beauty of Yellowstone",
+        "role": "reveal",
+        "text": "It's part of the world's first national park!"
+      },
+      {
+        "query": "Grand Prismatic Spring engaging visuals of Yellowstone National Park",
+        "query2": "nature and landscapes",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Discover the breathtaking Grand Prismatic Spring, the largest natural hot spring in the world, located in Yellowstone National Park. Join us for more stunning locations!",
+    "hashtags": [
+      "#GrandPrismatic",
+      "#Yellowstone",
+      "#NatureLovers",
+      "#Travel",
+      "#Shorts",
+      "#FYP",
+      "#Explore",
+      "#Adventure"
+    ]
+  },
+  {
+    "title": "A Crystal Blue Wonder Awaits You!",
+    "thumb": "CRYSTAL BLUE WATER",
+    "place": "Lake Louise",
+    "country": "Alberta, Canada",
+    "scenes": [
+      {
+        "hook_top": "CRYSTAL CLEAR LAKE",
+        "query": "stunning view of Lake Louise",
+        "query2": "majestic lake scenery",
+        "role": "hook",
+        "text": "This lake looks like a jewel!"
+      },
+      {
+        "chips": [
+          {
+            "t": "BRIGHT BLUE COLOR",
+            "on": "blue",
+            "style": "white"
+          }
+        ],
+        "query": "Lake Louise close-up of glacial water",
+        "query2": "details of lake color",
+        "role": "fact",
+        "text": "Its bright blue color comes from glacial meltwater."
+      },
+      {
+        "chips": [
+          {
+            "t": "STUNNING ROCKIES",
+            "on": "mountains",
+            "style": "accent"
+          }
+        ],
+        "query": "Lake Louise panoramic view of mountains around the lake",
+        "query2": "landscape of Rockies",
+        "role": "fact",
+        "text": "It’s surrounded by the stunning Rocky Mountains."
+      },
+      {
+        "reveal_top": "A UNESCO HERITAGE SITE",
+        "query": "Lake Louise aerial view emphasizing the UNESCO site",
+        "query2": "world heritage landscapes",
+        "role": "reveal",
+        "text": "It's a UNESCO World Heritage Site!"
+      },
+      {
+        "query": "Lake Louise captivating views of nature",
+        "query2": "beautiful landscapes",
+        "role": "cta",
+        "text": "Follow for places that don't feel real."
+      }
+    ],
+    "description": "Discover the vibrant Lake Louise in Canada, renowned for its incredible turquoise waters and breathtaking mountain backdrop. Stay tuned for more stunning places!",
+    "hashtags": [
+      "#LakeLouise",
+      "#RockyMountains",
+      "#NatureAwakening",
+      "#Travel",
+      "#Shorts",
+      "#FYP",
+      "#Explore",
+      "#Adventure"
+    ]
   }
 ]
