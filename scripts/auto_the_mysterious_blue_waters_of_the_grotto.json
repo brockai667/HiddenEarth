@@ -1,0 +1,64 @@
+{
+  "title": "The Mysterious Blue Waters of the Grotto",
+  "thumb": "MYSTICAL BLUE GROTTO",
+  "place": "Blue Grotto",
+  "country": "Malta",
+  "scenes": [
+    {
+      "hook_top": "GLITTERING BLUE GROTTO",
+      "query": "inside blue grotto cave",
+      "query2": "glowing cave waters",
+      "role": "hook",
+      "text": "Why does this cave glow blue?"
+    },
+    {
+      "role": "map",
+      "text": "Blue Grotto, Malta"
+    },
+    {
+      "chips": [
+        {
+          "t": "DAZZLING LIGHT",
+          "on": "spoken trigger word",
+          "style": "accent"
+        }
+      ],
+      "query": "boat entering blue grotto",
+      "query2": "grotto exploration",
+      "role": "fact",
+      "text": "Known for its dazzling blue light!"
+    },
+    {
+      "archive_label": "Famous Blue Grotto",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Malta_Grotto.jpg",
+      "query": "Blue Grotto",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Experience the magical glow.",
+      "label_on": "blue",
+      "role": "callout",
+      "text": "Cave of Lights!",
+      "query": "Blue Grotto",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Blue Grotto",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "The Blue Grotto in Malta is renowned for its mesmerizing glowing blue waters. It's a must-visit for anyone captivated by natural beauty. #shorts #fyp #BlueGrotto #Malta #Nature #Explore #Adventure #Travel",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#BlueGrotto",
+    "#Malta",
+    "#Nature",
+    "#Explore",
+    "#Adventure",
+    "#Travel"
+  ]
+}

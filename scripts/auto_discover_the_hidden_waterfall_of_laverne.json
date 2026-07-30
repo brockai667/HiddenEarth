@@ -1,0 +1,64 @@
+{
+  "title": "Discover the Hidden Waterfall of Laverne",
+  "thumb": "HIDDEN WATERFALL FOUND",
+  "place": "Laverne Falls",
+  "country": "Pahang, Malaysia",
+  "scenes": [
+    {
+      "hook_top": "HIDDEN FALLS REVEALED",
+      "query": "Laverne Falls lush rainforest around waterfall",
+      "query2": "tropical waterfall scene",
+      "role": "hook",
+      "text": "This waterfall is well-hidden!"
+    },
+    {
+      "role": "map",
+      "text": "Laverne Falls, Pahang, Malaysia"
+    },
+    {
+      "chips": [
+        {
+          "t": "30 METERS HIGH",
+          "on": "spoken trigger word",
+          "style": "white"
+        }
+      ],
+      "query": "Laverne Falls water cascading over rocks",
+      "query2": "falling water close-up",
+      "role": "fact",
+      "text": "Stands at a stunning 30 meters!"
+    },
+    {
+      "archive_label": "Laverne Falls Beauty",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Laverne_Falls.jpg",
+      "query": "Laverne Falls",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Unearth this waterfall's beauty.",
+      "label_on": "waterfall",
+      "role": "callout",
+      "text": "A Natural Gem!",
+      "query": "Laverne Falls",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Laverne Falls",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Nestled in Malaysia's lush jungle, Laverne Falls is a breathtaking hidden gem that captivates with its height and beauty. Discover it with us! #shorts #fyp #LaverneFalls #HiddenGem #Malaysia #Nature #Adventure #Explore",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LaverneFalls",
+    "#HiddenGem",
+    "#Malaysia",
+    "#Nature",
+    "#Adventure",
+    "#Explore"
+  ]
+}

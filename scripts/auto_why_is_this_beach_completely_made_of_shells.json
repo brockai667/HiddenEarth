@@ -1,0 +1,64 @@
+{
+  "title": "Why Is This Beach Completely MADE OF Shells?",
+  "thumb": "BEACH OF SHELLS!",
+  "place": "Shell Beach",
+  "country": "Shark Bay, Australia",
+  "scenes": [
+    {
+      "hook_top": "SHELL BEACH MAGIC",
+      "query": "stunning aerial of shell beach",
+      "query2": "shell beach landscape",
+      "role": "hook",
+      "text": "This beach is unique in the world!"
+    },
+    {
+      "role": "map",
+      "text": "Shell Beach, Shark Bay, Australia"
+    },
+    {
+      "chips": [
+        {
+          "t": "MILLIONS OF SHELLS",
+          "on": "spoken trigger word",
+          "style": "white"
+        }
+      ],
+      "query": "close-up of shell beach",
+      "query2": "shell composition",
+      "role": "fact",
+      "text": "Consists of millions of shells!"
+    },
+    {
+      "archive_label": "Famous Shell Beach",
+      "role": "archive",
+      "text": "https://commons.wikimedia.org/wiki/File:Shell_Beach.jpg",
+      "query": "Shell Beach",
+      "query2": "aerial landscape"
+    },
+    {
+      "sub": "Discover this shell paradise.",
+      "label_on": "shell",
+      "role": "callout",
+      "text": "Nature's Artwork!",
+      "query": "Shell Beach",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Shell Beach",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Shell Beach is a natural wonder that showcases a stunning coastline made entirely of shells. Experience this unique beauty in Australia! #shorts #fyp #ShellBeach #NaturalWonders #Australia #Travel #Explore #Adventure",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#ShellBeach",
+    "#NaturalWonders",
+    "#Australia",
+    "#Travel",
+    "#Explore",
+    "#Adventure"
+  ]
+}
