@@ -1,0 +1,65 @@
+{
+  "title": "A Crystal Blue Wonder Awaits You!",
+  "thumb": "CRYSTAL BLUE WATER",
+  "place": "Lake Louise",
+  "country": "Alberta, Canada",
+  "scenes": [
+    {
+      "hook_top": "CRYSTAL CLEAR LAKE",
+      "query": "stunning view of Lake Louise",
+      "query2": "majestic lake scenery",
+      "role": "hook",
+      "text": "This lake looks like a jewel!"
+    },
+    {
+      "chips": [
+        {
+          "t": "BRIGHT BLUE COLOR",
+          "on": "blue",
+          "style": "white"
+        }
+      ],
+      "query": "Lake Louise close-up of glacial water",
+      "query2": "details of lake color",
+      "role": "fact",
+      "text": "Its bright blue color comes from glacial meltwater."
+    },
+    {
+      "chips": [
+        {
+          "t": "STUNNING ROCKIES",
+          "on": "mountains",
+          "style": "accent"
+        }
+      ],
+      "query": "Lake Louise panoramic view of mountains around the lake",
+      "query2": "landscape of Rockies",
+      "role": "fact",
+      "text": "It’s surrounded by the stunning Rocky Mountains."
+    },
+    {
+      "reveal_top": "A UNESCO HERITAGE SITE",
+      "query": "Lake Louise aerial view emphasizing the UNESCO site",
+      "query2": "world heritage landscapes",
+      "role": "reveal",
+      "text": "It's a UNESCO World Heritage Site!"
+    },
+    {
+      "query": "Lake Louise captivating views of nature",
+      "query2": "beautiful landscapes",
+      "role": "cta",
+      "text": "Follow for places that don't feel real."
+    }
+  ],
+  "description": "Discover the vibrant Lake Louise in Canada, renowned for its incredible turquoise waters and breathtaking mountain backdrop. Stay tuned for more stunning places!",
+  "hashtags": [
+    "#LakeLouise",
+    "#RockyMountains",
+    "#NatureAwakening",
+    "#Travel",
+    "#Shorts",
+    "#FYP",
+    "#Explore",
+    "#Adventure"
+  ]
+}

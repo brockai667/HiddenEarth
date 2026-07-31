@@ -1,0 +1,65 @@
+{
+  "title": "The Largest Natural Hot Springs on Earth!",
+  "thumb": "NATURAL HOT SPRINGS",
+  "place": "Grand Prismatic Spring",
+  "country": "Wyoming, USA",
+  "scenes": [
+    {
+      "hook_top": "LARGEST HOT SPRING",
+      "query": "aerial view of Grand Prismatic Spring",
+      "query2": "colorful hot spring",
+      "role": "hook",
+      "text": "This hot spring is truly gigantic!"
+    },
+    {
+      "chips": [
+        {
+          "t": "370 FEET WIDE",
+          "on": "wide",
+          "style": "white"
+        }
+      ],
+      "query": "Grand Prismatic Spring aerial view showcasing the size of the spring",
+      "query2": "size comparison with surrounding landscape",
+      "role": "fact",
+      "text": "It measures 370 feet wide and is 121 feet deep."
+    },
+    {
+      "chips": [
+        {
+          "t": "UNIQUE COLORS",
+          "on": "colors",
+          "style": "accent"
+        }
+      ],
+      "query": "Grand Prismatic Spring close-up of colorful bacteria in hot spring",
+      "query2": "color variations in hot springs",
+      "role": "fact",
+      "text": "Its unique colors come from bacterial mats and mineral-rich water."
+    },
+    {
+      "reveal_top": "THE FIRST NATIONAL PARK",
+      "query": "Grand Prismatic Spring panoramic view of Yellowstone National Park",
+      "query2": "natural beauty of Yellowstone",
+      "role": "reveal",
+      "text": "It's part of the world's first national park!"
+    },
+    {
+      "query": "Grand Prismatic Spring engaging visuals of Yellowstone National Park",
+      "query2": "nature and landscapes",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Discover the breathtaking Grand Prismatic Spring, the largest natural hot spring in the world, located in Yellowstone National Park. Join us for more stunning locations!",
+  "hashtags": [
+    "#GrandPrismatic",
+    "#Yellowstone",
+    "#NatureLovers",
+    "#Travel",
+    "#Shorts",
+    "#FYP",
+    "#Explore",
+    "#Adventure"
+  ]
+}
