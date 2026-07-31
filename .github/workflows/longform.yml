@@ -34,7 +34,10 @@ jobs:
 
       - name: Generate 8-10 min documentary script (GitHub Models, free)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
+          MODELS_BASE_URL: https://api.groq.com/openai/v1
+          MODELS_MODEL: llama-3.3-70b-versatile
+          MODELS_FALLBACK: llama-3.1-8b-instant
         run: python generate_longform.py
 
       - name: Render video + upload to YouTube
