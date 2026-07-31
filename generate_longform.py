@@ -100,7 +100,7 @@ import time as _time
 _MODELS = [MODEL] + [m.strip() for m in os.environ.get(
     "MODELS_FALLBACK", "openai/gpt-4.1-mini,openai/gpt-4o").split(",")
     if m.strip() and m.strip() != MODEL]
-_MIN_GAP = float(os.environ.get("MODELS_MIN_GAP", "4"))   # rozostup (s) medzi volaniami -> limit za minutu
+_MIN_GAP = float(os.environ.get("MODELS_MIN_GAP", "25"))   # rozostup (s) medzi volaniami -> limit za minutu
 _last = [0.0]
 
 
@@ -110,18 +110,18 @@ def call_model(user_text):
         _time.sleep(gap)
     last = "?"
     for model in _MODELS:                                 # hlavny model, potom zalozne
-        for attempt in range(4):                          # opakuj pri 429 / 5xx (rate limit / pretazenie)
+        for attempt in range(6):                          # opakuj pri 429 / 5xx (rate limit / pretazenie)
             try:
                 r = requests.post(BASE.rstrip("/") + "/chat/completions",
                     headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json"},
-                    json={"model": model, "temperature": 0.8, "max_tokens": 12000,
+                    json={"model": model, "temperature": 0.8, "max_tokens": 4000,
                           "response_format": {"type": "json_object"},
                           "messages": [{"role": "system", "content": SYSTEM},
                                        {"role": "user", "content": user_text}]},
                     timeout=300)
             except Exception as e:
                 last = "exc %s" % str(e)[:120]; _time.sleep(6); continue
-            if r.status_code == 429 or r.status_code >= 500:      # limit / pretazenie -> pockaj a skus znova
+            if r.status_code in (429, 413) or r.status_code >= 500:      # limit / pretazenie -> pockaj a skus znova
                 last = "%s %s" % (r.status_code, r.text[:150])
                 wait = 8 * (attempt + 1)
                 ra = r.headers.get("Retry-After")                # respektuj Retry-After ak ho server posle
