@@ -1,0 +1,58 @@
+{
+  "title": "Yosemite Valley's Hidden Treasure",
+  "thumb": "HIDDEN TREASURE",
+  "place": "Yosemite Valley",
+  "country": "United States",
+  "scenes": [
+    {
+      "hook_top": "YOSEMITE VALLEY",
+      "query": "yosemite valley scenery",
+      "query2": "national park",
+      "role": "hook",
+      "text": "1 million visitors per year"
+    },
+    {
+      "num": 1,
+      "label": "GRANITE CLIFFS",
+      "label_on": "cliffs",
+      "query": "yosemite valley cliffs",
+      "query2": "granite rocks",
+      "role": "count",
+      "text": "1 unique feature: granite cliffs"
+    },
+    {
+      "num": 2,
+      "label": "SCENIC SPOTS",
+      "label_on": "spots",
+      "query": "yosemite valley hiking",
+      "query2": "yosemite valley scenery",
+      "role": "count",
+      "text": "2 scenic spots: Half Dome and El Capitan"
+    },
+    {
+      "num": 3,
+      "label": "OUTDOOR ACTIVITIES",
+      "label_on": "activities",
+      "query": "yosemite valley hiking trails",
+      "query2": "yosemite valley camping",
+      "role": "count",
+      "text": "3 outdoor activities: hiking, rock climbing, and camping"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Yosemite Valley",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover Yosemite Valley's hidden treasure. With its granite cliffs, scenic spots, and outdoor activities, Yosemite Valley is a must-visit destination for nature lovers. Follow us for more national park secrets!",
+  "hashtags": [
+    "#YosemiteValley",
+    "#NationalPark",
+    "#GraniteCliffs",
+    "#OutdoorAdventures",
+    "#NatureLovers",
+    "#shorts",
+    "#fyp"
+  ]
+}

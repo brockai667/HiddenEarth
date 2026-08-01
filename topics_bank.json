@@ -6225,5 +6225,500 @@
       "#Explore",
       "#Adventure"
     ]
+  },
+  {
+    "title": "The Secret of Trillium Lake's Perfect Reflection",
+    "thumb": "REFLECTIVE LAKE",
+    "place": "Trillium Lake",
+    "country": "United States",
+    "scenes": [
+      {
+        "hook_top": "MT HOOD NEIGHBOR",
+        "query": "Trillium Lake mountain lake reflection",
+        "query2": "serene lake",
+        "role": "hook",
+        "text": "10 miles from Mt. Hood"
+      },
+      {
+        "num": 1,
+        "label": "PERFECT REFLECTION",
+        "label_on": "mirror",
+        "query": "Trillium Lake lake reflection photography",
+        "query2": "calm lake",
+        "role": "count",
+        "text": "1 unique feature: perfect mirror-like reflection"
+      },
+      {
+        "num": 2,
+        "label": "SCENIC SPOTS",
+        "label_on": "spots",
+        "query": "Trillium Lake lake sunrise photography",
+        "query2": "lake sunset",
+        "role": "count",
+        "text": "2 scenic spots: sunrise and sunset"
+      },
+      {
+        "num": 3,
+        "label": "OUTDOOR ACTIVITIES",
+        "label_on": "activities",
+        "query": "Trillium Lake lake hiking trails",
+        "query2": "lake camping",
+        "role": "count",
+        "text": "3 activities: hiking, fishing, and camping"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Trillium Lake",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover the secret of Trillium Lake's perfect reflection. Located just 10 miles from Mt. Hood, this lake offers breathtaking views and serene surroundings. Follow us for more hidden gems!",
+    "hashtags": [
+      "#TrilliumLake",
+      "#MtHood",
+      "#LakeReflection",
+      "#OutdoorAdventures",
+      "#HiddenGems",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Kalsoy: The Island of Stunning Waterfalls",
+    "thumb": "WATERFALL PARADISE",
+    "place": "Kalsoy",
+    "country": "Faroe Islands",
+    "scenes": [
+      {
+        "hook_top": "WATERFALL ISLAND",
+        "query": "Kalsoy waterfall paradise",
+        "query2": "faroe islands",
+        "role": "hook",
+        "text": "18 waterfalls on one island"
+      },
+      {
+        "num": 1,
+        "label": "RUGGED COASTLINE",
+        "label_on": "coastline",
+        "query": "Kalsoy faroe islands landscape",
+        "query2": "rugged coastline",
+        "role": "count",
+        "text": "1 unique landscape: rugged coastline"
+      },
+      {
+        "num": 2,
+        "label": "PICTURESQUE VILLAGES",
+        "label_on": "villages",
+        "query": "Kalsoy faroe islands villages",
+        "query2": "picturesque villages",
+        "role": "count",
+        "text": "2 picturesque villages: Mikladalur and Trøllanes"
+      },
+      {
+        "num": 3,
+        "label": "OUTDOOR ACTIVITIES",
+        "label_on": "activities",
+        "query": "Kalsoy faroe islands hiking",
+        "query2": "faroe islands birdwatching",
+        "role": "count",
+        "text": "3 outdoor activities: hiking, birdwatching, and sailing"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Kalsoy",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Explore Kalsoy, the island of stunning waterfalls in the Faroe Islands. With its rugged coastline, picturesque villages, and outdoor activities, Kalsoy is a paradise for nature lovers. Follow us for more stunning destinations!",
+    "hashtags": [
+      "#Kalsoy",
+      "#FaroeIslands",
+      "#WaterfallParadise",
+      "#OutdoorAdventures",
+      "#NatureLovers",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Yosemite Valley's Hidden Treasure",
+    "thumb": "HIDDEN TREASURE",
+    "place": "Yosemite Valley",
+    "country": "United States",
+    "scenes": [
+      {
+        "hook_top": "YOSEMITE VALLEY",
+        "query": "yosemite valley scenery",
+        "query2": "national park",
+        "role": "hook",
+        "text": "1 million visitors per year"
+      },
+      {
+        "num": 1,
+        "label": "GRANITE CLIFFS",
+        "label_on": "cliffs",
+        "query": "yosemite valley cliffs",
+        "query2": "granite rocks",
+        "role": "count",
+        "text": "1 unique feature: granite cliffs"
+      },
+      {
+        "num": 2,
+        "label": "SCENIC SPOTS",
+        "label_on": "spots",
+        "query": "yosemite valley hiking",
+        "query2": "yosemite valley scenery",
+        "role": "count",
+        "text": "2 scenic spots: Half Dome and El Capitan"
+      },
+      {
+        "num": 3,
+        "label": "OUTDOOR ACTIVITIES",
+        "label_on": "activities",
+        "query": "yosemite valley hiking trails",
+        "query2": "yosemite valley camping",
+        "role": "count",
+        "text": "3 outdoor activities: hiking, rock climbing, and camping"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Yosemite Valley",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover Yosemite Valley's hidden treasure. With its granite cliffs, scenic spots, and outdoor activities, Yosemite Valley is a must-visit destination for nature lovers. Follow us for more national park secrets!",
+    "hashtags": [
+      "#YosemiteValley",
+      "#NationalPark",
+      "#GraniteCliffs",
+      "#OutdoorAdventures",
+      "#NatureLovers",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Enchanting Mossy Maples of McDowell Creek Falls",
+    "thumb": "MOSSY MAPLES",
+    "place": "McDowell Creek Falls",
+    "country": "United States",
+    "scenes": [
+      {
+        "hook_top": "WATERFALL PARK",
+        "query": "McDowell Creek Falls mossy maples",
+        "query2": "waterfall park",
+        "role": "hook",
+        "text": "4 waterfalls in one park"
+      },
+      {
+        "num": 1,
+        "label": "MOSS-COVERED TREES",
+        "label_on": "moss",
+        "query": "McDowell Creek Falls mossy trees",
+        "query2": "forest scenery",
+        "role": "count",
+        "text": "1 unique feature: moss-covered trees"
+      },
+      {
+        "num": 2,
+        "label": "SCENIC SPOTS",
+        "label_on": "spots",
+        "query": "McDowell Creek Falls waterfall hiking trails",
+        "query2": "waterfall scenery",
+        "role": "count",
+        "text": "2 scenic spots: Upper Falls and Lower Falls"
+      },
+      {
+        "num": 3,
+        "label": "ACTIVITIES",
+        "label_on": "activities",
+        "query": "McDowell Creek Falls hiking trails",
+        "query2": "relaxation spots",
+        "role": "count",
+        "text": "3 activities: hiking, photography, and relaxation"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "McDowell Creek Falls",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Explore the enchanting mossy maples of McDowell Creek Falls. With its unique features, scenic spots, and activities, McDowell Creek Falls is a must-visit destination for nature lovers. Follow us for more waterfall wonders!",
+    "hashtags": [
+      "#McDowellCreekFalls",
+      "#MossyMaples",
+      "#WaterfallPark",
+      "#OutdoorAdventures",
+      "#NatureLovers",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Discover the Secret of Kalsoy Island",
+    "thumb": "KALSOY ISLAND",
+    "place": "Kalsoy Island",
+    "country": "Faroe Islands",
+    "scenes": [
+      {
+        "hook_top": "ISLAND OF 10",
+        "query": "aerial view of Kalsoy island",
+        "query2": "Faroe Islands landscape",
+        "role": "hook",
+        "text": "10 villages on one island"
+      },
+      {
+        "chips": [
+          {
+            "t": "10",
+            "on": "villages",
+            "style": "white"
+          }
+        ],
+        "punch": "Remote",
+        "query": "Kalsoy Island traditional Faroe Islands village",
+        "query2": "Kalsoy island village",
+        "role": "fact",
+        "text": "Kalsoy Island is home to 10 villages"
+      },
+      {
+        "chips": [
+          {
+            "t": "100",
+            "on": "people",
+            "style": "accent"
+          }
+        ],
+        "query": "Kalsoy Island abandoned village in Faroe Islands",
+        "query2": "Kalsoy island population",
+        "role": "fact",
+        "text": "The island has a population of less than 100 people"
+      },
+      {
+        "reveal_top": "HIDDEN GEM",
+        "query": "tourists on Kalsoy island",
+        "query2": "Faroe Islands tourism",
+        "role": "reveal",
+        "text": "But attracts thousands of tourists every year"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Kalsoy Island",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Kalsoy Island is a hidden gem in the Faroe Islands, with 10 villages and a population of less than 100 people. But it attracts thousands of tourists every year. Follow us for more hidden gems. Discover the secret of Kalsoy Island and plan your trip now!",
+    "hashtags": [
+      "#KalsoyIsland",
+      "#FaroeIslands",
+      "#HiddenGems",
+      "#Travel",
+      "#WanderLust",
+      "#IslandLife",
+      "#RemoteDestinations",
+      "#OffTheBeatenPath",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Explore the Wonder of Garibaldi Provincial Park",
+    "thumb": "GARIBALDI PARK",
+    "place": "Garibaldi Provincial Park",
+    "country": "Canada",
+    "scenes": [
+      {
+        "hook_top": "10 GLACIERS",
+        "query": "Garibaldi Provincial Park glaciers",
+        "query2": "British Columbia landscape",
+        "role": "hook",
+        "text": "Home to 10 glaciers"
+      },
+      {
+        "chips": [
+          {
+            "t": "100km",
+            "on": "trails",
+            "style": "white"
+          }
+        ],
+        "punch": "Extensive",
+        "query": "Garibaldi Provincial Park hiking trails in Garibaldi Park",
+        "query2": "British Columbia hiking",
+        "role": "fact",
+        "text": "Garibaldi Provincial Park has over 100 km of hiking trails"
+      },
+      {
+        "chips": [
+          {
+            "t": "1800s",
+            "on": "Giuseppe",
+            "style": "accent"
+          }
+        ],
+        "query": "Garibaldi Provincial Park Giuseppe Garibaldi history",
+        "query2": "Garibaldi Provincial Park name",
+        "role": "fact",
+        "text": "The park is named after Giuseppe Garibaldi"
+      },
+      {
+        "reveal_top": "OUTDOOR PARADISE",
+        "query": "Garibaldi Provincial Park activities",
+        "query2": "British Columbia outdoor adventures",
+        "role": "reveal",
+        "text": "And is a popular destination for outdoor enthusiasts"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Garibaldi Provincial Park",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Garibaldi Provincial Park is a wonder in British Columbia, Canada, with 10 glaciers, over 100 km of hiking trails, and a rich history. The park is named after Giuseppe Garibaldi and is a popular destination for outdoor enthusiasts. Follow us for more outdoor adventures. Explore the wonder of Garibaldi Provincial Park and plan your trip now!",
+    "hashtags": [
+      "#GaribaldiProvincialPark",
+      "#BritishColumbia",
+      "#Travel",
+      "#Hiking",
+      "#Glaciers",
+      "#OutdoorAdventures",
+      "#Nature",
+      "#Landscape",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Pink Lake of Torrevieja",
+    "thumb": "PINK LAKE",
+    "place": "Torrevieja",
+    "country": "Spain",
+    "scenes": [
+      {
+        "hook_top": "PINK LAKE ALERT",
+        "role": "hook",
+        "text": "1 pink lake in Europe",
+        "query": "Torrevieja",
+        "query2": "aerial landscape"
+      },
+      {
+        "chips": [
+          {
+            "t": "35%",
+            "on": "salt",
+            "style": "white"
+          }
+        ],
+        "punch": "salt",
+        "query": "pink lake torrevieja",
+        "query2": "torrevieja lake",
+        "role": "fact",
+        "text": "Torrevieja's lake is pink due to its high salt content"
+      },
+      {
+        "archive_query": "Torrevieja lake Wikimedia",
+        "archive_label": "Pink Lake",
+        "role": "archive",
+        "text": "The lake's unique color has been documented since the 19th century",
+        "query": "Torrevieja",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Pink Paradise",
+        "sub": "Nature's wonder",
+        "label_on": "paradise",
+        "query": "torrevieja lake landscape",
+        "query2": "pink lake landscape",
+        "role": "callout",
+        "text": "Witness the breathtaking pink hues of Torrevieja's lake"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Torrevieja",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover the natural wonder of Torrevieja's pink lake, a must-see destination in Europe. Follow us for more breathtaking travel spots.",
+    "hashtags": [
+      "#travel",
+      "#spain",
+      "#pinklake",
+      "#torrevieja",
+      "#wanderlust",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Secret Waterfall of McDowell Creek",
+    "thumb": "HIDDEN FALLS",
+    "place": "McDowell Creek",
+    "country": "USA",
+    "scenes": [
+      {
+        "hook_top": "WATERFALL HEAVEN",
+        "role": "hook",
+        "text": "10 waterfalls in 1 creek",
+        "query": "McDowell Creek",
+        "query2": "aerial landscape"
+      },
+      {
+        "chips": [
+          {
+            "t": "10",
+            "on": "waterfalls",
+            "style": "accent"
+          }
+        ],
+        "punch": "waterfalls",
+        "query": "mcdowell creek waterfalls",
+        "query2": "oregon waterfalls",
+        "role": "fact",
+        "text": "McDowell Creek is home to 10 stunning waterfalls"
+      },
+      {
+        "archive_query": "McDowell Creek Falls Wikimedia",
+        "archive_label": "Waterfalls",
+        "role": "archive",
+        "text": "The creek's waterfalls have been a popular spot for hikers since the 1920s",
+        "query": "McDowell Creek",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Waterfall Wonderland",
+        "sub": "Nature's escape",
+        "label_on": "wonderland",
+        "query": "mcdowell creek landscape",
+        "query2": "oregon landscape",
+        "role": "callout",
+        "text": "Explore the serene landscapes of McDowell Creek"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "McDowell Creek",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Uncover the secret waterfalls of McDowell Creek, a hidden gem in the USA. Follow us for more travel inspiration and breathtaking destinations.",
+    "hashtags": [
+      "#travel",
+      "#usa",
+      "#waterfalls",
+      "#mcdowellcreek",
+      "#oregon",
+      "#wanderlust",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

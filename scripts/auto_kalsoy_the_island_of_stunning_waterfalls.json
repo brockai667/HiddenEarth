@@ -1,0 +1,58 @@
+{
+  "title": "Kalsoy: The Island of Stunning Waterfalls",
+  "thumb": "WATERFALL PARADISE",
+  "place": "Kalsoy",
+  "country": "Faroe Islands",
+  "scenes": [
+    {
+      "hook_top": "WATERFALL ISLAND",
+      "query": "Kalsoy waterfall paradise",
+      "query2": "faroe islands",
+      "role": "hook",
+      "text": "18 waterfalls on one island"
+    },
+    {
+      "num": 1,
+      "label": "RUGGED COASTLINE",
+      "label_on": "coastline",
+      "query": "Kalsoy faroe islands landscape",
+      "query2": "rugged coastline",
+      "role": "count",
+      "text": "1 unique landscape: rugged coastline"
+    },
+    {
+      "num": 2,
+      "label": "PICTURESQUE VILLAGES",
+      "label_on": "villages",
+      "query": "Kalsoy faroe islands villages",
+      "query2": "picturesque villages",
+      "role": "count",
+      "text": "2 picturesque villages: Mikladalur and Trøllanes"
+    },
+    {
+      "num": 3,
+      "label": "OUTDOOR ACTIVITIES",
+      "label_on": "activities",
+      "query": "Kalsoy faroe islands hiking",
+      "query2": "faroe islands birdwatching",
+      "role": "count",
+      "text": "3 outdoor activities: hiking, birdwatching, and sailing"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Kalsoy",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Explore Kalsoy, the island of stunning waterfalls in the Faroe Islands. With its rugged coastline, picturesque villages, and outdoor activities, Kalsoy is a paradise for nature lovers. Follow us for more stunning destinations!",
+  "hashtags": [
+    "#Kalsoy",
+    "#FaroeIslands",
+    "#WaterfallParadise",
+    "#OutdoorAdventures",
+    "#NatureLovers",
+    "#shorts",
+    "#fyp"
+  ]
+}
