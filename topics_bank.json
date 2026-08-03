@@ -6910,5 +6910,273 @@
       "#naturalwonder",
       "#colorchanging"
     ]
+  },
+  {
+    "title": "The Emerald Shores of El Nido",
+    "thumb": "GREEN LAGOON",
+    "place": "El Nido",
+    "country": "Philippines",
+    "scenes": [
+      {
+        "hook_top": "GREEN SHORES",
+        "query": "el nido lagoon",
+        "query2": "philippines islands",
+        "role": "hook",
+        "text": "4 islands, 1 lagoon"
+      },
+      {
+        "role": "map",
+        "text": "Located in Palawan, Philippines"
+      },
+      {
+        "chips": [
+          {
+            "t": "50",
+            "on": "beaches",
+            "style": "white"
+          }
+        ],
+        "punch": "beaches",
+        "query": "el nido beach",
+        "query2": "palawan tourism",
+        "role": "fact",
+        "text": "El Nido is home to over 50 beaches"
+      },
+      {
+        "archive_query": "El Nido Big Lagoon",
+        "archive_label": "Big Lagoon",
+        "role": "archive",
+        "text": "The iconic Big Lagoon",
+        "query": "El Nido",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Turquoise Paradise",
+        "sub": "find your slice",
+        "label_on": "paradise",
+        "query": "El Nido turquoise water",
+        "query2": "philippines tourism",
+        "role": "callout",
+        "text": "Experience the turquoise waters"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "El Nido",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover the breathtaking shores of El Nido, Philippines. With over 50 beaches to explore, this tropical paradise is a must-visit destination. Follow us for more travel inspiration!",
+    "hashtags": [
+      "#ElNido",
+      "#Philippines",
+      "#Travel",
+      "#IslandLife",
+      "#BeachVibes",
+      "#ParadiseFound",
+      "#WanderLust",
+      "#Explore",
+      "#Shorts",
+      "#FYP"
+    ]
+  },
+  {
+    "title": "The Secret Waterfalls of Roberts Creek",
+    "thumb": "HIDDEN FALLS",
+    "place": "Roberts Creek",
+    "country": "Canada",
+    "scenes": [
+      {
+        "hook_top": "HIDDEN FALLS",
+        "query": "roberts creek waterfall",
+        "query2": "canada waterfalls",
+        "role": "hook",
+        "text": "1 waterfall, 100m drop"
+      },
+      {
+        "role": "map",
+        "text": "Located in British Columbia, Canada"
+      },
+      {
+        "chips": [
+          {
+            "t": "10",
+            "on": "waterfalls",
+            "style": "white"
+          }
+        ],
+        "punch": "waterfalls",
+        "query": "roberts creek british columbia",
+        "query2": "canada tourism",
+        "role": "fact",
+        "text": "Roberts Creek is home to over 10 waterfalls"
+      },
+      {
+        "archive_query": "Roberts Creek Waterfall",
+        "archive_label": "Waterfall",
+        "role": "archive",
+        "text": "The majestic Roberts Creek Waterfall",
+        "query": "Roberts Creek",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Nature Escape",
+        "sub": "get away",
+        "label_on": "escape",
+        "query": "Roberts Creek natural wonders",
+        "query2": "canada travel",
+        "role": "callout",
+        "text": "Explore the natural wonders"
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Roberts Creek",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover the secret waterfalls of Roberts Creek, Canada. With over 10 waterfalls to explore, this natural wonder is a must-visit destination. Follow us for more travel inspiration!",
+    "hashtags": [
+      "#RobertsCreek",
+      "#Canada",
+      "#Travel",
+      "#Waterfalls",
+      "#Nature",
+      "#Explore",
+      "#WanderLust",
+      "#Shorts",
+      "#FYP",
+      "#WaterYouWaitingFor"
+    ]
+  },
+  {
+    "title": "The Golden Shores of Gem Lakes",
+    "thumb": "GOLDEN SAND",
+    "place": "Gem Lakes",
+    "country": "USA",
+    "scenes": [
+      {
+        "hook_top": "GOLDEN SHORES",
+        "query": "gem lakes california",
+        "query2": "usa lakes",
+        "role": "hook",
+        "text": "3 lakes, 1 golden shore"
+      },
+      {
+        "role": "map",
+        "text": "Located in California, USA"
+      },
+      {
+        "chips": [
+          {
+            "t": "5",
+            "on": "shoreline",
+            "style": "white"
+          }
+        ],
+        "punch": "shoreline",
+        "query": "gem lakes shoreline",
+        "query2": "california tourism",
+        "role": "fact",
+        "text": "Gem Lakes is home to over 5 miles of shoreline"
+      },
+      {
+        "archive_query": "Gem Lakes California",
+        "archive_label": "Gem Lakes",
+        "role": "archive",
+        "text": "The stunning Gem Lakes shoreline",
+        "query": "Gem Lakes",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Golden Hour",
+        "sub": "relax now",
+        "label_on": "hour",
+        "query": "Gem Lakes golden sunsets",
+        "query2": "usa travel",
+        "role": "callout",
+        "text": "Experience the golden sunsets"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Gem Lakes",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover the golden shores of Gem Lakes, California. With over 5 miles of shoreline to explore, this natural wonder is a must-visit destination. Follow us for more travel inspiration!",
+    "hashtags": [
+      "#GemLakes",
+      "#California",
+      "#Travel",
+      "#Lakes",
+      "#GoldenShores",
+      "#SunsetChasers",
+      "#WanderLust",
+      "#Explore",
+      "#Shorts",
+      "#FYP",
+      "#GoldenHour"
+    ]
+  },
+  {
+    "title": "The Shimmering Desert of Lençóis Maranhenses",
+    "thumb": "SHIMMER SAND",
+    "place": "Lençóis Maranhenses National Park",
+    "country": "Brazil",
+    "scenes": [
+      {
+        "hook_top": "DESERT LAKES",
+        "role": "hook",
+        "text": "1000 lakes in one desert",
+        "query": "Lençóis Maranhenses National Park",
+        "query2": "aerial landscape"
+      },
+      {
+        "num": 1,
+        "label": "BLUE LAGOONS",
+        "label_on": "sparkling",
+        "query": "Lençóis Maranhenses National Park crystal clear lake in desert",
+        "query2": "blue lagoon in sand dunes",
+        "role": "count",
+        "text": "Crystal clear waters"
+      },
+      {
+        "num": 2,
+        "label": "SHIFTING DUNES",
+        "label_on": "ever-changing",
+        "query": "Lençóis Maranhenses National Park sand dunes in Brazil",
+        "query2": "desert landscape with dunes",
+        "role": "count",
+        "text": "Dunes that shift and change"
+      },
+      {
+        "num": 3,
+        "label": "UNIQUE ECOSYSTEM",
+        "label_on": "one-of-a-kind",
+        "query": "Lençóis Maranhenses national park",
+        "query2": "Brazilian desert landscape",
+        "role": "count",
+        "text": "A unique ecosystem unlike anywhere else"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Lençóis Maranhenses National Park",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Explore the breathtaking Lençóis Maranhenses National Park in Brazil, where crystal clear lakes meet shifting sand dunes. This unique ecosystem is unlike anywhere else on Earth. Follow us for more stunning travel destinations!",
+    "hashtags": [
+      "#LençóisMaranhenses",
+      "#Brazil",
+      "#desertlakes",
+      "#travel",
+      "#adventure",
+      "#nature",
+      "#wanderlust",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
