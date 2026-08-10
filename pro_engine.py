@@ -40,6 +40,7 @@ SR = 24000
 SIL = 0.15
 ORANGE = (255, 144, 30)
 ORANGE2 = (255, 106, 0)
+ACCENT = ORANGE          # brand akcent (count cisla + zvyraznene slovo na thumbe) — chybal, render padal NameError
 FONT_POP = os.path.join(ROOT, "assets", "fonts", "Poppins-SemiBold.ttf")
 FONT_ANT = os.path.join(ROOT, "assets", "fonts", "Anton-Regular.ttf")
 UA = {"User-Agent": "HiddenEarth/1.0 (educational travel channel)"}
