@@ -1,0 +1,58 @@
+{
+  "title": "The Enchanting Mossy Maples of McDowell Creek Falls",
+  "thumb": "MOSSY MAPLES",
+  "place": "McDowell Creek Falls",
+  "country": "United States",
+  "scenes": [
+    {
+      "hook_top": "WATERFALL PARK",
+      "query": "McDowell Creek Falls mossy maples",
+      "query2": "waterfall park",
+      "role": "hook",
+      "text": "4 waterfalls in one park"
+    },
+    {
+      "num": 1,
+      "label": "MOSS-COVERED TREES",
+      "label_on": "moss",
+      "query": "McDowell Creek Falls mossy trees",
+      "query2": "forest scenery",
+      "role": "count",
+      "text": "1 unique feature: moss-covered trees"
+    },
+    {
+      "num": 2,
+      "label": "SCENIC SPOTS",
+      "label_on": "spots",
+      "query": "McDowell Creek Falls waterfall hiking trails",
+      "query2": "waterfall scenery",
+      "role": "count",
+      "text": "2 scenic spots: Upper Falls and Lower Falls"
+    },
+    {
+      "num": 3,
+      "label": "ACTIVITIES",
+      "label_on": "activities",
+      "query": "McDowell Creek Falls hiking trails",
+      "query2": "relaxation spots",
+      "role": "count",
+      "text": "3 activities: hiking, photography, and relaxation"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "McDowell Creek Falls",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Explore the enchanting mossy maples of McDowell Creek Falls. With its unique features, scenic spots, and activities, McDowell Creek Falls is a must-visit destination for nature lovers. Follow us for more waterfall wonders!",
+  "hashtags": [
+    "#McDowellCreekFalls",
+    "#MossyMaples",
+    "#WaterfallPark",
+    "#OutdoorAdventures",
+    "#NatureLovers",
+    "#shorts",
+    "#fyp"
+  ]
+}

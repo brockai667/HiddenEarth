@@ -1,0 +1,68 @@
+{
+  "title": "Explore the Wonder of Garibaldi Provincial Park",
+  "thumb": "GARIBALDI PARK",
+  "place": "Garibaldi Provincial Park",
+  "country": "Canada",
+  "scenes": [
+    {
+      "hook_top": "10 GLACIERS",
+      "query": "Garibaldi Provincial Park glaciers",
+      "query2": "British Columbia landscape",
+      "role": "hook",
+      "text": "Home to 10 glaciers"
+    },
+    {
+      "chips": [
+        {
+          "t": "100km",
+          "on": "trails",
+          "style": "white"
+        }
+      ],
+      "punch": "Extensive",
+      "query": "Garibaldi Provincial Park hiking trails in Garibaldi Park",
+      "query2": "British Columbia hiking",
+      "role": "fact",
+      "text": "Garibaldi Provincial Park has over 100 km of hiking trails"
+    },
+    {
+      "chips": [
+        {
+          "t": "1800s",
+          "on": "Giuseppe",
+          "style": "accent"
+        }
+      ],
+      "query": "Garibaldi Provincial Park Giuseppe Garibaldi history",
+      "query2": "Garibaldi Provincial Park name",
+      "role": "fact",
+      "text": "The park is named after Giuseppe Garibaldi"
+    },
+    {
+      "reveal_top": "OUTDOOR PARADISE",
+      "query": "Garibaldi Provincial Park activities",
+      "query2": "British Columbia outdoor adventures",
+      "role": "reveal",
+      "text": "And is a popular destination for outdoor enthusiasts"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Garibaldi Provincial Park",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Garibaldi Provincial Park is a wonder in British Columbia, Canada, with 10 glaciers, over 100 km of hiking trails, and a rich history. The park is named after Giuseppe Garibaldi and is a popular destination for outdoor enthusiasts. Follow us for more outdoor adventures. Explore the wonder of Garibaldi Provincial Park and plan your trip now!",
+  "hashtags": [
+    "#GaribaldiProvincialPark",
+    "#BritishColumbia",
+    "#Travel",
+    "#Hiking",
+    "#Glaciers",
+    "#OutdoorAdventures",
+    "#Nature",
+    "#Landscape",
+    "#shorts",
+    "#fyp"
+  ]
+}
