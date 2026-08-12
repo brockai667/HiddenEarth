@@ -7178,5 +7178,260 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "The Icy Blue Secret of Vatnajokull",
+    "thumb": "BLUE ICE CAVE",
+    "place": "Vatnajokull National Park",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "BLUE ICE",
+        "query": "Vatnajokull National Park Vatnajokull glacier",
+        "query2": "Iceland landscapes",
+        "role": "hook",
+        "text": "Europe's largest glacier"
+      },
+      {
+        "role": "map",
+        "text": "Located in southeast Iceland"
+      },
+      {
+        "chips": [
+          {
+            "t": "8%",
+            "on": "coverage",
+            "style": "accent"
+          }
+        ],
+        "punch": "Massive",
+        "role": "fact",
+        "text": "Vatnajokull covers 8% of Iceland",
+        "query": "Vatnajokull National Park",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_query": "Vatnajokull glacier",
+        "archive_label": "Vatnajokull",
+        "role": "archive",
+        "text": "Vatnajokull archival photo",
+        "query": "Vatnajokull National Park",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Vatnajokull",
+        "sub": "Iceland's gem",
+        "label_on": "Vatnajokull",
+        "role": "callout",
+        "text": "Explore the breathtaking Vatnajokull",
+        "query": "Vatnajokull National Park",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Vatnajokull National Park",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Explore Vatnajokull, Europe's largest glacier, and discover its breathtaking beauty. Follow us for more Iceland destinations.",
+    "hashtags": [
+      "#Vatnajokull",
+      "#Iceland",
+      "#Glaciers",
+      "#Travel",
+      "#Nature",
+      "#Shorts",
+      "#FYP"
+    ]
+  },
+  {
+    "title": "The Turquoise Paradise of Jellyfish Lake",
+    "thumb": "TURQUOISE LAKE",
+    "place": "Jellyfish Lake",
+    "country": "Palau",
+    "scenes": [
+      {
+        "hook_top": "JELLYFISH",
+        "query": "Jellyfish Lake",
+        "query2": "Palau landscapes",
+        "role": "hook",
+        "text": "12 million jellyfish"
+      },
+      {
+        "role": "map",
+        "text": "Located on the island of Eil Malk, Palau"
+      },
+      {
+        "chips": [
+          {
+            "t": "30m",
+            "on": "depth",
+            "style": "white"
+          }
+        ],
+        "punch": "Deep",
+        "role": "fact",
+        "text": "Jellyfish Lake is 30 meters deep",
+        "query": "Jellyfish Lake",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_query": "Jellyfish Lake",
+        "archive_label": "Jellyfish Lake",
+        "role": "archive",
+        "text": "Jellyfish Lake archival photo",
+        "query": "Jellyfish Lake",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Jellyfish Lake",
+        "sub": "Palau's wonder",
+        "label_on": "Jellyfish Lake",
+        "role": "callout",
+        "text": "Snorkel in the stunning Jellyfish Lake",
+        "query": "Jellyfish Lake",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Jellyfish Lake",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover Jellyfish Lake, a turquoise paradise filled with millions of jellyfish. Follow us for more Palau destinations.",
+    "hashtags": [
+      "#JellyfishLake",
+      "#Palau",
+      "#Travel",
+      "#Nature",
+      "#Shorts",
+      "#FYP"
+    ]
+  },
+  {
+    "title": "The Emerald Oasis of Kunlun Mountains",
+    "thumb": "EMERALD MOUNT",
+    "place": "Kunlun Mountains",
+    "country": "China",
+    "scenes": [
+      {
+        "hook_top": "CHINA'S KUNLUN",
+        "query": "Kunlun Mountains",
+        "query2": "China landscapes",
+        "role": "hook",
+        "text": "4000 km mountain range"
+      },
+      {
+        "role": "map",
+        "text": "Located in western China"
+      },
+      {
+        "chips": [
+          {
+            "t": "4000km",
+            "on": "length",
+            "style": "accent"
+          }
+        ],
+        "punch": "Long",
+        "role": "fact",
+        "text": "Kunlun Mountains are 4000 km long",
+        "query": "Kunlun Mountains",
+        "query2": "aerial landscape"
+      },
+      {
+        "archive_query": "Kunlun Mountains",
+        "archive_label": "Kunlun Mountains",
+        "role": "archive",
+        "text": "Kunlun Mountains archival photo",
+        "query": "Kunlun Mountains",
+        "query2": "aerial landscape"
+      },
+      {
+        "label": "Kunlun Mountains",
+        "sub": "China's secret",
+        "label_on": "Kunlun Mountains",
+        "role": "callout",
+        "text": "Explore the breathtaking Kunlun Mountains",
+        "query": "Kunlun Mountains",
+        "query2": "aerial landscape"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Kunlun Mountains",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Discover the Kunlun Mountains, an emerald oasis in western China. Follow us for more China destinations.",
+    "hashtags": [
+      "#KunlunMountains",
+      "#China",
+      "#Travel",
+      "#Nature",
+      "#Shorts",
+      "#FYP"
+    ]
+  },
+  {
+    "title": "The Mountain That Touches the Sky",
+    "thumb": "MT RAINIER",
+    "place": "Mt. Rainier",
+    "country": "USA",
+    "scenes": [
+      {
+        "hook_top": "MT RAINIER FOUND",
+        "query": "Mt. Rainier mt rainier washington",
+        "query2": "mount rainier national park",
+        "role": "hook",
+        "text": "One mountain in Washington"
+      },
+      {
+        "num": 1,
+        "label": "GLACIER PEAK",
+        "label_on": "glacier peak",
+        "query": "Mt. Rainier mt rainier glacier peak",
+        "query2": "mount rainier summit",
+        "role": "count",
+        "text": "1 Iconic Landmark"
+      },
+      {
+        "num": 2,
+        "label": "PANORAMIC VIEWS",
+        "label_on": "panoramic views",
+        "query": "Mt. Rainier mt rainier views",
+        "query2": "mount rainier scenery",
+        "role": "count",
+        "text": "2 Breathtaking Views"
+      },
+      {
+        "num": 3,
+        "label": "CLIMBING ROUTES",
+        "label_on": "climbing routes",
+        "query": "Mt. Rainier mt rainier climbing routes",
+        "query2": "mount rainier climbing",
+        "role": "count",
+        "text": "3 Challenging Climbs"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Mt. Rainier",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Mt. Rainier is a mountain that touches the sky, with its iconic landmark and breathtaking views. From climbing routes to panoramic scenery, it's an adventure seeker's paradise. Follow us for more incredible destinations like this!",
+    "hashtags": [
+      "#mtrainier",
+      "#mountain",
+      "#washington",
+      "#travel",
+      "#adventure",
+      "#nature",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

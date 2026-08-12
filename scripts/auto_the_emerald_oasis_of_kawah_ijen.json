@@ -1,0 +1,67 @@
+{
+  "title": "The Emerald Oasis of Kawah Ijen",
+  "thumb": "GREEN CRATER",
+  "place": "Kawah Ijen",
+  "country": "Indonesia",
+  "scenes": [
+    {
+      "hook_top": "TOXIC LAKE",
+      "query": "Kawah Ijen crater",
+      "query2": "indonesian sulfur mines",
+      "role": "hook",
+      "text": "1 toxic lake"
+    },
+    {
+      "role": "map",
+      "text": "Located in East Java, Indonesia"
+    },
+    {
+      "chips": [
+        {
+          "t": "36M",
+          "on": "water volume",
+          "style": "white"
+        }
+      ],
+      "punch": "cubic meters",
+      "role": "fact",
+      "text": "Contains 36 million cubic meters of water",
+      "query": "Kawah Ijen",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_query": "Kawah Ijen sulfur mining",
+      "archive_label": "Sulfur Mine",
+      "role": "archive",
+      "text": "Sulfur mining in Kawah Ijen",
+      "query": "Kawah Ijen",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": " Emerald Oasis",
+      "sub": "indonesian wonder",
+      "label_on": "Kawah Ijen",
+      "role": "callout",
+      "text": "Nature's surreal beauty",
+      "query": "Kawah Ijen",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Kawah Ijen",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the stunning Kawah Ijen, an emerald oasis in the heart of Indonesia. This breathtaking destination is a must-see for any traveler. Follow us for more incredible places.",
+  "hashtags": [
+    "#KawahIjen",
+    "#Indonesia",
+    "#EmeraldOasis",
+    "#SulfurMine",
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#adventure"
+  ]
+}

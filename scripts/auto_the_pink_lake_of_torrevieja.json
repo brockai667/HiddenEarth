@@ -1,0 +1,63 @@
+{
+  "title": "The Pink Lake of Torrevieja",
+  "thumb": "PINK LAKE",
+  "place": "Torrevieja",
+  "country": "Spain",
+  "scenes": [
+    {
+      "hook_top": "PINK LAKE ALERT",
+      "role": "hook",
+      "text": "1 pink lake in Europe",
+      "query": "Torrevieja",
+      "query2": "aerial landscape"
+    },
+    {
+      "chips": [
+        {
+          "t": "35%",
+          "on": "salt",
+          "style": "white"
+        }
+      ],
+      "punch": "salt",
+      "query": "pink lake torrevieja",
+      "query2": "torrevieja lake",
+      "role": "fact",
+      "text": "Torrevieja's lake is pink due to its high salt content"
+    },
+    {
+      "archive_query": "Torrevieja lake Wikimedia",
+      "archive_label": "Pink Lake",
+      "role": "archive",
+      "text": "The lake's unique color has been documented since the 19th century",
+      "query": "Torrevieja",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": "Pink Paradise",
+      "sub": "Nature's wonder",
+      "label_on": "paradise",
+      "query": "torrevieja lake landscape",
+      "query2": "pink lake landscape",
+      "role": "callout",
+      "text": "Witness the breathtaking pink hues of Torrevieja's lake"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Torrevieja",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the natural wonder of Torrevieja's pink lake, a must-see destination in Europe. Follow us for more breathtaking travel spots.",
+  "hashtags": [
+    "#travel",
+    "#spain",
+    "#pinklake",
+    "#torrevieja",
+    "#wanderlust",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}
