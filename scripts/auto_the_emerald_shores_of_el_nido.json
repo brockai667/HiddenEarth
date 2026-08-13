@@ -1,0 +1,69 @@
+{
+  "title": "The Emerald Shores of El Nido",
+  "thumb": "GREEN LAGOON",
+  "place": "El Nido",
+  "country": "Philippines",
+  "scenes": [
+    {
+      "hook_top": "GREEN SHORES",
+      "query": "el nido lagoon",
+      "query2": "philippines islands",
+      "role": "hook",
+      "text": "4 islands, 1 lagoon"
+    },
+    {
+      "role": "map",
+      "text": "Located in Palawan, Philippines"
+    },
+    {
+      "chips": [
+        {
+          "t": "50",
+          "on": "beaches",
+          "style": "white"
+        }
+      ],
+      "punch": "beaches",
+      "query": "el nido beach",
+      "query2": "palawan tourism",
+      "role": "fact",
+      "text": "El Nido is home to over 50 beaches"
+    },
+    {
+      "archive_query": "El Nido Big Lagoon",
+      "archive_label": "Big Lagoon",
+      "role": "archive",
+      "text": "The iconic Big Lagoon",
+      "query": "El Nido",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": "Turquoise Paradise",
+      "sub": "find your slice",
+      "label_on": "paradise",
+      "query": "El Nido turquoise water",
+      "query2": "philippines tourism",
+      "role": "callout",
+      "text": "Experience the turquoise waters"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "El Nido",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the breathtaking shores of El Nido, Philippines. With over 50 beaches to explore, this tropical paradise is a must-visit destination. Follow us for more travel inspiration!",
+  "hashtags": [
+    "#ElNido",
+    "#Philippines",
+    "#Travel",
+    "#IslandLife",
+    "#BeachVibes",
+    "#ParadiseFound",
+    "#WanderLust",
+    "#Explore",
+    "#Shorts",
+    "#FYP"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "The Rainbow-Hued Lake of Five Colors",
+  "thumb": "RAINBOW LAKE",
+  "place": "Five Colors Lake",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "RAINBOW LAKE",
+      "query": "Five Colors Lake rainbow lake",
+      "query2": "multicolored lake",
+      "role": "hook",
+      "text": "1 lake with 5 different colors"
+    },
+    {
+      "chips": [
+        {
+          "t": "5",
+          "on": "different colors",
+          "style": "white"
+        }
+      ],
+      "punch": "change",
+      "query": "Five Colors Lake color-changing lake",
+      "query2": "rainbow-colored lake",
+      "role": "fact",
+      "text": "Five Colors Lake is a rare natural phenomenon where the lake changes colors depending on the weather and time of day"
+    },
+    {
+      "chips": [
+        {
+          "t": "10",
+          "on": "types of minerals",
+          "style": "accent"
+        }
+      ],
+      "query": "Five Colors Lake mineral-rich lake",
+      "query2": "algae-filled lake",
+      "role": "fact",
+      "text": "The lake's colors are created by the presence of different minerals and algae in the water"
+    },
+    {
+      "reveal_top": "CONSTANTLY CHANGING",
+      "query": "Five Colors Lake color-changing lake",
+      "query2": "rainbow-hued lake",
+      "role": "reveal",
+      "text": "And the best part? The lake's colors are constantly changing, making it a unique experience every time you visit"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Five Colors Lake",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the rainbow-hued Lake of Five Colors, a natural wonder that will leave you amazed. The lake's colors change depending on the weather and time of day, making it a unique experience every time you visit. Follow us for more breathtaking natural wonders! #shorts #fyp #rainbowlake #fivecolorslake #china",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#rainbowlake",
+    "#fivecolorslake",
+    "#china",
+    "#naturalwonder",
+    "#colorchanging"
+  ]
+}

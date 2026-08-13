@@ -1,0 +1,58 @@
+{
+  "title": "The Mysterious Red Beach of Panjin",
+  "thumb": "RED SAND BEACH",
+  "place": "Panjin",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "RED BEACH ALERT",
+      "role": "hook",
+      "text": "1 beach with a fiery hue",
+      "query": "Panjin",
+      "query2": "aerial landscape"
+    },
+    {
+      "num": 1,
+      "label": "RARE SEAWATER",
+      "label_on": "seaweed",
+      "query": "Panjin red beach with seaweed",
+      "query2": "Panjin red beach",
+      "role": "count",
+      "text": "1 unique seaweed species"
+    },
+    {
+      "num": 2,
+      "label": "RED SHORELINE",
+      "label_on": "red beach",
+      "query": "Panjin red beach shoreline",
+      "query2": "red beach in China",
+      "role": "count",
+      "text": "2 months of red shoreline"
+    },
+    {
+      "num": 3,
+      "label": "BIRD SANCTUARY",
+      "label_on": "bird species",
+      "query": "Panjin red beach birds",
+      "query2": "red beach wildlife",
+      "role": "count",
+      "text": "3 endangered bird species"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Panjin",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the breathtaking Red Beach of Panjin, where a rare seaweed species turns the shoreline a deep crimson. This natural wonder is a must-see for any traveler. Follow us for more stunning locations!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#redbeach",
+    "#panjin",
+    "#china",
+    "#travel",
+    "#nature"
+  ]
+}
