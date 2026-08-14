@@ -1,0 +1,60 @@
+{
+  "title": "The Shimmering Desert of Lençóis Maranhenses",
+  "thumb": "SHIMMER SAND",
+  "place": "Lençóis Maranhenses National Park",
+  "country": "Brazil",
+  "scenes": [
+    {
+      "hook_top": "DESERT LAKES",
+      "role": "hook",
+      "text": "1000 lakes in one desert",
+      "query": "Lençóis Maranhenses National Park",
+      "query2": "aerial landscape"
+    },
+    {
+      "num": 1,
+      "label": "BLUE LAGOONS",
+      "label_on": "sparkling",
+      "query": "Lençóis Maranhenses National Park crystal clear lake in desert",
+      "query2": "blue lagoon in sand dunes",
+      "role": "count",
+      "text": "Crystal clear waters"
+    },
+    {
+      "num": 2,
+      "label": "SHIFTING DUNES",
+      "label_on": "ever-changing",
+      "query": "Lençóis Maranhenses National Park sand dunes in Brazil",
+      "query2": "desert landscape with dunes",
+      "role": "count",
+      "text": "Dunes that shift and change"
+    },
+    {
+      "num": 3,
+      "label": "UNIQUE ECOSYSTEM",
+      "label_on": "one-of-a-kind",
+      "query": "Lençóis Maranhenses national park",
+      "query2": "Brazilian desert landscape",
+      "role": "count",
+      "text": "A unique ecosystem unlike anywhere else"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Lençóis Maranhenses National Park",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Explore the breathtaking Lençóis Maranhenses National Park in Brazil, where crystal clear lakes meet shifting sand dunes. This unique ecosystem is unlike anywhere else on Earth. Follow us for more stunning travel destinations!",
+  "hashtags": [
+    "#LençóisMaranhenses",
+    "#Brazil",
+    "#desertlakes",
+    "#travel",
+    "#adventure",
+    "#nature",
+    "#wanderlust",
+    "#shorts",
+    "#fyp"
+  ]
+}

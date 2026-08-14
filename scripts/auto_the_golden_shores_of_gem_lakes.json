@@ -1,0 +1,70 @@
+{
+  "title": "The Golden Shores of Gem Lakes",
+  "thumb": "GOLDEN SAND",
+  "place": "Gem Lakes",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "GOLDEN SHORES",
+      "query": "gem lakes california",
+      "query2": "usa lakes",
+      "role": "hook",
+      "text": "3 lakes, 1 golden shore"
+    },
+    {
+      "role": "map",
+      "text": "Located in California, USA"
+    },
+    {
+      "chips": [
+        {
+          "t": "5",
+          "on": "shoreline",
+          "style": "white"
+        }
+      ],
+      "punch": "shoreline",
+      "query": "gem lakes shoreline",
+      "query2": "california tourism",
+      "role": "fact",
+      "text": "Gem Lakes is home to over 5 miles of shoreline"
+    },
+    {
+      "archive_query": "Gem Lakes California",
+      "archive_label": "Gem Lakes",
+      "role": "archive",
+      "text": "The stunning Gem Lakes shoreline",
+      "query": "Gem Lakes",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": "Golden Hour",
+      "sub": "relax now",
+      "label_on": "hour",
+      "query": "Gem Lakes golden sunsets",
+      "query2": "usa travel",
+      "role": "callout",
+      "text": "Experience the golden sunsets"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Gem Lakes",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the golden shores of Gem Lakes, California. With over 5 miles of shoreline to explore, this natural wonder is a must-visit destination. Follow us for more travel inspiration!",
+  "hashtags": [
+    "#GemLakes",
+    "#California",
+    "#Travel",
+    "#Lakes",
+    "#GoldenShores",
+    "#SunsetChasers",
+    "#WanderLust",
+    "#Explore",
+    "#Shorts",
+    "#FYP",
+    "#GoldenHour"
+  ]
+}
