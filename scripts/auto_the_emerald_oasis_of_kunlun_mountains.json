@@ -1,0 +1,65 @@
+{
+  "title": "The Emerald Oasis of Kunlun Mountains",
+  "thumb": "EMERALD MOUNT",
+  "place": "Kunlun Mountains",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "CHINA'S KUNLUN",
+      "query": "Kunlun Mountains",
+      "query2": "China landscapes",
+      "role": "hook",
+      "text": "4000 km mountain range"
+    },
+    {
+      "role": "map",
+      "text": "Located in western China"
+    },
+    {
+      "chips": [
+        {
+          "t": "4000km",
+          "on": "length",
+          "style": "accent"
+        }
+      ],
+      "punch": "Long",
+      "role": "fact",
+      "text": "Kunlun Mountains are 4000 km long",
+      "query": "Kunlun Mountains",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_query": "Kunlun Mountains",
+      "archive_label": "Kunlun Mountains",
+      "role": "archive",
+      "text": "Kunlun Mountains archival photo",
+      "query": "Kunlun Mountains",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": "Kunlun Mountains",
+      "sub": "China's secret",
+      "label_on": "Kunlun Mountains",
+      "role": "callout",
+      "text": "Explore the breathtaking Kunlun Mountains",
+      "query": "Kunlun Mountains",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Kunlun Mountains",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover the Kunlun Mountains, an emerald oasis in western China. Follow us for more China destinations.",
+  "hashtags": [
+    "#KunlunMountains",
+    "#China",
+    "#Travel",
+    "#Nature",
+    "#Shorts",
+    "#FYP"
+  ]
+}

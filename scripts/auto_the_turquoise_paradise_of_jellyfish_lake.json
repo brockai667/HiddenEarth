@@ -1,0 +1,65 @@
+{
+  "title": "The Turquoise Paradise of Jellyfish Lake",
+  "thumb": "TURQUOISE LAKE",
+  "place": "Jellyfish Lake",
+  "country": "Palau",
+  "scenes": [
+    {
+      "hook_top": "JELLYFISH",
+      "query": "Jellyfish Lake",
+      "query2": "Palau landscapes",
+      "role": "hook",
+      "text": "12 million jellyfish"
+    },
+    {
+      "role": "map",
+      "text": "Located on the island of Eil Malk, Palau"
+    },
+    {
+      "chips": [
+        {
+          "t": "30m",
+          "on": "depth",
+          "style": "white"
+        }
+      ],
+      "punch": "Deep",
+      "role": "fact",
+      "text": "Jellyfish Lake is 30 meters deep",
+      "query": "Jellyfish Lake",
+      "query2": "aerial landscape"
+    },
+    {
+      "archive_query": "Jellyfish Lake",
+      "archive_label": "Jellyfish Lake",
+      "role": "archive",
+      "text": "Jellyfish Lake archival photo",
+      "query": "Jellyfish Lake",
+      "query2": "aerial landscape"
+    },
+    {
+      "label": "Jellyfish Lake",
+      "sub": "Palau's wonder",
+      "label_on": "Jellyfish Lake",
+      "role": "callout",
+      "text": "Snorkel in the stunning Jellyfish Lake",
+      "query": "Jellyfish Lake",
+      "query2": "aerial landscape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Jellyfish Lake",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Discover Jellyfish Lake, a turquoise paradise filled with millions of jellyfish. Follow us for more Palau destinations.",
+  "hashtags": [
+    "#JellyfishLake",
+    "#Palau",
+    "#Travel",
+    "#Nature",
+    "#Shorts",
+    "#FYP"
+  ]
+}
