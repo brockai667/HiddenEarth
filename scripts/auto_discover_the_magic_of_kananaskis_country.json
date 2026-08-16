@@ -1,0 +1,70 @@
+{
+  "title": "Discover the Magic of Kananaskis Country",
+  "thumb": "KANANASKIS COUNTRY",
+  "place": "Kananaskis Country",
+  "country": "Canada",
+  "scenes": [
+    {
+      "hook_top": "MOUNTAIN PLAYGROUND",
+      "query": "Kananaskis Country landscape",
+      "query2": "alberta mountains",
+      "role": "hook",
+      "text": "40 minutes from Calgary"
+    },
+    {
+      "role": "map",
+      "text": "Located in Alberta, Canada"
+    },
+    {
+      "chips": [
+        {
+          "t": "4,211 KM²",
+          "on": "area",
+          "style": "accent"
+        }
+      ],
+      "punch": "Huge",
+      "query": "Kananaskis Country from above",
+      "query2": "alberta aerial view",
+      "role": "fact",
+      "text": "Covers an area of 4,211 km²"
+    },
+    {
+      "archive_query": "Kananaskis Country Parks Canada",
+      "archive_label": "Parks Canada View",
+      "query": "kananaskis country archive photo",
+      "query2": "parks canada",
+      "role": "archive",
+      "text": "Photo of Kananaskis Country by Parks Canada"
+    },
+    {
+      "label": "Outdoor Fun",
+      "sub": "Skiing, hiking, and more",
+      "label_on": "explore",
+      "query": "hiking in kananaskis country",
+      "query2": "skiing in alberta",
+      "role": "callout",
+      "text": "A playground for outdoor enthusiasts"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Kananaskis Country",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Kananaskis Country, located just 40 minutes from Calgary, is a playground for outdoor enthusiasts. With its stunning landscape and vast array of activities, it's a must-visit destination for anyone looking to explore the great outdoors. Follow us for more stunning destinations and hidden gems from around the world.",
+  "hashtags": [
+    "#KananaskisCountry",
+    "#Alberta",
+    "#Canada",
+    "#OutdoorEnthusiasts",
+    "#Skiing",
+    "#Hiking",
+    "#Travel",
+    "#Explore",
+    "#WanderLust",
+    "#Nature",
+    "#MountainLife"
+  ]
+}

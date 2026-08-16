@@ -1,0 +1,59 @@
+{
+  "title": "The Mountain That Touches the Sky",
+  "thumb": "MT RAINIER",
+  "place": "Mt. Rainier",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "MT RAINIER FOUND",
+      "query": "Mt. Rainier mt rainier washington",
+      "query2": "mount rainier national park",
+      "role": "hook",
+      "text": "One mountain in Washington"
+    },
+    {
+      "num": 1,
+      "label": "GLACIER PEAK",
+      "label_on": "glacier peak",
+      "query": "Mt. Rainier mt rainier glacier peak",
+      "query2": "mount rainier summit",
+      "role": "count",
+      "text": "1 Iconic Landmark"
+    },
+    {
+      "num": 2,
+      "label": "PANORAMIC VIEWS",
+      "label_on": "panoramic views",
+      "query": "Mt. Rainier mt rainier views",
+      "query2": "mount rainier scenery",
+      "role": "count",
+      "text": "2 Breathtaking Views"
+    },
+    {
+      "num": 3,
+      "label": "CLIMBING ROUTES",
+      "label_on": "climbing routes",
+      "query": "Mt. Rainier mt rainier climbing routes",
+      "query2": "mount rainier climbing",
+      "role": "count",
+      "text": "3 Challenging Climbs"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Mt. Rainier",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Mt. Rainier is a mountain that touches the sky, with its iconic landmark and breathtaking views. From climbing routes to panoramic scenery, it's an adventure seeker's paradise. Follow us for more incredible destinations like this!",
+  "hashtags": [
+    "#mtrainier",
+    "#mountain",
+    "#washington",
+    "#travel",
+    "#adventure",
+    "#nature",
+    "#shorts",
+    "#fyp"
+  ]
+}

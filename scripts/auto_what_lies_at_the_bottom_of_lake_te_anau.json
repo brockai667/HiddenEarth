@@ -1,0 +1,69 @@
+{
+  "title": "What Lies at the Bottom of Lake Te Anau?",
+  "thumb": "LAKE TE ANAU",
+  "place": "Lake Te Anau",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "hook_top": "DEPTH 422M",
+      "query": "Lake Te Anau landscape",
+      "query2": "fiordland national park",
+      "role": "hook",
+      "text": "2nd deepest lake"
+    },
+    {
+      "role": "map",
+      "text": "Located in Fiordland National Park, Southland region, New Zealand"
+    },
+    {
+      "chips": [
+        {
+          "t": "348 KM²",
+          "on": "area",
+          "style": "white"
+        }
+      ],
+      "punch": "Vast",
+      "query": "Lake Te Anau from above",
+      "query2": "southland region aerial view",
+      "role": "fact",
+      "text": " Covers an area of 348 km²"
+    },
+    {
+      "archive_query": "Lake Te Anau NASA",
+      "archive_label": "NASA View",
+      "query": "lake te anau archive photo",
+      "query2": "nasa earth observatory",
+      "role": "archive",
+      "text": "Photo of Lake Te Anau by NASA"
+    },
+    {
+      "label": "Nature Haven",
+      "sub": "Unspoiled beauty",
+      "label_on": "explore",
+      "query": "Lake Te Anau hiking in fiordland national park",
+      "query2": "lake te anau hiking trails",
+      "role": "callout",
+      "text": "A haven for nature lovers"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Lake Te Anau",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Lake Te Anau, located in the Southland region of New Zealand, is a haven for nature lovers and adventure seekers. With its stunning landscape and vast area, it's a must-visit destination for anyone looking to explore the great outdoors. Follow us for more stunning natural wonders and hidden gems from around the world.",
+  "hashtags": [
+    "#LakeTeAnau",
+    "#NewZealand",
+    "#NatureLovers",
+    "#AdventureSeekers",
+    "#HiddenGems",
+    "#Travel",
+    "#Explore",
+    "#WanderLust",
+    "#Nature",
+    "#LakeLife"
+  ]
+}
