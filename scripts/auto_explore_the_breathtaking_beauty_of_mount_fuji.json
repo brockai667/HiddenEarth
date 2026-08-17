@@ -1,0 +1,68 @@
+{
+  "title": "Explore the Breathtaking Beauty of Mount Fuji",
+  "thumb": "MOUNT FUJI",
+  "place": "Mount Fuji",
+  "country": "Japan",
+  "scenes": [
+    {
+      "hook_top": "MOUNT FUJI 3776M",
+      "query": "Mount Fuji landscape",
+      "query2": "japan mountains",
+      "role": "hook",
+      "text": "Japan's highest peak"
+    },
+    {
+      "role": "map",
+      "text": "Located on the main island of Honshu, Japan"
+    },
+    {
+      "chips": [
+        {
+          "t": "3,776M",
+          "on": "height",
+          "style": "white"
+        }
+      ],
+      "punch": "Tall",
+      "query": "Mount Fuji from above",
+      "query2": "japan aerial view",
+      "role": "fact",
+      "text": "Stands at 3,776 meters tall"
+    },
+    {
+      "archive_query": "Mount Fuji Japanese Government",
+      "archive_label": "Government View",
+      "query": "mount fuji archive photo",
+      "query2": "japanese government",
+      "role": "archive",
+      "text": "Photo of Mount Fuji by Japanese Government"
+    },
+    {
+      "label": "Natural Icon",
+      "sub": "Inspiring wonder",
+      "label_on": "explore",
+      "query": "Mount Fuji hiking in japan",
+      "query2": "mount fuji hiking trails",
+      "role": "callout",
+      "text": "A symbol of Japan's natural beauty"
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Mount Fuji",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Mount Fuji, located on the main island of Honshu, Japan, is a breathtakingly beautiful mountain and a symbol of Japan's natural beauty. With its stunning landscape and rich cultural heritage, it's a must-visit destination for anyone looking to explore the great outdoors. Follow us for more stunning natural wonders and hidden gems from around the world.",
+  "hashtags": [
+    "#MountFuji",
+    "#Japan",
+    "#NatureLovers",
+    "#AdventureSeekers",
+    "#Travel",
+    "#Explore",
+    "#WanderLust",
+    "#Nature",
+    "#MountainLife"
+  ]
+}

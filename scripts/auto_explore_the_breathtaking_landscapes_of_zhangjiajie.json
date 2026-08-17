@@ -1,0 +1,59 @@
+{
+  "title": "Explore the Breathtaking Landscapes of Zhangjiajie",
+  "thumb": "CHINA'S AVATAR",
+  "place": "Zhangjiajie National Forest Park",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "AVATAR LAND",
+      "query": "Zhangjiajie National Forest Park scenery",
+      "query2": " Avatar movie inspiration",
+      "role": "hook",
+      "text": "Inspiration for the movie Avatar"
+    },
+    {
+      "num": 1,
+      "label": "SANDSTONE PEAKS",
+      "label_on": "pillars and peaks",
+      "query": "Zhangjiajie National Forest Park Zhangjiajie sandstone pillars",
+      "query2": "Chinese national park scenery",
+      "role": "count",
+      "text": "Features over 3,000 sandstone pillars and peaks"
+    },
+    {
+      "num": 2,
+      "label": "QUARTZ FORMATIONS",
+      "label_on": "sandstone formations",
+      "query": "Zhangjiajie National Forest Park quartz sandstone formations",
+      "query2": "Chinese geological wonders",
+      "role": "count",
+      "text": "Known for its unique quartz sandstone formations"
+    },
+    {
+      "num": 3,
+      "label": "NATIONAL PARK",
+      "label_on": "park area",
+      "query": "Zhangjiajie National Forest Park area",
+      "query2": "large national parks",
+      "role": "count",
+      "text": "Covers an area of over 11,900 acres"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Zhangjiajie National Forest Park",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Zhangjiajie National Forest Park is a breathtaking destination in China, known for its unique sandstone pillars and peaks, and inspiration for the movie Avatar. Follow us for more incredible travel spots.",
+  "hashtags": [
+    "#Zhangjiajie",
+    "#China",
+    "#Avatar",
+    "#NationalPark",
+    "#TravelChina",
+    "#NatureWonders",
+    "#shorts",
+    "#fyp"
+  ]
+}
