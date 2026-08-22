@@ -1,0 +1,66 @@
+{
+  "title": "Moraine Lake's 3 Astonishing Features",
+  "thumb": "TRIP TRIP TRIP",
+  "place": "Moraine Lake",
+  "country": "Canada",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Moraine Lake dazzles with 3 stunning traits you won’t believe!",
+      "hook_top": "TRIPLE SPECTACULAR TRIP",
+      "query": "Moraine Lake turquoise mountain lake sunrise",
+      "query2": "glacial lake turquoise",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "TURQUOISE HORIZON",
+      "label_on": "turquoise",
+      "text": "The water’s crystal‑clear turquoise hue is fed by meltwater from the surrounding glaciers.",
+      "query": "Moraine Lake glacial meltwater turquoise lake",
+      "query2": "glacial lake color",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "HIDDEN PEAKS",
+      "label_on": "hidden",
+      "text": "Mount Temple and Mount Lefroy rise dramatically behind the lake, creating a dramatic backdrop.",
+      "query": "Moraine Lake mountain peaks behind lake",
+      "query2": "mountain lake scenery",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "GLOBE‑SHAPED ISLAND",
+      "label_on": "island",
+      "text": "An island in the middle of the lake mirrors the surrounding peaks, giving the illusion of a globe.",
+      "query": "Moraine Lake lake island mirror mountains",
+      "query2": "lake island reflection",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "role": "cta",
+      "query": "Moraine Lake",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "From crystal‑clear turquoise waters to dramatic mountain silhouettes, Moraine Lake is a visual feast. Discover why it’s a top spot for nature lovers. Follow for more adventures!",
+  "hashtags": [
+    "#moraineLake",
+    "#Banff",
+    "#Canada",
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#nature"
+  ]
+}

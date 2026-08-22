@@ -7768,5 +7768,462 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Moraine Lake's 3 Astonishing Features",
+    "thumb": "TRIP TRIP TRIP",
+    "place": "Moraine Lake",
+    "country": "Canada",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Moraine Lake dazzles with 3 stunning traits you won’t believe!",
+        "hook_top": "TRIPLE SPECTACULAR TRIP",
+        "query": "Moraine Lake turquoise mountain lake sunrise",
+        "query2": "glacial lake turquoise",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "TURQUOISE HORIZON",
+        "label_on": "turquoise",
+        "text": "The water’s crystal‑clear turquoise hue is fed by meltwater from the surrounding glaciers.",
+        "query": "Moraine Lake glacial meltwater turquoise lake",
+        "query2": "glacial lake color",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "HIDDEN PEAKS",
+        "label_on": "hidden",
+        "text": "Mount Temple and Mount Lefroy rise dramatically behind the lake, creating a dramatic backdrop.",
+        "query": "Moraine Lake mountain peaks behind lake",
+        "query2": "mountain lake scenery",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "GLOBE‑SHAPED ISLAND",
+        "label_on": "island",
+        "text": "An island in the middle of the lake mirrors the surrounding peaks, giving the illusion of a globe.",
+        "query": "Moraine Lake lake island mirror mountains",
+        "query2": "lake island reflection",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "role": "cta",
+        "query": "Moraine Lake",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "From crystal‑clear turquoise waters to dramatic mountain silhouettes, Moraine Lake is a visual feast. Discover why it’s a top spot for nature lovers. Follow for more adventures!",
+    "hashtags": [
+      "#moraineLake",
+      "#Banff",
+      "#Canada",
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature"
+    ]
+  },
+  {
+    "title": "The 3 Secrets of Old Faithful Geysers",
+    "thumb": "BOOM BOOM BOOM",
+    "place": "Old Faithful Geyser",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Old Faithful erupts 3 times a day—here’s why!",
+        "hook_top": "TRIPLE BOOM BOOM",
+        "query": "Old Faithful Geyser geyser eruption close up",
+        "query2": "hot spring geyser",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "EERIE PRECIPITATION",
+        "label_on": "precipitation",
+        "text": "The geyser releases steam and water in a dramatic white plume, reaching up to 70 meters.",
+        "query": "Old Faithful Geyser geyser white plume",
+        "query2": "geyser water cloud",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "TIMED TRIGGER",
+        "label_on": "timed",
+        "text": "Its eruptions follow a precise 91‑minute cycle, a natural clock powered by underground pressure.",
+        "query": "Old Faithful Geyser geyser eruption cycle",
+        "query2": "geothermal cycle",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "HOT WATER SOURCE",
+        "label_on": "hot",
+        "text": "The water originates 3.6 km below the surface, heated by volcanic activity in the Yellowstone caldera.",
+        "query": "Old Faithful Geyser hot spring underground source",
+        "query2": "volcanic geothermal",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "role": "cta",
+        "query": "Old Faithful Geyser",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Old Faithful is not just a geyser—it’s a marvel of natural engineering. Learn the science behind its stunning eruptions and why it’s a must‑see in Yellowstone. Follow for more amazing landscapes!",
+    "hashtags": [
+      "#oldfaithful",
+      "#yellowstone",
+      "#geothermal",
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature"
+    ]
+  },
+  {
+    "title": "Mono Lake's 3 Unbelievable Pink Secrets",
+    "thumb": "PINK PINK PINK",
+    "place": "Mono Lake",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Mono Lake’s pink sand reveals 3 mind‑blowing facts!",
+        "hook_top": "TRIPLE PINK PROOF",
+        "query": "Mono Lake pink sand lake close up",
+        "query2": "pink lake shore",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "ALGAE ALARM",
+        "label_on": "algae",
+        "text": "Extremely salty conditions support Dunaliella algae, giving the sand a vivid pink hue.",
+        "query": "Mono Lake salt algae pink lake",
+        "query2": "algae lake color",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "STONE STORMS",
+        "label_on": "stone",
+        "text": "The lake’s limestone towers, called tufa, rise from the water, creating a surreal skyline.",
+        "query": "Mono Lake tufa towers lake",
+        "query2": "limestone lake formations",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "CLEAN ENERGY",
+        "label_on": "clean",
+        "text": "The lake’s high salinity prevents most fish from surviving, making it a unique ecological niche.",
+        "query": "Mono Lake salt lake fish absence",
+        "query2": "salt water ecosystem",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "role": "cta",
+        "query": "Mono Lake",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "From pink sand to towering tufa spires, Mono Lake is a living laboratory of nature’s creativity. Discover the science that makes it so extraordinary. Follow for more awe‑inspiring places!",
+    "hashtags": [
+      "#monolake",
+      "#pinklake",
+      "#California",
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature"
+    ]
+  },
+  {
+    "title": "Wadi Rum’s 70,000‑Sq‑Km White Mirage",
+    "thumb": "WADI RUM MIRAGE",
+    "place": "Wadi Rum Desert",
+    "country": "Saudi Arabia",
+    "scenes": [
+      {
+        "hook_top": "70000SQKM WHITE",
+        "query": "Wadi Rum Desert 70,000 sq km white sand desert",
+        "query2": "vast white sand dunes",
+        "role": "hook",
+        "text": "70,000 sq km of white sand can hide a secret…"
+      },
+      {
+        "chips": [
+          {
+            "t": "100 M HIGH",
+            "on": "high",
+            "style": "accent"
+          }
+        ],
+        "punch": "HUGE",
+        "query": "Wadi Rum Desert 100 m high white limestone dune",
+        "query2": "white sand dune towering",
+        "role": "fact",
+        "text": "The desert’s white limestone dunes rise up to 100 m high."
+      },
+      {
+        "chips": [
+          {
+            "t": "70,000 SQ KM",
+            "on": "sq km",
+            "style": "white"
+          }
+        ],
+        "punch": "ENORMOUS",
+        "query": "Wadi Rum Desert 70,000 sq km desert area",
+        "query2": "massive desert landscape",
+        "role": "fact",
+        "text": "The area covers about 70,000 sq km, bigger than Germany."
+      },
+      {
+        "reveal_top": "GYPSUM DUNES",
+        "query": "Wadi Rum Desert gypsum dune landscape",
+        "query2": "white gypsum dunes",
+        "role": "reveal",
+        "text": "But the dunes are actually made of gypsum, not sand."
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Wadi Rum Desert",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Wadi Rum’s towering white dunes are a visual marvel, but they’re made of gypsum, not sand. Discover this hidden geological twist and stay tuned for more natural wonders.\n\nFollow for more incredible places!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#WadiRum",
+      "#SaudiArabia",
+      "#WhiteDesert",
+      "#Geology",
+      "#NatureWonders"
+    ]
+  },
+  {
+    "title": "Lake Toba: 1,000‑Sq‑Km Emerald Sea",
+    "thumb": "EMERALD SEA",
+    "place": "Lake Toba",
+    "country": "Indonesia",
+    "scenes": [
+      {
+        "hook_top": "1000SQKM EMERALD",
+        "query": "Lake Toba 1,000 sq km emerald lake",
+        "query2": "large volcanic lake",
+        "role": "hook",
+        "text": "1,000 sq km of emerald water sits inside a volcano…"
+      },
+      {
+        "chips": [
+          {
+            "t": "WORLD’S LARGEST",
+            "on": "largest",
+            "style": "accent"
+          }
+        ],
+        "punch": "BIGGEST",
+        "query": "Lake Toba largest volcanic caldera lake",
+        "query2": "volcanic lake scenery",
+        "role": "fact",
+        "text": "Lake Toba is the world’s largest volcanic caldera lake."
+      },
+      {
+        "chips": [
+          {
+            "t": "1,000 SQ KM",
+            "on": "sq km",
+            "style": "white"
+          }
+        ],
+        "punch": "ASTOUNDING",
+        "query": "Lake Toba 1,000 sq km lake area",
+        "query2": "huge lake panorama",
+        "role": "fact",
+        "text": "Its surface area is about 1,000 sq km, larger than the Lake Michigan–Superior combined."
+      },
+      {
+        "reveal_top": "CLEAR VOLCANIC FLOOR",
+        "query": "Lake Toba clear volcanic lake view",
+        "query2": "lake view with floor",
+        "role": "reveal",
+        "text": "The water is so clear you can see the volcanic floor below."
+      },
+      {
+        "role": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Lake Toba",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Lake Toba’s emerald waters cover a massive volcanic caldera, and its crystal‑clear depth reveals the volcanic floor. Explore this breathtaking natural cathedral and keep following for more awe‑inspiring places.\n\nFollow for more wonders!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#LakeToba",
+      "#Indonesia",
+      "#VolcanicLake",
+      "#NatureBeauty",
+      "#AdventureTravel"
+    ]
+  },
+  {
+    "title": "Jökulsárlón: 25‑km Glacier Lagoon Glow",
+    "thumb": "GLACIER GLOW",
+    "place": "Jökulsárlón Glacier Lagoon",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "25KM BLUE ICEBERGS",
+        "query": "Jökulsárlón Glacier Lagoon 25 km glacier lagoon icebergs",
+        "query2": "blue iceberg floating",
+        "role": "hook",
+        "text": "25 km of blue icebergs drift endlessly…"
+      },
+      {
+        "chips": [
+          {
+            "t": "1.4 KM LONG",
+            "on": "long",
+            "style": "accent"
+          }
+        ],
+        "punch": "LONG",
+        "query": "Jökulsárlón Glacier Lagoon 1.4 km glacier lagoon",
+        "query2": "glacier lagoon size",
+        "role": "fact",
+        "text": "The lagoon stretches roughly 1.4 km long, 300 m wide."
+      },
+      {
+        "chips": [
+          {
+            "t": "300,000 TONNES",
+            "on": "tonnes",
+            "style": "white"
+          }
+        ],
+        "punch": "IMMENSE",
+        "query": "Jökulsárlón Glacier Lagoon 300,000 tonnes ice flow",
+        "query2": "glacier ice melt",
+        "role": "fact",
+        "text": "It receives around 300,000 metric tonnes of ice each year from the Breiðamerkurjökull glacier."
+      },
+      {
+        "reveal_top": "CROSSED ICE LIGHT",
+        "query": "Jökulsárlón Glacier Lagoon crushed ice glacier lagoon glow",
+        "query2": "blue glacier water",
+        "role": "reveal",
+        "text": "The water’s blue glow comes from crushed ice shining through the sea‑green water."
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Jökulsárlón Glacier Lagoon",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Jökulsárlón’s glacier lagoon glows blue as icebergs drift through its turquoise waters, a visual feast of nature’s light show. Stay tuned for more breathtaking glacier scenes.\n\nFollow for more icy wonders!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Jokulsarlon",
+      "#Iceland",
+      "#GlacierLagoon",
+      "#IcebergGlow",
+      "#NaturePhenomenon"
+    ]
+  },
+  {
+    "title": "The Shimmering Desert of Sossusvlei",
+    "thumb": "SHIMMERING DUNES",
+    "place": "Sossusvlei",
+    "country": "Namibia",
+    "scenes": [
+      {
+        "hook_top": "DUNES GLOWING GOLD",
+        "query": "Sossusvlei dunes sunrise",
+        "query2": "Sossusvlei sunrise dunes",
+        "role": "hook",
+        "text": "Sossusvlei’s dunes glow like molten gold at dawn."
+      },
+      {
+        "chips": [
+          {
+            "t": "90 % IRON OXIDE",
+            "on": "IRON",
+            "style": "accent"
+          }
+        ],
+        "punch": "IRON",
+        "query": "Sossusvlei iron oxide sand",
+        "query2": "Sossusvlei sand composition",
+        "role": "fact",
+        "text": "The red sand is 90 % iron oxide, reflecting light uniquely."
+      },
+      {
+        "archive_query": "Sossusvlei_dunes_sunrise",
+        "archive_label": "Sunrise dunes",
+        "query": "Sossusvlei dunes sunrise",
+        "query2": "Sossusvlei sunrise",
+        "role": "archive",
+        "text": "Sossusvlei dunes at sunrise."
+      },
+      {
+        "sub": "Where sand feels like liquid gold",
+        "label_on": "FIRE",
+        "label": "SAND",
+        "query": "Sossusvlei red sand glow",
+        "query2": "Sossusvlei sand glow",
+        "role": "callout",
+        "text": "Red desert fire"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Sossusvlei",
+        "query2": "aerial landscape"
+      }
+    ],
+    "description": "Sossusvlei in Namibia isn’t just a desert; it’s a living canvas of molten gold. With 90 % iron oxide, the dunes reflect sunrise light in a way that makes the landscape seem alive. Witness the shimmering dunes that have mesmerized photographers for decades. Follow for more breathtaking landscapes!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Sossusvlei",
+      "#Namibia",
+      "#DesertGlow",
+      "#Nature"
+    ]
   }
 ]
