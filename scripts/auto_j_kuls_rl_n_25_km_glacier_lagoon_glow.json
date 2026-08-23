@@ -1,0 +1,66 @@
+{
+  "title": "Jökulsárlón: 25‑km Glacier Lagoon Glow",
+  "thumb": "GLACIER GLOW",
+  "place": "Jökulsárlón Glacier Lagoon",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "hook_top": "25KM BLUE ICEBERGS",
+      "query": "Jökulsárlón Glacier Lagoon 25 km glacier lagoon icebergs",
+      "query2": "blue iceberg floating",
+      "role": "hook",
+      "text": "25 km of blue icebergs drift endlessly…"
+    },
+    {
+      "chips": [
+        {
+          "t": "1.4 KM LONG",
+          "on": "long",
+          "style": "accent"
+        }
+      ],
+      "punch": "LONG",
+      "query": "Jökulsárlón Glacier Lagoon 1.4 km glacier lagoon",
+      "query2": "glacier lagoon size",
+      "role": "fact",
+      "text": "The lagoon stretches roughly 1.4 km long, 300 m wide."
+    },
+    {
+      "chips": [
+        {
+          "t": "300,000 TONNES",
+          "on": "tonnes",
+          "style": "white"
+        }
+      ],
+      "punch": "IMMENSE",
+      "query": "Jökulsárlón Glacier Lagoon 300,000 tonnes ice flow",
+      "query2": "glacier ice melt",
+      "role": "fact",
+      "text": "It receives around 300,000 metric tonnes of ice each year from the Breiðamerkurjökull glacier."
+    },
+    {
+      "reveal_top": "CROSSED ICE LIGHT",
+      "query": "Jökulsárlón Glacier Lagoon crushed ice glacier lagoon glow",
+      "query2": "blue glacier water",
+      "role": "reveal",
+      "text": "The water’s blue glow comes from crushed ice shining through the sea‑green water."
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Jökulsárlón Glacier Lagoon",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Jökulsárlón’s glacier lagoon glows blue as icebergs drift through its turquoise waters, a visual feast of nature’s light show. Stay tuned for more breathtaking glacier scenes.\n\nFollow for more icy wonders!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Jokulsarlon",
+    "#Iceland",
+    "#GlacierLagoon",
+    "#IcebergGlow",
+    "#NaturePhenomenon"
+  ]
+}

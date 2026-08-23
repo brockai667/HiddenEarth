@@ -1,0 +1,66 @@
+{
+  "title": "Lake Toba: 1,000‑Sq‑Km Emerald Sea",
+  "thumb": "EMERALD SEA",
+  "place": "Lake Toba",
+  "country": "Indonesia",
+  "scenes": [
+    {
+      "hook_top": "1000SQKM EMERALD",
+      "query": "Lake Toba 1,000 sq km emerald lake",
+      "query2": "large volcanic lake",
+      "role": "hook",
+      "text": "1,000 sq km of emerald water sits inside a volcano…"
+    },
+    {
+      "chips": [
+        {
+          "t": "WORLD’S LARGEST",
+          "on": "largest",
+          "style": "accent"
+        }
+      ],
+      "punch": "BIGGEST",
+      "query": "Lake Toba largest volcanic caldera lake",
+      "query2": "volcanic lake scenery",
+      "role": "fact",
+      "text": "Lake Toba is the world’s largest volcanic caldera lake."
+    },
+    {
+      "chips": [
+        {
+          "t": "1,000 SQ KM",
+          "on": "sq km",
+          "style": "white"
+        }
+      ],
+      "punch": "ASTOUNDING",
+      "query": "Lake Toba 1,000 sq km lake area",
+      "query2": "huge lake panorama",
+      "role": "fact",
+      "text": "Its surface area is about 1,000 sq km, larger than the Lake Michigan–Superior combined."
+    },
+    {
+      "reveal_top": "CLEAR VOLCANIC FLOOR",
+      "query": "Lake Toba clear volcanic lake view",
+      "query2": "lake view with floor",
+      "role": "reveal",
+      "text": "The water is so clear you can see the volcanic floor below."
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Lake Toba",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Lake Toba’s emerald waters cover a massive volcanic caldera, and its crystal‑clear depth reveals the volcanic floor. Explore this breathtaking natural cathedral and keep following for more awe‑inspiring places.\n\nFollow for more wonders!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LakeToba",
+    "#Indonesia",
+    "#VolcanicLake",
+    "#NatureBeauty",
+    "#AdventureTravel"
+  ]
+}

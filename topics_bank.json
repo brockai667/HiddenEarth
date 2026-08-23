@@ -8225,5 +8225,282 @@
       "#DesertGlow",
       "#Nature"
     ]
+  },
+  {
+    "title": "3 Secrets of Chile’s Marble Caves",
+    "thumb": "MARBLE CAVES",
+    "place": "Marble Caves",
+    "country": "Chile",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5‑minute boat ride to surreal turquoise tunnels",
+        "hook_top": "SURREAL TURQUOISE TUNNELS",
+        "query": "Marble Caves turquoise water Chile",
+        "query2": "Patagonia marble cave aerial",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "WAVE‑CARVED STONE FORMATIONS",
+        "label_on": "Carved",
+        "text": "Constant lake waves have sculpted the white marble into spiraling arches.",
+        "query": "Marble Caves wave erosion close up",
+        "query2": "Patagonian marble arches water",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "CRYSTAL‑CLEAR BLUE‑GREEN WATER",
+        "label_on": "Water",
+        "text": "Glacial meltwater filters through limestone, giving the caves a vivid blue‑green glow.",
+        "query": "Marble Caves blue water inside",
+        "query2": "turquoise lake Patagonian caves",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "ONLY REACHABLE BY BOAT",
+        "label_on": "Access",
+        "text": "The remote location on General Carrera Lake means you must glide in by boat to enter.",
+        "query": "boat entering Marble Caves Patagonian lake",
+        "query2": "tour boat Marble Caves Chile",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Marble Caves travel short form call to action",
+        "query2": "follow us travel shorts",
+        "role": "cta"
+      }
+    ],
+    "description": "Chile’s Marble Caves are a labyrinth of swirling stone tunnels that glow with turquoise light. Find out what makes this Patagonian marvel a photographer’s dream.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#MarbleCaves",
+      "#Chile",
+      "#Patagonia",
+      "#Nature",
+      "#Travel"
+    ]
+  },
+  {
+    "title": "What Makes Lake Natron Glow Red?",
+    "thumb": "RED FLAME LAKE",
+    "place": "Lake Natron",
+    "country": "Tanzania",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "4‑km alkaline lake that looks like liquid fire",
+        "hook_top": "LIQUID FIRE LAKE",
+        "query": "Lake Natron red water Tanzania",
+        "query2": "alkaline red lake aerial",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "HIGH SODIUM CARBONATE CONTENT",
+        "label_on": "Chemistry",
+        "text": "The lake’s soda‑rich water reflects sunlight, creating a crimson sheen.",
+        "query": "Lake Natron chemical composition soda",
+        "query2": "alkaline lake red reflection",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "THOUSANDS OF FLAMINGO BREEDERS",
+        "label_on": "Flamingos",
+        "text": "Its pink hue attracts massive flocks of lesser flamingos that feed on algae.",
+        "query": "flamingos Lake Natron feeding",
+        "query2": "flamingo breeding lake Tanzania",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "VOLCANIC GROUND SURROUNDINGS",
+        "label_on": "Volcanoes",
+        "text": "Steep basaltic cliffs and nearby volcanoes add to the otherworldly scenery.",
+        "query": "Lake Natron volcanic cliffs Tanzania",
+        "query2": "basalt cliffs Lake Natron",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Lake Natron travel short form call to action",
+        "query2": "follow us travel shorts",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Natron in Tanzania looks like a pool of molten lava, yet it’s a vital breeding ground for flamingos. Discover the chemistry and wildlife that give this lake its fiery glow.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#LakeNatron",
+      "#Tanzania",
+      "#Flamingos",
+      "#Nature",
+      "#Travel"
+    ]
+  },
+  {
+    "title": "2‑Minute Ice Bubbles That Float Over Lake Baikal",
+    "thumb": "ICE BUBBLE MIRACLE",
+    "place": "Lake Baikal (Olkhon Island)",
+    "country": "Russia",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Watch 2‑minute ice bubbles rise on Lake Baikal!",
+        "hook_top": "2MINUTE ICE BUBBLES",
+        "query": "Lake Baikal (Olkhon Island) ice bubbles Lake Baikal winter",
+        "query2": "crystal bubbles frozen Lake Baikal",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Lake Baikal holds about 20% of the world’s fresh water.",
+        "chips": [
+          {
+            "t": "20% WORLD WATER",
+            "on": "world",
+            "style": "accent"
+          }
+        ],
+        "query": "Lake Baikal (Olkhon Island) Lake Baikal water volume statistic",
+        "query2": "Lake Baikal fresh water percentage",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Winter methane seeps get trapped under ice, forming perfect crystal orbs.",
+        "chips": [
+          {
+            "t": "METHANE ORBS",
+            "on": "methane",
+            "style": "white"
+          }
+        ],
+        "query": "Lake Baikal (Olkhon Island) methane bubbles under ice Lake Baikal",
+        "query2": "crystal bubbles frozen lake Russia",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Those glittering spheres are methane, not water—nature’s frozen fireworks.",
+        "reveal_top": "METHANE, NOT WATER",
+        "query": "Lake Baikal (Olkhon Island) closeup of methane bubbles ice Lake Baikal",
+        "query2": "frozen methane orbs Lake Baikal",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Lake Baikal (Olkhon Island) travel short form CTA follow",
+        "query2": "subscribe short video end screen",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Baikal, the deepest lake on Earth, traps methane under its winter ice, creating dazzling crystal bubbles that float for minutes. Discover the science behind these frozen fireworks and follow for more icy marvels!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#LakeBaikal",
+      "#Russia",
+      "#icebubbles",
+      "#nature",
+      "#travel"
+    ]
+  },
+  {
+    "title": "The Great Blue Hole: Why It Looks Like a Bottomless Abyss",
+    "thumb": "DEEP BLUE VOID",
+    "place": "Great Blue Hole",
+    "country": "Belize",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "1 km wide circular sinkhole plunges 124 m deep",
+        "hook_top": "GIANT BLUE SINKHOLE",
+        "query": "Great Blue Hole aerial view",
+        "query2": "Great Blue Hole drone footage",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Formed during the last Ice Age when sea levels were lower.",
+        "chips": [
+          {
+            "t": "124 m depth",
+            "on": "depth",
+            "style": "white"
+          },
+          {
+            "t": "1 km diameter",
+            "on": "size",
+            "style": "accent"
+          }
+        ],
+        "punch": "deep",
+        "query": "Great Blue Hole formation Ice Age",
+        "query2": "Great Blue Hole geology",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "1970s NOAA survey photo captures its perfect circle.",
+        "archive_query": "Great Blue Hole NOAA 1970s Wikimedia Commons",
+        "archive_label": "Historic survey photo",
+        "query": "Great Blue Hole",
+        "query2": "aerial landscape",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Dive into Earth’s most perfect blue circle",
+        "label": "PERFECT CIRCLE",
+        "sub": "A natural lens for the ocean.",
+        "label_on": "circle",
+        "query": "Great Blue Hole underwater view",
+        "query2": "Great Blue Hole aerial circle",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Great Blue Hole travel adventure short",
+        "query2": "nature exploration short",
+        "role": "cta"
+      }
+    ],
+    "description": "Belize’s Great Blue Hole is a massive, crystal‑clear sinkhole that looks like a portal to the deep. Discover its Ice Age origins and why it’s a diver’s dream. Follow for more planetary wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#GreatBlueHole",
+      "#Belize",
+      "#Ocean",
+      "#Travel",
+      "#Adventure",
+      "#Nature"
+    ]
   }
 ]

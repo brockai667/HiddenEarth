@@ -1,0 +1,66 @@
+{
+  "title": "Wadi Rum’s 70,000‑Sq‑Km White Mirage",
+  "thumb": "WADI RUM MIRAGE",
+  "place": "Wadi Rum Desert",
+  "country": "Saudi Arabia",
+  "scenes": [
+    {
+      "hook_top": "70000SQKM WHITE",
+      "query": "Wadi Rum Desert 70,000 sq km white sand desert",
+      "query2": "vast white sand dunes",
+      "role": "hook",
+      "text": "70,000 sq km of white sand can hide a secret…"
+    },
+    {
+      "chips": [
+        {
+          "t": "100 M HIGH",
+          "on": "high",
+          "style": "accent"
+        }
+      ],
+      "punch": "HUGE",
+      "query": "Wadi Rum Desert 100 m high white limestone dune",
+      "query2": "white sand dune towering",
+      "role": "fact",
+      "text": "The desert’s white limestone dunes rise up to 100 m high."
+    },
+    {
+      "chips": [
+        {
+          "t": "70,000 SQ KM",
+          "on": "sq km",
+          "style": "white"
+        }
+      ],
+      "punch": "ENORMOUS",
+      "query": "Wadi Rum Desert 70,000 sq km desert area",
+      "query2": "massive desert landscape",
+      "role": "fact",
+      "text": "The area covers about 70,000 sq km, bigger than Germany."
+    },
+    {
+      "reveal_top": "GYPSUM DUNES",
+      "query": "Wadi Rum Desert gypsum dune landscape",
+      "query2": "white gypsum dunes",
+      "role": "reveal",
+      "text": "But the dunes are actually made of gypsum, not sand."
+    },
+    {
+      "role": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Wadi Rum Desert",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Wadi Rum’s towering white dunes are a visual marvel, but they’re made of gypsum, not sand. Discover this hidden geological twist and stay tuned for more natural wonders.\n\nFollow for more incredible places!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#WadiRum",
+    "#SaudiArabia",
+    "#WhiteDesert",
+    "#Geology",
+    "#NatureWonders"
+  ]
+}
