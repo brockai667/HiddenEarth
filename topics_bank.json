@@ -8502,5 +8502,343 @@
       "#Adventure",
       "#Nature"
     ]
+  },
+  {
+    "title": "Why Tindhólmur’s Pillars Look Like Alien Skyscrapers",
+    "thumb": "ALIEN SKYSCRAPERS",
+    "place": "Tindhólmur, Faroe Islands",
+    "country": "Denmark",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "7‑meter rock pillars rise from the sea at Tindhólmur",
+        "hook_top": "7METER ROCK PILLARS",
+        "query": "Tindhólmur, Faroe Islands Tindhólmur sea stacks sunrise",
+        "query2": "Faroe Islands dramatic cliffs",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "WORLD‑RARE GEOLOGICAL FORMATION",
+        "label_on": "formation",
+        "text": "These basalt columns formed 60 million years ago during a massive volcanic eruption",
+        "query": "Tindhólmur, Faroe Islands basalt sea stacks formation",
+        "query2": "volcanic rock pillars closeup",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "UNSTABLE NATURAL ARCHES",
+        "label_on": "arches",
+        "text": "One of the arches is so fragile that it can collapse within a single storm",
+        "query": "Tindhólmur, Faroe Islands Tindhólmur natural arch danger",
+        "query2": "erosion of sea arches",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "PHOTOGRAPHER'S DREAM",
+        "label_on": "photography",
+        "text": "The location offers perfect golden‑hour light, making it a top spot for award‑winning landscape shots",
+        "query": "Tindhólmur, Faroe Islands Tindhólmur golden hour photography",
+        "query2": "Faroe Islands landscape photo",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Tindhólmur, Faroe Islands travel short video CTA follow",
+        "query2": "shorts end screen follow",
+        "role": "cta"
+      }
+    ],
+    "description": "Tindhólmur’s towering sea stacks are nature’s skyscrapers, sculpted by fire and water. Discover why this remote Faroe island keeps photographers spellbound. Follow for more unseen wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#FaroeIslands",
+      "#Tindhólmur",
+      "#Travel",
+      "#Nature",
+      "#Landscape"
+    ]
+  },
+  {
+    "title": "The Lake That Mirrors an Entire Mountain Range",
+    "thumb": "MIRROR MOUNTAIN",
+    "place": "Lake Matheson, South Island",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A perfect 180° mirror of Aoraki sits in Lake Matheson",
+        "hook_top": "180 MOUNTAIN MIRROR",
+        "query": "Lake Matheson, South Island Lake Matheson reflection Aoraki",
+        "query2": "New Zealand mirror lake sunrise",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "GLACIAL SILTS FROM 10,000 YEARS AGO",
+        "label_on": "silts",
+        "text": "The lake’s turquoise water is fed by ancient glacial silt that never settles",
+        "query": "Lake Matheson, South Island glacial silt turquoise lake",
+        "query2": "Lake Matheson water color",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "CALMNESS GUARANTEED AT DUSK",
+        "label_on": "calm",
+        "text": "At twilight the wind often stills, turning the surface into a flawless glass",
+        "query": "Lake Matheson, South Island Lake Matheson calm twilight",
+        "query2": "mirror lake still water evening",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "UNIQUE REVERSE‑FLOW RIVER",
+        "label_on": "river",
+        "text": "A short river flows out of the lake in reverse, creating a surreal illusion of water climbing uphill",
+        "query": "Lake Matheson, South Island Lake Matheson reverse flow river",
+        "query2": "optical illusion river uphill",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Lake Matheson, South Island CTA follow travel short",
+        "query2": "shorts end screen follow button",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Matheson offers a flawless reflection of New Zealand’s highest peaks, turning every sunrise into a living postcard. Dive into its glacial secrets and surreal river tricks. Hit follow for more hidden mirrors.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#NewZealand",
+      "#LakeMatheson",
+      "#Travel",
+      "#Nature",
+      "#MirrorLake"
+    ]
+  },
+  {
+    "title": "How a Desert Turns Into a Sparkling White Sea",
+    "thumb": "WHITE DESERT",
+    "place": "White Sands of Salar de Tara, Atacama Desert",
+    "country": "Chile",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Every winter, 200 km² of salt flats sparkle like a white ocean",
+        "hook_top": "WINTER SALT OCEAN",
+        "query": "White Sands of Salar de Tara, Atacama Desert Salar de Tara winter salt flats sparkle",
+        "query2": "Atacama white desert salt crust",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "NATURAL SALT CRYSTAL LAYERS",
+        "label_on": "crystals",
+        "text": "Thin layers of halite form a glittering crust that reflects the sun’s rays",
+        "query": "White Sands of Salar de Tara, Atacama Desert halite crystal crust desert",
+        "query2": "salt flat crystal reflection",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "RARE RAINFALL EVENT",
+        "label_on": "rainfall",
+        "text": "A brief rain in summer leaves a thin water film, turning the plain into a mirror for the sky",
+        "query": "White Sands of Salar de Tara, Atacama Desert Salar de Tara rain mirror effect",
+        "query2": "desert rain water film reflection",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "BIO‑LUMINESCENT MICRO‑ALGAE",
+        "label_on": "algae",
+        "text": "When night falls, tiny algae emit a soft glow, giving the flats an ethereal blue shimmer",
+        "query": "White Sands of Salar de Tara, Atacama Desert bioluminescent algae salt flats night",
+        "query2": "glowing desert micro algae",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "White Sands of Salar de Tara, Atacama Desert CTA follow desert short",
+        "query2": "shorts end screen follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "Salar de Tara’s white salt flats become a dazzling sea of sparkle each winter, a rare blend of crystal crusts, fleeting rain mirrors, and glowing algae. Experience this surreal desert miracle. Follow for more desert miracles.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Chile",
+      "#SalarDeTara",
+      "#Travel",
+      "#Desert",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "The Twin Waterfalls That Defy Gravity",
+    "thumb": "FLYING WATER",
+    "place": "Badab‑e Surt",
+    "country": "Iran",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "2 cascading pools perched on a cliffside",
+        "hook_top": "GRAVITYDEFYING FALLS",
+        "query": "Badab‑e Surt badab-e surt twin waterfalls",
+        "query2": "iran terraced mineral pools",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The pools are formed by mineral‑rich hot springs over 12 m high.",
+        "chips": [
+          {
+            "t": "12 m",
+            "on": "height",
+            "style": "white"
+          }
+        ],
+        "punch": "towering",
+        "query": "Badab‑e Surt close‑up mineral water cascade",
+        "query2": "hot spring waterfall Iran",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Water colors shift from turquoise to amber as minerals settle.",
+        "chips": [
+          {
+            "t": "Turquoise → Amber",
+            "on": "color shift",
+            "style": "accent"
+          }
+        ],
+        "query": "Badab‑e Surt colorful layered pools Badab-e Surt",
+        "query2": "stratified mineral water colors",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "The water actually flows *upward* for a few seconds before dropping.",
+        "reveal_top": "UPWARD FLOW",
+        "query": "Badab‑e Surt water flowing upward Badab-e Surt",
+        "query2": "reverse waterfall illusion",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Badab‑e Surt travel brand logo animation",
+        "query2": "subscribe button overlay",
+        "role": "cta"
+      }
+    ],
+    "description": "Badab‑e Surt in Iran boasts twin mineral pools that seem to pour upward before surrendering to gravity, creating a surreal visual paradox. Witness nature’s optical trick. 🌈",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#BadabESurt",
+      "#Iran",
+      "#Waterfall",
+      "#Travel",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "The 12‑Meter Ice Pillar of Iceland’s Þingvellir",
+    "thumb": "ICE PILLAR THINGVELLIR",
+    "place": "Þingvellir National Park",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A 12‑meter ice tower rises from Þingvellir’s lake each winter",
+        "hook_top": "ICE TOWER THINGVELLIR",
+        "query": "Þingvellir National Park Þingvellir frozen lake ice pillar",
+        "query2": "Iceland ice column winter",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Cold currents freeze the lake’s surface, building a tower up to 12 m tall.",
+        "chips": [
+          {
+            "t": "12 m",
+            "on": "height",
+            "style": "white"
+          }
+        ],
+        "punch": "wow",
+        "query": "Þingvellir National Park measurements of ice pillar Þingvellir",
+        "query2": "Þingvellir ice column dimensions",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "A 2018 documentary still captures the pillar glimmering at sunrise.",
+        "archive_query": "Þingvellir ice pillar sunrise 2018 Wikimedia Commons",
+        "archive_label": "Pillar at Dawn",
+        "query": "Þingvellir National Park archival sunrise ice pillar Þingvellir",
+        "query2": "old footage Þingvellir ice column",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Nature’s skyscraper formed without a single brick.",
+        "label": "NATURAL SKYLINE",
+        "sub": "Frozen water builds its own architecture.",
+        "label_on": "skyline",
+        "query": "Þingvellir National Park closeup of Þingvellir ice pillar texture",
+        "query2": "Iceland winter ice formation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Þingvellir National Park travel brand CTA ice theme",
+        "query2": "shorts follow animation winter",
+        "role": "cta"
+      }
+    ],
+    "description": "Each winter, Þingvellir’s lake sculpts a towering 12‑meter ice pillar, a fleeting masterpiece of frozen art. Subscribe for more breathtaking natural constructions.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#Thingvellir",
+      "#IcePillar",
+      "#WinterWonder",
+      "#Travel"
+    ]
   }
 ]

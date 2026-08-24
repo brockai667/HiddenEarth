@@ -1,0 +1,61 @@
+{
+  "title": "The Shimmering Desert of Sossusvlei",
+  "thumb": "SHIMMERING DUNES",
+  "place": "Sossusvlei",
+  "country": "Namibia",
+  "scenes": [
+    {
+      "hook_top": "DUNES GLOWING GOLD",
+      "query": "Sossusvlei dunes sunrise",
+      "query2": "Sossusvlei sunrise dunes",
+      "role": "hook",
+      "text": "Sossusvlei’s dunes glow like molten gold at dawn."
+    },
+    {
+      "chips": [
+        {
+          "t": "90 % IRON OXIDE",
+          "on": "IRON",
+          "style": "accent"
+        }
+      ],
+      "punch": "IRON",
+      "query": "Sossusvlei iron oxide sand",
+      "query2": "Sossusvlei sand composition",
+      "role": "fact",
+      "text": "The red sand is 90 % iron oxide, reflecting light uniquely."
+    },
+    {
+      "archive_query": "Sossusvlei_dunes_sunrise",
+      "archive_label": "Sunrise dunes",
+      "query": "Sossusvlei dunes sunrise",
+      "query2": "Sossusvlei sunrise",
+      "role": "archive",
+      "text": "Sossusvlei dunes at sunrise."
+    },
+    {
+      "sub": "Where sand feels like liquid gold",
+      "label_on": "FIRE",
+      "label": "SAND",
+      "query": "Sossusvlei red sand glow",
+      "query2": "Sossusvlei sand glow",
+      "role": "callout",
+      "text": "Red desert fire"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Sossusvlei",
+      "query2": "aerial landscape"
+    }
+  ],
+  "description": "Sossusvlei in Namibia isn’t just a desert; it’s a living canvas of molten gold. With 90 % iron oxide, the dunes reflect sunrise light in a way that makes the landscape seem alive. Witness the shimmering dunes that have mesmerized photographers for decades. Follow for more breathtaking landscapes!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Sossusvlei",
+    "#Namibia",
+    "#DesertGlow",
+    "#Nature"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "What Makes Lake Natron Glow Red?",
+  "thumb": "RED FLAME LAKE",
+  "place": "Lake Natron",
+  "country": "Tanzania",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "4‑km alkaline lake that looks like liquid fire",
+      "hook_top": "LIQUID FIRE LAKE",
+      "query": "Lake Natron red water Tanzania",
+      "query2": "alkaline red lake aerial",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "HIGH SODIUM CARBONATE CONTENT",
+      "label_on": "Chemistry",
+      "text": "The lake’s soda‑rich water reflects sunlight, creating a crimson sheen.",
+      "query": "Lake Natron chemical composition soda",
+      "query2": "alkaline lake red reflection",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "THOUSANDS OF FLAMINGO BREEDERS",
+      "label_on": "Flamingos",
+      "text": "Its pink hue attracts massive flocks of lesser flamingos that feed on algae.",
+      "query": "flamingos Lake Natron feeding",
+      "query2": "flamingo breeding lake Tanzania",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "VOLCANIC GROUND SURROUNDINGS",
+      "label_on": "Volcanoes",
+      "text": "Steep basaltic cliffs and nearby volcanoes add to the otherworldly scenery.",
+      "query": "Lake Natron volcanic cliffs Tanzania",
+      "query2": "basalt cliffs Lake Natron",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Lake Natron travel short form call to action",
+      "query2": "follow us travel shorts",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Natron in Tanzania looks like a pool of molten lava, yet it’s a vital breeding ground for flamingos. Discover the chemistry and wildlife that give this lake its fiery glow.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LakeNatron",
+    "#Tanzania",
+    "#Flamingos",
+    "#Nature",
+    "#Travel"
+  ]
+}
