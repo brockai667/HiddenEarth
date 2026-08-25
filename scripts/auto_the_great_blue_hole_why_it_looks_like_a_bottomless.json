@@ -1,0 +1,75 @@
+{
+  "title": "The Great Blue Hole: Why It Looks Like a Bottomless Abyss",
+  "thumb": "DEEP BLUE VOID",
+  "place": "Great Blue Hole",
+  "country": "Belize",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "1 km wide circular sinkhole plunges 124 m deep",
+      "hook_top": "GIANT BLUE SINKHOLE",
+      "query": "Great Blue Hole aerial view",
+      "query2": "Great Blue Hole drone footage",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Formed during the last Ice Age when sea levels were lower.",
+      "chips": [
+        {
+          "t": "124 m depth",
+          "on": "depth",
+          "style": "white"
+        },
+        {
+          "t": "1 km diameter",
+          "on": "size",
+          "style": "accent"
+        }
+      ],
+      "punch": "deep",
+      "query": "Great Blue Hole formation Ice Age",
+      "query2": "Great Blue Hole geology",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "1970s NOAA survey photo captures its perfect circle.",
+      "archive_query": "Great Blue Hole NOAA 1970s Wikimedia Commons",
+      "archive_label": "Historic survey photo",
+      "query": "Great Blue Hole",
+      "query2": "aerial landscape",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Dive into Earth’s most perfect blue circle",
+      "label": "PERFECT CIRCLE",
+      "sub": "A natural lens for the ocean.",
+      "label_on": "circle",
+      "query": "Great Blue Hole underwater view",
+      "query2": "Great Blue Hole aerial circle",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Great Blue Hole travel adventure short",
+      "query2": "nature exploration short",
+      "role": "cta"
+    }
+  ],
+  "description": "Belize’s Great Blue Hole is a massive, crystal‑clear sinkhole that looks like a portal to the deep. Discover its Ice Age origins and why it’s a diver’s dream. Follow for more planetary wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#GreatBlueHole",
+    "#Belize",
+    "#Ocean",
+    "#Travel",
+    "#Adventure",
+    "#Nature"
+  ]
+}

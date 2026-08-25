@@ -1,0 +1,70 @@
+{
+  "title": "2‑Minute Ice Bubbles That Float Over Lake Baikal",
+  "thumb": "ICE BUBBLE MIRACLE",
+  "place": "Lake Baikal (Olkhon Island)",
+  "country": "Russia",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Watch 2‑minute ice bubbles rise on Lake Baikal!",
+      "hook_top": "2MINUTE ICE BUBBLES",
+      "query": "Lake Baikal (Olkhon Island) ice bubbles Lake Baikal winter",
+      "query2": "crystal bubbles frozen Lake Baikal",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Lake Baikal holds about 20% of the world’s fresh water.",
+      "chips": [
+        {
+          "t": "20% WORLD WATER",
+          "on": "world",
+          "style": "accent"
+        }
+      ],
+      "query": "Lake Baikal (Olkhon Island) Lake Baikal water volume statistic",
+      "query2": "Lake Baikal fresh water percentage",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Winter methane seeps get trapped under ice, forming perfect crystal orbs.",
+      "chips": [
+        {
+          "t": "METHANE ORBS",
+          "on": "methane",
+          "style": "white"
+        }
+      ],
+      "query": "Lake Baikal (Olkhon Island) methane bubbles under ice Lake Baikal",
+      "query2": "crystal bubbles frozen lake Russia",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "Those glittering spheres are methane, not water—nature’s frozen fireworks.",
+      "reveal_top": "METHANE, NOT WATER",
+      "query": "Lake Baikal (Olkhon Island) closeup of methane bubbles ice Lake Baikal",
+      "query2": "frozen methane orbs Lake Baikal",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Lake Baikal (Olkhon Island) travel short form CTA follow",
+      "query2": "subscribe short video end screen",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Baikal, the deepest lake on Earth, traps methane under its winter ice, creating dazzling crystal bubbles that float for minutes. Discover the science behind these frozen fireworks and follow for more icy marvels!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LakeBaikal",
+    "#Russia",
+    "#icebubbles",
+    "#nature",
+    "#travel"
+  ]
+}

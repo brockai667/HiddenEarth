@@ -1,0 +1,66 @@
+{
+  "title": "Why Tindhólmur’s Pillars Look Like Alien Skyscrapers",
+  "thumb": "ALIEN SKYSCRAPERS",
+  "place": "Tindhólmur, Faroe Islands",
+  "country": "Denmark",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7‑meter rock pillars rise from the sea at Tindhólmur",
+      "hook_top": "7METER ROCK PILLARS",
+      "query": "Tindhólmur, Faroe Islands Tindhólmur sea stacks sunrise",
+      "query2": "Faroe Islands dramatic cliffs",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "WORLD‑RARE GEOLOGICAL FORMATION",
+      "label_on": "formation",
+      "text": "These basalt columns formed 60 million years ago during a massive volcanic eruption",
+      "query": "Tindhólmur, Faroe Islands basalt sea stacks formation",
+      "query2": "volcanic rock pillars closeup",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "UNSTABLE NATURAL ARCHES",
+      "label_on": "arches",
+      "text": "One of the arches is so fragile that it can collapse within a single storm",
+      "query": "Tindhólmur, Faroe Islands Tindhólmur natural arch danger",
+      "query2": "erosion of sea arches",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "PHOTOGRAPHER'S DREAM",
+      "label_on": "photography",
+      "text": "The location offers perfect golden‑hour light, making it a top spot for award‑winning landscape shots",
+      "query": "Tindhólmur, Faroe Islands Tindhólmur golden hour photography",
+      "query2": "Faroe Islands landscape photo",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Tindhólmur, Faroe Islands travel short video CTA follow",
+      "query2": "shorts end screen follow",
+      "role": "cta"
+    }
+  ],
+  "description": "Tindhólmur’s towering sea stacks are nature’s skyscrapers, sculpted by fire and water. Discover why this remote Faroe island keeps photographers spellbound. Follow for more unseen wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#FaroeIslands",
+    "#Tindhólmur",
+    "#Travel",
+    "#Nature",
+    "#Landscape"
+  ]
+}

@@ -8840,5 +8840,480 @@
       "#WinterWonder",
       "#Travel"
     ]
+  },
+  {
+    "title": "What Makes Lake Van’s Floating Islands Float?",
+    "thumb": "FLOATING ISLANDS",
+    "place": "Lake Van",
+    "country": "Turkey",
+    "scenes": [
+      {
+        "hook_top": "DRIFTING ISLANDS",
+        "query": "floating islands Lake Van Turkey",
+        "query2": "Lake Van islands aerial",
+        "role": "hook",
+        "text": "10 + islands drift on a salty sea!"
+      },
+      {
+        "query": "Lake Van map Turkey",
+        "query2": "location Lake Van Anatolia",
+        "role": "map",
+        "text": "Lake Van, Eastern Anatolia, Turkey"
+      },
+      {
+        "chips": [
+          {
+            "t": "SALTY BRINE",
+            "on": "salt",
+            "style": "white"
+          }
+        ],
+        "punch": "salt",
+        "query": "volcanic ash lake van islands formation",
+        "query2": "Lake Van buoyant islands science",
+        "role": "fact",
+        "text": "Salty brine and volcanic ash create buoyant limestone platforms."
+      },
+      {
+        "archive_query": "Lake Van islands postcard Wikimedia Commons",
+        "archive_label": "Vintage Postcard",
+        "query": "historic postcard Lake Van islands",
+        "query2": "old image Lake Van floating islands",
+        "role": "archive",
+        "text": "Early 20th‑century postcard showing the islands silhouetted at sunset"
+      },
+      {
+        "label": "FLOATING RAFTS",
+        "sub": "Volcanic remnants that glide over turquoise water",
+        "label_on": "rafts",
+        "query": "floating limestone islands Lake Van",
+        "query2": "Lake Van island close up",
+        "role": "callout",
+        "text": "Nature’s Own Rafts"
+      },
+      {
+        "query": "Lake Van travel CTA follow animation",
+        "query2": "short video follow prompt",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "Lake Van’s eerie floating islands are volcanic limestone caps buoyed by ultra‑salty water. They drift like natural rafts across the turquoise expanse. 🌅",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#turkey",
+      "#lakevan",
+      "#floatingislands",
+      "#nature",
+      "#travel"
+    ]
+  },
+  {
+    "title": "How the Red Sands of Rabat Shine at Sunset",
+    "thumb": "RED SAND GLOW",
+    "place": "Rabat Red Sand Dunes",
+    "country": "Mauritania",
+    "scenes": [
+      {
+        "hook_top": "BLAZING RED DUNES",
+        "query": "Rabat Red Sand Dunes red sand dunes sunset Mauritania",
+        "query2": "Rabat desert glow",
+        "role": "hook",
+        "text": "Red dunes blaze for 30 seconds each evening!"
+      },
+      {
+        "query": "Rabat Mauritania map dunes",
+        "query2": "location Rabat desert Mauritania",
+        "role": "map",
+        "text": "Rabat, Inchiri Region, Mauritania"
+      },
+      {
+        "chips": [
+          {
+            "t": "IRON OXIDE",
+            "on": "iron",
+            "style": "accent"
+          }
+        ],
+        "punch": "iron",
+        "query": "Rabat Red Sand Dunes iron oxide red dunes physics",
+        "query2": "why red dunes glow sunset",
+        "role": "fact",
+        "text": "High iron oxide content ignites a brief crimson flare at low angle sun."
+      },
+      {
+        "archive_query": "Rabat dunes 1950s Wikimedia Commons",
+        "archive_label": "Historic Dune Photo",
+        "query": "Rabat Red Sand Dunes old photo Rabat dunes Mauritania",
+        "query2": "archive Rabat desert sand",
+        "role": "archive",
+        "text": "Black‑and‑white 1950s travel photo of the dunes before the glow phenomenon was documented"
+      },
+      {
+        "label": "SUNSET FIRE",
+        "sub": "A fleeting red blaze that lasts only minutes",
+        "label_on": "fire",
+        "query": "Rabat Red Sand Dunes red dunes sunset time lapse",
+        "query2": "Rabat dunes evening fire effect",
+        "role": "callout",
+        "text": "Brief Crimson Show"
+      },
+      {
+        "query": "Rabat Red Sand Dunes travel CTA follow short",
+        "query2": "follow animation desert",
+        "role": "cta",
+        "text": "Follow for places that don't feel real."
+      }
+    ],
+    "description": "The iron‑rich sands of Rabat ignite a fleeting crimson glow each sunset, turning the desert into a natural fireworks display lasting seconds. 🌅",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#mauritania",
+      "#desert",
+      "#redsands",
+      "#travel",
+      "#nature"
+    ]
+  },
+  {
+    "title": "Why Mendenhall Glacier’s Ice Falls Freeze in Summer",
+    "thumb": "FROZEN ICE FALLS",
+    "place": "Mendenhall Glacier Ice Falls",
+    "country": "USA",
+    "scenes": [
+      {
+        "hook_top": "SOLID JULY FALL",
+        "query": "Mendenhall Glacier ice falls summer",
+        "query2": "frozen waterfall Alaska July",
+        "role": "hook",
+        "text": "A 100‑foot cascade stays solid in July!"
+      },
+      {
+        "query": "Mendenhall Glacier map Alaska",
+        "query2": "location Mendenhall Glacier Juneau",
+        "role": "map",
+        "text": "Mendenhall Glacier, Juneau, Alaska, United States"
+      },
+      {
+        "chips": [
+          {
+            "t": "SUB‑ZERO WATER",
+            "on": "cold",
+            "style": "white"
+          }
+        ],
+        "punch": "cold",
+        "query": "Mendenhall Glacier Ice Falls glacier meltwater stays below freezing",
+        "query2": "Mendenhall Ice Falls temperature",
+        "role": "fact",
+        "text": "Sub‑zero meltwater from the glacier’s interior feeds the falls year‑round."
+      },
+      {
+        "archive_query": "Mendenhall Glacier Ice Falls 1930s Wikimedia Commons",
+        "archive_label": "1930s Summer Shot",
+        "query": "Mendenhall Glacier Ice Falls historic Mendenhall Ice Falls photo",
+        "query2": "old summer image Mendenhall Glacier",
+        "role": "archive",
+        "text": "1930s National Park Service photograph of the ice falls during a summer hike"
+      },
+      {
+        "label": "ICE YEAR‑ROUND",
+        "sub": "Cold water from deep ice keeps the cascade frozen even in warm months",
+        "label_on": "ice",
+        "query": "Mendenhall Glacier Ice Falls frozen waterfall summer Alaska",
+        "query2": "Mendenhall Glacier ice cascade summer",
+        "role": "callout",
+        "text": "Eternal Summer Ice"
+      },
+      {
+        "query": "Mendenhall Glacier Ice Falls travel CTA follow ice",
+        "query2": "short video follow animation",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "Mendenhall Glacier’s Ice Falls remain frozen in the heat of July, fed by perpetually sub‑zero meltwater from deep within the glacier. A summer spectacle of ice. ❄️",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#alaska",
+      "#glacier",
+      "#icefalls",
+      "#travel",
+      "#nature"
+    ]
+  },
+  {
+    "title": "Why the Door to Hell Never Extinguishes",
+    "thumb": "FIERY CRATER",
+    "place": "Derweze Crater",
+    "country": "Turkmenistan",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5‑minute fire that’s been burning since 1971",
+        "hook_top": "FIERY CRATER",
+        "query": "Derweze crater flames night",
+        "query2": "Turkmenistan burning gas crater",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "ACCIDENTAL DISCOVERY",
+        "label_on": "discovery",
+        "text": "Soviet geologists tapped a gas pocket while drilling, igniting the blaze.",
+        "query": "Derweze Crater Soviet drilling accident gas flare",
+        "query2": "1971 gas flare Turkmenistan",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "NATURAL LANTERN EFFECT",
+        "label_on": "lantern",
+        "text": "The crater’s limestone walls reflect the fire, creating a glowing lantern‑shaped pit.",
+        "query": "Derweze crater glowing walls",
+        "query2": "Turkmenistan lantern crater night",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "TOURIST MAGNET",
+        "label_on": "magnet",
+        "text": "Despite the heat, visitors can walk the rim for surreal sunrise photos.",
+        "query": "tourists at Derweze crater sunrise",
+        "query2": "fire pit tourism Turkmenistan",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Derweze Crater travel short form call to action",
+        "query2": "follow travel channel",
+        "role": "cta"
+      }
+    ],
+    "description": "The Door to Hell is a 70‑meter‑wide fiery crater that’s been blazing for over 50 years. Watch why it never goes out and how it became a must‑see spectacle.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature",
+      "#turkmenistan",
+      "#crater",
+      "#explore"
+    ]
+  },
+  {
+    "title": "What Makes Harbour Island’s Pink Sand So Rare?",
+    "thumb": "PINK BEACH",
+    "place": "Harbour Island",
+    "country": "Bahamas",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "2‑kilometer stretch of pink sand in the Caribbean",
+        "hook_top": "PINK BEACH",
+        "query": "Harbour Island pink sand beach aerial",
+        "query2": "Bahamas pink sand shoreline",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "FORAMINIFERAN SHELLS",
+        "label_on": "shells",
+        "text": "Tiny foraminifera shells mix with white quartz, giving the sand its rosy hue.",
+        "query": "Harbour Island foraminifera pink sand close up",
+        "query2": "microscopic shells pink beach",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "CALM ATLANTIC WATERS",
+        "label_on": "waters",
+        "text": "Gentle tides prevent erosion, keeping the pink color intact year‑round.",
+        "query": "Harbour Island calm turquoise water",
+        "query2": "Bahamas gentle waves pink sand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "RARE GEOLOGICAL EVENT",
+        "label_on": "event",
+        "text": "A historic storm deposited the pink‑tinged coral fragments that never washed away.",
+        "query": "Harbour Island storm deposited coral pink sand Bahamas",
+        "query2": "historic storm pink sand formation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Harbour Island travel short form call to action",
+        "query2": "follow travel channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Harbour Island’s pink sand isn’t just a marketing trick—it’s a natural masterpiece formed by microscopic shells and calm seas. Discover the science behind the blush.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#beach",
+      "#bahamas",
+      "#nature",
+      "#travel",
+      "#pink"
+    ]
+  },
+  {
+    "title": "The Underground Light Show You Can’t Miss",
+    "thumb": "GLOWWORM CAVES",
+    "place": "Waitomo Glowworm Caves",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "30,000 tiny stars lighting a dark tunnel",
+        "hook_top": "UNDERSIDE STARS",
+        "query": "Waitomo Glowworm Caves boat inside Waitomo glowworm cave at night",
+        "query2": "glowworm cave illumination New Zealand",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Glowworms emit light from a protein called luciferin.",
+        "chips": [
+          {
+            "t": "LUCIFERIN",
+            "on": "glow",
+            "style": "accent"
+          }
+        ],
+        "punch": "glow",
+        "query": "Waitomo Glowworm Caves close‑up of glowworm lantern",
+        "query2": "macro of New Zealand glowworm",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "The cave’s limestone roof holds up to 200,000 of them during peak season.",
+        "chips": [
+          {
+            "t": "200K GLOWWORMS",
+            "on": "count",
+            "style": "white"
+          }
+        ],
+        "query": "Waitomo Glowworm Caves panoramic view of glowworms on cave ceiling",
+        "query2": "wide shot of glowing stalactites Waitomo",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "The glow is actually a survival signal to attract insects, not romance.",
+        "reveal_top": "SURVIVAL SIGNAL",
+        "query": "Waitomo Glowworm Caves illustration of glowworm attracting insects",
+        "query2": "diagram of glowworm feeding behavior",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Waitomo Glowworm Caves travel brand logo fade in",
+        "query2": "subscribe animation",
+        "role": "cta"
+      }
+    ],
+    "description": "Explore the secret nightlife of Waitomo’s underground world, where thousands of glowworms turn a cave into a star‑filled sky. Stay tuned for more hidden marvels.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#glowworms",
+      "#NewZealand",
+      "#cave",
+      "#nature",
+      "#travel"
+    ]
+  },
+  {
+    "title": "The Flaming Colors of Ethiopia’s Dallol Crater",
+    "thumb": "FIERY VALLEY",
+    "place": "Dallol Volcano",
+    "country": "Ethiopia",
+    "scenes": [
+      {
+        "hook_top": "FIERY DESERT TOWER",
+        "query": "Dallol Volcano colorful mineral terraces Dallol Ethiopia",
+        "query2": "vivid hot springs Dallol crater",
+        "role": "hook",
+        "text": "Dallol’s terraces blaze with orange and green in a desert!"
+      },
+      {
+        "chips": [
+          {
+            "t": "IRON‑OXIDE",
+            "on": "iron",
+            "style": "white"
+          },
+          {
+            "t": "SULFUR",
+            "on": "sulfur",
+            "style": "accent"
+          }
+        ],
+        "punch": "layers",
+        "query": "Dallol Volcano close‑up of Dallol mineral terraces",
+        "query2": "macro shot Dallol colorful salts",
+        "role": "fact",
+        "text": "Hydrothermal activity deposits iron‑oxide and sulfur, creating rainbow‑like layers."
+      },
+      {
+        "archive_query": "Dallol 1975 expedition photo Wikimedia Commons",
+        "archive_label": "1975 expedition",
+        "query": "Dallol Volcano archival photo Dallol 1975 research team",
+        "query2": "historical image Dallol Ethiopia",
+        "role": "archive",
+        "text": "1975 scientific expedition photo captures the first known view of Dallol’s colors."
+      },
+      {
+        "label": "Hot Paintbrush",
+        "sub": "Geology turned the desert into a living palette.",
+        "label_on": "paintbrush",
+        "query": "Dallol Volcano panoramic view of Dallol crater with steam vents",
+        "query2": "wide shot Dallol colorful terraces sunrise",
+        "role": "callout",
+        "text": "Earth’s Hot Paintbrush"
+      },
+      {
+        "query": "Dallol Volcano cinematic fade to brand logo with volcanic sound",
+        "query2": "smooth transition travel brand outro",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "Deep in Ethiopia’s Danakil Depression, Dallol Volcano erupts with a kaleidoscope of colors—orange, yellow, and green mineral terraces steaming under a scorching sun. Learn how chemistry paints this surreal landscape. Follow us for more explosive earth wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Dallol",
+      "#Ethiopia",
+      "#Volcano",
+      "#Geology",
+      "#Travel",
+      "#Nature"
+    ]
   }
 ]
