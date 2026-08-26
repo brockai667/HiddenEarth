@@ -1,0 +1,66 @@
+{
+  "title": "The Lake That Mirrors an Entire Mountain Range",
+  "thumb": "MIRROR MOUNTAIN",
+  "place": "Lake Matheson, South Island",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A perfect 180° mirror of Aoraki sits in Lake Matheson",
+      "hook_top": "180 MOUNTAIN MIRROR",
+      "query": "Lake Matheson, South Island Lake Matheson reflection Aoraki",
+      "query2": "New Zealand mirror lake sunrise",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "GLACIAL SILTS FROM 10,000 YEARS AGO",
+      "label_on": "silts",
+      "text": "The lake’s turquoise water is fed by ancient glacial silt that never settles",
+      "query": "Lake Matheson, South Island glacial silt turquoise lake",
+      "query2": "Lake Matheson water color",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "CALMNESS GUARANTEED AT DUSK",
+      "label_on": "calm",
+      "text": "At twilight the wind often stills, turning the surface into a flawless glass",
+      "query": "Lake Matheson, South Island Lake Matheson calm twilight",
+      "query2": "mirror lake still water evening",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "UNIQUE REVERSE‑FLOW RIVER",
+      "label_on": "river",
+      "text": "A short river flows out of the lake in reverse, creating a surreal illusion of water climbing uphill",
+      "query": "Lake Matheson, South Island Lake Matheson reverse flow river",
+      "query2": "optical illusion river uphill",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Lake Matheson, South Island CTA follow travel short",
+      "query2": "shorts end screen follow button",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Matheson offers a flawless reflection of New Zealand’s highest peaks, turning every sunrise into a living postcard. Dive into its glacial secrets and surreal river tricks. Hit follow for more hidden mirrors.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#NewZealand",
+    "#LakeMatheson",
+    "#Travel",
+    "#Nature",
+    "#MirrorLake"
+  ]
+}

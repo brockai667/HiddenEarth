@@ -1,0 +1,71 @@
+{
+  "title": "The Twin Waterfalls That Defy Gravity",
+  "thumb": "FLYING WATER",
+  "place": "Badab‑e Surt",
+  "country": "Iran",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 cascading pools perched on a cliffside",
+      "hook_top": "GRAVITYDEFYING FALLS",
+      "query": "Badab‑e Surt badab-e surt twin waterfalls",
+      "query2": "iran terraced mineral pools",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The pools are formed by mineral‑rich hot springs over 12 m high.",
+      "chips": [
+        {
+          "t": "12 m",
+          "on": "height",
+          "style": "white"
+        }
+      ],
+      "punch": "towering",
+      "query": "Badab‑e Surt close‑up mineral water cascade",
+      "query2": "hot spring waterfall Iran",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Water colors shift from turquoise to amber as minerals settle.",
+      "chips": [
+        {
+          "t": "Turquoise → Amber",
+          "on": "color shift",
+          "style": "accent"
+        }
+      ],
+      "query": "Badab‑e Surt colorful layered pools Badab-e Surt",
+      "query2": "stratified mineral water colors",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "The water actually flows *upward* for a few seconds before dropping.",
+      "reveal_top": "UPWARD FLOW",
+      "query": "Badab‑e Surt water flowing upward Badab-e Surt",
+      "query2": "reverse waterfall illusion",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Badab‑e Surt travel brand logo animation",
+      "query2": "subscribe button overlay",
+      "role": "cta"
+    }
+  ],
+  "description": "Badab‑e Surt in Iran boasts twin mineral pools that seem to pour upward before surrendering to gravity, creating a surreal visual paradox. Witness nature’s optical trick. 🌈",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#BadabESurt",
+    "#Iran",
+    "#Waterfall",
+    "#Travel",
+    "#Nature"
+  ]
+}

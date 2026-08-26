@@ -1,0 +1,66 @@
+{
+  "title": "How a Desert Turns Into a Sparkling White Sea",
+  "thumb": "WHITE DESERT",
+  "place": "White Sands of Salar de Tara, Atacama Desert",
+  "country": "Chile",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Every winter, 200 km² of salt flats sparkle like a white ocean",
+      "hook_top": "WINTER SALT OCEAN",
+      "query": "White Sands of Salar de Tara, Atacama Desert Salar de Tara winter salt flats sparkle",
+      "query2": "Atacama white desert salt crust",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "NATURAL SALT CRYSTAL LAYERS",
+      "label_on": "crystals",
+      "text": "Thin layers of halite form a glittering crust that reflects the sun’s rays",
+      "query": "White Sands of Salar de Tara, Atacama Desert halite crystal crust desert",
+      "query2": "salt flat crystal reflection",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "RARE RAINFALL EVENT",
+      "label_on": "rainfall",
+      "text": "A brief rain in summer leaves a thin water film, turning the plain into a mirror for the sky",
+      "query": "White Sands of Salar de Tara, Atacama Desert Salar de Tara rain mirror effect",
+      "query2": "desert rain water film reflection",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "BIO‑LUMINESCENT MICRO‑ALGAE",
+      "label_on": "algae",
+      "text": "When night falls, tiny algae emit a soft glow, giving the flats an ethereal blue shimmer",
+      "query": "White Sands of Salar de Tara, Atacama Desert bioluminescent algae salt flats night",
+      "query2": "glowing desert micro algae",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "White Sands of Salar de Tara, Atacama Desert CTA follow desert short",
+      "query2": "shorts end screen follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "Salar de Tara’s white salt flats become a dazzling sea of sparkle each winter, a rare blend of crystal crusts, fleeting rain mirrors, and glowing algae. Experience this surreal desert miracle. Follow for more desert miracles.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Chile",
+    "#SalarDeTara",
+    "#Travel",
+    "#Desert",
+    "#Nature"
+  ]
+}
