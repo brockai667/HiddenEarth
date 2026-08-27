@@ -9449,5 +9449,197 @@
       "#Travel",
       "#Nature"
     ]
+  },
+  {
+    "title": "Why Turkmenistan’s “Door to Hell” Burns 24/7",
+    "thumb": "FIERY CRATER",
+    "place": "Darvaza Gas Crater",
+    "country": "Turkmenistan",
+    "scenes": [
+      {
+        "hook_top": "70METRE EVERBURNING FIRE",
+        "query": "Darvaza Gas Crater flaming gas crater night time",
+        "query2": "burning desert crater",
+        "role": "hook",
+        "text": "A 70‑meter fire that never dies"
+      },
+      {
+        "query": null,
+        "query2": null,
+        "role": "map",
+        "text": "Darvaza Gas Crater, Karakum Desert, Turkmenistan"
+      },
+      {
+        "chips": [
+          {
+            "t": "50+ YEARS",
+            "on": "years",
+            "style": "accent"
+          }
+        ],
+        "punch": "decades",
+        "query": "Darvaza Gas Crater gas crater flames close up",
+        "query2": "Darvaza fire aerial",
+        "role": "fact",
+        "text": "Lit in 1971, the crater has burned continuously for over 50 years."
+      },
+      {
+        "archive_query": "Darvaza crater 1971 Soviet archive",
+        "archive_label": "1971 ignition",
+        "query": "Darvaza Gas Crater",
+        "query2": "aerial landscape",
+        "role": "archive",
+        "text": "Historic Soviet‑era photos of the crater’s ignition"
+      },
+      {
+        "label": "Eternal Flame",
+        "sub": "A man‑made disaster turned tourist magnet",
+        "label_on": "flame",
+        "query": "Darvaza Gas Crater tourists at Darvaza at night",
+        "query2": "fire pit desert tourists",
+        "role": "callout",
+        "text": "Eternal Flame"
+      },
+      {
+        "query": "Darvaza Gas Crater cinematic travel outro",
+        "query2": "short travel call to action",
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets."
+      }
+    ],
+    "description": "Deep in Turkmenistan’s Karakum Desert lies a massive, glowing crater that’s been ablaze for half a century. The fiery pit is a stark reminder of an abandoned Soviet experiment. Follow for more wild wonders!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#darvaza",
+      "#doorToHell",
+      "#turkmenistan",
+      "#travel",
+      "#nature"
+    ]
+  },
+  {
+    "title": "Why Caño Cristales Flows Like a Liquid Rainbow?",
+    "thumb": "RAINBOW RIVER",
+    "place": "Caño Cristales, Sierra de la Macarena",
+    "country": "Colombia",
+    "scenes": [
+      {
+        "text": "7 months a year this river glows with rainbow colors",
+        "hook_top": "RAINBOW RIVER SEASON",
+        "query": "Caño Cristales, Sierra de la Macarena Caño Cristales colorful river during wet season",
+        "query2": "Sierra de la Macarena river rainbow colors",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "text": "Only eight plant species give the water its vivid hues",
+        "label": "8 UNIQUE PLANT SPECIES",
+        "label_on": "species",
+        "query": "Caño Cristales, Sierra de la Macarena Macarenia spiciformis plant Caño Cristales close up",
+        "query2": "colorful aquatic plants Caño Cristales macro",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "text": "The water stays around 20 °C, perfect for the algae to thrive",
+        "label": "20°C COOL WATER",
+        "label_on": "temperature",
+        "query": "Caño Cristales, Sierra de la Macarena Caño Cristales water temperature 20°C",
+        "query2": "warm river water Caño Cristales close up",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "text": "It is protected as a UNESCO Biosphere Reserve since 2000",
+        "label": "UNESCO BIOSPHERE",
+        "label_on": "status",
+        "query": "Caño Cristales, Sierra de la Macarena UNESCO biosphere reserve Caño Cristales sign",
+        "query2": "Sierra de la Macarena UNESCO plaque",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Caño Cristales, Sierra de la Macarena travel short form video subscribe animation",
+        "query2": "call to action follow animation",
+        "role": "cta"
+      }
+    ],
+    "description": "The ‘River of Five Colors’ in Colombia turns into a living rainbow each wet season. Discover its secret pigments, perfect temperature and protected status.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature",
+      "#rainbowriver",
+      "#colombia",
+      "#biodiversity",
+      "#explore"
+    ]
+  },
+  {
+    "title": "How Fairy Pools Mirror the Sky on Skye?",
+    "thumb": "SKYE MIRROR POOLS",
+    "place": "Fairy Pools, Isle of Skye",
+    "country": "Scotland",
+    "scenes": [
+      {
+        "text": "3 crystal pools reflect the sky like perfect mirrors",
+        "hook_top": "SKYE MIRROR POOLS",
+        "query": "Fairy Pools, Isle of Skye Fairy Pools crystal clear water reflecting sky",
+        "query2": "Isle of Skye Fairy Pools mirror effect",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "text": "Formed by ancient volcanic activity that carved the basalt basins",
+        "label": "VOLCANIC FORMATION",
+        "label_on": "formation",
+        "query": "Fairy Pools, Isle of Skye volcanic basalt rock Fairy Pools Skye",
+        "query2": "geology of Fairy Pools Isle of Skye",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "text": "Water clarity lets you see the riverbed up to 10 meters deep",
+        "label": "10 METERS CLARITY",
+        "label_on": "clarity",
+        "query": "Fairy Pools, Isle of Skye clear water Fairy Pools riverbed view",
+        "query2": "underwater view Fairy Pools Skye",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "text": "The pools stay chilly at about 5 °C, perfect for a brisk dip",
+        "label": "5°C ICE COLD",
+        "label_on": "temp",
+        "query": "Fairy Pools, Isle of Skye cold water Fairy Pools temperature 5°C",
+        "query2": "cool water Fairy Pools swimming",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Fairy Pools, Isle of Skye travel short form video subscribe animation",
+        "query2": "call to action follow animation",
+        "role": "cta"
+      }
+    ],
+    "description": "Scotland’s Fairy Pools are nature’s own mirrors, forged by ancient volcanoes and crystal‑clear water. Dive into their icy depths and see the sky reflected below.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#skye",
+      "#scotland",
+      "#fairypools",
+      "#nature",
+      "#travel",
+      "#explore"
+    ]
   }
 ]

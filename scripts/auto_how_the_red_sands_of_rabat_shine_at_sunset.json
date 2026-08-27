@@ -1,0 +1,68 @@
+{
+  "title": "How the Red Sands of Rabat Shine at Sunset",
+  "thumb": "RED SAND GLOW",
+  "place": "Rabat Red Sand Dunes",
+  "country": "Mauritania",
+  "scenes": [
+    {
+      "hook_top": "BLAZING RED DUNES",
+      "query": "Rabat Red Sand Dunes red sand dunes sunset Mauritania",
+      "query2": "Rabat desert glow",
+      "role": "hook",
+      "text": "Red dunes blaze for 30 seconds each evening!"
+    },
+    {
+      "query": "Rabat Mauritania map dunes",
+      "query2": "location Rabat desert Mauritania",
+      "role": "map",
+      "text": "Rabat, Inchiri Region, Mauritania"
+    },
+    {
+      "chips": [
+        {
+          "t": "IRON OXIDE",
+          "on": "iron",
+          "style": "accent"
+        }
+      ],
+      "punch": "iron",
+      "query": "Rabat Red Sand Dunes iron oxide red dunes physics",
+      "query2": "why red dunes glow sunset",
+      "role": "fact",
+      "text": "High iron oxide content ignites a brief crimson flare at low angle sun."
+    },
+    {
+      "archive_query": "Rabat dunes 1950s Wikimedia Commons",
+      "archive_label": "Historic Dune Photo",
+      "query": "Rabat Red Sand Dunes old photo Rabat dunes Mauritania",
+      "query2": "archive Rabat desert sand",
+      "role": "archive",
+      "text": "Black‑and‑white 1950s travel photo of the dunes before the glow phenomenon was documented"
+    },
+    {
+      "label": "SUNSET FIRE",
+      "sub": "A fleeting red blaze that lasts only minutes",
+      "label_on": "fire",
+      "query": "Rabat Red Sand Dunes red dunes sunset time lapse",
+      "query2": "Rabat dunes evening fire effect",
+      "role": "callout",
+      "text": "Brief Crimson Show"
+    },
+    {
+      "query": "Rabat Red Sand Dunes travel CTA follow short",
+      "query2": "follow animation desert",
+      "role": "cta",
+      "text": "Follow for places that don't feel real."
+    }
+  ],
+  "description": "The iron‑rich sands of Rabat ignite a fleeting crimson glow each sunset, turning the desert into a natural fireworks display lasting seconds. 🌅",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#mauritania",
+    "#desert",
+    "#redsands",
+    "#travel",
+    "#nature"
+  ]
+}

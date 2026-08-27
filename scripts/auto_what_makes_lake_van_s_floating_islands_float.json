@@ -1,0 +1,68 @@
+{
+  "title": "What Makes Lake Van’s Floating Islands Float?",
+  "thumb": "FLOATING ISLANDS",
+  "place": "Lake Van",
+  "country": "Turkey",
+  "scenes": [
+    {
+      "hook_top": "DRIFTING ISLANDS",
+      "query": "floating islands Lake Van Turkey",
+      "query2": "Lake Van islands aerial",
+      "role": "hook",
+      "text": "10 + islands drift on a salty sea!"
+    },
+    {
+      "query": "Lake Van map Turkey",
+      "query2": "location Lake Van Anatolia",
+      "role": "map",
+      "text": "Lake Van, Eastern Anatolia, Turkey"
+    },
+    {
+      "chips": [
+        {
+          "t": "SALTY BRINE",
+          "on": "salt",
+          "style": "white"
+        }
+      ],
+      "punch": "salt",
+      "query": "volcanic ash lake van islands formation",
+      "query2": "Lake Van buoyant islands science",
+      "role": "fact",
+      "text": "Salty brine and volcanic ash create buoyant limestone platforms."
+    },
+    {
+      "archive_query": "Lake Van islands postcard Wikimedia Commons",
+      "archive_label": "Vintage Postcard",
+      "query": "historic postcard Lake Van islands",
+      "query2": "old image Lake Van floating islands",
+      "role": "archive",
+      "text": "Early 20th‑century postcard showing the islands silhouetted at sunset"
+    },
+    {
+      "label": "FLOATING RAFTS",
+      "sub": "Volcanic remnants that glide over turquoise water",
+      "label_on": "rafts",
+      "query": "floating limestone islands Lake Van",
+      "query2": "Lake Van island close up",
+      "role": "callout",
+      "text": "Nature’s Own Rafts"
+    },
+    {
+      "query": "Lake Van travel CTA follow animation",
+      "query2": "short video follow prompt",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Lake Van’s eerie floating islands are volcanic limestone caps buoyed by ultra‑salty water. They drift like natural rafts across the turquoise expanse. 🌅",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#turkey",
+    "#lakevan",
+    "#floatingislands",
+    "#nature",
+    "#travel"
+  ]
+}

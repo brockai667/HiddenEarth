@@ -1,0 +1,69 @@
+{
+  "title": "The 12‑Meter Ice Pillar of Iceland’s Þingvellir",
+  "thumb": "ICE PILLAR THINGVELLIR",
+  "place": "Þingvellir National Park",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A 12‑meter ice tower rises from Þingvellir’s lake each winter",
+      "hook_top": "ICE TOWER THINGVELLIR",
+      "query": "Þingvellir National Park Þingvellir frozen lake ice pillar",
+      "query2": "Iceland ice column winter",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Cold currents freeze the lake’s surface, building a tower up to 12 m tall.",
+      "chips": [
+        {
+          "t": "12 m",
+          "on": "height",
+          "style": "white"
+        }
+      ],
+      "punch": "wow",
+      "query": "Þingvellir National Park measurements of ice pillar Þingvellir",
+      "query2": "Þingvellir ice column dimensions",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "A 2018 documentary still captures the pillar glimmering at sunrise.",
+      "archive_query": "Þingvellir ice pillar sunrise 2018 Wikimedia Commons",
+      "archive_label": "Pillar at Dawn",
+      "query": "Þingvellir National Park archival sunrise ice pillar Þingvellir",
+      "query2": "old footage Þingvellir ice column",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Nature’s skyscraper formed without a single brick.",
+      "label": "NATURAL SKYLINE",
+      "sub": "Frozen water builds its own architecture.",
+      "label_on": "skyline",
+      "query": "Þingvellir National Park closeup of Þingvellir ice pillar texture",
+      "query2": "Iceland winter ice formation",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Þingvellir National Park travel brand CTA ice theme",
+      "query2": "shorts follow animation winter",
+      "role": "cta"
+    }
+  ],
+  "description": "Each winter, Þingvellir’s lake sculpts a towering 12‑meter ice pillar, a fleeting masterpiece of frozen art. Subscribe for more breathtaking natural constructions.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#Thingvellir",
+    "#IcePillar",
+    "#WinterWonder",
+    "#Travel"
+  ]
+}
