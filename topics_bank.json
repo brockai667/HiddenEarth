@@ -9641,5 +9641,282 @@
       "#travel",
       "#explore"
     ]
+  },
+  {
+    "title": "The Deepest Blue Hole on Earth – Dean’s Blue Hole",
+    "thumb": "DEEP BLUE HOLE",
+    "place": "Dean’s Blue Hole",
+    "country": "Bahamas",
+    "scenes": [
+      {
+        "hook_top": "202METER PLUNGE",
+        "query": "drone fly‑through Dean’s Blue Hole",
+        "query2": "underwater descent into Bahamas blue hole",
+        "role": "hook",
+        "text": "A 202‑meter vertical plunge that looks endless"
+      },
+      {
+        "query": "map pin Dean’s Blue Hole Bahamas",
+        "query2": "satellite view of Long Island Bahamas blue hole",
+        "role": "map",
+        "text": "Dean’s Blue Hole is located on Long Island, near the town of Clarence Town, in the Bahamas."
+      },
+      {
+        "chips": [
+          {
+            "t": "202 M",
+            "on": "depth",
+            "style": "white"
+          }
+        ],
+        "punch": "deep",
+        "query": "measuring equipment inside Dean’s Blue Hole",
+        "query2": "scientists measuring depth blue hole",
+        "role": "fact",
+        "text": "It is the world’s deepest known blue‑hole, measured at 202 m."
+      },
+      {
+        "archive_query": "Dean's Blue Hole 1968 site:commons.wikimedia.org",
+        "archive_label": "1968 Dive Team",
+        "query": "Dean’s Blue Hole archival photo of divers Dean's Blue Hole 1968",
+        "query2": "historic image Bahamas blue hole divers",
+        "role": "archive",
+        "text": "1968 expedition photo of divers at the hole’s rim."
+      },
+      {
+        "label": "Abyss View",
+        "sub": "A perfect circle of turquoise plunges into darkness.",
+        "label_on": "abyss",
+        "query": "cinematic sunrise over Dean’s Blue Hole",
+        "query2": "aerial view of turquoise circle Bahamas",
+        "role": "callout",
+        "text": "Ocean’s Eye"
+      },
+      {
+        "query": "Dean’s Blue Hole text overlay follow animation",
+        "query2": "call‑to‑action graphic",
+        "role": "cta",
+        "text": "Follow to see the world's hidden places."
+      }
+    ],
+    "description": "Dive into the deepest blue‑hole on the planet, where turquoise water disappears into a 202‑meter abyss. Discover why divers and scientists alike are mesmerized.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#DeanBlueHole",
+      "#Bahamas",
+      "#Dive",
+      "#Travel",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "Red Sand Dunes of Mui Ne Glow at Sunset",
+    "thumb": "RED SAND GLOW",
+    "place": "Mui Ne Red Sand Dunes",
+    "country": "Vietnam",
+    "scenes": [
+      {
+        "hook_top": "RUBY DUNES",
+        "query": "Mui Ne Red Sand Dunes time‑lapse of Mui Ne dunes at sunset",
+        "query2": "drone over red sand dunes Vietnam evening",
+        "role": "hook",
+        "text": "At dusk, the dunes blaze with a ruby hue"
+      },
+      {
+        "query": "map pin Mui Ne Vietnam dunes",
+        "query2": "satellite view of Bà Rịa‑Vũng Tàu coast dunes",
+        "role": "map",
+        "text": "The red sand dunes stretch along the coastal town of Mui Ne, in Bà Rịa‑Vũng Tàu Province, Vietnam."
+      },
+      {
+        "chips": [
+          {
+            "t": "IRON OXIDE",
+            "on": "iron",
+            "style": "accent"
+          }
+        ],
+        "punch": "glow",
+        "query": "Mui Ne Red Sand Dunes close‑up of iron‑rich sand grains",
+        "query2": "macro shot of red sand texture",
+        "role": "fact",
+        "text": "The sand’s iron‑oxide content gives it a permanent reddish tone."
+      },
+      {
+        "archive_query": "Mui Ne dunes postcard 1972 site:commons.wikimedia.org",
+        "archive_label": "1972 Dune Postcard",
+        "query": "Mui Ne Red Sand Dunes archival postcard of Mui Ne dunes 1972",
+        "query2": "vintage photo red dunes Vietnam",
+        "role": "archive",
+        "text": "1972 travel postcard showing the dunes under a pink sky."
+      },
+      {
+        "label": "Sunset Blaze",
+        "sub": "When the sun sets, the dunes ignite with scarlet light.",
+        "label_on": "blaze",
+        "query": "Mui Ne Red Sand Dunes cinematic sunset over red dunes Mui Ne",
+        "query2": "slow‑motion sand shifting at twilight Vietnam",
+        "role": "callout",
+        "text": "Desert Fire"
+      },
+      {
+        "query": "Mui Ne Red Sand Dunes text overlay follow animation",
+        "query2": "call‑to‑action graphic",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "The red sand dunes of Mui Ne turn into a glowing desert canvas as the sun dips below the horizon. Watch the transformation and feel the heat.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#MuiNe",
+      "#Vietnam",
+      "#Desert",
+      "#Travel",
+      "#Sunset",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "The 7‑Year‑Old Mystery of Canada’s Spotted Lake",
+    "thumb": "SPOTTED LAKE",
+    "place": "Spotted Lake (Khiluk)",
+    "country": "Canada",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "7‑year‑old lake that bursts into rainbow spots",
+        "hook_top": "7YEAROLD RAINBOW",
+        "query": "Spotted Lake (Khiluk) aerial view of Spotted Lake Canada bright colored pools",
+        "query2": "drone footage of Khiluk lake color spots",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "In summer, over 30 mineral‑rich pools dry, leaving vivid pink, green and yellow spots.",
+        "chips": [
+          {
+            "t": "30+ MINERAL POOLS",
+            "on": "pools",
+            "style": "accent"
+          }
+        ],
+        "punch": "wow",
+        "query": "Spotted Lake (Khiluk) close‑up of dried mineral pools Spotted Lake colors",
+        "query2": "macro shot of pink green yellow spots Khiluk",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "The lake’s water is 10 times saltier than the ocean, making it too toxic for most life.",
+        "chips": [
+          {
+            "t": "10× SALTIER",
+            "on": "salty",
+            "style": "white"
+          }
+        ],
+        "query": "Spotted Lake (Khiluk) surface tension of highly saline lake water",
+        "query2": "crystalline salt crust on Spotted Lake",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "It’s not a natural painting – the spots are mineral crusts that form when the lake evaporates.",
+        "reveal_top": "EVAPORATION PAINTING",
+        "query": "Spotted Lake (Khiluk) time‑lapse of Spotted Lake evaporation forming spots",
+        "query2": "before after shots of Khiluk lake drying",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Spotted Lake (Khiluk) text overlay follow animation",
+        "query2": "call to action graphics",
+        "role": "cta"
+      }
+    ],
+    "description": "Spotted Lake in British Columbia looks like a giant watercolor palette when the summer sun draws out its mineral colors. Discover why this toxic lake turns into a living artwork.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature",
+      "#Canada",
+      "#SpottedLake",
+      "#hiddenworld"
+    ]
+  },
+  {
+    "title": "Why Lake Tekapo Glows Turquoise at Dawn",
+    "thumb": "GLITTERING TURQUOISE",
+    "place": "Lake Tekapo",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 million tourists chase this turquoise lake each year",
+        "hook_top": "5MILLION TURQUOISE",
+        "query": "Lake Tekapo sunrise over turquoise lake New Zealand",
+        "query2": "Lake Tekapo dawn reflection",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Its vivid blue comes from glacial flour suspended in the water.",
+        "chips": [
+          {
+            "t": "GLACIAL FLAIR",
+            "on": "glacial",
+            "style": "accent"
+          }
+        ],
+        "punch": "wow",
+        "query": "Lake Tekapo glacial flour lake color explanation",
+        "query2": "why lake looks turquoise",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Historic 1970 aerial shot shows the lake’s perfect mirror.",
+        "archive_query": "Lake Tekapo 1970 aerial",
+        "archive_label": "1970 Aerial View",
+        "query": "Lake Tekapo archival aerial photo",
+        "query2": "historic lake Tekapo image",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Visit at sunrise for the ultimate mirror effect.",
+        "label": "SUNRISE MIRROR",
+        "sub": "Best time to see the lake reflect the sky",
+        "label_on": "mirror",
+        "query": "sunrise mirror lake Tekapo",
+        "query2": "lake reflection dawn New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Lake Tekapo travel inspiration call to action",
+        "query2": "short travel CTA",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Tekapo’s turquoise hue and flawless reflections make it a photographer’s dream. Catch the magic at sunrise and see why it draws millions.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#LakeTekapo",
+      "#NewZealand",
+      "#Travel",
+      "#Nature",
+      "#Photography"
+    ]
   }
 ]

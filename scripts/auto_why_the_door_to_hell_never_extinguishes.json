@@ -1,0 +1,66 @@
+{
+  "title": "Why the Door to Hell Never Extinguishes",
+  "thumb": "FIERY CRATER",
+  "place": "Derweze Crater",
+  "country": "Turkmenistan",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5‑minute fire that’s been burning since 1971",
+      "hook_top": "FIERY CRATER",
+      "query": "Derweze crater flames night",
+      "query2": "Turkmenistan burning gas crater",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "ACCIDENTAL DISCOVERY",
+      "label_on": "discovery",
+      "text": "Soviet geologists tapped a gas pocket while drilling, igniting the blaze.",
+      "query": "Derweze Crater Soviet drilling accident gas flare",
+      "query2": "1971 gas flare Turkmenistan",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "NATURAL LANTERN EFFECT",
+      "label_on": "lantern",
+      "text": "The crater’s limestone walls reflect the fire, creating a glowing lantern‑shaped pit.",
+      "query": "Derweze crater glowing walls",
+      "query2": "Turkmenistan lantern crater night",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "TOURIST MAGNET",
+      "label_on": "magnet",
+      "text": "Despite the heat, visitors can walk the rim for surreal sunrise photos.",
+      "query": "tourists at Derweze crater sunrise",
+      "query2": "fire pit tourism Turkmenistan",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Derweze Crater travel short form call to action",
+      "query2": "follow travel channel",
+      "role": "cta"
+    }
+  ],
+  "description": "The Door to Hell is a 70‑meter‑wide fiery crater that’s been blazing for over 50 years. Watch why it never goes out and how it became a must‑see spectacle.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#nature",
+    "#turkmenistan",
+    "#crater",
+    "#explore"
+  ]
+}

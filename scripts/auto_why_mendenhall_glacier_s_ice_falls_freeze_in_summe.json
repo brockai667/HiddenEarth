@@ -1,0 +1,68 @@
+{
+  "title": "Why Mendenhall Glacier’s Ice Falls Freeze in Summer",
+  "thumb": "FROZEN ICE FALLS",
+  "place": "Mendenhall Glacier Ice Falls",
+  "country": "USA",
+  "scenes": [
+    {
+      "hook_top": "SOLID JULY FALL",
+      "query": "Mendenhall Glacier ice falls summer",
+      "query2": "frozen waterfall Alaska July",
+      "role": "hook",
+      "text": "A 100‑foot cascade stays solid in July!"
+    },
+    {
+      "query": "Mendenhall Glacier map Alaska",
+      "query2": "location Mendenhall Glacier Juneau",
+      "role": "map",
+      "text": "Mendenhall Glacier, Juneau, Alaska, United States"
+    },
+    {
+      "chips": [
+        {
+          "t": "SUB‑ZERO WATER",
+          "on": "cold",
+          "style": "white"
+        }
+      ],
+      "punch": "cold",
+      "query": "Mendenhall Glacier Ice Falls glacier meltwater stays below freezing",
+      "query2": "Mendenhall Ice Falls temperature",
+      "role": "fact",
+      "text": "Sub‑zero meltwater from the glacier’s interior feeds the falls year‑round."
+    },
+    {
+      "archive_query": "Mendenhall Glacier Ice Falls 1930s Wikimedia Commons",
+      "archive_label": "1930s Summer Shot",
+      "query": "Mendenhall Glacier Ice Falls historic Mendenhall Ice Falls photo",
+      "query2": "old summer image Mendenhall Glacier",
+      "role": "archive",
+      "text": "1930s National Park Service photograph of the ice falls during a summer hike"
+    },
+    {
+      "label": "ICE YEAR‑ROUND",
+      "sub": "Cold water from deep ice keeps the cascade frozen even in warm months",
+      "label_on": "ice",
+      "query": "Mendenhall Glacier Ice Falls frozen waterfall summer Alaska",
+      "query2": "Mendenhall Glacier ice cascade summer",
+      "role": "callout",
+      "text": "Eternal Summer Ice"
+    },
+    {
+      "query": "Mendenhall Glacier Ice Falls travel CTA follow ice",
+      "query2": "short video follow animation",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Mendenhall Glacier’s Ice Falls remain frozen in the heat of July, fed by perpetually sub‑zero meltwater from deep within the glacier. A summer spectacle of ice. ❄️",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#alaska",
+    "#glacier",
+    "#icefalls",
+    "#travel",
+    "#nature"
+  ]
+}

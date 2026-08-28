@@ -1,0 +1,66 @@
+{
+  "title": "What Makes Harbour Island’s Pink Sand So Rare?",
+  "thumb": "PINK BEACH",
+  "place": "Harbour Island",
+  "country": "Bahamas",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2‑kilometer stretch of pink sand in the Caribbean",
+      "hook_top": "PINK BEACH",
+      "query": "Harbour Island pink sand beach aerial",
+      "query2": "Bahamas pink sand shoreline",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "FORAMINIFERAN SHELLS",
+      "label_on": "shells",
+      "text": "Tiny foraminifera shells mix with white quartz, giving the sand its rosy hue.",
+      "query": "Harbour Island foraminifera pink sand close up",
+      "query2": "microscopic shells pink beach",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "CALM ATLANTIC WATERS",
+      "label_on": "waters",
+      "text": "Gentle tides prevent erosion, keeping the pink color intact year‑round.",
+      "query": "Harbour Island calm turquoise water",
+      "query2": "Bahamas gentle waves pink sand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "RARE GEOLOGICAL EVENT",
+      "label_on": "event",
+      "text": "A historic storm deposited the pink‑tinged coral fragments that never washed away.",
+      "query": "Harbour Island storm deposited coral pink sand Bahamas",
+      "query2": "historic storm pink sand formation",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Harbour Island travel short form call to action",
+      "query2": "follow travel channel",
+      "role": "cta"
+    }
+  ],
+  "description": "Harbour Island’s pink sand isn’t just a marketing trick—it’s a natural masterpiece formed by microscopic shells and calm seas. Discover the science behind the blush.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#beach",
+    "#bahamas",
+    "#nature",
+    "#travel",
+    "#pink"
+  ]
+}
