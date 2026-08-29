@@ -1,0 +1,68 @@
+{
+  "title": "How Ice Caves in Austria Reach 15 °C Inside",
+  "thumb": "WARM ICE CAVES",
+  "place": "Eisriesenwelt",
+  "country": "Austria",
+  "scenes": [
+    {
+      "hook_top": "WARM ICE CAVES",
+      "query": "Eisriesenwelt warm ice cave interior Austria",
+      "query2": "Eisriesenwelt temperature inside",
+      "role": "hook",
+      "text": "15 °C inside a frozen cavern"
+    },
+    {
+      "query": "Eisriesenwelt map location",
+      "query2": "Werfen Austria map",
+      "role": "map",
+      "text": "Eisriesenwelt, Werfen, Salzburg State, Austria"
+    },
+    {
+      "chips": [
+        {
+          "t": "7 °C",
+          "on": "cave temperature",
+          "style": "white"
+        }
+      ],
+      "punch": "cozy",
+      "query": "Eisriesenwelt temperature data",
+      "query2": "warm ice cave climate stats",
+      "role": "fact",
+      "text": "The cavern’s internal air stays around 7 °C year‑round, warmer than the outside winter temps of –10 °C."
+    },
+    {
+      "archive_query": "Eisriesenwelt 1906 postcard",
+      "archive_label": "Historic Entrance",
+      "query": "archival Eisriesenwelt postcard",
+      "query2": "old photo Eisriesenwelt entrance",
+      "role": "archive",
+      "text": "1906 black‑and‑white postcard showing the entrance of Eisriesenwelt."
+    },
+    {
+      "label": "COOL HEAT",
+      "sub": "A frozen world that feels like a spring day",
+      "label_on": "cool",
+      "query": "Eisriesenwelt cool heat text overlay",
+      "query2": "temperature contrast graphic",
+      "role": "callout",
+      "text": "Cool heat"
+    },
+    {
+      "query": "Eisriesenwelt follow button graphic",
+      "query2": "subscribe overlay",
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets."
+    }
+  ],
+  "description": "Austria’s Eisriesenwelt is the world’s largest ice cave, yet its interior stays surprisingly mild. Learn how geothermal air keeps the icy halls surprisingly warm.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Austria",
+    "#caves",
+    "#travel",
+    "#nature",
+    "#science"
+  ]
+}

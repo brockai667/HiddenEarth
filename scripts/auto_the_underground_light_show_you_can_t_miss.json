@@ -1,0 +1,71 @@
+{
+  "title": "The Underground Light Show You Can’t Miss",
+  "thumb": "GLOWWORM CAVES",
+  "place": "Waitomo Glowworm Caves",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "30,000 tiny stars lighting a dark tunnel",
+      "hook_top": "UNDERSIDE STARS",
+      "query": "Waitomo Glowworm Caves boat inside Waitomo glowworm cave at night",
+      "query2": "glowworm cave illumination New Zealand",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Glowworms emit light from a protein called luciferin.",
+      "chips": [
+        {
+          "t": "LUCIFERIN",
+          "on": "glow",
+          "style": "accent"
+        }
+      ],
+      "punch": "glow",
+      "query": "Waitomo Glowworm Caves close‑up of glowworm lantern",
+      "query2": "macro of New Zealand glowworm",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "The cave’s limestone roof holds up to 200,000 of them during peak season.",
+      "chips": [
+        {
+          "t": "200K GLOWWORMS",
+          "on": "count",
+          "style": "white"
+        }
+      ],
+      "query": "Waitomo Glowworm Caves panoramic view of glowworms on cave ceiling",
+      "query2": "wide shot of glowing stalactites Waitomo",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "The glow is actually a survival signal to attract insects, not romance.",
+      "reveal_top": "SURVIVAL SIGNAL",
+      "query": "Waitomo Glowworm Caves illustration of glowworm attracting insects",
+      "query2": "diagram of glowworm feeding behavior",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Waitomo Glowworm Caves travel brand logo fade in",
+      "query2": "subscribe animation",
+      "role": "cta"
+    }
+  ],
+  "description": "Explore the secret nightlife of Waitomo’s underground world, where thousands of glowworms turn a cave into a star‑filled sky. Stay tuned for more hidden marvels.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#glowworms",
+    "#NewZealand",
+    "#cave",
+    "#nature",
+    "#travel"
+  ]
+}

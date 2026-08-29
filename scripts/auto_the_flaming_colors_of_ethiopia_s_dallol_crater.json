@@ -1,0 +1,68 @@
+{
+  "title": "The Flaming Colors of Ethiopia’s Dallol Crater",
+  "thumb": "FIERY VALLEY",
+  "place": "Dallol Volcano",
+  "country": "Ethiopia",
+  "scenes": [
+    {
+      "hook_top": "FIERY DESERT TOWER",
+      "query": "Dallol Volcano colorful mineral terraces Dallol Ethiopia",
+      "query2": "vivid hot springs Dallol crater",
+      "role": "hook",
+      "text": "Dallol’s terraces blaze with orange and green in a desert!"
+    },
+    {
+      "chips": [
+        {
+          "t": "IRON‑OXIDE",
+          "on": "iron",
+          "style": "white"
+        },
+        {
+          "t": "SULFUR",
+          "on": "sulfur",
+          "style": "accent"
+        }
+      ],
+      "punch": "layers",
+      "query": "Dallol Volcano close‑up of Dallol mineral terraces",
+      "query2": "macro shot Dallol colorful salts",
+      "role": "fact",
+      "text": "Hydrothermal activity deposits iron‑oxide and sulfur, creating rainbow‑like layers."
+    },
+    {
+      "archive_query": "Dallol 1975 expedition photo Wikimedia Commons",
+      "archive_label": "1975 expedition",
+      "query": "Dallol Volcano archival photo Dallol 1975 research team",
+      "query2": "historical image Dallol Ethiopia",
+      "role": "archive",
+      "text": "1975 scientific expedition photo captures the first known view of Dallol’s colors."
+    },
+    {
+      "label": "Hot Paintbrush",
+      "sub": "Geology turned the desert into a living palette.",
+      "label_on": "paintbrush",
+      "query": "Dallol Volcano panoramic view of Dallol crater with steam vents",
+      "query2": "wide shot Dallol colorful terraces sunrise",
+      "role": "callout",
+      "text": "Earth’s Hot Paintbrush"
+    },
+    {
+      "query": "Dallol Volcano cinematic fade to brand logo with volcanic sound",
+      "query2": "smooth transition travel brand outro",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Deep in Ethiopia’s Danakil Depression, Dallol Volcano erupts with a kaleidoscope of colors—orange, yellow, and green mineral terraces steaming under a scorching sun. Learn how chemistry paints this surreal landscape. Follow us for more explosive earth wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Dallol",
+    "#Ethiopia",
+    "#Volcano",
+    "#Geology",
+    "#Travel",
+    "#Nature"
+  ]
+}
