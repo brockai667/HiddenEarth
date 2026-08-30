@@ -1,0 +1,66 @@
+{
+  "title": "Why Senegal’s Pink Lake Looks Like a Dream",
+  "thumb": "PINK SALT LAKE",
+  "place": "Lake Retba",
+  "country": "Senegal",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 km of pink water in West Africa will blow your mind",
+      "hook_top": "PINK WATER WONDER",
+      "query": "Lake Retba pink water aerial view",
+      "query2": "Senegal pink salt lake sunrise",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "THE SALT THAT PAINTS THE WATER",
+      "label_on": "SALTY",
+      "text": "Tiny algae thrive in the lake’s salty brine, turning the surface pink.",
+      "query": "Lake Retba Dunaliella salina algae pink lake close-up",
+      "query2": "pink algae salt lake macro",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "SEASONAL COLOR SHIFT",
+      "label_on": "SEASON",
+      "text": "During the dry season the water concentrates, making the pink hue vivid; in rainy months it fades to turquoise.",
+      "query": "Lake Retba seasonal color change time-lapse",
+      "query2": "dry season pink lake Senegal",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "NATURAL SALT HARVESTING",
+      "label_on": "HARVEST",
+      "text": "Local workers still collect salt by hand, a tradition that’s been alive for centuries.",
+      "query": "Senegal salt harvest workers Lake Retba",
+      "query2": "traditional salt extraction pink lake",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Lake Retba travel inspiration montage",
+      "query2": "short travel video ending",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Retba’s bubble‑gum pink waters are a rare natural spectacle caused by salty algae. Dive into its colors, seasons, and centuries‑old salt harvest. Follow for more hidden natural wonders!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Senegal",
+    "#LakeRetba",
+    "#PinkLake",
+    "#Travel",
+    "#Nature"
+  ]
+}

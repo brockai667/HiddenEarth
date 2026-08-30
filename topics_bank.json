@@ -9992,5 +9992,278 @@
       "#Nature",
       "#Australia"
     ]
+  },
+  {
+    "title": "Why Mosquito Bay Glows Like a Neon Ocean",
+    "thumb": "NEON GLOW",
+    "place": "Mosquito Bay, Fajardo",
+    "country": "Puerto Rico",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 million tiny lights light up this hidden bay",
+        "hook_top": "5 MILLION LIGHTS",
+        "query": "Mosquito Bay, Fajardo bioluminescent water night Puerto Rico",
+        "query2": "glowing sea at night",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "MICROALGAE THAT LIGHT UP",
+        "label_on": "microalgae",
+        "text": "Dinoflagellates flash when disturbed, creating a blue‑white shimmer.",
+        "query": "Mosquito Bay, Fajardo dinoflagellate bioluminescence close up",
+        "query2": "microscopic algae glowing water",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "NO LIGHT POLLUTION NEEDED",
+        "label_on": "darkness",
+        "text": "The bay is protected from city lights, letting the natural glow dominate the night.",
+        "query": "Mosquito Bay, Fajardo dark night sky over Mosquito Bay",
+        "query2": "no light pollution bioluminescent bay",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "BEST TIME: NEW MOON",
+        "label_on": "new moon",
+        "text": "During a new‑moon phase the glow is brightest, covering the water like stars.",
+        "query": "Mosquito Bay, Fajardo new moon bioluminescent bay Puerto Rico",
+        "query2": "full glow night Mosquito Bay",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Mosquito Bay, Fajardo travel short video end screen",
+        "query2": "subscribe call to action travel",
+        "role": "cta"
+      }
+    ],
+    "description": "Mosquito Bay in Puerto Rico is the world’s brightest bioluminescent bay, where millions of tiny organisms turn the water into a living light show. Dive into the science and timing behind this neon ocean.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#bioluminescence",
+      "#PuertoRico",
+      "#travel",
+      "#nature",
+      "#glow"
+    ]
+  },
+  {
+    "title": "How Zhangye’s Rainbow Mountains Formed",
+    "thumb": "COLORFUL ROCKS",
+    "place": "Zhangye Danxia Landform, Gansu",
+    "country": "China",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "7 layers of color paint this desert cliff",
+        "hook_top": "7 COLOR LAYERS",
+        "query": "Zhangye Danxia Landform, Gansu Zhangye Danxia rainbow mountains aerial",
+        "query2": "colorful layered cliffs China",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "RED SANDSTONE BASE",
+        "label_on": "sandstone",
+        "text": "The foundation is red sandstone deposited 24‑million years ago.",
+        "query": "Zhangye Danxia Landform, Gansu red sandstone layers Zhangye",
+        "query2": "ancient red rock formation China",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "MILLIONS OF YEARS OF LAYERING",
+        "label_on": "layering",
+        "text": "Erosion and sedimentation added orange, yellow and green strata over time.",
+        "query": "Zhangye Danxia Landform, Gansu erosion layered colors Danxia",
+        "query2": "multicolored sedimentary layers China",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "MINERAL OXIDES THAT SHINE",
+        "label_on": "oxides",
+        "text": "Iron and copper oxides reflect sunlight, giving the cliffs their vivid hues.",
+        "query": "Zhangye Danxia Landform, Gansu iron copper oxides rainbow mountains",
+        "query2": "mineral pigments Danxia cliffs",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Zhangye Danxia Landform, Gansu travel short video end screen",
+        "query2": "subscribe call to action travel",
+        "role": "cta"
+      }
+    ],
+    "description": "Zhangye Danxia’s rainbow mountains in Gansu, China, showcase a kaleidoscope of colors created by ancient sandstone, layered erosion, and mineral oxides. Discover the natural art behind these breathtaking cliffs.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#China",
+      "#Zhangye",
+      "#nature",
+      "#geology",
+      "#travel"
+    ]
+  },
+  {
+    "title": "The Underwater Forest of Lake Kaindy",
+    "thumb": "UNDERWATER FOREST",
+    "place": "Lake Kaindy",
+    "country": "Kazakhstan",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5,000‑year‑old trees hidden beneath a turquoise lake",
+        "hook_top": "5000YEAROLD TREES",
+        "query": "Lake Kaindy turquoise lake with submerged trees",
+        "query2": "Kaindy lake aerial view",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The lake formed in 1911 after an earthquake created a natural dam.",
+        "chips": [
+          {
+            "t": "1911",
+            "on": "year",
+            "style": "white"
+          }
+        ],
+        "query": "Lake Kaindy earthquake dam formation Kazakhstan 1911",
+        "query2": "Lake Kaindy formation",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Water stays at 4 °C year‑round, preserving the 1,500‑year‑old trunks.",
+        "chips": [
+          {
+            "t": "4 °C",
+            "on": "temperature",
+            "style": "accent"
+          }
+        ],
+        "punch": "cold",
+        "query": "Lake Kaindy cold turquoise lake underwater forest",
+        "query2": "Lake Kaindy temperature",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "What looks like a crystal lagoon is actually a frozen forest of ancient pines.",
+        "reveal_top": "FROZEN FOREST",
+        "query": "Lake Kaindy underwater pine trunks Kaindy",
+        "query2": "submerged forest lake",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow to see the world's hidden places.",
+        "query": "Lake Kaindy travel short video call to action",
+        "query2": "subscribe short",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Kaindy in Kazakhstan hides a surreal underwater forest of centuries‑old pine trunks, frozen in crystal‑clear blue water. Dive into this secret nature museum.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#nature",
+      "#Kazakhstan",
+      "#LakeKaindy",
+      "#underwaterforest",
+      "#hiddenworld"
+    ]
+  },
+  {
+    "title": "Moon‑Like Rocks of Vale da Lua Revealed",
+    "thumb": "LUNAR ROCKS",
+    "place": "Vale da Lua, São Jorge",
+    "country": "Brazil",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 million‑year‑old rocks that look like the Moon",
+        "hook_top": "MOONLIKE ROCKS",
+        "query": "Vale da Lua, São Jorge Vale da Lua lunar landscape drone footage",
+        "query2": "Brazil moon valley aerial video",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Erosion sculpted the sandstone over 20 million years, creating surreal pillars and arches.",
+        "chips": [
+          {
+            "t": "20 MILLION YEARS",
+            "on": "erosion",
+            "style": "accent"
+          }
+        ],
+        "punch": "carved",
+        "query": "Vale da Lua, São Jorge close‑up of Vale da Lua sandstone pillars",
+        "query2": "Vale da Lua rock formations macro",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "A 2018 Wikimedia photo captures the iconic red‑brown arches at sunrise.",
+        "archive_query": "Vale da Lua Rio de Janeiro sunrise Wikimedia Commons",
+        "archive_label": "Sunrise over arches",
+        "query": "Vale da Lua, São Jorge archival sunrise Vale da Lua image",
+        "query2": "historic Vale da Lua photo",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Nature’s own lunar playground.",
+        "label": "LUNAR PLAYGROUND",
+        "sub": "Visit Brazil’s real Moon Valley.",
+        "label_on": "playground",
+        "query": "Vale da Lua, São Jorge traveler walking Vale da Lua trail",
+        "query2": "tourist exploring Moon Valley Brazil",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Vale da Lua, São Jorge quick follow animation graphics",
+        "query2": "subscribe call‑to‑action clip",
+        "role": "cta"
+      }
+    ],
+    "description": "Vale da Lua in Rio de Janeiro looks like another world, with sandstone towers shaped by millennia of wind and water. Dive into this natural sculpture garden and feel like an astronaut on Earth.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#Brazil",
+      "#nature",
+      "#geology",
+      "#explore"
+    ]
   }
 ]

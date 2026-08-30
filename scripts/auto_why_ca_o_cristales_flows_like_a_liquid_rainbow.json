@@ -1,0 +1,62 @@
+{
+  "title": "Why Caño Cristales Flows Like a Liquid Rainbow?",
+  "thumb": "RAINBOW RIVER",
+  "place": "Caño Cristales, Sierra de la Macarena",
+  "country": "Colombia",
+  "scenes": [
+    {
+      "text": "7 months a year this river glows with rainbow colors",
+      "hook_top": "RAINBOW RIVER SEASON",
+      "query": "Caño Cristales, Sierra de la Macarena Caño Cristales colorful river during wet season",
+      "query2": "Sierra de la Macarena river rainbow colors",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "text": "Only eight plant species give the water its vivid hues",
+      "label": "8 UNIQUE PLANT SPECIES",
+      "label_on": "species",
+      "query": "Caño Cristales, Sierra de la Macarena Macarenia spiciformis plant Caño Cristales close up",
+      "query2": "colorful aquatic plants Caño Cristales macro",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "text": "The water stays around 20 °C, perfect for the algae to thrive",
+      "label": "20°C COOL WATER",
+      "label_on": "temperature",
+      "query": "Caño Cristales, Sierra de la Macarena Caño Cristales water temperature 20°C",
+      "query2": "warm river water Caño Cristales close up",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "text": "It is protected as a UNESCO Biosphere Reserve since 2000",
+      "label": "UNESCO BIOSPHERE",
+      "label_on": "status",
+      "query": "Caño Cristales, Sierra de la Macarena UNESCO biosphere reserve Caño Cristales sign",
+      "query2": "Sierra de la Macarena UNESCO plaque",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Caño Cristales, Sierra de la Macarena travel short form video subscribe animation",
+      "query2": "call to action follow animation",
+      "role": "cta"
+    }
+  ],
+  "description": "The ‘River of Five Colors’ in Colombia turns into a living rainbow each wet season. Discover its secret pigments, perfect temperature and protected status.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#nature",
+    "#rainbowriver",
+    "#colombia",
+    "#biodiversity",
+    "#explore"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Why Turkmenistan’s “Door to Hell” Burns 24/7",
+  "thumb": "FIERY CRATER",
+  "place": "Darvaza Gas Crater",
+  "country": "Turkmenistan",
+  "scenes": [
+    {
+      "hook_top": "70METRE EVERBURNING FIRE",
+      "query": "Darvaza Gas Crater flaming gas crater night time",
+      "query2": "burning desert crater",
+      "role": "hook",
+      "text": "A 70‑meter fire that never dies"
+    },
+    {
+      "query": null,
+      "query2": null,
+      "role": "map",
+      "text": "Darvaza Gas Crater, Karakum Desert, Turkmenistan"
+    },
+    {
+      "chips": [
+        {
+          "t": "50+ YEARS",
+          "on": "years",
+          "style": "accent"
+        }
+      ],
+      "punch": "decades",
+      "query": "Darvaza Gas Crater gas crater flames close up",
+      "query2": "Darvaza fire aerial",
+      "role": "fact",
+      "text": "Lit in 1971, the crater has burned continuously for over 50 years."
+    },
+    {
+      "archive_query": "Darvaza crater 1971 Soviet archive",
+      "archive_label": "1971 ignition",
+      "query": "Darvaza Gas Crater",
+      "query2": "aerial landscape",
+      "role": "archive",
+      "text": "Historic Soviet‑era photos of the crater’s ignition"
+    },
+    {
+      "label": "Eternal Flame",
+      "sub": "A man‑made disaster turned tourist magnet",
+      "label_on": "flame",
+      "query": "Darvaza Gas Crater tourists at Darvaza at night",
+      "query2": "fire pit desert tourists",
+      "role": "callout",
+      "text": "Eternal Flame"
+    },
+    {
+      "query": "Darvaza Gas Crater cinematic travel outro",
+      "query2": "short travel call to action",
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets."
+    }
+  ],
+  "description": "Deep in Turkmenistan’s Karakum Desert lies a massive, glowing crater that’s been ablaze for half a century. The fiery pit is a stark reminder of an abandoned Soviet experiment. Follow for more wild wonders!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#darvaza",
+    "#doorToHell",
+    "#turkmenistan",
+    "#travel",
+    "#nature"
+  ]
+}
