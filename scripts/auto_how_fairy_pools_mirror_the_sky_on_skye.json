@@ -1,0 +1,62 @@
+{
+  "title": "How Fairy Pools Mirror the Sky on Skye?",
+  "thumb": "SKYE MIRROR POOLS",
+  "place": "Fairy Pools, Isle of Skye",
+  "country": "Scotland",
+  "scenes": [
+    {
+      "text": "3 crystal pools reflect the sky like perfect mirrors",
+      "hook_top": "SKYE MIRROR POOLS",
+      "query": "Fairy Pools, Isle of Skye Fairy Pools crystal clear water reflecting sky",
+      "query2": "Isle of Skye Fairy Pools mirror effect",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "text": "Formed by ancient volcanic activity that carved the basalt basins",
+      "label": "VOLCANIC FORMATION",
+      "label_on": "formation",
+      "query": "Fairy Pools, Isle of Skye volcanic basalt rock Fairy Pools Skye",
+      "query2": "geology of Fairy Pools Isle of Skye",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "text": "Water clarity lets you see the riverbed up to 10 meters deep",
+      "label": "10 METERS CLARITY",
+      "label_on": "clarity",
+      "query": "Fairy Pools, Isle of Skye clear water Fairy Pools riverbed view",
+      "query2": "underwater view Fairy Pools Skye",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "text": "The pools stay chilly at about 5 °C, perfect for a brisk dip",
+      "label": "5°C ICE COLD",
+      "label_on": "temp",
+      "query": "Fairy Pools, Isle of Skye cold water Fairy Pools temperature 5°C",
+      "query2": "cool water Fairy Pools swimming",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Fairy Pools, Isle of Skye travel short form video subscribe animation",
+      "query2": "call to action follow animation",
+      "role": "cta"
+    }
+  ],
+  "description": "Scotland’s Fairy Pools are nature’s own mirrors, forged by ancient volcanoes and crystal‑clear water. Dive into their icy depths and see the sky reflected below.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#skye",
+    "#scotland",
+    "#fairypools",
+    "#nature",
+    "#travel",
+    "#explore"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "The Deepest Blue Hole on Earth – Dean’s Blue Hole",
+  "thumb": "DEEP BLUE HOLE",
+  "place": "Dean’s Blue Hole",
+  "country": "Bahamas",
+  "scenes": [
+    {
+      "hook_top": "202METER PLUNGE",
+      "query": "drone fly‑through Dean’s Blue Hole",
+      "query2": "underwater descent into Bahamas blue hole",
+      "role": "hook",
+      "text": "A 202‑meter vertical plunge that looks endless"
+    },
+    {
+      "query": "map pin Dean’s Blue Hole Bahamas",
+      "query2": "satellite view of Long Island Bahamas blue hole",
+      "role": "map",
+      "text": "Dean’s Blue Hole is located on Long Island, near the town of Clarence Town, in the Bahamas."
+    },
+    {
+      "chips": [
+        {
+          "t": "202 M",
+          "on": "depth",
+          "style": "white"
+        }
+      ],
+      "punch": "deep",
+      "query": "measuring equipment inside Dean’s Blue Hole",
+      "query2": "scientists measuring depth blue hole",
+      "role": "fact",
+      "text": "It is the world’s deepest known blue‑hole, measured at 202 m."
+    },
+    {
+      "archive_query": "Dean's Blue Hole 1968 site:commons.wikimedia.org",
+      "archive_label": "1968 Dive Team",
+      "query": "Dean’s Blue Hole archival photo of divers Dean's Blue Hole 1968",
+      "query2": "historic image Bahamas blue hole divers",
+      "role": "archive",
+      "text": "1968 expedition photo of divers at the hole’s rim."
+    },
+    {
+      "label": "Abyss View",
+      "sub": "A perfect circle of turquoise plunges into darkness.",
+      "label_on": "abyss",
+      "query": "cinematic sunrise over Dean’s Blue Hole",
+      "query2": "aerial view of turquoise circle Bahamas",
+      "role": "callout",
+      "text": "Ocean’s Eye"
+    },
+    {
+      "query": "Dean’s Blue Hole text overlay follow animation",
+      "query2": "call‑to‑action graphic",
+      "role": "cta",
+      "text": "Follow to see the world's hidden places."
+    }
+  ],
+  "description": "Dive into the deepest blue‑hole on the planet, where turquoise water disappears into a 202‑meter abyss. Discover why divers and scientists alike are mesmerized.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#DeanBlueHole",
+    "#Bahamas",
+    "#Dive",
+    "#Travel",
+    "#Nature"
+  ]
+}

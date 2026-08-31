@@ -1,0 +1,69 @@
+{
+  "title": "Red Sand Dunes of Mui Ne Glow at Sunset",
+  "thumb": "RED SAND GLOW",
+  "place": "Mui Ne Red Sand Dunes",
+  "country": "Vietnam",
+  "scenes": [
+    {
+      "hook_top": "RUBY DUNES",
+      "query": "Mui Ne Red Sand Dunes time‑lapse of Mui Ne dunes at sunset",
+      "query2": "drone over red sand dunes Vietnam evening",
+      "role": "hook",
+      "text": "At dusk, the dunes blaze with a ruby hue"
+    },
+    {
+      "query": "map pin Mui Ne Vietnam dunes",
+      "query2": "satellite view of Bà Rịa‑Vũng Tàu coast dunes",
+      "role": "map",
+      "text": "The red sand dunes stretch along the coastal town of Mui Ne, in Bà Rịa‑Vũng Tàu Province, Vietnam."
+    },
+    {
+      "chips": [
+        {
+          "t": "IRON OXIDE",
+          "on": "iron",
+          "style": "accent"
+        }
+      ],
+      "punch": "glow",
+      "query": "Mui Ne Red Sand Dunes close‑up of iron‑rich sand grains",
+      "query2": "macro shot of red sand texture",
+      "role": "fact",
+      "text": "The sand’s iron‑oxide content gives it a permanent reddish tone."
+    },
+    {
+      "archive_query": "Mui Ne dunes postcard 1972 site:commons.wikimedia.org",
+      "archive_label": "1972 Dune Postcard",
+      "query": "Mui Ne Red Sand Dunes archival postcard of Mui Ne dunes 1972",
+      "query2": "vintage photo red dunes Vietnam",
+      "role": "archive",
+      "text": "1972 travel postcard showing the dunes under a pink sky."
+    },
+    {
+      "label": "Sunset Blaze",
+      "sub": "When the sun sets, the dunes ignite with scarlet light.",
+      "label_on": "blaze",
+      "query": "Mui Ne Red Sand Dunes cinematic sunset over red dunes Mui Ne",
+      "query2": "slow‑motion sand shifting at twilight Vietnam",
+      "role": "callout",
+      "text": "Desert Fire"
+    },
+    {
+      "query": "Mui Ne Red Sand Dunes text overlay follow animation",
+      "query2": "call‑to‑action graphic",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "The red sand dunes of Mui Ne turn into a glowing desert canvas as the sun dips below the horizon. Watch the transformation and feel the heat.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#MuiNe",
+    "#Vietnam",
+    "#Desert",
+    "#Travel",
+    "#Sunset",
+    "#Nature"
+  ]
+}

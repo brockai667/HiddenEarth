@@ -10265,5 +10265,203 @@
       "#geology",
       "#explore"
     ]
+  },
+  {
+    "title": "The Giant Stone Forest of Shilin, China",
+    "thumb": "STONE FOREST GIANT",
+    "place": "Shilin",
+    "country": "China",
+    "scenes": [
+      {
+        "hook_top": "STONE FOREST GIANT",
+        "query": "Shilin Stone Forest aerial",
+        "query2": "Karst pillars China",
+        "role": "hook",
+        "text": "A forest made of stone pillars"
+      },
+      {
+        "query": "Yunnan map Shilin Stone Forest",
+        "query2": "China karst map Yunnan",
+        "role": "map",
+        "text": "The Stone Forest is located in Shilin Yi Autonomous County, Yunnan Province, China."
+      },
+      {
+        "chips": [
+          {
+            "t": "260 MILLION YEARS",
+            "on": "years",
+            "style": "accent"
+          }
+        ],
+        "punch": "ancient",
+        "query": "Shilin ancient limestone erosion process",
+        "query2": "karst formation time lapse",
+        "role": "fact",
+        "text": "The limestone pillars formed over 260 million years through erosion."
+      },
+      {
+        "archive_query": "Shilin Stone Forest 1905 site:wikimedia.org",
+        "archive_label": "Historic stone forest",
+        "query": "old Shilin stone forest photo",
+        "query2": "early 20th century Shilin image",
+        "role": "archive",
+        "text": "1905 expedition photograph of Shilin’s towering stones"
+      },
+      {
+        "label": "Marble Cathedral",
+        "sub": "Erosion sculpted a stone city.",
+        "label_on": "cathedral",
+        "query": "Shilin Stone Forest sunset pillars",
+        "query2": "Shilin karst landscape",
+        "role": "callout",
+        "text": "Nature’s Marble Cathedral"
+      },
+      {
+        "query": "Shilin travel CTA short clip",
+        "query2": "subscribe animation",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Yunnan’s Stone Forest looks like a petrified city, with towering limestone pillars rising from the ground. Discover how millions of years of erosion created this natural masterpiece.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#StoneForest",
+      "#China",
+      "#Yunnan",
+      "#Geology",
+      "#Travel"
+    ]
+  },
+  {
+    "title": "Why Lake Pukaki Shines Like a Sapphire",
+    "thumb": "SAPPHIRE LAKE",
+    "place": "Lake Pukaki",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "text": "7,000 ft deep sapphire hidden in the Southern Alps",
+        "hook_top": "SAPPHIRE HIDDEN",
+        "query": "Aerial view of turquoise Lake Pukaki with mountains",
+        "query2": "Lake Pukaki aerial turquoise water New Zealand",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "label": "GLACIAL MELTWATERS",
+        "label_on": "Melt",
+        "text": "The lake glows from meltwater of the massive Tasman Glacier",
+        "query": "Tasman Glacier meltwater flowing into Lake Pukaki",
+        "query2": "glacial runoff turquoise lake New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "MIRROR OF MOUNT COOK",
+        "label_on": "Reflect",
+        "text": "On calm days it perfectly mirrors the snow‑capped Mount Cook",
+        "query": "Lake Pukaki reflecting Mount Cook sunrise",
+        "query2": "mirror lake Mount Cook New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "label": "RICH IN SULPHATE MINERALS",
+        "label_on": "Minerals",
+        "text": "High sulphate content gives the water its vivid blue‑green hue",
+        "query": "Close‑up of turquoise water showing mineral particles Lake Pukaki",
+        "query2": "blue green lake mineral water New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for places that don't feel real.",
+        "query": "Lake Pukaki Animated follow button overlay",
+        "query2": "Subscribe animation graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Pukaki isn’t just another alpine lake – its striking colour comes from glacial melt, mineral richness, and flawless reflections of New Zealand’s highest peak. Dive into the science behind the sapphire water. 🌊",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#LakePukaki",
+      "#NewZealand",
+      "#Travel",
+      "#Nature",
+      "#Glacier"
+    ]
+  },
+  {
+    "title": "Why Mono Lake’s Towering Tufas Defy Time",
+    "thumb": "TOWERING TUFAS",
+    "place": "Mono Basin, Eastern Sierra",
+    "country": "USA",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "7,000‑year‑old stone towers rise from a salty lake",
+        "hook_top": "7000YEAROLD TOWERS",
+        "query": "Mono Basin, Eastern Sierra Mono Lake tufa towers sunrise",
+        "query2": "Mono Lake stone formations aerial",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Mono Lake’s water is 2 × saltier than the ocean, causing calcium carbonate to precipitate into towers.",
+        "chips": [
+          {
+            "t": "2× SALTIER",
+            "on": "saltier",
+            "style": "accent"
+          }
+        ],
+        "punch": "salty",
+        "query": "Mono Basin, Eastern Sierra Mono Lake water salinity infographic",
+        "query2": "Mono Lake scientific facts",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Historic 1940s aerial photo showing the lake’s iconic tufa forest.",
+        "archive_query": "Mono Lake tufa towers 1940 aerial",
+        "archive_label": "1940 aerial view",
+        "query": "Mono Basin, Eastern Sierra Mono Lake archival aerial 1940",
+        "query2": "Mono Lake historic photo",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "These towers grow 1 cm per year, preserving a 7‑millennia record.",
+        "label": "GROWING RECORD",
+        "sub": "7,000 years of natural sculpture",
+        "label_on": "growing",
+        "query": "Mono Basin, Eastern Sierra Mono Lake tufa growth time lapse",
+        "query2": "Mono Lake tower formation video",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Mono Basin, Eastern Sierra travel inspiration montage",
+        "query2": "nature short reel",
+        "role": "cta"
+      }
+    ],
+    "description": "Mono Lake’s eerie tufa towers have stood for millennia, rising from the most alkaline lake in North America. Dive into the science behind these natural monuments. Follow for more stunning places.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#MonoLake",
+      "#TufaTowers",
+      "#NatureScience",
+      "#Travel",
+      "#HiddenGem"
+    ]
   }
 ]
