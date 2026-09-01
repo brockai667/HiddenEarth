@@ -1,0 +1,69 @@
+{
+  "title": "Why Lake Tekapo Glows Turquoise at Dawn",
+  "thumb": "GLITTERING TURQUOISE",
+  "place": "Lake Tekapo",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 million tourists chase this turquoise lake each year",
+      "hook_top": "5MILLION TURQUOISE",
+      "query": "Lake Tekapo sunrise over turquoise lake New Zealand",
+      "query2": "Lake Tekapo dawn reflection",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Its vivid blue comes from glacial flour suspended in the water.",
+      "chips": [
+        {
+          "t": "GLACIAL FLAIR",
+          "on": "glacial",
+          "style": "accent"
+        }
+      ],
+      "punch": "wow",
+      "query": "Lake Tekapo glacial flour lake color explanation",
+      "query2": "why lake looks turquoise",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "Historic 1970 aerial shot shows the lake’s perfect mirror.",
+      "archive_query": "Lake Tekapo 1970 aerial",
+      "archive_label": "1970 Aerial View",
+      "query": "Lake Tekapo archival aerial photo",
+      "query2": "historic lake Tekapo image",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Visit at sunrise for the ultimate mirror effect.",
+      "label": "SUNRISE MIRROR",
+      "sub": "Best time to see the lake reflect the sky",
+      "label_on": "mirror",
+      "query": "sunrise mirror lake Tekapo",
+      "query2": "lake reflection dawn New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Lake Tekapo travel inspiration call to action",
+      "query2": "short travel CTA",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Tekapo’s turquoise hue and flawless reflections make it a photographer’s dream. Catch the magic at sunrise and see why it draws millions.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LakeTekapo",
+    "#NewZealand",
+    "#Travel",
+    "#Nature",
+    "#Photography"
+  ]
+}

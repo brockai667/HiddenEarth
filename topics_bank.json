@@ -10463,5 +10463,277 @@
       "#Travel",
       "#HiddenGem"
     ]
+  },
+  {
+    "title": "The 8‑Meter Ice Wall of Canada’s Athabasca Glacier",
+    "thumb": "ICE WALL",
+    "place": "Athabasca Glacier",
+    "country": "Canada",
+    "scenes": [
+      {
+        "hook_top": "ICE WALL TOWER",
+        "query": "tall ice wall athabasca glacier",
+        "query2": "massive ice cliff",
+        "role": "hook",
+        "text": "8‑meter ice wall towers over the valley"
+      },
+      {
+        "query": "athabasca glacier location map",
+        "query2": "banff glacier pinpoint",
+        "role": "map",
+        "text": "Athabasca Glacier, Banff National Park, Alberta, Canada"
+      },
+      {
+        "chips": [
+          {
+            "t": "8 m",
+            "on": "height",
+            "style": "white"
+          }
+        ],
+        "punch": "tower",
+        "query": "athabasca glacier ice wall height",
+        "query2": "glacier melt wall measurement",
+        "role": "fact",
+        "text": "The glacier’s ice wall reaches 8 m high during summer melt"
+      },
+      {
+        "archive_query": "Athabasca Glacier 1925 Wikimedia Commons",
+        "archive_label": "1925 Glacier View",
+        "query": "historic athabasca glacier photo",
+        "query2": "old banff glacier image",
+        "role": "archive",
+        "text": "Historic photo of Athabasca Glacier from 1925"
+      },
+      {
+        "label": "Melt Marvel",
+        "sub": "Watch the glacier reveal an 8 m ice wall each summer",
+        "label_on": "marvel",
+        "query": "summer melt athabasca glacier footage",
+        "query2": "glacier ice wall video",
+        "role": "callout",
+        "text": "Summer Melt Marvel"
+      },
+      {
+        "query": "Athabasca Glacier short travel CTA follow",
+        "query2": "cta follow travel",
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets."
+      }
+    ],
+    "description": "Every summer the Athabasca Glacier in Banff unveils an 8‑meter‑tall ice wall, a fleeting masterpiece of nature. Stay tuned for more hidden marvels across the globe.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#glacier",
+      "#banff",
+      "#nature",
+      "#travel"
+    ]
+  },
+  {
+    "title": "The 7‑Color Hot Springs of Iceland’s Landmannalaugar",
+    "thumb": "RAINBOW SPRINGS",
+    "place": "Landmannalaugar",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "RAINBOW POOL",
+        "query": "landmannalaugar colorful hot spring",
+        "query2": "iceland volcanic pool colors",
+        "role": "hook",
+        "text": "7 vivid colors splash across a volcanic pool"
+      },
+      {
+        "query": "landmannalaugar location map",
+        "query2": "iceland highlands pinpoint",
+        "role": "map",
+        "text": "Landmannalaugar, Highlands, Iceland"
+      },
+      {
+        "chips": [
+          {
+            "t": "7 hues",
+            "on": "colors",
+            "style": "white"
+          }
+        ],
+        "punch": "vivid",
+        "query": "landmannalaugar mineral colors explanation",
+        "query2": "iceland hot spring color cause",
+        "role": "fact",
+        "text": "Mineral deposits create seven distinct hues in the water"
+      },
+      {
+        "archive_query": "Landmannalaugar hot spring 1970 Wikimedia Commons",
+        "archive_label": "1970 Pool View",
+        "query": "historic landmannalaugar hot spring photo",
+        "query2": "old icelandic pool image",
+        "role": "archive",
+        "text": "Vintage photo of Landmannalaugar’s pool from 1970"
+      },
+      {
+        "label": "Color Show",
+        "sub": "Natural minerals paint the pool in seven bright shades",
+        "label_on": "show",
+        "query": "landmannalaugar hot spring footage",
+        "query2": "iceland colorful geothermal pool video",
+        "role": "callout",
+        "text": "Geothermal Color Show"
+      },
+      {
+        "query": "Landmannalaugar travel short CTA follow",
+        "query2": "cta follow adventure",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Landmannalaugar’s volcanic hot springs burst into a rainbow of seven colors thanks to mineral‑rich waters, a true geothermal spectacle. Follow us for more hidden natural wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#iceland",
+      "#hot springs",
+      "#nature",
+      "#travel"
+    ]
+  },
+  {
+    "title": "3 Secrets of the Chocolate Hills in Bohol",
+    "thumb": "CHOCOLATE HILLS",
+    "place": "Chocolate Hills",
+    "country": "Philippines",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "3 secrets behind Bohol’s famous Chocolate Hills",
+        "hook_top": "3 SECRETS CHOCOLATE HILLS",
+        "query": "aerial view of Chocolate Hills sunrise Philippines",
+        "query2": "drone footage of rolling limestone cones Bohol",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "They’re actually limestone karsts formed over millions of years",
+        "label": "MILLION-YEAR KARSTS",
+        "label_on": "karst",
+        "query": "close‑up of limestone karst formation Chocolate Hills",
+        "query2": "geological texture of Bohol hills",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "During the dry season they turn brown, looking like chocolate",
+        "label": "SEASONAL BROWNING",
+        "label_on": "brown",
+        "query": "Chocolate Hills dry season brown landscape",
+        "query2": "dry season view of Bohol hills turning chocolate",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "There are exactly 1,260 hills spread over 50 km²",
+        "label": "1260 HILLS TOTAL",
+        "label_on": "hills",
+        "query": "map of Chocolate Hills showing count 1260",
+        "query2": "aerial grid of Bohol hills with numbers",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Chocolate Hills hand pressing follow button animation",
+        "query2": "social media follow icon overlay",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover why Bohol’s iconic cones look like giant chocolates and the geology that created them. You won’t believe how many hills there really are.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Bohol",
+      "#ChocolateHills",
+      "#Travel",
+      "#Nature",
+      "#Geology"
+    ]
+  },
+  {
+    "title": "Why Havasu Falls Glows Emerald All Year",
+    "thumb": "EMERALD WATERFALL",
+    "place": "Havasu Falls, Grand Canyon",
+    "country": "USA",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 m wide waterfall glows turquoise 365 days",
+        "hook_top": "GLISTENING TURQUOISE FALL",
+        "query": "Havasu Falls, Grand Canyon Havasu Falls turquoise water close up",
+        "query2": "Grand Canyon waterfall bright green",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The water contains high calcium carbonate, scattering light like a natural prism.",
+        "chips": [
+          {
+            "t": "Calcium carbonate",
+            "on": "prism",
+            "style": "white"
+          }
+        ],
+        "punch": "prism",
+        "query": "Havasu Falls, Grand Canyon close up of calcium carbonate particles in water",
+        "query2": "water scattering light turquoise",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Average flow is about 500 ft³/s, keeping the pool constantly refreshed.",
+        "chips": [
+          {
+            "t": "500 ft³/s",
+            "on": "flow",
+            "style": "accent"
+          }
+        ],
+        "punch": "flow",
+        "query": "Havasu Falls, Grand Canyon Havasu Falls water volume streaming",
+        "query2": "river flow measurement waterfall",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "The turquoise hue is actually a natural chemical filter, not dye or lighting.",
+        "reveal_top": "NATURAL CHEMICAL FILTER",
+        "query": "Havasu Falls, Grand Canyon Havasu Falls water chemistry illustration",
+        "query2": "natural turquoise water explanation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Havasu Falls, Grand Canyon travel brand logo animation",
+        "query2": "short subscribe animation",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover the science behind Havasu Falls' year‑round emerald glow, a true natural masterpiece tucked in Arizona’s Grand Canyon. Follow for more breathtaking secrets.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#HavasuFalls",
+      "#GrandCanyon",
+      "#NatureScience",
+      "#Travel",
+      "#Waterfall"
+    ]
   }
 ]

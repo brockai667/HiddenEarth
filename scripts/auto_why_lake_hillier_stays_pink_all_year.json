@@ -1,0 +1,74 @@
+{
+  "title": "Why Lake Hillier Stays Pink All Year",
+  "thumb": "PINK LAKE",
+  "place": "Lake Hillier, Shark Bay",
+  "country": "Australia",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Lake Hillier’s shocking pink water stretches 600 m long",
+      "hook_top": "PINK WATER SHOCK",
+      "query": "Lake Hillier, Shark Bay aerial view of pink lake in Australia",
+      "query2": "drone footage Lake Hillier turquoise pink",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The lake’s hue comes from halophilic algae and high salt content",
+      "chips": [
+        {
+          "t": "600 m",
+          "on": "length",
+          "style": "white"
+        },
+        {
+          "t": "high salt",
+          "on": "salinity",
+          "style": "accent"
+        }
+      ],
+      "punch": "wow",
+      "query": "Lake Hillier, Shark Bay close‑up of pink lake surface algae",
+      "query2": "macro shot Lake Hillier pink water",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "Historic aerial photos show the lake unchanged since the 1970s",
+      "archive_query": "Lake Hillier aerial 1970s site:wikimedia.org",
+      "archive_label": "Pink lake from above",
+      "query": "Lake Hillier, Shark Bay",
+      "query2": "aerial landscape",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Nature’s pink palette never fades",
+      "label": "Nature’s Pink Palette",
+      "sub": "A lake that never loses its blush",
+      "label_on": "palette",
+      "query": "Lake Hillier, Shark Bay sunset over pink lake Australia",
+      "query2": "golden hour Lake Hillier pink reflections",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Lake Hillier, Shark Bay cinematic travel text overlay follow",
+      "query2": "stylish CTA travel short",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Hillier in Western Australia glows a vivid pink all year, thanks to unique algae and salt. Discover why this natural wonder stays forever blushing. Follow for more surreal spots.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LakeHillier",
+    "#PinkLake",
+    "#Travel",
+    "#Nature",
+    "#Australia"
+  ]
+}

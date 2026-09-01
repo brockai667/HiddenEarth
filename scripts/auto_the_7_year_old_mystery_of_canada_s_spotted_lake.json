@@ -1,0 +1,71 @@
+{
+  "title": "The 7‑Year‑Old Mystery of Canada’s Spotted Lake",
+  "thumb": "SPOTTED LAKE",
+  "place": "Spotted Lake (Khiluk)",
+  "country": "Canada",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7‑year‑old lake that bursts into rainbow spots",
+      "hook_top": "7YEAROLD RAINBOW",
+      "query": "Spotted Lake (Khiluk) aerial view of Spotted Lake Canada bright colored pools",
+      "query2": "drone footage of Khiluk lake color spots",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "In summer, over 30 mineral‑rich pools dry, leaving vivid pink, green and yellow spots.",
+      "chips": [
+        {
+          "t": "30+ MINERAL POOLS",
+          "on": "pools",
+          "style": "accent"
+        }
+      ],
+      "punch": "wow",
+      "query": "Spotted Lake (Khiluk) close‑up of dried mineral pools Spotted Lake colors",
+      "query2": "macro shot of pink green yellow spots Khiluk",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "The lake’s water is 10 times saltier than the ocean, making it too toxic for most life.",
+      "chips": [
+        {
+          "t": "10× SALTIER",
+          "on": "salty",
+          "style": "white"
+        }
+      ],
+      "query": "Spotted Lake (Khiluk) surface tension of highly saline lake water",
+      "query2": "crystalline salt crust on Spotted Lake",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "It’s not a natural painting – the spots are mineral crusts that form when the lake evaporates.",
+      "reveal_top": "EVAPORATION PAINTING",
+      "query": "Spotted Lake (Khiluk) time‑lapse of Spotted Lake evaporation forming spots",
+      "query2": "before after shots of Khiluk lake drying",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Spotted Lake (Khiluk) text overlay follow animation",
+      "query2": "call to action graphics",
+      "role": "cta"
+    }
+  ],
+  "description": "Spotted Lake in British Columbia looks like a giant watercolor palette when the summer sun draws out its mineral colors. Discover why this toxic lake turns into a living artwork.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#nature",
+    "#Canada",
+    "#SpottedLake",
+    "#hiddenworld"
+  ]
+}
