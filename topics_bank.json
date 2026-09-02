@@ -10735,5 +10735,73 @@
       "#Travel",
       "#Waterfall"
     ]
+  },
+  {
+    "title": "Hidden Ice Caves of the Austrian Alps",
+    "thumb": "ALPINE ICE CAVES",
+    "place": "Kitzbühel Alps",
+    "country": "Austria",
+    "scenes": [
+      {
+        "hook_top": "ICE CAVES WARM",
+        "query": "Kitzbühel Alps ice cave interior warm temperature",
+        "query2": "alpine ice cave interior",
+        "role": "hook",
+        "text": "7 °C inside an icy cavern"
+      },
+      {
+        "query": "Kitzbühel Alps location map",
+        "query2": "Tyrol Austria map",
+        "role": "map",
+        "text": "Kitzbühel Alps, Tyrol, Austria"
+      },
+      {
+        "chips": [
+          {
+            "t": "5 °C",
+            "on": "temperature",
+            "style": "accent"
+          }
+        ],
+        "punch": "steady",
+        "query": "Kitzbühel Alps Schneefeld Ice Cave temperature",
+        "query2": "Austrian ice cave warm interior",
+        "role": "fact",
+        "text": "The Schneefeld Ice Cave stays above 5 °C year‑round."
+      },
+      {
+        "archive_query": "Schneefeld Ice Cave 1935 Wikimedia Commons",
+        "archive_label": "1935 Ice Cave Entrance",
+        "query": "Kitzbühel Alps Schneefeld Ice Cave historic photo",
+        "query2": "Austrian ice cave archive image",
+        "role": "archive",
+        "text": "Historic photo of the Schneefeld Ice Cave entrance, 1935"
+      },
+      {
+        "label": "Warm Inside Ice",
+        "sub": "Rare heat keeps the cave temperate.",
+        "label_on": "warm",
+        "query": "Kitzbühel Alps warm ice cave interior footage",
+        "query2": "alpine ice cave warm video",
+        "role": "callout",
+        "text": "Warm Inside Ice"
+      },
+      {
+        "query": "Kitzbühel Alps travel brand call to action text",
+        "query2": "short video cta",
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets."
+      }
+    ],
+    "description": "Explore the surprising warmth inside Austria's Schneefeld Ice Cave, where temperatures stay above 5 °C even in winter. Discover why this hidden alpine gem defies expectations.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Austria",
+      "#IceCaves",
+      "#Alps",
+      "#Travel",
+      "#Nature"
+    ]
   }
 ]

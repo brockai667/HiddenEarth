@@ -1,0 +1,66 @@
+{
+  "title": "Why Mosquito Bay Glows Like a Neon Ocean",
+  "thumb": "NEON GLOW",
+  "place": "Mosquito Bay, Fajardo",
+  "country": "Puerto Rico",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 million tiny lights light up this hidden bay",
+      "hook_top": "5 MILLION LIGHTS",
+      "query": "Mosquito Bay, Fajardo bioluminescent water night Puerto Rico",
+      "query2": "glowing sea at night",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "MICROALGAE THAT LIGHT UP",
+      "label_on": "microalgae",
+      "text": "Dinoflagellates flash when disturbed, creating a blue‑white shimmer.",
+      "query": "Mosquito Bay, Fajardo dinoflagellate bioluminescence close up",
+      "query2": "microscopic algae glowing water",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "NO LIGHT POLLUTION NEEDED",
+      "label_on": "darkness",
+      "text": "The bay is protected from city lights, letting the natural glow dominate the night.",
+      "query": "Mosquito Bay, Fajardo dark night sky over Mosquito Bay",
+      "query2": "no light pollution bioluminescent bay",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "BEST TIME: NEW MOON",
+      "label_on": "new moon",
+      "text": "During a new‑moon phase the glow is brightest, covering the water like stars.",
+      "query": "Mosquito Bay, Fajardo new moon bioluminescent bay Puerto Rico",
+      "query2": "full glow night Mosquito Bay",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Mosquito Bay, Fajardo travel short video end screen",
+      "query2": "subscribe call to action travel",
+      "role": "cta"
+    }
+  ],
+  "description": "Mosquito Bay in Puerto Rico is the world’s brightest bioluminescent bay, where millions of tiny organisms turn the water into a living light show. Dive into the science and timing behind this neon ocean.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#bioluminescence",
+    "#PuertoRico",
+    "#travel",
+    "#nature",
+    "#glow"
+  ]
+}

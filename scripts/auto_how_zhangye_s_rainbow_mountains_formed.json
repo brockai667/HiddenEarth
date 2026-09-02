@@ -1,0 +1,66 @@
+{
+  "title": "How Zhangye’s Rainbow Mountains Formed",
+  "thumb": "COLORFUL ROCKS",
+  "place": "Zhangye Danxia Landform, Gansu",
+  "country": "China",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7 layers of color paint this desert cliff",
+      "hook_top": "7 COLOR LAYERS",
+      "query": "Zhangye Danxia Landform, Gansu Zhangye Danxia rainbow mountains aerial",
+      "query2": "colorful layered cliffs China",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "RED SANDSTONE BASE",
+      "label_on": "sandstone",
+      "text": "The foundation is red sandstone deposited 24‑million years ago.",
+      "query": "Zhangye Danxia Landform, Gansu red sandstone layers Zhangye",
+      "query2": "ancient red rock formation China",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "MILLIONS OF YEARS OF LAYERING",
+      "label_on": "layering",
+      "text": "Erosion and sedimentation added orange, yellow and green strata over time.",
+      "query": "Zhangye Danxia Landform, Gansu erosion layered colors Danxia",
+      "query2": "multicolored sedimentary layers China",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "MINERAL OXIDES THAT SHINE",
+      "label_on": "oxides",
+      "text": "Iron and copper oxides reflect sunlight, giving the cliffs their vivid hues.",
+      "query": "Zhangye Danxia Landform, Gansu iron copper oxides rainbow mountains",
+      "query2": "mineral pigments Danxia cliffs",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Zhangye Danxia Landform, Gansu travel short video end screen",
+      "query2": "subscribe call to action travel",
+      "role": "cta"
+    }
+  ],
+  "description": "Zhangye Danxia’s rainbow mountains in Gansu, China, showcase a kaleidoscope of colors created by ancient sandstone, layered erosion, and mineral oxides. Discover the natural art behind these breathtaking cliffs.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#China",
+    "#Zhangye",
+    "#nature",
+    "#geology",
+    "#travel"
+  ]
+}

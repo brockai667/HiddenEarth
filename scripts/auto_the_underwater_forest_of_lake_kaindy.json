@@ -1,0 +1,72 @@
+{
+  "title": "The Underwater Forest of Lake Kaindy",
+  "thumb": "UNDERWATER FOREST",
+  "place": "Lake Kaindy",
+  "country": "Kazakhstan",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5,000‑year‑old trees hidden beneath a turquoise lake",
+      "hook_top": "5000YEAROLD TREES",
+      "query": "Lake Kaindy turquoise lake with submerged trees",
+      "query2": "Kaindy lake aerial view",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The lake formed in 1911 after an earthquake created a natural dam.",
+      "chips": [
+        {
+          "t": "1911",
+          "on": "year",
+          "style": "white"
+        }
+      ],
+      "query": "Lake Kaindy earthquake dam formation Kazakhstan 1911",
+      "query2": "Lake Kaindy formation",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Water stays at 4 °C year‑round, preserving the 1,500‑year‑old trunks.",
+      "chips": [
+        {
+          "t": "4 °C",
+          "on": "temperature",
+          "style": "accent"
+        }
+      ],
+      "punch": "cold",
+      "query": "Lake Kaindy cold turquoise lake underwater forest",
+      "query2": "Lake Kaindy temperature",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "What looks like a crystal lagoon is actually a frozen forest of ancient pines.",
+      "reveal_top": "FROZEN FOREST",
+      "query": "Lake Kaindy underwater pine trunks Kaindy",
+      "query2": "submerged forest lake",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow to see the world's hidden places.",
+      "query": "Lake Kaindy travel short video call to action",
+      "query2": "subscribe short",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Kaindy in Kazakhstan hides a surreal underwater forest of centuries‑old pine trunks, frozen in crystal‑clear blue water. Dive into this secret nature museum.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#nature",
+    "#Kazakhstan",
+    "#LakeKaindy",
+    "#underwaterforest",
+    "#hiddenworld"
+  ]
+}
