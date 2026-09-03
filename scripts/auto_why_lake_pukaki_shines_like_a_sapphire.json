@@ -1,0 +1,61 @@
+{
+  "title": "Why Lake Pukaki Shines Like a Sapphire",
+  "thumb": "SAPPHIRE LAKE",
+  "place": "Lake Pukaki",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "text": "7,000 ft deep sapphire hidden in the Southern Alps",
+      "hook_top": "SAPPHIRE HIDDEN",
+      "query": "Aerial view of turquoise Lake Pukaki with mountains",
+      "query2": "Lake Pukaki aerial turquoise water New Zealand",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "label": "GLACIAL MELTWATERS",
+      "label_on": "Melt",
+      "text": "The lake glows from meltwater of the massive Tasman Glacier",
+      "query": "Tasman Glacier meltwater flowing into Lake Pukaki",
+      "query2": "glacial runoff turquoise lake New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "label": "MIRROR OF MOUNT COOK",
+      "label_on": "Reflect",
+      "text": "On calm days it perfectly mirrors the snow‑capped Mount Cook",
+      "query": "Lake Pukaki reflecting Mount Cook sunrise",
+      "query2": "mirror lake Mount Cook New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "label": "RICH IN SULPHATE MINERALS",
+      "label_on": "Minerals",
+      "text": "High sulphate content gives the water its vivid blue‑green hue",
+      "query": "Close‑up of turquoise water showing mineral particles Lake Pukaki",
+      "query2": "blue green lake mineral water New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for places that don't feel real.",
+      "query": "Lake Pukaki Animated follow button overlay",
+      "query2": "Subscribe animation graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Pukaki isn’t just another alpine lake – its striking colour comes from glacial melt, mineral richness, and flawless reflections of New Zealand’s highest peak. Dive into the science behind the sapphire water. 🌊",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#LakePukaki",
+    "#NewZealand",
+    "#Travel",
+    "#Nature",
+    "#Glacier"
+  ]
+}

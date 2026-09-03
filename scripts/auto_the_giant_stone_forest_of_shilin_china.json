@@ -1,0 +1,68 @@
+{
+  "title": "The Giant Stone Forest of Shilin, China",
+  "thumb": "STONE FOREST GIANT",
+  "place": "Shilin",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "STONE FOREST GIANT",
+      "query": "Shilin Stone Forest aerial",
+      "query2": "Karst pillars China",
+      "role": "hook",
+      "text": "A forest made of stone pillars"
+    },
+    {
+      "query": "Yunnan map Shilin Stone Forest",
+      "query2": "China karst map Yunnan",
+      "role": "map",
+      "text": "The Stone Forest is located in Shilin Yi Autonomous County, Yunnan Province, China."
+    },
+    {
+      "chips": [
+        {
+          "t": "260 MILLION YEARS",
+          "on": "years",
+          "style": "accent"
+        }
+      ],
+      "punch": "ancient",
+      "query": "Shilin ancient limestone erosion process",
+      "query2": "karst formation time lapse",
+      "role": "fact",
+      "text": "The limestone pillars formed over 260 million years through erosion."
+    },
+    {
+      "archive_query": "Shilin Stone Forest 1905 site:wikimedia.org",
+      "archive_label": "Historic stone forest",
+      "query": "old Shilin stone forest photo",
+      "query2": "early 20th century Shilin image",
+      "role": "archive",
+      "text": "1905 expedition photograph of Shilin’s towering stones"
+    },
+    {
+      "label": "Marble Cathedral",
+      "sub": "Erosion sculpted a stone city.",
+      "label_on": "cathedral",
+      "query": "Shilin Stone Forest sunset pillars",
+      "query2": "Shilin karst landscape",
+      "role": "callout",
+      "text": "Nature’s Marble Cathedral"
+    },
+    {
+      "query": "Shilin travel CTA short clip",
+      "query2": "subscribe animation",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Yunnan’s Stone Forest looks like a petrified city, with towering limestone pillars rising from the ground. Discover how millions of years of erosion created this natural masterpiece.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#StoneForest",
+    "#China",
+    "#Yunnan",
+    "#Geology",
+    "#Travel"
+  ]
+}

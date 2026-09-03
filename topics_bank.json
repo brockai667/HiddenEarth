@@ -10803,5 +10803,271 @@
       "#Travel",
       "#Nature"
     ]
+  },
+  {
+    "title": "Mystic Ice Palace of Iceland",
+    "thumb": "ICE PALACE ICELAND",
+    "place": "Vatnajökull Glacier",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "CRYSTAL CAVERN REVEALED",
+        "query": "Vatnajökull Glacier ice cave entrance sunrise",
+        "query2": "glacier cavern interior light",
+        "role": "hook",
+        "text": "A glacier hides a crystal cavern 25 meters deep"
+      },
+      {
+        "query": "map of Vatnajökull Glacier location",
+        "query2": "Iceland glacier map pin",
+        "role": "map",
+        "text": "Deep inside Vatnajökull Glacier, Southeast Iceland"
+      },
+      {
+        "chips": [
+          {
+            "t": "‑8 °C YEAR‑ROUND",
+            "on": "temperature",
+            "style": "white"
+          }
+        ],
+        "punch": "cold",
+        "query": "Vatnajökull Glacier cold ice cave temperature graphic",
+        "query2": "glacier interior temperature meter",
+        "role": "fact",
+        "text": "The ice walls stay below ‑8 °C year‑round"
+      },
+      {
+        "archive_query": "Vatnajökull glacier tunnel historic photo",
+        "archive_label": "Historic ice tunnel",
+        "query": "Vatnajökull Glacier historic glacier tunnel image",
+        "query2": "old Vatnajökull expedition photo",
+        "role": "archive",
+        "text": "Early 20th‑century photo of Vatnajökull’s ice tunnels used by explorers"
+      },
+      {
+        "label": "FROZEN CATHEDRAL",
+        "sub": "A natural ice cathedral formed by centuries of flow",
+        "label_on": "cathedral",
+        "query": "Vatnajökull Glacier ice cathedral interior shot",
+        "query2": "glacier ice formation interior",
+        "role": "callout",
+        "text": "Nature's Frozen Cathedral"
+      },
+      {
+        "query": "Vatnajökull Glacier follow animation text",
+        "query2": "call to action graphic",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Explore the hidden ice palace deep inside Iceland’s Vatnajökull Glacier, where crystal walls stay below ‑8 °C all year. Discover why this frozen cathedral feels otherworldly.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#IceCave",
+      "#Nature",
+      "#Travel",
+      "#Explore"
+    ]
+  },
+  {
+    "title": "Blue Lagoon of Icelandic Volcano",
+    "thumb": "BLUE VOLCANIC LAGOON",
+    "place": "Kjarnaskógur Crater Lake",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "TURQUOISE VOLCANIC GLOW",
+        "query": "Kjarnaskógur Crater Lake turquoise crater lake Iceland",
+        "query2": "volcanic lake blue water aerial",
+        "role": "hook",
+        "text": "A volcanic crater glows turquoise 10 m deep"
+      },
+      {
+        "query": "map of Kjarnaskógur crater location",
+        "query2": "Iceland volcanic crater map pin",
+        "role": "map",
+        "text": "Kjarnaskógur crater, central Highlands, Iceland"
+      },
+      {
+        "chips": [
+          {
+            "t": "5 °C YEAR‑ROUND",
+            "on": "temperature",
+            "style": "white"
+          }
+        ],
+        "punch": "chill",
+        "query": "Kjarnaskógur Crater Lake cold water temperature graphic",
+        "query2": "crater lake temperature meter",
+        "role": "fact",
+        "text": "Water temperature stays around 5 °C year‑round"
+      },
+      {
+        "archive_query": "Kjarnaskógur crater lake 1975 survey photo",
+        "archive_label": "1975 survey view",
+        "query": "Kjarnaskógur Crater Lake historic crater lake photo",
+        "query2": "old Iceland volcanic lake image",
+        "role": "archive",
+        "text": "1975 scientific survey image of the crater’s turquoise water"
+      },
+      {
+        "label": "TURQUOISE GEM",
+        "sub": "A secret lake formed in a volcanic crater",
+        "label_on": "gem",
+        "query": "Kjarnaskógur Crater Lake crater lake turquoise closeup",
+        "query2": "volcanic lake blue water shot",
+        "role": "callout",
+        "text": "Iceland’s Hidden Turquoise Gem"
+      },
+      {
+        "query": "Kjarnaskógur Crater Lake follow animation text",
+        "query2": "call to action graphic",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Dive into the turquoise depths of Kjarnaskógur Crater Lake, a volcanic basin that stays a chilly 5 °C all year. This hidden blue gem is a photographer’s dream.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#Lake",
+      "#Travel",
+      "#Nature",
+      "#Explore"
+    ]
+  },
+  {
+    "title": "Svartifoss Basalt Columns",
+    "thumb": "BASALT COLUMNS",
+    "place": "Svartifoss",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "text": "3 striking basalt columns guard Svartifoss",
+        "hook_top": "BASALT COLUMNS AT SVARTIFOSS",
+        "query": "Svartifoss basalt columns waterfall",
+        "query2": "Iceland Svartifoss hexagonal basalt rocks",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "label": "NATURAL HONEYCOMB",
+        "label_on": "First",
+        "text": "The columns are hexagonal basalt columns formed by ancient lava flows",
+        "query": "Svartifoss hexagonal basalt columns formation Iceland",
+        "query2": "natural basalt honeycomb Svartifoss",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "WATERFALL CONTRAST",
+        "label_on": "Second",
+        "text": "Water plunges over the stone walls, creating a dramatic black‑white cascade",
+        "query": "Svartifoss waterfall over basalt columns",
+        "query2": "black white waterfall basalt Iceland",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "label": "FILM SET LEGEND",
+        "label_on": "Third",
+        "text": "Its striking look inspired the set design for the movie “Thor: The Dark World”",
+        "query": "Svartifoss movie set inspiration Thor",
+        "query2": "Iceland waterfall used in film production",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Svartifoss travel montage ending screen",
+        "query2": "shorts outro graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "Svartifoss dazzles with towering basalt columns that look like a giant stone palace. Discover the geology, the waterfall’s contrast, and its Hollywood cameo. Follow for more hidden wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Svartifoss",
+      "#BasaltColumns",
+      "#Iceland",
+      "#Geology",
+      "#Travel"
+    ]
+  },
+  {
+    "title": "Reynisdrangar Sea Stacks Wonder",
+    "thumb": "STUNNING ICE TOWERS",
+    "place": "Reynisdrangar, South Coast",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Three 80‑meter towers rise from the Atlantic",
+        "hook_top": "THREE TOWERS RISE",
+        "query": "Reynisdrangar, South Coast Reynisdrangar sea stacks dramatic sunrise",
+        "query2": "Iceland coastal basalt pillars sunrise",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The basalt pillars were formed by volcanic eruptions 5 million years ago",
+        "chips": [
+          {
+            "t": "5 MILLION YEARS",
+            "on": "formed",
+            "style": "accent"
+          }
+        ],
+        "punch": "ancient",
+        "query": "Reynisdrangar, South Coast volcanic basalt formation Reynisdrangar",
+        "query2": "Iceland sea stack geology",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Historic 1973 photo of the sea stacks during a storm",
+        "archive_query": "Reynisdrangar 1973 storm Wikimedia Commons",
+        "archive_label": "Storm‑ battered towers",
+        "query": "Reynisdrangar, South Coast archival Reynisdrangar storm photo",
+        "query2": "historic Iceland sea stacks image",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Nature’s own skyscrapers line the black sand beach",
+        "label": "NATURE SKYSCRAPERS",
+        "sub": "Watch the waves crash against ancient basalt",
+        "label_on": "watch",
+        "query": "Reynisdrangar, South Coast Reynisdrangar waves crashing close-up",
+        "query2": "Iceland black sand beach sea stacks",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Reynisdrangar, South Coast cinematic travel call to action",
+        "query2": "short travel brand follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "The Reynisdrangar sea stacks tower over Iceland’s black sand shore, forged by ancient volcanoes. Their stark silhouette against roaring waves creates a surreal, timeless scene. Follow for more breathtaking places.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#travel",
+      "#nature",
+      "#geology",
+      "#wanderlust"
+    ]
   }
 ]

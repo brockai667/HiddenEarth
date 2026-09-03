@@ -1,0 +1,69 @@
+{
+  "title": "Moon‑Like Rocks of Vale da Lua Revealed",
+  "thumb": "LUNAR ROCKS",
+  "place": "Vale da Lua, São Jorge",
+  "country": "Brazil",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 million‑year‑old rocks that look like the Moon",
+      "hook_top": "MOONLIKE ROCKS",
+      "query": "Vale da Lua, São Jorge Vale da Lua lunar landscape drone footage",
+      "query2": "Brazil moon valley aerial video",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Erosion sculpted the sandstone over 20 million years, creating surreal pillars and arches.",
+      "chips": [
+        {
+          "t": "20 MILLION YEARS",
+          "on": "erosion",
+          "style": "accent"
+        }
+      ],
+      "punch": "carved",
+      "query": "Vale da Lua, São Jorge close‑up of Vale da Lua sandstone pillars",
+      "query2": "Vale da Lua rock formations macro",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "A 2018 Wikimedia photo captures the iconic red‑brown arches at sunrise.",
+      "archive_query": "Vale da Lua Rio de Janeiro sunrise Wikimedia Commons",
+      "archive_label": "Sunrise over arches",
+      "query": "Vale da Lua, São Jorge archival sunrise Vale da Lua image",
+      "query2": "historic Vale da Lua photo",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Nature’s own lunar playground.",
+      "label": "LUNAR PLAYGROUND",
+      "sub": "Visit Brazil’s real Moon Valley.",
+      "label_on": "playground",
+      "query": "Vale da Lua, São Jorge traveler walking Vale da Lua trail",
+      "query2": "tourist exploring Moon Valley Brazil",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Vale da Lua, São Jorge quick follow animation graphics",
+      "query2": "subscribe call‑to‑action clip",
+      "role": "cta"
+    }
+  ],
+  "description": "Vale da Lua in Rio de Janeiro looks like another world, with sandstone towers shaped by millennia of wind and water. Dive into this natural sculpture garden and feel like an astronaut on Earth.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#Brazil",
+    "#nature",
+    "#geology",
+    "#explore"
+  ]
+}
