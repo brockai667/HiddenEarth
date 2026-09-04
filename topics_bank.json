@@ -11069,5 +11069,127 @@
       "#geology",
       "#wanderlust"
     ]
+  },
+  {
+    "title": "Secrets of Komodo Pink Beach",
+    "thumb": "PINK BEACH MAGIC",
+    "place": "Pink Beach, Komodo Island",
+    "country": "Indonesia",
+    "scenes": [
+      {
+        "text": "3 reasons this pink beach in Indonesia mesmerizes travelers",
+        "hook_top": "PINK BEACH SECRETS",
+        "query": "Pink Beach, Komodo Island pink sand beach sunrise Komodo Indonesia",
+        "query2": "pink beach Komodo Island aerial",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "label": "ALGAE THAT PAINTS PINK",
+        "label_on": "Reason One",
+        "text": "A special algae produces a permanent pink pigment on the sand.",
+        "query": "Pink Beach, Komodo Island red algae pink sand Komodo close up",
+        "query2": "microalgae pink beach texture",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "ISOLATED TIDAL POOL",
+        "label_on": "Reason Two",
+        "text": "During low tide a calm pool reflects the pink shore like a mirror.",
+        "query": "Pink Beach, Komodo Island tidal pool pink beach reflection Komodo",
+        "query2": "mirror water pink sand sunrise",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "label": "RARE ACCESSIBLE LOCATION",
+        "label_on": "Reason Three",
+        "text": "Only reachable by boat, visitors get an exclusive, crowd‑free experience.",
+        "query": "Pink Beach, Komodo Island boat landing pink beach Komodo remote",
+        "query2": "secluded pink beach access Indonesia",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Pink Beach, Komodo Island travel montage happy viewers",
+        "query2": "short travel highlight reel",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover why Komodo's Pink Beach glows with a surreal hue that few ever see. Dive into the science and serenity of this isolated paradise. Stay tuned for more awe‑inspiring places.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Komodo",
+      "#PinkBeach",
+      "#Travel",
+      "#Nature",
+      "#HiddenGem"
+    ]
+  },
+  {
+    "title": "Hidden Ice Caves of Mutnovsky",
+    "thumb": "ICE CAVES WONDER",
+    "place": "Mutnovsky Volcano Ice Caves",
+    "country": "Russia",
+    "scenes": [
+      {
+        "text": "3 mind‑blowing facts about Russia's glowing ice caves",
+        "hook_top": "GLACIAL ICE CAVES",
+        "query": "mutnovsky volcano ice caves interior glow",
+        "query2": "kamchatka ice cave blue light",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "label": "STEAM‑HEATED ICE FORMATIONS",
+        "label_on": "Reason One",
+        "text": "Geothermal steam melts the ice, creating towering, translucent pillars.",
+        "query": "Mutnovsky Volcano Ice Caves steam rising inside ice cave mutnovsky",
+        "query2": "geothermal ice pillars kamchatka",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "NATURAL BLUE GLOW",
+        "label_on": "Reason Two",
+        "text": "Mineral‑rich water refracts light, bathing the cavern in an ethereal blue hue.",
+        "query": "Mutnovsky Volcano Ice Caves blue illuminated ice cave mutnovsky",
+        "query2": "glowing ice cavern kamchatka night",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "label": "YEAR‑ROUND ACCESS",
+        "label_on": "Reason Three",
+        "text": "Unlike seasonal caves, these stay open all year thanks to constant volcanic heat.",
+        "query": "Mutnovsky Volcano Ice Caves year round ice cave tourism mutnovsky",
+        "query2": "permanent ice cave access kamchatka",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Mutnovsky Volcano Ice Caves travel excitement crowd cheering",
+        "query2": "short adventure call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "Explore Mutnovsky Volcano’s hidden ice caves where steam‑heated pillars glow blue beneath the earth. Uncover the rare geology that keeps them alive year‑round. Follow for more stunning natural secrets.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#IceCaves",
+      "#Mutnovsky",
+      "#Russia",
+      "#Nature",
+      "#Adventure"
+    ]
   }
 ]

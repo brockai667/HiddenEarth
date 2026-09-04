@@ -1,0 +1,69 @@
+{
+  "title": "Why Mono Lake’s Towering Tufas Defy Time",
+  "thumb": "TOWERING TUFAS",
+  "place": "Mono Basin, Eastern Sierra",
+  "country": "USA",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7,000‑year‑old stone towers rise from a salty lake",
+      "hook_top": "7000YEAROLD TOWERS",
+      "query": "Mono Basin, Eastern Sierra Mono Lake tufa towers sunrise",
+      "query2": "Mono Lake stone formations aerial",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Mono Lake’s water is 2 × saltier than the ocean, causing calcium carbonate to precipitate into towers.",
+      "chips": [
+        {
+          "t": "2× SALTIER",
+          "on": "saltier",
+          "style": "accent"
+        }
+      ],
+      "punch": "salty",
+      "query": "Mono Basin, Eastern Sierra Mono Lake water salinity infographic",
+      "query2": "Mono Lake scientific facts",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "Historic 1940s aerial photo showing the lake’s iconic tufa forest.",
+      "archive_query": "Mono Lake tufa towers 1940 aerial",
+      "archive_label": "1940 aerial view",
+      "query": "Mono Basin, Eastern Sierra Mono Lake archival aerial 1940",
+      "query2": "Mono Lake historic photo",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "These towers grow 1 cm per year, preserving a 7‑millennia record.",
+      "label": "GROWING RECORD",
+      "sub": "7,000 years of natural sculpture",
+      "label_on": "growing",
+      "query": "Mono Basin, Eastern Sierra Mono Lake tufa growth time lapse",
+      "query2": "Mono Lake tower formation video",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Mono Basin, Eastern Sierra travel inspiration montage",
+      "query2": "nature short reel",
+      "role": "cta"
+    }
+  ],
+  "description": "Mono Lake’s eerie tufa towers have stood for millennia, rising from the most alkaline lake in North America. Dive into the science behind these natural monuments. Follow for more stunning places.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#MonoLake",
+    "#TufaTowers",
+    "#NatureScience",
+    "#Travel",
+    "#HiddenGem"
+  ]
+}

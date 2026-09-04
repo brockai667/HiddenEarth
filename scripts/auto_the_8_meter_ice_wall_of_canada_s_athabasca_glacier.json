@@ -1,0 +1,67 @@
+{
+  "title": "The 8‑Meter Ice Wall of Canada’s Athabasca Glacier",
+  "thumb": "ICE WALL",
+  "place": "Athabasca Glacier",
+  "country": "Canada",
+  "scenes": [
+    {
+      "hook_top": "ICE WALL TOWER",
+      "query": "tall ice wall athabasca glacier",
+      "query2": "massive ice cliff",
+      "role": "hook",
+      "text": "8‑meter ice wall towers over the valley"
+    },
+    {
+      "query": "athabasca glacier location map",
+      "query2": "banff glacier pinpoint",
+      "role": "map",
+      "text": "Athabasca Glacier, Banff National Park, Alberta, Canada"
+    },
+    {
+      "chips": [
+        {
+          "t": "8 m",
+          "on": "height",
+          "style": "white"
+        }
+      ],
+      "punch": "tower",
+      "query": "athabasca glacier ice wall height",
+      "query2": "glacier melt wall measurement",
+      "role": "fact",
+      "text": "The glacier’s ice wall reaches 8 m high during summer melt"
+    },
+    {
+      "archive_query": "Athabasca Glacier 1925 Wikimedia Commons",
+      "archive_label": "1925 Glacier View",
+      "query": "historic athabasca glacier photo",
+      "query2": "old banff glacier image",
+      "role": "archive",
+      "text": "Historic photo of Athabasca Glacier from 1925"
+    },
+    {
+      "label": "Melt Marvel",
+      "sub": "Watch the glacier reveal an 8 m ice wall each summer",
+      "label_on": "marvel",
+      "query": "summer melt athabasca glacier footage",
+      "query2": "glacier ice wall video",
+      "role": "callout",
+      "text": "Summer Melt Marvel"
+    },
+    {
+      "query": "Athabasca Glacier short travel CTA follow",
+      "query2": "cta follow travel",
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets."
+    }
+  ],
+  "description": "Every summer the Athabasca Glacier in Banff unveils an 8‑meter‑tall ice wall, a fleeting masterpiece of nature. Stay tuned for more hidden marvels across the globe.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#glacier",
+    "#banff",
+    "#nature",
+    "#travel"
+  ]
+}

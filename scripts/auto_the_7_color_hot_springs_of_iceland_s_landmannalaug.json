@@ -1,0 +1,67 @@
+{
+  "title": "The 7‑Color Hot Springs of Iceland’s Landmannalaugar",
+  "thumb": "RAINBOW SPRINGS",
+  "place": "Landmannalaugar",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "hook_top": "RAINBOW POOL",
+      "query": "landmannalaugar colorful hot spring",
+      "query2": "iceland volcanic pool colors",
+      "role": "hook",
+      "text": "7 vivid colors splash across a volcanic pool"
+    },
+    {
+      "query": "landmannalaugar location map",
+      "query2": "iceland highlands pinpoint",
+      "role": "map",
+      "text": "Landmannalaugar, Highlands, Iceland"
+    },
+    {
+      "chips": [
+        {
+          "t": "7 hues",
+          "on": "colors",
+          "style": "white"
+        }
+      ],
+      "punch": "vivid",
+      "query": "landmannalaugar mineral colors explanation",
+      "query2": "iceland hot spring color cause",
+      "role": "fact",
+      "text": "Mineral deposits create seven distinct hues in the water"
+    },
+    {
+      "archive_query": "Landmannalaugar hot spring 1970 Wikimedia Commons",
+      "archive_label": "1970 Pool View",
+      "query": "historic landmannalaugar hot spring photo",
+      "query2": "old icelandic pool image",
+      "role": "archive",
+      "text": "Vintage photo of Landmannalaugar’s pool from 1970"
+    },
+    {
+      "label": "Color Show",
+      "sub": "Natural minerals paint the pool in seven bright shades",
+      "label_on": "show",
+      "query": "landmannalaugar hot spring footage",
+      "query2": "iceland colorful geothermal pool video",
+      "role": "callout",
+      "text": "Geothermal Color Show"
+    },
+    {
+      "query": "Landmannalaugar travel short CTA follow",
+      "query2": "cta follow adventure",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Landmannalaugar’s volcanic hot springs burst into a rainbow of seven colors thanks to mineral‑rich waters, a true geothermal spectacle. Follow us for more hidden natural wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#iceland",
+    "#hot springs",
+    "#nature",
+    "#travel"
+  ]
+}
