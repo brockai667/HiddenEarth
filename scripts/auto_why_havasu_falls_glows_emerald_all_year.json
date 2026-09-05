@@ -1,0 +1,72 @@
+{
+  "title": "Why Havasu Falls Glows Emerald All Year",
+  "thumb": "EMERALD WATERFALL",
+  "place": "Havasu Falls, Grand Canyon",
+  "country": "USA",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 m wide waterfall glows turquoise 365 days",
+      "hook_top": "GLISTENING TURQUOISE FALL",
+      "query": "Havasu Falls, Grand Canyon Havasu Falls turquoise water close up",
+      "query2": "Grand Canyon waterfall bright green",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The water contains high calcium carbonate, scattering light like a natural prism.",
+      "chips": [
+        {
+          "t": "Calcium carbonate",
+          "on": "prism",
+          "style": "white"
+        }
+      ],
+      "punch": "prism",
+      "query": "Havasu Falls, Grand Canyon close up of calcium carbonate particles in water",
+      "query2": "water scattering light turquoise",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Average flow is about 500 ft³/s, keeping the pool constantly refreshed.",
+      "chips": [
+        {
+          "t": "500 ft³/s",
+          "on": "flow",
+          "style": "accent"
+        }
+      ],
+      "punch": "flow",
+      "query": "Havasu Falls, Grand Canyon Havasu Falls water volume streaming",
+      "query2": "river flow measurement waterfall",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "The turquoise hue is actually a natural chemical filter, not dye or lighting.",
+      "reveal_top": "NATURAL CHEMICAL FILTER",
+      "query": "Havasu Falls, Grand Canyon Havasu Falls water chemistry illustration",
+      "query2": "natural turquoise water explanation",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Havasu Falls, Grand Canyon travel brand logo animation",
+      "query2": "short subscribe animation",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover the science behind Havasu Falls' year‑round emerald glow, a true natural masterpiece tucked in Arizona’s Grand Canyon. Follow for more breathtaking secrets.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#HavasuFalls",
+    "#GrandCanyon",
+    "#NatureScience",
+    "#Travel",
+    "#Waterfall"
+  ]
+}
