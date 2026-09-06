@@ -1,0 +1,68 @@
+{
+  "title": "Mystic Ice Palace of Iceland",
+  "thumb": "ICE PALACE ICELAND",
+  "place": "Vatnajökull Glacier",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "hook_top": "CRYSTAL CAVERN REVEALED",
+      "query": "Vatnajökull Glacier ice cave entrance sunrise",
+      "query2": "glacier cavern interior light",
+      "role": "hook",
+      "text": "A glacier hides a crystal cavern 25 meters deep"
+    },
+    {
+      "query": "map of Vatnajökull Glacier location",
+      "query2": "Iceland glacier map pin",
+      "role": "map",
+      "text": "Deep inside Vatnajökull Glacier, Southeast Iceland"
+    },
+    {
+      "chips": [
+        {
+          "t": "‑8 °C YEAR‑ROUND",
+          "on": "temperature",
+          "style": "white"
+        }
+      ],
+      "punch": "cold",
+      "query": "Vatnajökull Glacier cold ice cave temperature graphic",
+      "query2": "glacier interior temperature meter",
+      "role": "fact",
+      "text": "The ice walls stay below ‑8 °C year‑round"
+    },
+    {
+      "archive_query": "Vatnajökull glacier tunnel historic photo",
+      "archive_label": "Historic ice tunnel",
+      "query": "Vatnajökull Glacier historic glacier tunnel image",
+      "query2": "old Vatnajökull expedition photo",
+      "role": "archive",
+      "text": "Early 20th‑century photo of Vatnajökull’s ice tunnels used by explorers"
+    },
+    {
+      "label": "FROZEN CATHEDRAL",
+      "sub": "A natural ice cathedral formed by centuries of flow",
+      "label_on": "cathedral",
+      "query": "Vatnajökull Glacier ice cathedral interior shot",
+      "query2": "glacier ice formation interior",
+      "role": "callout",
+      "text": "Nature's Frozen Cathedral"
+    },
+    {
+      "query": "Vatnajökull Glacier follow animation text",
+      "query2": "call to action graphic",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Explore the hidden ice palace deep inside Iceland’s Vatnajökull Glacier, where crystal walls stay below ‑8 °C all year. Discover why this frozen cathedral feels otherworldly.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#IceCave",
+    "#Nature",
+    "#Travel",
+    "#Explore"
+  ]
+}

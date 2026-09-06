@@ -1,0 +1,61 @@
+{
+  "title": "Svartifoss Basalt Columns",
+  "thumb": "BASALT COLUMNS",
+  "place": "Svartifoss",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "text": "3 striking basalt columns guard Svartifoss",
+      "hook_top": "BASALT COLUMNS AT SVARTIFOSS",
+      "query": "Svartifoss basalt columns waterfall",
+      "query2": "Iceland Svartifoss hexagonal basalt rocks",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "label": "NATURAL HONEYCOMB",
+      "label_on": "First",
+      "text": "The columns are hexagonal basalt columns formed by ancient lava flows",
+      "query": "Svartifoss hexagonal basalt columns formation Iceland",
+      "query2": "natural basalt honeycomb Svartifoss",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "label": "WATERFALL CONTRAST",
+      "label_on": "Second",
+      "text": "Water plunges over the stone walls, creating a dramatic black‑white cascade",
+      "query": "Svartifoss waterfall over basalt columns",
+      "query2": "black white waterfall basalt Iceland",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "label": "FILM SET LEGEND",
+      "label_on": "Third",
+      "text": "Its striking look inspired the set design for the movie “Thor: The Dark World”",
+      "query": "Svartifoss movie set inspiration Thor",
+      "query2": "Iceland waterfall used in film production",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Svartifoss travel montage ending screen",
+      "query2": "shorts outro graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "Svartifoss dazzles with towering basalt columns that look like a giant stone palace. Discover the geology, the waterfall’s contrast, and its Hollywood cameo. Follow for more hidden wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Svartifoss",
+    "#BasaltColumns",
+    "#Iceland",
+    "#Geology",
+    "#Travel"
+  ]
+}

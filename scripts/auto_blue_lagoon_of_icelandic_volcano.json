@@ -1,0 +1,68 @@
+{
+  "title": "Blue Lagoon of Icelandic Volcano",
+  "thumb": "BLUE VOLCANIC LAGOON",
+  "place": "Kjarnaskógur Crater Lake",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "hook_top": "TURQUOISE VOLCANIC GLOW",
+      "query": "Kjarnaskógur Crater Lake turquoise crater lake Iceland",
+      "query2": "volcanic lake blue water aerial",
+      "role": "hook",
+      "text": "A volcanic crater glows turquoise 10 m deep"
+    },
+    {
+      "query": "map of Kjarnaskógur crater location",
+      "query2": "Iceland volcanic crater map pin",
+      "role": "map",
+      "text": "Kjarnaskógur crater, central Highlands, Iceland"
+    },
+    {
+      "chips": [
+        {
+          "t": "5 °C YEAR‑ROUND",
+          "on": "temperature",
+          "style": "white"
+        }
+      ],
+      "punch": "chill",
+      "query": "Kjarnaskógur Crater Lake cold water temperature graphic",
+      "query2": "crater lake temperature meter",
+      "role": "fact",
+      "text": "Water temperature stays around 5 °C year‑round"
+    },
+    {
+      "archive_query": "Kjarnaskógur crater lake 1975 survey photo",
+      "archive_label": "1975 survey view",
+      "query": "Kjarnaskógur Crater Lake historic crater lake photo",
+      "query2": "old Iceland volcanic lake image",
+      "role": "archive",
+      "text": "1975 scientific survey image of the crater’s turquoise water"
+    },
+    {
+      "label": "TURQUOISE GEM",
+      "sub": "A secret lake formed in a volcanic crater",
+      "label_on": "gem",
+      "query": "Kjarnaskógur Crater Lake crater lake turquoise closeup",
+      "query2": "volcanic lake blue water shot",
+      "role": "callout",
+      "text": "Iceland’s Hidden Turquoise Gem"
+    },
+    {
+      "query": "Kjarnaskógur Crater Lake follow animation text",
+      "query2": "call to action graphic",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Dive into the turquoise depths of Kjarnaskógur Crater Lake, a volcanic basin that stays a chilly 5 °C all year. This hidden blue gem is a photographer’s dream.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#Lake",
+    "#Travel",
+    "#Nature",
+    "#Explore"
+  ]
+}

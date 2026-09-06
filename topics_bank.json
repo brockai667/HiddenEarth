@@ -11191,5 +11191,409 @@
       "#Nature",
       "#Adventure"
     ]
+  },
+  {
+    "title": "Hidden Ice Cave of Vatnajökull",
+    "thumb": "ICE CAVE WONDER",
+    "place": "Skaftafell, Vatnajökull National Park",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "ICE CAVE BLUE",
+        "query": "Skaftafell, Vatnajökull National Park ice cave interior blue light",
+        "query2": "glacier ice tunnel illumination",
+        "role": "hook",
+        "text": "5 meters of frozen blue light beneath Iceland’s glacier"
+      },
+      {
+        "query": "map of Skaftafell Vatnajökull",
+        "query2": "location pin Vatnajökull glacier",
+        "role": "map",
+        "text": "Skaftafell, Vatnajökull National Park, Iceland"
+      },
+      {
+        "chips": [
+          {
+            "t": "2014",
+            "on": "year",
+            "style": "white"
+          }
+        ],
+        "punch": "year",
+        "query": "Skaftafell, Vatnajökull National Park Vatnajökull ice cave formation 2014",
+        "query2": "glacier melt eruption ice cave",
+        "role": "fact",
+        "text": "The cave formed in 2014 after a volcanic eruption melted ice walls."
+      },
+      {
+        "archive_query": "Vatnajökull ice cave 2015 Wikimedia Commons",
+        "archive_label": "2015 ice cave view",
+        "query": "Skaftafell, Vatnajökull National Park historic Vatnajökull ice cave photo",
+        "query2": "old glacier cave image",
+        "role": "archive",
+        "text": "Historic photo of Vatnajökull ice cave taken in 2015."
+      },
+      {
+        "label": "Blue Cathedral",
+        "sub": "A luminous tunnel formed by fire and ice",
+        "label_on": "cathedral",
+        "query": "Skaftafell, Vatnajökull National Park blue ice cathedral footage",
+        "query2": "glowing glacier tunnel video",
+        "role": "callout",
+        "text": "Nature's Blue Cathedral"
+      },
+      {
+        "query": "Skaftafell, Vatnajökull National Park travel brand follow CTA",
+        "query2": "short follow prompt",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "Dive into the surreal blue glow of Iceland’s hidden ice cave, a natural cathedral carved by fire and ice. Follow for more unseen marvels.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#IceCave",
+      "#Travel",
+      "#Nature",
+      "#Explore"
+    ]
+  },
+  {
+    "title": "Secret Sea of Glass in Mexico",
+    "thumb": "GLASS BEACH SHIMMER",
+    "place": "Benito Juárez, Playa del Amor",
+    "country": "Mexico",
+    "scenes": [
+      {
+        "hook_top": "GLASS SHARDS BEACH",
+        "query": "Benito Juárez, Playa del Amor glass shards beach Mexico aerial",
+        "query2": "sparkling glass beach Mexico",
+        "role": "hook",
+        "text": "7 million tiny glass shards sparkle on a hidden beach"
+      },
+      {
+        "query": "map Playa del Amor Baja California",
+        "query2": "location glass beach Mexico",
+        "role": "map",
+        "text": "Playa del Amor, Benito Juárez, Baja California Sur, Mexico"
+      },
+      {
+        "chips": [
+          {
+            "t": "1970s",
+            "on": "decade",
+            "style": "white"
+          }
+        ],
+        "punch": "decade",
+        "query": "Benito Juárez, Playa del Amor Baja glass beach 1970s dumping",
+        "query2": "sea glass origin Mexico beach",
+        "role": "fact",
+        "text": "The glass originates from a 1970s sea‑glass dumping incident."
+      },
+      {
+        "archive_query": "Baja California sea glass dumping 1975 Wikimedia Commons",
+        "archive_label": "1975 dumping news",
+        "query": "Benito Juárez, Playa del Amor historic glass dumping newspaper image",
+        "query2": "old sea glass article",
+        "role": "archive",
+        "text": "1975 newspaper clipping showing glass dumping near the coast."
+      },
+      {
+        "label": "Mirror Shore",
+        "sub": "A beach glittering like a thousand tiny mirrors",
+        "label_on": "mirror",
+        "query": "Benito Juárez, Playa del Amor glass beach sparkling footage",
+        "query2": "sea glass shoreline video",
+        "role": "callout",
+        "text": "Nature’s Mirror Shore"
+      },
+      {
+        "query": "Benito Juárez, Playa del Amor travel brand follow CTA",
+        "query2": "short follow prompt",
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets."
+      }
+    ],
+    "description": "Discover the secret Mexican beach where millions of glass shards create a shimmering shoreline. Follow for more hidden sparkling spots.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Mexico",
+      "#GlassBeach",
+      "#Travel",
+      "#Nature",
+      "#HiddenGem"
+    ]
+  },
+  {
+    "title": "Frozen Waterfall of Iceland",
+    "thumb": "ICE FALLS STUNNER",
+    "place": "Glymur Waterfall",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "FROZEN WATERFALL",
+        "query": "Glymur Waterfall Glymur frozen waterfall Iceland",
+        "query2": "ice waterfall mid‑air Glymur",
+        "role": "hook",
+        "text": "45‑meter cascade frozen mid‑air for 3 months each year"
+      },
+      {
+        "query": "map Glymur Waterfall Iceland",
+        "query2": "location Glymur West Iceland",
+        "role": "map",
+        "text": "Glymur Waterfall, Hvalfjarðarsveit, West Iceland, Iceland"
+      },
+      {
+        "chips": [
+          {
+            "t": "45 m",
+            "on": "height",
+            "style": "accent"
+          }
+        ],
+        "punch": "height",
+        "query": "Glymur Waterfall Glymur height 45 meters fact",
+        "query2": "Iceland second tallest waterfall",
+        "role": "fact",
+        "text": "It’s Iceland’s second‑tallest waterfall at 45 m."
+      },
+      {
+        "archive_query": "Glymur frozen 2018 Wikimedia Commons",
+        "archive_label": "2018 frozen Glymur",
+        "query": "Glymur Waterfall historic frozen Glymur photo",
+        "query2": "old ice waterfall image",
+        "role": "archive",
+        "text": "Winter photo of Glymur fully frozen taken in 2018."
+      },
+      {
+        "label": "Ice Curtain",
+        "sub": "A towering sheet of ice that defies gravity",
+        "label_on": "curtain",
+        "query": "Glymur Waterfall Glymur ice curtain footage",
+        "query2": "frozen waterfall Iceland video",
+        "role": "callout",
+        "text": "Icelandic Ice Curtain"
+      },
+      {
+        "query": "Glymur Waterfall travel brand follow CTA",
+        "query2": "short follow prompt",
+        "role": "cta",
+        "text": "Follow to see the world's hidden places."
+      }
+    ],
+    "description": "Watch Glymur cascade freeze into a massive ice curtain each winter, a rare spectacle in Iceland. Follow for more icy wonders worldwide.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#Waterfall",
+      "#Travel",
+      "#Nature",
+      "#Ice"
+    ]
+  },
+  {
+    "title": "Pink Waters of Hutt Lagoon",
+    "thumb": "PINK LAGOON",
+    "place": "Hutt Lagoon",
+    "country": "Australia",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 minutes to witness Hutt Lagoon’s surreal pink glow",
+        "hook_top": "PINK LAGOON REVEALED",
+        "query": "Hutt Lagoon pink water sunrise",
+        "query2": "Lake Hillier pink water Australia",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "The lagoon’s color comes from tiny algae that turn red in salty water",
+        "label": "RED ALGAE REACTION",
+        "label_on": "Algae",
+        "query": "Hutt Lagoon microscopic algae pink salt lake",
+        "query2": "red algae salt water closeup",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Its surface can sparkle like glitter when the sun hits the shallow crust",
+        "label": "GLITTERING SURFACE",
+        "label_on": "Sparkle",
+        "query": "Hutt Lagoon sunlight glittering pink lagoon surface",
+        "query2": "shimmering pink lake sun rays",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "During dry season the water recedes, exposing a pink salt flat that looks like cotton candy",
+        "label": "PINK SALT FLAT",
+        "label_on": "Flat",
+        "query": "dry Hutt Lagoon pink salt flats",
+        "query2": "pink salt pan Australia aerial",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Hutt Lagoon follow button animation",
+        "query2": "subscribe call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "Hutt Lagoon in Western Australia turns a vivid pink thanks to unique algae and high salinity. Watch the magic unfold in just minutes. Follow for more hidden colour wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#pinklagoon",
+      "#australia",
+      "#nature",
+      "#travel",
+      "#colorful"
+    ]
+  },
+  {
+    "title": "Frozen Waterfall That Never Melts",
+    "thumb": "ICE WATERFALL",
+    "place": "Iceberg Lake",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 m waterfall that stays solid all year",
+        "hook_top": "SOLID FALL YEARROUND",
+        "query": "Iceberg Lake frozen waterfall",
+        "query2": "Glacier National Park icy waterfall",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Iceberg Lake sits at 1,800 m in Glacier National Park, Montana.",
+        "chips": [
+          {
+            "t": "1,800 m altitude",
+            "on": "altitude",
+            "style": "white"
+          }
+        ],
+        "punch": "high",
+        "query": "Iceberg Lake aerial view",
+        "query2": "Glacier National Park lake from above",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Winter temps drop below –20 °C, freezing the 5‑meter cascade into ice.",
+        "chips": [
+          {
+            "t": "–20 °C winter",
+            "on": "temperature",
+            "style": "accent"
+          }
+        ],
+        "punch": "cold",
+        "query": "Iceberg Lake frozen cascade winter",
+        "query2": "glacier national park ice waterfall",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "The water never thaws because underground springs keep the flow constant and the ice is insulated by a layer of fallen glacier ice.",
+        "reveal_top": "ENDLESS ICE FLOW",
+        "query": "Iceberg Lake water spring source",
+        "query2": "glacier fed frozen waterfall",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Iceberg Lake travel brand logo animation",
+        "query2": "shorts end screen",
+        "role": "cta"
+      }
+    ],
+    "description": "High in Montana’s Glacier National Park, Iceberg Lake hosts a 5‑meter waterfall that never melts. Discover the hidden spring that keeps the ice solid all year.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#glaciernationalpark",
+      "#frozenwaterfall",
+      "#naturesecrets",
+      "#travel",
+      "#wildlife"
+    ]
+  },
+  {
+    "title": "Red Rock Maze of Goblin Valley",
+    "thumb": "RED ROCK MAZE",
+    "place": "Goblin Valley State Park",
+    "country": "United States",
+    "scenes": [
+      {
+        "hook_top": "MUSHROOM ROCKS GALORE",
+        "query": "Goblin Valley State Park Goblin Valley surreal hoodoos sunrise",
+        "query2": "red sandstone formations in Utah desert",
+        "role": "hook",
+        "text": "Over 100 mushroom‑shaped rocks rise from the desert"
+      },
+      {
+        "chips": [
+          {
+            "t": "10,000 YEARS",
+            "on": "erosion",
+            "style": "accent"
+          }
+        ],
+        "punch": "carve",
+        "query": "Goblin Valley State Park wind eroding sandstone hoodoos close‑up",
+        "query2": "time‑lapse of rock erosion in desert",
+        "role": "fact",
+        "text": "Each hoodoo is carved by wind erosion over 10,000 years"
+      },
+      {
+        "archive_query": "Goblin Valley State Park aerial view 1970 Wikimedia Commons",
+        "archive_label": "Aerial view 1970",
+        "query": "Goblin Valley State Park historic aerial photograph of Goblin Valley",
+        "query2": "old satellite image of Utah hoodoos",
+        "role": "archive",
+        "text": "1970s aerial photo shows the valley’s full spread"
+      },
+      {
+        "label": "ALIEN LANDSCAPE",
+        "sub": "Feels like another planet on Earth",
+        "label_on": "alien",
+        "query": "Goblin Valley State Park panoramic shot of Goblin Valley at golden hour",
+        "query2": "wide view of red hoodoos under sunset",
+        "role": "callout",
+        "text": "A natural alien landscape"
+      },
+      {
+        "query": "Goblin Valley State Park silhouette of hoodoos against night sky",
+        "query2": "starry night over desert rock formations",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Goblin Valley State Park in Utah hides a desert full of bizarre, mushroom‑like stone formations. Learn how wind sculpted this alien terrain and why it feels like stepping onto another world.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Utah",
+      "#GoblinValley",
+      "#DesertMagic",
+      "#Travel",
+      "#Geology"
+    ]
   }
 ]
