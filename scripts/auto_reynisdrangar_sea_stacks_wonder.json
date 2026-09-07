@@ -1,0 +1,69 @@
+{
+  "title": "Reynisdrangar Sea Stacks Wonder",
+  "thumb": "STUNNING ICE TOWERS",
+  "place": "Reynisdrangar, South Coast",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Three 80‑meter towers rise from the Atlantic",
+      "hook_top": "THREE TOWERS RISE",
+      "query": "Reynisdrangar, South Coast Reynisdrangar sea stacks dramatic sunrise",
+      "query2": "Iceland coastal basalt pillars sunrise",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The basalt pillars were formed by volcanic eruptions 5 million years ago",
+      "chips": [
+        {
+          "t": "5 MILLION YEARS",
+          "on": "formed",
+          "style": "accent"
+        }
+      ],
+      "punch": "ancient",
+      "query": "Reynisdrangar, South Coast volcanic basalt formation Reynisdrangar",
+      "query2": "Iceland sea stack geology",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "Historic 1973 photo of the sea stacks during a storm",
+      "archive_query": "Reynisdrangar 1973 storm Wikimedia Commons",
+      "archive_label": "Storm‑ battered towers",
+      "query": "Reynisdrangar, South Coast archival Reynisdrangar storm photo",
+      "query2": "historic Iceland sea stacks image",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Nature’s own skyscrapers line the black sand beach",
+      "label": "NATURE SKYSCRAPERS",
+      "sub": "Watch the waves crash against ancient basalt",
+      "label_on": "watch",
+      "query": "Reynisdrangar, South Coast Reynisdrangar waves crashing close-up",
+      "query2": "Iceland black sand beach sea stacks",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Reynisdrangar, South Coast cinematic travel call to action",
+      "query2": "short travel brand follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "The Reynisdrangar sea stacks tower over Iceland’s black sand shore, forged by ancient volcanoes. Their stark silhouette against roaring waves creates a surreal, timeless scene. Follow for more breathtaking places.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#travel",
+    "#nature",
+    "#geology",
+    "#wanderlust"
+  ]
+}

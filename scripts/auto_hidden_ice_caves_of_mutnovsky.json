@@ -1,0 +1,61 @@
+{
+  "title": "Hidden Ice Caves of Mutnovsky",
+  "thumb": "ICE CAVES WONDER",
+  "place": "Mutnovsky Volcano Ice Caves",
+  "country": "Russia",
+  "scenes": [
+    {
+      "text": "3 mind‑blowing facts about Russia's glowing ice caves",
+      "hook_top": "GLACIAL ICE CAVES",
+      "query": "mutnovsky volcano ice caves interior glow",
+      "query2": "kamchatka ice cave blue light",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "label": "STEAM‑HEATED ICE FORMATIONS",
+      "label_on": "Reason One",
+      "text": "Geothermal steam melts the ice, creating towering, translucent pillars.",
+      "query": "Mutnovsky Volcano Ice Caves steam rising inside ice cave mutnovsky",
+      "query2": "geothermal ice pillars kamchatka",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "label": "NATURAL BLUE GLOW",
+      "label_on": "Reason Two",
+      "text": "Mineral‑rich water refracts light, bathing the cavern in an ethereal blue hue.",
+      "query": "Mutnovsky Volcano Ice Caves blue illuminated ice cave mutnovsky",
+      "query2": "glowing ice cavern kamchatka night",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "label": "YEAR‑ROUND ACCESS",
+      "label_on": "Reason Three",
+      "text": "Unlike seasonal caves, these stay open all year thanks to constant volcanic heat.",
+      "query": "Mutnovsky Volcano Ice Caves year round ice cave tourism mutnovsky",
+      "query2": "permanent ice cave access kamchatka",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Mutnovsky Volcano Ice Caves travel excitement crowd cheering",
+      "query2": "short adventure call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Explore Mutnovsky Volcano’s hidden ice caves where steam‑heated pillars glow blue beneath the earth. Uncover the rare geology that keeps them alive year‑round. Follow for more stunning natural secrets.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#IceCaves",
+    "#Mutnovsky",
+    "#Russia",
+    "#Nature",
+    "#Adventure"
+  ]
+}
