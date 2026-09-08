@@ -1,0 +1,68 @@
+{
+  "title": "Hidden Ice Cave of Vatnajökull",
+  "thumb": "ICE CAVE WONDER",
+  "place": "Skaftafell, Vatnajökull National Park",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "hook_top": "ICE CAVE BLUE",
+      "query": "Skaftafell, Vatnajökull National Park ice cave interior blue light",
+      "query2": "glacier ice tunnel illumination",
+      "role": "hook",
+      "text": "5 meters of frozen blue light beneath Iceland’s glacier"
+    },
+    {
+      "query": "map of Skaftafell Vatnajökull",
+      "query2": "location pin Vatnajökull glacier",
+      "role": "map",
+      "text": "Skaftafell, Vatnajökull National Park, Iceland"
+    },
+    {
+      "chips": [
+        {
+          "t": "2014",
+          "on": "year",
+          "style": "white"
+        }
+      ],
+      "punch": "year",
+      "query": "Skaftafell, Vatnajökull National Park Vatnajökull ice cave formation 2014",
+      "query2": "glacier melt eruption ice cave",
+      "role": "fact",
+      "text": "The cave formed in 2014 after a volcanic eruption melted ice walls."
+    },
+    {
+      "archive_query": "Vatnajökull ice cave 2015 Wikimedia Commons",
+      "archive_label": "2015 ice cave view",
+      "query": "Skaftafell, Vatnajökull National Park historic Vatnajökull ice cave photo",
+      "query2": "old glacier cave image",
+      "role": "archive",
+      "text": "Historic photo of Vatnajökull ice cave taken in 2015."
+    },
+    {
+      "label": "Blue Cathedral",
+      "sub": "A luminous tunnel formed by fire and ice",
+      "label_on": "cathedral",
+      "query": "Skaftafell, Vatnajökull National Park blue ice cathedral footage",
+      "query2": "glowing glacier tunnel video",
+      "role": "callout",
+      "text": "Nature's Blue Cathedral"
+    },
+    {
+      "query": "Skaftafell, Vatnajökull National Park travel brand follow CTA",
+      "query2": "short follow prompt",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Dive into the surreal blue glow of Iceland’s hidden ice cave, a natural cathedral carved by fire and ice. Follow for more unseen marvels.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#IceCave",
+    "#Travel",
+    "#Nature",
+    "#Explore"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Frozen Waterfall of Iceland",
+  "thumb": "ICE FALLS STUNNER",
+  "place": "Glymur Waterfall",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "hook_top": "FROZEN WATERFALL",
+      "query": "Glymur Waterfall Glymur frozen waterfall Iceland",
+      "query2": "ice waterfall mid‑air Glymur",
+      "role": "hook",
+      "text": "45‑meter cascade frozen mid‑air for 3 months each year"
+    },
+    {
+      "query": "map Glymur Waterfall Iceland",
+      "query2": "location Glymur West Iceland",
+      "role": "map",
+      "text": "Glymur Waterfall, Hvalfjarðarsveit, West Iceland, Iceland"
+    },
+    {
+      "chips": [
+        {
+          "t": "45 m",
+          "on": "height",
+          "style": "accent"
+        }
+      ],
+      "punch": "height",
+      "query": "Glymur Waterfall Glymur height 45 meters fact",
+      "query2": "Iceland second tallest waterfall",
+      "role": "fact",
+      "text": "It’s Iceland’s second‑tallest waterfall at 45 m."
+    },
+    {
+      "archive_query": "Glymur frozen 2018 Wikimedia Commons",
+      "archive_label": "2018 frozen Glymur",
+      "query": "Glymur Waterfall historic frozen Glymur photo",
+      "query2": "old ice waterfall image",
+      "role": "archive",
+      "text": "Winter photo of Glymur fully frozen taken in 2018."
+    },
+    {
+      "label": "Ice Curtain",
+      "sub": "A towering sheet of ice that defies gravity",
+      "label_on": "curtain",
+      "query": "Glymur Waterfall Glymur ice curtain footage",
+      "query2": "frozen waterfall Iceland video",
+      "role": "callout",
+      "text": "Icelandic Ice Curtain"
+    },
+    {
+      "query": "Glymur Waterfall travel brand follow CTA",
+      "query2": "short follow prompt",
+      "role": "cta",
+      "text": "Follow to see the world's hidden places."
+    }
+  ],
+  "description": "Watch Glymur cascade freeze into a massive ice curtain each winter, a rare spectacle in Iceland. Follow for more icy wonders worldwide.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#Waterfall",
+    "#Travel",
+    "#Nature",
+    "#Ice"
+  ]
+}
