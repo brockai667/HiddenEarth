@@ -1,0 +1,72 @@
+{
+  "title": "Frozen Waterfall That Never Melts",
+  "thumb": "ICE WATERFALL",
+  "place": "Iceberg Lake",
+  "country": "United States",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 m waterfall that stays solid all year",
+      "hook_top": "SOLID FALL YEARROUND",
+      "query": "Iceberg Lake frozen waterfall",
+      "query2": "Glacier National Park icy waterfall",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Iceberg Lake sits at 1,800 m in Glacier National Park, Montana.",
+      "chips": [
+        {
+          "t": "1,800 m altitude",
+          "on": "altitude",
+          "style": "white"
+        }
+      ],
+      "punch": "high",
+      "query": "Iceberg Lake aerial view",
+      "query2": "Glacier National Park lake from above",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Winter temps drop below –20 °C, freezing the 5‑meter cascade into ice.",
+      "chips": [
+        {
+          "t": "–20 °C winter",
+          "on": "temperature",
+          "style": "accent"
+        }
+      ],
+      "punch": "cold",
+      "query": "Iceberg Lake frozen cascade winter",
+      "query2": "glacier national park ice waterfall",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "The water never thaws because underground springs keep the flow constant and the ice is insulated by a layer of fallen glacier ice.",
+      "reveal_top": "ENDLESS ICE FLOW",
+      "query": "Iceberg Lake water spring source",
+      "query2": "glacier fed frozen waterfall",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Iceberg Lake travel brand logo animation",
+      "query2": "shorts end screen",
+      "role": "cta"
+    }
+  ],
+  "description": "High in Montana’s Glacier National Park, Iceberg Lake hosts a 5‑meter waterfall that never melts. Discover the hidden spring that keeps the ice solid all year.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#glaciernationalpark",
+    "#frozenwaterfall",
+    "#naturesecrets",
+    "#travel",
+    "#wildlife"
+  ]
+}

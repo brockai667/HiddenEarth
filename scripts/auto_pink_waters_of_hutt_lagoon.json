@@ -1,0 +1,66 @@
+{
+  "title": "Pink Waters of Hutt Lagoon",
+  "thumb": "PINK LAGOON",
+  "place": "Hutt Lagoon",
+  "country": "Australia",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 minutes to witness Hutt Lagoon’s surreal pink glow",
+      "hook_top": "PINK LAGOON REVEALED",
+      "query": "Hutt Lagoon pink water sunrise",
+      "query2": "Lake Hillier pink water Australia",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "The lagoon’s color comes from tiny algae that turn red in salty water",
+      "label": "RED ALGAE REACTION",
+      "label_on": "Algae",
+      "query": "Hutt Lagoon microscopic algae pink salt lake",
+      "query2": "red algae salt water closeup",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Its surface can sparkle like glitter when the sun hits the shallow crust",
+      "label": "GLITTERING SURFACE",
+      "label_on": "Sparkle",
+      "query": "Hutt Lagoon sunlight glittering pink lagoon surface",
+      "query2": "shimmering pink lake sun rays",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "During dry season the water recedes, exposing a pink salt flat that looks like cotton candy",
+      "label": "PINK SALT FLAT",
+      "label_on": "Flat",
+      "query": "dry Hutt Lagoon pink salt flats",
+      "query2": "pink salt pan Australia aerial",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Hutt Lagoon follow button animation",
+      "query2": "subscribe call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Hutt Lagoon in Western Australia turns a vivid pink thanks to unique algae and high salinity. Watch the magic unfold in just minutes. Follow for more hidden colour wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#pinklagoon",
+    "#australia",
+    "#nature",
+    "#travel",
+    "#colorful"
+  ]
+}

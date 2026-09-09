@@ -1,0 +1,62 @@
+{
+  "title": "Red Rock Maze of Goblin Valley",
+  "thumb": "RED ROCK MAZE",
+  "place": "Goblin Valley State Park",
+  "country": "United States",
+  "scenes": [
+    {
+      "hook_top": "MUSHROOM ROCKS GALORE",
+      "query": "Goblin Valley State Park Goblin Valley surreal hoodoos sunrise",
+      "query2": "red sandstone formations in Utah desert",
+      "role": "hook",
+      "text": "Over 100 mushroom‑shaped rocks rise from the desert"
+    },
+    {
+      "chips": [
+        {
+          "t": "10,000 YEARS",
+          "on": "erosion",
+          "style": "accent"
+        }
+      ],
+      "punch": "carve",
+      "query": "Goblin Valley State Park wind eroding sandstone hoodoos close‑up",
+      "query2": "time‑lapse of rock erosion in desert",
+      "role": "fact",
+      "text": "Each hoodoo is carved by wind erosion over 10,000 years"
+    },
+    {
+      "archive_query": "Goblin Valley State Park aerial view 1970 Wikimedia Commons",
+      "archive_label": "Aerial view 1970",
+      "query": "Goblin Valley State Park historic aerial photograph of Goblin Valley",
+      "query2": "old satellite image of Utah hoodoos",
+      "role": "archive",
+      "text": "1970s aerial photo shows the valley’s full spread"
+    },
+    {
+      "label": "ALIEN LANDSCAPE",
+      "sub": "Feels like another planet on Earth",
+      "label_on": "alien",
+      "query": "Goblin Valley State Park panoramic shot of Goblin Valley at golden hour",
+      "query2": "wide view of red hoodoos under sunset",
+      "role": "callout",
+      "text": "A natural alien landscape"
+    },
+    {
+      "query": "Goblin Valley State Park silhouette of hoodoos against night sky",
+      "query2": "starry night over desert rock formations",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Goblin Valley State Park in Utah hides a desert full of bizarre, mushroom‑like stone formations. Learn how wind sculpted this alien terrain and why it feels like stepping onto another world.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Utah",
+    "#GoblinValley",
+    "#DesertMagic",
+    "#Travel",
+    "#Geology"
+  ]
+}
