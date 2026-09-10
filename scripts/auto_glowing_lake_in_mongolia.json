@@ -1,0 +1,77 @@
+{
+  "title": "Glowing Lake in Mongolia",
+  "thumb": "NEON BLUE LAKE",
+  "place": "Lake Hovsgol",
+  "country": "Mongolia",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A lake that shines turquoise under the moon",
+      "hook_top": "MOONLIGHT TURQUOISE LAKE",
+      "query": "Lake Hovsgol night turquoise",
+      "query2": "Mongolia lake glowing moonlight",
+      "role": "hook"
+    },
+    {
+      "type": "map",
+      "text": "Lake Hovsgol, northern Mongolia, near the Russian border",
+      "query": "map Lake Hovsgol Mongolia",
+      "query2": "location pin Hovsgol lake",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "fact",
+      "text": "Calcium carbonate from glacial runoff creates the lake’s neon glow",
+      "chips": [
+        {
+          "t": "calcium carbonate",
+          "on": "mineral",
+          "style": "accent"
+        }
+      ],
+      "punch": "glow",
+      "query": "Lake Hovsgol calcium carbonate effect",
+      "query2": "turquoise glow lake Mongolia science",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "1975 Soviet expedition photo of Hovsgol at dusk",
+      "archive_query": "Lake Hovsgol dusk 1975 site:wikimedia.org",
+      "archive_label": "Soviet dusk photo",
+      "query": "Lake Hovsgol archival Hovsgol lake photo",
+      "query2": "old Soviet lake Hovsgol image",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Nature’s nightlight",
+      "label": "Nightlight Lake",
+      "sub": "A turquoise beacon in the Siberian steppe",
+      "label_on": "nightlight",
+      "query": "night time drone over Lake Hovsgol",
+      "query2": "moonlit turquoise lake Mongolia",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Lake Hovsgol short call to action glowing nature",
+      "query2": "follow for more luminous places",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Hovsgol’s waters turn vivid turquoise at night thanks to mineral‑rich glacial melt, lighting up the Mongolian horizon. Experience the surreal night glow that feels otherworldly.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Mongolia",
+    "#lake",
+    "#glow",
+    "#nature",
+    "#travel"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Red Sands of Saudi Arabia",
+  "thumb": "RED DUNES DRAMA",
+  "place": "Al‑Ula Red Sand Dunes",
+  "country": "Saudi Arabia",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The desert where sand glows scarlet at sunset",
+      "hook_top": "SCARLET SAND SUNSET",
+      "query": "Al‑Ula Red Sand Dunes red sand dunes sunset Saudi Arabia",
+      "query2": "Al Ula scarlet dunes golden hour",
+      "role": "hook"
+    },
+    {
+      "type": "map",
+      "text": "Al‑Ula region, north‑western Saudi Arabia",
+      "query": "Al‑Ula Red Sand Dunes map Al Ula Saudi Arabia",
+      "query2": "location pin Al Ula desert",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "fact",
+      "text": "Iron oxide crystals give the dunes a permanent ruby hue",
+      "chips": [
+        {
+          "t": "iron oxide",
+          "on": "minerals",
+          "style": "white"
+        }
+      ],
+      "punch": "ruby",
+      "query": "Al‑Ula Red Sand Dunes iron oxide red dunes Al Ula",
+      "query2": "ruby sand desert Saudi Arabia",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "1970s aerial photograph showing the red dune field",
+      "archive_query": "Al Ula red dunes aerial 1970 site:wikimedia.org",
+      "archive_label": "Historic red dunes",
+      "query": "Al‑Ula Red Sand Dunes archival aerial Al Ula dunes",
+      "query2": "old photo Saudi red sand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "A natural ruby carpet",
+      "label": "Ruby Carpet",
+      "sub": "The world’s most vivid desert sand",
+      "label_on": "carpet",
+      "query": "Al‑Ula Red Sand Dunes wide shot red dunes Saudi Arabia drone",
+      "query2": "panoramic red sand Al Ula",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Al‑Ula Red Sand Dunes call to action desert travel short",
+      "query2": "follow for more nature clips",
+      "role": "cta"
+    }
+  ],
+  "description": "The Al‑Ula dunes glow deep red thanks to iron‑rich minerals, creating a surreal landscape unlike any other. See why photographers flock here for the perfect sunset.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#SaudiArabia",
+    "#desert",
+    "#redsand",
+    "#travel",
+    "#nature"
+  ]
+}

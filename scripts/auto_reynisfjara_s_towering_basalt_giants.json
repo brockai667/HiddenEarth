@@ -1,0 +1,74 @@
+{
+  "title": "Reynisfjara's Towering Basalt Giants",
+  "thumb": "BLACK STONE TOWERS",
+  "place": "Reynisfjara Black Sand Beach, South Coast",
+  "country": "Iceland",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Three basalt columns rise from Iceland’s black beach",
+      "hook_top": "THREE BASALT GIANTS",
+      "query": "Reynisfjara Black Sand Beach, South Coast Reynisfjara basalt columns sunrise",
+      "query2": "Iceland black sand sea stacks",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The columns formed 2 million years ago from cooling lava",
+      "chips": [
+        {
+          "t": "2 MILLION YEARS",
+          "on": "years",
+          "style": "white"
+        },
+        {
+          "t": "LAVA COOLING",
+          "on": "lava",
+          "style": "accent"
+        }
+      ],
+      "punch": "ancient",
+      "query": "Reynisfjara Black Sand Beach, South Coast basalt column formation diagram",
+      "query2": "volcanic rock cooling process",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "Historic 19th‑century photograph of Reynisfjara’s sea stacks",
+      "archive_query": "Reynisfjara 19th century photograph",
+      "archive_label": "Old view of sea stacks",
+      "query": "Reynisfjara Black Sand Beach, South Coast archival image Reynisfjara sea stacks",
+      "query2": "historic photo Iceland black beach",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Nature’s stone skyscrapers",
+      "label": "Stone Skyscrapers",
+      "sub": "Tall basalt towers shaping the horizon",
+      "label_on": "skyscrapers",
+      "query": "Reynisfjara Black Sand Beach, South Coast close up basalt sea stacks",
+      "query2": "Iceland basalt pillars",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the planet's best-kept secrets.",
+      "query": "Reynisfjara Black Sand Beach, South Coast travel wonder montage",
+      "query2": "nature discovery short",
+      "role": "cta"
+    }
+  ],
+  "description": "Reynisfjara’s black sand beach hides towering basalt columns that look like stone skyscrapers. Dive into the ancient volcanic story behind these giants. Follow for more hidden wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Iceland",
+    "#Reynisfjara",
+    "#basalt",
+    "#nature",
+    "#travel"
+  ]
+}

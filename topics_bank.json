@@ -12242,5 +12242,419 @@
       "#travel",
       "#nature"
     ]
+  },
+  {
+    "title": "Rainbow Lake of Pamukkale",
+    "thumb": "RAINBOW TERRESTRIAL POOL",
+    "place": "Köprüçay River Pool",
+    "country": "Turkey",
+    "scenes": [
+      {
+        "hook_top": "7M RAINBOW POOL",
+        "query": "Köprüçay River Pool rainbow mineral pool Pamukkale",
+        "query2": "colored thermal pool Turkey",
+        "role": "hook",
+        "text": "7‑meter rainbow pool formed by mineral springs"
+      },
+      {
+        "query": "map Pamukkale Köprüçay River",
+        "query2": "Pamukkale location pin",
+        "role": "map",
+        "text": "Köprüçay River, Pamukkale region, Turkey"
+      },
+      {
+        "chips": [
+          {
+            "t": "CALCIUM LAYERS",
+            "on": "calcium",
+            "style": "white"
+          }
+        ],
+        "punch": "layers",
+        "query": "Köprüçay River Pool calcium carbonate terraces Pamukkale",
+        "query2": "thermal spring mineral deposition",
+        "role": "fact",
+        "text": "Calcium carbonate precipitates create vivid pastel layers"
+      },
+      {
+        "archive_query": "Pamukkale postcard 1900s Wikimedia Commons",
+        "archive_label": "Historic Postcard",
+        "query": "Köprüçay River Pool old Pamukkale postcard image",
+        "query2": "historic terrace photograph",
+        "role": "archive",
+        "text": "Early 20th‑century postcard of Pamukkale’s terraces"
+      },
+      {
+        "label": "Pastel Landscape",
+        "sub": "A natural watercolor in stone",
+        "label_on": "pastel",
+        "query": "Köprüçay River Pool colorful travertine terraces",
+        "query2": "rainbow mineral pool view",
+        "role": "callout",
+        "text": "Living Pastel Landscape"
+      },
+      {
+        "query": "Köprüçay River Pool follow call to action travel short",
+        "query2": "subscribe overlay",
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets."
+      }
+    ],
+    "description": "A shallow pool along the Köprüçay River glows with rainbow hues, thanks to mineral‑rich waters depositing pastel terraces. It’s nature’s own watercolor masterpiece.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#turkey",
+      "#pamukkale",
+      "#nature",
+      "#travel",
+      "#rainbow"
+    ]
+  },
+  {
+    "title": "Glacial Mirror of Lake St. Moritz",
+    "thumb": "MIRROR ICE LAKE",
+    "place": "Lake St. Moritz",
+    "country": "Switzerland",
+    "scenes": [
+      {
+        "hook_top": "05KM MIRROR LAKE",
+        "query": "Lake St. Moritz frozen lake mirror Alps Switzerland",
+        "query2": "Lake St Moritz reflection",
+        "role": "hook",
+        "text": "0.5‑km frozen lake reflecting the Alps perfectly"
+      },
+      {
+        "query": "map Lake St Moritz Engadin",
+        "query2": "Switzerland lake location pin",
+        "role": "map",
+        "text": "Lake St. Moritz, Engadin valley, Switzerland"
+      },
+      {
+        "chips": [
+          {
+            "t": "–10°C WINTER",
+            "on": "temperature",
+            "style": "accent"
+          }
+        ],
+        "punch": "crisp",
+        "query": "Lake St. Moritz Lake St Moritz winter temperature data",
+        "query2": "Swiss alpine lake freeze stats",
+        "role": "fact",
+        "text": "Winter temperatures stay below –10 °C, keeping the surface glass‑smooth"
+      },
+      {
+        "archive_query": "Lake St Moritz 1928 skiers Wikimedia Commons",
+        "archive_label": "1928 Skaters",
+        "query": "Lake St. Moritz historic St Moritz winter photo",
+        "query2": "old lake skating image",
+        "role": "archive",
+        "text": "1928 black‑and‑white photograph of skiers on the frozen lake"
+      },
+      {
+        "label": "Glass Surface",
+        "sub": "The lake becomes a perfect mirror",
+        "label_on": "glass",
+        "query": "Lake St. Moritz frozen lake mirror shot",
+        "query2": "Alpine lake reflection",
+        "role": "callout",
+        "text": "Alpine Glass Surface"
+      },
+      {
+        "query": "Lake St. Moritz follow overlay travel short",
+        "query2": "subscribe call to action",
+        "role": "cta",
+        "text": "Follow for places that don't feel real."
+      }
+    ],
+    "description": "When winter cloaks Lake St. Moritz in ice, its surface turns into a flawless mirror that captures the surrounding Alpine peaks. Experience the world’s most precise natural reflection.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#switzerland",
+      "#lake",
+      "#nature",
+      "#travel",
+      "#mirror"
+    ]
+  },
+  {
+    "title": "Surreal Rock Waves in Arizona",
+    "thumb": "RARE DESERT WAVE",
+    "place": "The Wave, Arizona",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Only 0.2% of hikers ever see this hidden wave",
+        "hook_top": "RARE DESERT WAVE",
+        "query": "The Wave, Arizona The Wave Arizona sandstone sunrise",
+        "query2": "Arizona wave rock formation",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "NARROW SANDSTONE CRESTS",
+        "label_on": "First",
+        "text": "The wave formed from millimeter‑thin sandstone layers folded by wind and rain",
+        "query": "The Wave, Arizona close up sandstone wave texture",
+        "query2": "Arizona rock layers erosion",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "LIMITED PERMIT ACCESS",
+        "label_on": "Second",
+        "text": "Visitors need a lottery permit; only a few dozen are allowed each day",
+        "query": "The Wave, Arizona The Wave permit lottery sign",
+        "query2": "Arizona restricted hiking permit",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "PHOTOGRAPHERS’ DREAM LIGHT",
+        "label_on": "Third",
+        "text": "Golden hour light paints the wave in surreal reds and oranges, a photographer’s magnet",
+        "query": "The Wave, Arizona The Wave Arizona sunrise photography",
+        "query2": "Arizona wave golden hour shot",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "The Wave, Arizona travel brand follow animation",
+        "query2": "shorts subscribe call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover the hidden sandstone wave that only a handful of adventurers ever witness. Dive into its geology, access rules, and perfect lighting. Follow for more secret‑spot wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Arizona",
+      "#TheWave",
+      "#Travel",
+      "#Nature",
+      "#Adventure"
+    ]
+  },
+  {
+    "title": "Cappadocia's Floating Stone Forest",
+    "thumb": "FLOATING STONE FOREST",
+    "place": "Göreme National Park, Cappadocia",
+    "country": "Turkey",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Over 1,000 fairy chimneys rise from this valley",
+        "hook_top": "FLOATING STONE FOREST",
+        "query": "Göreme National Park, Cappadocia Cappadocia fairy chimneys sunrise",
+        "query2": "Göreme stone pillars mist",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "VOLCANIC TUFF FORMATIONS",
+        "label_on": "First",
+        "text": "Soft volcanic tuff was eroded by wind and water into towering pillars",
+        "query": "Göreme National Park, Cappadocia Cappadocia tuff erosion closeup",
+        "query2": "volcanic rock pillars Turkey",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "HOLE‑IN‑THE‑WALL CAVES",
+        "label_on": "Second",
+        "text": "Natural caves formed inside the chimneys were later carved into homes and churches",
+        "query": "Göreme National Park, Cappadocia Cappadocia cave interiors fresco",
+        "query2": "Göreme carved cave churches",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "BALLOON‑VIEW PANORAMA",
+        "label_on": "Third",
+        "text": "Hot‑air balloons drift over the forest, giving a surreal floating perspective",
+        "query": "Göreme National Park, Cappadocia Cappadocia hot air balloon aerial",
+        "query2": "Göreme balloon sunrise view",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "Göreme National Park, Cappadocia travel brand follow animation",
+        "query2": "shorts subscribe call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "Step into Cappadocia’s fairy‑tale landscape where stone pillars look like a forest suspended in air. Learn how volcanic ash shaped them, the hidden cave dwellings, and why balloons make it magical. Follow for more sky‑high discoveries.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Cappadocia",
+      "#Turkey",
+      "#Travel",
+      "#Nature",
+      "#Adventure"
+    ]
+  },
+  {
+    "title": "Japan's Pink Sand Dunes",
+    "thumb": "PINK DUNES",
+    "place": "Tottori Sand Dunes",
+    "country": "Japan",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 minutes to witness pink dunes in Japan",
+        "hook_top": "5 MINUTES PINK DUNES",
+        "query": "Tottori sand dunes sunrise pink color",
+        "query2": "Japan pink dunes early morning",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The dunes rise up to 50 meters tall",
+        "chips": [
+          {
+            "t": "50 m tall",
+            "on": "tall",
+            "style": "white"
+          }
+        ],
+        "punch": "tall",
+        "query": "Tottori Sand Dunes tall sand dunes Tottori overview",
+        "query2": "high sand dunes Japan aerial",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "They stretch over 0.6 sq km of coastline",
+        "chips": [
+          {
+            "t": "0.6 sq km",
+            "on": "area",
+            "style": "accent"
+          }
+        ],
+        "punch": "area",
+        "query": "map view Tottori sand dunes size",
+        "query2": "satellite view Tottori dunes",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "They turn pink only at sunrise and sunset, the only pink dunes on Earth",
+        "reveal_top": "ONLY PINK DUNES",
+        "query": "Tottori Sand Dunes pink sand dunes sunrise Tottori",
+        "query2": "pink dunes Japan sunset",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Tottori Sand Dunes travel short CTA text",
+        "query2": "follow us travel short",
+        "role": "cta"
+      }
+    ],
+    "description": "The Tottori Sand Dunes in Japan are the world's sole pink sand dunes, glowing only at dawn and dusk. Catch the fleeting color shift before it fades. Follow for more hidden wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Japan",
+      "#Tottori",
+      "#PinkDunes",
+      "#Travel",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "Alaska Ice Cave Secrets",
+    "thumb": "ICE CAVE WONDER",
+    "place": "Mendenhall Glacier, Juneau",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Inside Alaska's 300‑meter ice cave you must see",
+        "hook_top": "ICE CAVE INSIDE",
+        "query": "Mendenhall Glacier, Juneau Mendenhall Glacier ice cave interior cinematic",
+        "query2": "Alaska glacier ice tunnel footage",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Mendenhall Glacier has been retreating about 30 m each year since 1990",
+        "chips": [
+          {
+            "t": "30 m/yr retreat",
+            "on": "retreat",
+            "style": "accent"
+          },
+          {
+            "t": "since 1990",
+            "on": "since",
+            "style": "white"
+          }
+        ],
+        "punch": "shrink",
+        "query": "Mendenhall Glacier, Juneau Mendenhall Glacier retreat statistics graphic",
+        "query2": "Alaska glacier melt data animation",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Historic 1965 aerial view of Mendenhall Glacier before modern melt",
+        "archive_query": "Mendenhall Glacier 1965 aerial Wikimedia Commons",
+        "archive_label": "1965 aerial view",
+        "query": "Mendenhall Glacier, Juneau Mendenhall Glacier archival photo 1965",
+        "query2": "Juneau glacier historic image",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "The blue ice forms from centuries‑old snowfall compressed into crystal",
+        "label": "Blue Crystal Ice",
+        "sub": "Ancient snow turned to sapphire glass",
+        "label_on": "crystal",
+        "query": "Mendenhall Glacier, Juneau Mendenhall Glacier blue ice closeup cinematic",
+        "query2": "Alaska glacier ice crystal footage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Mendenhall Glacier, Juneau travel inspiration short loop footage",
+        "query2": "nature travel short video",
+        "role": "cta"
+      }
+    ],
+    "description": "Dive into the heart of Alaska's Mendenhall Glacier and discover why its ice caves glow sapphire blue. Follow for more hidden natural wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Alaska",
+      "#IceCave",
+      "#MendenhallGlacier",
+      "#Nature",
+      "#Travel"
+    ]
   }
 ]
