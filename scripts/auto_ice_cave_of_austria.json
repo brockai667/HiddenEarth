@@ -1,0 +1,77 @@
+{
+  "title": "Ice Cave of Austria",
+  "thumb": "FROZEN BLUE CAVERN",
+  "place": "Eisriesenwelt Ice Cave",
+  "country": "Austria",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A cavern where ice glows blue at 8 °C inside",
+      "hook_top": "BLUE ICE CAVERN",
+      "query": "Eisriesenwelt Ice Cave Eisriesenwelt blue ice interior",
+      "query2": "Austria ice cave glowing blue",
+      "role": "hook"
+    },
+    {
+      "type": "map",
+      "text": "Eisriesenwelt, near Werfen, Salzburg state, Austria",
+      "query": "Eisriesenwelt Ice Cave map Eisriesenwelt Austria",
+      "query2": "location pin Werfen ice cave",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "fact",
+      "text": "The cave maintains an average temperature of 8 °C year‑round",
+      "chips": [
+        {
+          "t": "8 °C",
+          "on": "temperature",
+          "style": "white"
+        }
+      ],
+      "punch": "cool",
+      "query": "Eisriesenwelt Ice Cave Eisriesenwelt temperature 8°C",
+      "query2": "average temperature ice cave Austria",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "1909 expedition photograph of the entrance hall",
+      "archive_query": "Eisriesenwelt 1909 expedition photo site:wikimedia.org",
+      "archive_label": "1909 entrance hall",
+      "query": "Eisriesenwelt Ice Cave historic Eisriesenwelt photo",
+      "query2": "old image Eisriesenwelt Austria",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "The world’s largest ice cave",
+      "label": "Largest Ice Cave",
+      "sub": "Over 42 km of frozen chambers to explore",
+      "label_on": "largest",
+      "query": "Eisriesenwelt Ice Cave wide view inside Eisriesenwelt ice tunnel",
+      "query2": "panoramic ice cave Austria",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Eisriesenwelt Ice Cave call to action icy travel short",
+      "query2": "follow for more cold wonders",
+      "role": "cta"
+    }
+  ],
+  "description": "Eisriesenwelt in Austria stays surprisingly mild inside while its walls glow a deep blue, offering a cool escape into Europe’s biggest ice formation. Dive into its frosty corridors.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Austria",
+    "#icecave",
+    "#nature",
+    "#travel",
+    "#cold"
+  ]
+}

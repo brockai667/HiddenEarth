@@ -1,0 +1,72 @@
+{
+  "title": "Chameleon Lake of Ladakh",
+  "thumb": "CHAMELEON LAKE",
+  "place": "Pangong Tso",
+  "country": "India",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "9,000‑year‑old lake shifts colors daily",
+      "hook_top": "SHIFTING COLORS",
+      "query": "Pangong Tso color changing lake",
+      "query2": "Ladakh lake daily color shift",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Pangong Tso rests at 4,350 m above sea level",
+      "chips": [
+        {
+          "t": "HIGH ALTITUDE",
+          "on": "high",
+          "style": "white"
+        }
+      ],
+      "punch": "high",
+      "query": "Pangong Tso altitude",
+      "query2": "Ladakh high altitude lake",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Its salt‑rich water mirrors the sky, turning turquoise, pink, or gray",
+      "chips": [
+        {
+          "t": "SKY MIRROR",
+          "on": "mirror",
+          "style": "accent"
+        }
+      ],
+      "punch": "mirror",
+      "query": "Pangong Tso water colors",
+      "query2": "Ladakh lake sky reflection",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "It’s actually a frozen salt lake that never fully freezes",
+      "reveal_top": "FROZEN SALT LAKE",
+      "query": "Pangong Tso frozen salt lake",
+      "query2": "why Pangong Tso never freezes completely",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Pangong Tso travel short video call to action",
+      "query2": "follow us travel shorts",
+      "role": "cta"
+    }
+  ],
+  "description": "Explore Pangong Tso, the high‑altitude lake that changes hue like a chameleon. Its secret? A salty surface that stays liquid even in winter. Follow for more breathtaking places.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#PangongTso",
+    "#Ladakh",
+    "#Travel",
+    "#Nature",
+    "#ColorChanging"
+  ]
+}

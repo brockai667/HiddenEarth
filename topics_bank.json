@@ -12656,5 +12656,147 @@
       "#Nature",
       "#Travel"
     ]
+  },
+  {
+    "title": "Hidden Emerald Lake of Kyrgyzstan",
+    "thumb": "EMERALD LAKE MIRACLE",
+    "place": "Lake Chatyr-Kul",
+    "country": "Kyrgyzstan",
+    "scenes": [
+      {
+        "hook_top": "2KM TURQUOISE LAKE",
+        "query": "turquoise sunrise Lake Chatyr-Kul",
+        "query2": "emerald lake Kyrgyzstan morning",
+        "role": "hook",
+        "text": "A 2‑km crystal lake glows turquoise at sunrise"
+      },
+      {
+        "query": "Lake Chatyr-Kul location map",
+        "query2": "Naryn Region lake map",
+        "role": "map",
+        "text": "Lake Chatyr‑Kul, Naryn Region, Kyrgyzstan"
+      },
+      {
+        "chips": [
+          {
+            "t": "3,560 m high",
+            "on": "high",
+            "style": "white"
+          },
+          {
+            "t": "2 km² area",
+            "on": "area",
+            "style": "accent"
+          }
+        ],
+        "punch": "altitude",
+        "query": "Lake Chatyr-Kul aerial view Lake Chatyr‑Kul turquoise",
+        "query2": "high‑altitude lake Kyrgyzstan",
+        "role": "fact",
+        "text": "The lake sits at 3,560 m altitude and spans 2 km²"
+      },
+      {
+        "archive_query": "Chatyr-Kul Soviet map",
+        "archive_label": "Soviet Map",
+        "query": "Lake Chatyr-Kul historic map Chatyr-Kul",
+        "query2": "old Kyrgyzstan lake map",
+        "role": "archive",
+        "text": "Soviet‑era map showing Chatyr‑Kul basin"
+      },
+      {
+        "label": "Sky Mirror",
+        "sub": "Turquoise water reflects the surrounding peaks",
+        "label_on": "mirror",
+        "query": "Lake Chatyr-Kul reflecting mountains",
+        "query2": "emerald lake mirror view",
+        "role": "callout",
+        "text": "The Sky‑Mirror Lake"
+      },
+      {
+        "query": "Lake Chatyr-Kul travel brand CTA follow",
+        "query2": "short travel call to action",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "High in the Tian Shan, Lake Chatyr‑Kul shimmers like a giant emerald mirror. Its turquoise surface at sunrise reveals a hidden world few have seen. Follow for more secret spots.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Kyrgyzstan",
+      "#Lake",
+      "#Emerald",
+      "#Travel",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "Marble Caves of Patagonia",
+    "thumb": "CRYSTAL BLUE CAVES",
+    "place": "General Carrera Lake",
+    "country": "Chile",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 winding tunnels of turquoise marble await you",
+        "hook_top": "5 TURQUOISE TUNNELS",
+        "query": "General Carrera Lake drone over marble caves turquoise water",
+        "query2": "aerial view marble canyon blue water",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The caves were formed over 6 million years by glacial erosion",
+        "chips": [
+          {
+            "t": "6 MILLION YEARS",
+            "on": "millions",
+            "style": "accent"
+          }
+        ],
+        "punch": "millions",
+        "query": "General Carrera Lake glacial erosion forming marble caves",
+        "query2": "geology of General Carrera Lake caves",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Early 20th‑century photos show the untouched marble walls",
+        "archive_query": "General Carrera Lake marble caves historic photograph",
+        "archive_label": "Historic marble view",
+        "query": "General Carrera Lake historic photo marble caves Chile",
+        "query2": "old image General Carrera marble walls",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Only reachable by boat, these caves stay hidden from most maps",
+        "label": "Boat‑Only Access",
+        "sub": "No roads, just water and wonder",
+        "label_on": "access",
+        "query": "General Carrera Lake boat tour marble caves Patagonia",
+        "query2": "kayak into marble caves Chile",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for places that don't feel real.",
+        "query": "General Carrera Lake travel short form CTA follow",
+        "query2": "engaging CTA travel video",
+        "role": "cta"
+      }
+    ],
+    "description": "Dive into the surreal turquoise tunnels carved into marble by ancient glaciers at General Carrera Lake. Discover why only a boat can reveal this hidden masterpiece.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#travel",
+      "#marblecaves",
+      "#Patagonia",
+      "#Chile",
+      "#nature"
+    ]
   }
 ]

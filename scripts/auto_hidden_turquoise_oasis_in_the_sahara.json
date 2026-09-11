@@ -1,0 +1,67 @@
+{
+  "title": "Hidden Turquoise Oasis in the Sahara",
+  "thumb": "SANDY TURQUOISE OASIS",
+  "place": "Lake Ounianga Kebir",
+  "country": "Chad",
+  "scenes": [
+    {
+      "hook_top": "SIX THOUSAND TURQUOISE POOLS",
+      "query": "Lake Ounianga Kebir aerial view of Lake Ounianga turquoise lakes Sahara",
+      "query2": "satellite view of Ounianga lakes Chad",
+      "role": "hook",
+      "text": "Six thousand turquoise pools lie beneath the Sahara dunes"
+    },
+    {
+      "chips": [
+        {
+          "t": "15 lakes total",
+          "on": "lakes",
+          "style": "white"
+        },
+        {
+          "t": "5 salty",
+          "on": "salty",
+          "style": "accent"
+        }
+      ],
+      "punch": "salty",
+      "query": "Lake Ounianga Kebir close‑up of Lake Ounianga salty water surface",
+      "query2": "crystal water of Ounianga Kebir lake",
+      "role": "fact",
+      "text": "The lake system contains 15 separate lakes, five of which are permanently salty"
+    },
+    {
+      "archive_query": "Lake Ounianga 1974 aerial photograph site:wikimedia.org",
+      "archive_label": "1974 Aerial Survey",
+      "query": "Lake Ounianga Kebir archival aerial photograph of Lake Ounianga 1974",
+      "query2": "historical satellite image Ounianga Chad",
+      "role": "archive",
+      "text": "Historic 1974 aerial survey of the Ounianga basin"
+    },
+    {
+      "label": "DESERT LAKE CLUSTER",
+      "sub": "Only place where desert meets a sea of turquoise",
+      "label_on": "cluster",
+      "query": "Lake Ounianga Kebir panoramic shot of Ounianga lakes at sunrise",
+      "query2": "wide view of turquoise lakes Chad desert",
+      "role": "callout",
+      "text": "World’s Largest Desert Lake Cluster"
+    },
+    {
+      "query": "Lake Ounianga Kebir text overlay follow animation travel",
+      "query2": "call‑to‑action graphic travel",
+      "role": "cta",
+      "text": "Follow to see the world's hidden places."
+    }
+  ],
+  "description": "Deep in the Sahara, Chad hides a chain of crystal‑blue lakes that look like an ocean in the sand. Discover why this remote oasis is a UNESCO World Heritage treasure.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#sahara",
+    "#lake",
+    "#chad",
+    "#nature"
+  ]
+}
