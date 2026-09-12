@@ -1,0 +1,68 @@
+{
+  "title": "Giant's Causeway Hexagonal Column Wonder",
+  "thumb": "HEXAGONAL STONE MARVEL",
+  "place": "County Antrim",
+  "country": "Northern Ireland",
+  "scenes": [
+    {
+      "hook_top": "HEXAGONS FROM THE SEA",
+      "query": "County Antrim giant's causeway aerial view sunrise",
+      "query2": "giant's causeway drone footage",
+      "role": "hook",
+      "text": "Thousands of perfect hexagons rise from the sea"
+    },
+    {
+      "query": "giant's causeway map location",
+      "query2": "giant's causeway satellite view",
+      "role": "map",
+      "text": "Located on the north‑eastern coast of County Antrim, Northern Ireland, within the UNESCO World Heritage Site."
+    },
+    {
+      "chips": [
+        {
+          "t": "60 MILLION YEARS",
+          "on": "years",
+          "style": "white"
+        }
+      ],
+      "punch": "ancient",
+      "query": "County Antrim giant's causeway basalt formation illustration",
+      "query2": "giant's causeway volcanic origin animation",
+      "role": "fact",
+      "text": "The basalt columns were formed 60 million years ago by volcanic lava cooling rapidly."
+    },
+    {
+      "archive_query": "Giant's Causeway 1900s photograph site:commons.wikimedia.org",
+      "archive_label": "1900s Geologist Photo",
+      "query": "County Antrim giant's causeway historic photo",
+      "query2": "giant's causeway early picture",
+      "role": "archive",
+      "text": "Early 20th‑century photograph of the Causeway taken by a visiting geologist."
+    },
+    {
+      "label": "GEOMETRIC WONDER",
+      "sub": "Hexagonal basalt towers sculpted by ancient lava.",
+      "label_on": "wonder",
+      "query": "County Antrim giant's causeway close‑up hexagons",
+      "query2": "giant's causeway detail shots",
+      "role": "callout",
+      "text": "Nature’s Geometry"
+    },
+    {
+      "query": "County Antrim giant's causeway scenic fade out",
+      "query2": "giant's causeway ending clip",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Explore the otherworldly stone forest of Giant's Causeway, where nature built perfect hexagons. Dive into the volcanic story behind this UNESCO treasure. Follow for more stunning places.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#giantscauseway",
+    "#basalt",
+    "#nature",
+    "#travel",
+    "#geology"
+  ]
+}

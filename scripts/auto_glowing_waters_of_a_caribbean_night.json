@@ -1,0 +1,67 @@
+{
+  "title": "Glowing Waters of a Caribbean Night",
+  "thumb": "NEON NIGHT BAY",
+  "place": "Bioluminescent Bay",
+  "country": "Puerto Rico",
+  "scenes": [
+    {
+      "hook_top": "WATER GLOWS BRIGHTER THAN SKYLINE",
+      "query": "night kayak in bioluminescent bay Puerto Rico",
+      "query2": "glowing water canoe Vieques Bay at night",
+      "role": "hook",
+      "text": "One night, the water glows brighter than a city skyline"
+    },
+    {
+      "chips": [
+        {
+          "t": "1 000 000 per m³",
+          "on": "million",
+          "style": "white"
+        },
+        {
+          "t": "Dinoflagellates",
+          "on": "microorganisms",
+          "style": "accent"
+        }
+      ],
+      "punch": "microbes",
+      "query": "Bioluminescent Bay close‑up of bioluminescent plankton glow water",
+      "query2": "macro shot of dinoflagellate light",
+      "role": "fact",
+      "text": "The glow comes from over a million Dinoflagellate microorganisms per cubic meter"
+    },
+    {
+      "archive_query": "Bioluminescent Bay Vieques 1979 National Geographic site:wikimedia.org",
+      "archive_label": "1979 Nat Geo Photo",
+      "query": "archival National Geographic image bioluminescent bay 1979",
+      "query2": "historic photo Vieques glowing water 1979",
+      "role": "archive",
+      "text": "1979 National Geographic photo of Vieques’ glowing bay"
+    },
+    {
+      "label": "LIVING LIGHT SHOW",
+      "sub": "No electric lights needed—just tiny marine microbes",
+      "label_on": "light",
+      "query": "Bioluminescent Bay wide night view of glowing bay with kayak trails",
+      "query2": "panoramic shot of bioluminescent water trail",
+      "role": "callout",
+      "text": "Nature’s Living Light Show"
+    },
+    {
+      "query": "Bioluminescent Bay text overlay follow animation night sky travel",
+      "query2": "call‑to‑action graphic bioluminescent",
+      "role": "cta",
+      "text": "Follow for a new corner of Earth every day."
+    }
+  ],
+  "description": "Vieques, Puerto Rico hides a bay that lights up like a neon river when the tide moves. Learn how millions of tiny organisms create the planet’s most magical night‑time spectacle.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#bioluminescence",
+    "#puertorico",
+    "#nature",
+    "#travel",
+    "#night"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Badain Jaran Singing Sand Dunes",
+  "thumb": "SINGING SAND DUNES",
+  "place": "Badain Jaran Desert",
+  "country": "China",
+  "scenes": [
+    {
+      "hook_top": "SINGING DUNES",
+      "query": "Badain Jaran Desert badain jaran dunes sound waves video",
+      "query2": "badain jaran singing sand footage",
+      "role": "hook",
+      "text": "Hundreds of dunes sing when the wind blows"
+    },
+    {
+      "query": "badain jaran desert map",
+      "query2": "badain jaran location satellite",
+      "role": "map",
+      "text": "Spanning the border of Inner Mongolia and Ningxia, north‑central China, covering about 1,000 km²."
+    },
+    {
+      "chips": [
+        {
+          "t": "150 HZ",
+          "on": "frequency",
+          "style": "white"
+        }
+      ],
+      "punch": "hum",
+      "query": "Badain Jaran Desert sand dune acoustic frequency diagram",
+      "query2": "singing sand physics illustration",
+      "role": "fact",
+      "text": "The dunes produce sound due to fine silica grains slipping over each other at ~150 Hz."
+    },
+    {
+      "archive_query": "Badain Jaran desert poster 1930 site:commons.wikimedia.org",
+      "archive_label": "1930s Travel Poster",
+      "query": "Badain Jaran Desert badain jaran historic poster",
+      "query2": "badain jaran vintage image",
+      "role": "archive",
+      "text": "1930s black‑and‑white travel poster depicting the desert’s towering dunes."
+    },
+    {
+      "label": "SAND HUM",
+      "sub": "Wind‑driven dunes create a natural orchestra.",
+      "label_on": "hum",
+      "query": "Badain Jaran Desert badain jaran dunes wind close up",
+      "query2": "singing sand desert cinematic",
+      "role": "callout",
+      "text": "Desert Symphony"
+    },
+    {
+      "query": "Badain Jaran Desert badain jaran ending fade out",
+      "query2": "desert dunes outro",
+      "role": "cta",
+      "text": "Follow if you love to travel from your screen."
+    }
+  ],
+  "description": "Discover the Badain Jaran Desert where massive dunes literally sing as wind brushes their fine silica grains. Hear the desert’s hidden melody. Follow for more natural wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#china",
+    "#desert",
+    "#sandsong",
+    "#travel",
+    "#nature"
+  ]
+}
