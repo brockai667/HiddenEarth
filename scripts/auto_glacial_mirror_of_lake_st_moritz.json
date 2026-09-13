@@ -1,0 +1,68 @@
+{
+  "title": "Glacial Mirror of Lake St. Moritz",
+  "thumb": "MIRROR ICE LAKE",
+  "place": "Lake St. Moritz",
+  "country": "Switzerland",
+  "scenes": [
+    {
+      "hook_top": "05KM MIRROR LAKE",
+      "query": "Lake St. Moritz frozen lake mirror Alps Switzerland",
+      "query2": "Lake St Moritz reflection",
+      "role": "hook",
+      "text": "0.5‑km frozen lake reflecting the Alps perfectly"
+    },
+    {
+      "query": "map Lake St Moritz Engadin",
+      "query2": "Switzerland lake location pin",
+      "role": "map",
+      "text": "Lake St. Moritz, Engadin valley, Switzerland"
+    },
+    {
+      "chips": [
+        {
+          "t": "–10°C WINTER",
+          "on": "temperature",
+          "style": "accent"
+        }
+      ],
+      "punch": "crisp",
+      "query": "Lake St. Moritz Lake St Moritz winter temperature data",
+      "query2": "Swiss alpine lake freeze stats",
+      "role": "fact",
+      "text": "Winter temperatures stay below –10 °C, keeping the surface glass‑smooth"
+    },
+    {
+      "archive_query": "Lake St Moritz 1928 skiers Wikimedia Commons",
+      "archive_label": "1928 Skaters",
+      "query": "Lake St. Moritz historic St Moritz winter photo",
+      "query2": "old lake skating image",
+      "role": "archive",
+      "text": "1928 black‑and‑white photograph of skiers on the frozen lake"
+    },
+    {
+      "label": "Glass Surface",
+      "sub": "The lake becomes a perfect mirror",
+      "label_on": "glass",
+      "query": "Lake St. Moritz frozen lake mirror shot",
+      "query2": "Alpine lake reflection",
+      "role": "callout",
+      "text": "Alpine Glass Surface"
+    },
+    {
+      "query": "Lake St. Moritz follow overlay travel short",
+      "query2": "subscribe call to action",
+      "role": "cta",
+      "text": "Follow for places that don't feel real."
+    }
+  ],
+  "description": "When winter cloaks Lake St. Moritz in ice, its surface turns into a flawless mirror that captures the surrounding Alpine peaks. Experience the world’s most precise natural reflection.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#switzerland",
+    "#lake",
+    "#nature",
+    "#travel",
+    "#mirror"
+  ]
+}

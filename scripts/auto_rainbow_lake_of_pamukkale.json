@@ -1,0 +1,68 @@
+{
+  "title": "Rainbow Lake of Pamukkale",
+  "thumb": "RAINBOW TERRESTRIAL POOL",
+  "place": "Köprüçay River Pool",
+  "country": "Turkey",
+  "scenes": [
+    {
+      "hook_top": "7M RAINBOW POOL",
+      "query": "Köprüçay River Pool rainbow mineral pool Pamukkale",
+      "query2": "colored thermal pool Turkey",
+      "role": "hook",
+      "text": "7‑meter rainbow pool formed by mineral springs"
+    },
+    {
+      "query": "map Pamukkale Köprüçay River",
+      "query2": "Pamukkale location pin",
+      "role": "map",
+      "text": "Köprüçay River, Pamukkale region, Turkey"
+    },
+    {
+      "chips": [
+        {
+          "t": "CALCIUM LAYERS",
+          "on": "calcium",
+          "style": "white"
+        }
+      ],
+      "punch": "layers",
+      "query": "Köprüçay River Pool calcium carbonate terraces Pamukkale",
+      "query2": "thermal spring mineral deposition",
+      "role": "fact",
+      "text": "Calcium carbonate precipitates create vivid pastel layers"
+    },
+    {
+      "archive_query": "Pamukkale postcard 1900s Wikimedia Commons",
+      "archive_label": "Historic Postcard",
+      "query": "Köprüçay River Pool old Pamukkale postcard image",
+      "query2": "historic terrace photograph",
+      "role": "archive",
+      "text": "Early 20th‑century postcard of Pamukkale’s terraces"
+    },
+    {
+      "label": "Pastel Landscape",
+      "sub": "A natural watercolor in stone",
+      "label_on": "pastel",
+      "query": "Köprüçay River Pool colorful travertine terraces",
+      "query2": "rainbow mineral pool view",
+      "role": "callout",
+      "text": "Living Pastel Landscape"
+    },
+    {
+      "query": "Köprüçay River Pool follow call to action travel short",
+      "query2": "subscribe overlay",
+      "role": "cta",
+      "text": "Follow for the planet's best-kept secrets."
+    }
+  ],
+  "description": "A shallow pool along the Köprüçay River glows with rainbow hues, thanks to mineral‑rich waters depositing pastel terraces. It’s nature’s own watercolor masterpiece.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#turkey",
+    "#pamukkale",
+    "#nature",
+    "#travel",
+    "#rainbow"
+  ]
+}

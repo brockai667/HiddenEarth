@@ -1,0 +1,66 @@
+{
+  "title": "Surreal Rock Waves in Arizona",
+  "thumb": "RARE DESERT WAVE",
+  "place": "The Wave, Arizona",
+  "country": "United States",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Only 0.2% of hikers ever see this hidden wave",
+      "hook_top": "RARE DESERT WAVE",
+      "query": "The Wave, Arizona The Wave Arizona sandstone sunrise",
+      "query2": "Arizona wave rock formation",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "NARROW SANDSTONE CRESTS",
+      "label_on": "First",
+      "text": "The wave formed from millimeter‑thin sandstone layers folded by wind and rain",
+      "query": "The Wave, Arizona close up sandstone wave texture",
+      "query2": "Arizona rock layers erosion",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "LIMITED PERMIT ACCESS",
+      "label_on": "Second",
+      "text": "Visitors need a lottery permit; only a few dozen are allowed each day",
+      "query": "The Wave, Arizona The Wave permit lottery sign",
+      "query2": "Arizona restricted hiking permit",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "PHOTOGRAPHERS’ DREAM LIGHT",
+      "label_on": "Third",
+      "text": "Golden hour light paints the wave in surreal reds and oranges, a photographer’s magnet",
+      "query": "The Wave, Arizona The Wave Arizona sunrise photography",
+      "query2": "Arizona wave golden hour shot",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "The Wave, Arizona travel brand follow animation",
+      "query2": "shorts subscribe call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover the hidden sandstone wave that only a handful of adventurers ever witness. Dive into its geology, access rules, and perfect lighting. Follow for more secret‑spot wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Arizona",
+    "#TheWave",
+    "#Travel",
+    "#Nature",
+    "#Adventure"
+  ]
+}

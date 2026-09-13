@@ -12798,5 +12798,134 @@
       "#Chile",
       "#nature"
     ]
+  },
+  {
+    "title": "Mystic Icefall of Mount Baker",
+    "thumb": "ICEFALL WONDER",
+    "place": "Mount Baker Wilderness",
+    "country": "United States",
+    "scenes": [
+      {
+        "hook_top": "ICE CANYON SHOCK",
+        "query": "Mount Baker Wilderness massive frozen waterfall Mount Baker",
+        "query2": "glacier icefall winter",
+        "role": "hook",
+        "text": "A 300‑foot ice curtain that never melts"
+      },
+      {
+        "query": "Mount Baker location map",
+        "query2": "Washington state map",
+        "role": "map",
+        "text": "Mount Baker Wilderness, Washington, USA"
+      },
+      {
+        "chips": [
+          {
+            "t": "300 ft",
+            "on": "height",
+            "style": "white"
+          }
+        ],
+        "punch": "cold",
+        "query": "Mount Baker Wilderness frozen waterfall height measurement",
+        "query2": "ice cascade statistics",
+        "role": "fact",
+        "text": "The waterfall drops over 300 feet and stays frozen year‑round"
+      },
+      {
+        "archive_query": "Mount Baker Icefall 1998 Wikimedia Commons",
+        "archive_label": "1998 Icefall Photo",
+        "query": "Mount Baker Wilderness archival image Mount Baker icefall",
+        "query2": "old photo frozen waterfall",
+        "role": "archive",
+        "text": "Historic photo of the icefall taken in 1998"
+      },
+      {
+        "label": "PERMA‑FROST",
+        "sub": "A waterfall that defies the seasons",
+        "label_on": "defies",
+        "query": "Mount Baker Wilderness slow motion icefall melt none",
+        "query2": "permanent ice waterfall",
+        "role": "callout",
+        "text": "Never‑Melt Ice"
+      },
+      {
+        "query": "Mount Baker Wilderness cinematic freeze effect",
+        "query2": "ice sparkle footage",
+        "role": "cta",
+        "text": "Follow to see the world's hidden places."
+      }
+    ],
+    "description": "Discover why Mount Baker’s towering icefall stays solid even in summer. Stay tuned for more icy marvels.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#mountbaker",
+      "#icefall",
+      "#nature",
+      "#travel",
+      "#wanderlust"
+    ]
+  },
+  {
+    "title": "New Zealand Mirror Lake",
+    "thumb": "MIRROR LAKE MAGIC",
+    "place": "Lake Tekapo, Mackenzie Basin",
+    "country": "New Zealand",
+    "scenes": [
+      {
+        "text": "3 mind‑blowing reasons Lake Tekapo looks like a giant mirror",
+        "hook_top": "LAKE MIRROR REVEALED",
+        "query": "Lake Tekapo, Mackenzie Basin Lake Tekapo perfect reflection sunrise",
+        "query2": "mirror like lake New Zealand",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "text": "Its turquoise color comes from glacial rock flour suspended in water",
+        "label": "GLACIAL ROCK FLOUR COLOR",
+        "label_on": "color",
+        "query": "Lake Tekapo, Mackenzie Basin rock flour causing turquoise water Lake Tekapo",
+        "query2": "glacial silt turquoise lake New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "text": "The surrounding Mackenzie Mountains block wind, keeping the surface calm",
+        "label": "CALM SURFACE FROM MOUNTAINS",
+        "label_on": "calm",
+        "query": "Lake Tekapo, Mackenzie Basin Mackenzie Mountains sheltering Lake Tekapo calm water",
+        "query2": "windless lake surface New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "text": "Clear night skies turn the lake into a star‑filled mirror",
+        "label": "STAR‑FILLED NIGHT REFLECTION",
+        "label_on": "stars",
+        "query": "Lake Tekapo, Mackenzie Basin Lake Tekapo night sky reflection stars",
+        "query2": "starry night mirror lake New Zealand",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow to see the world's hidden places.",
+        "query": "Lake Tekapo, Mackenzie Basin travel channel follow animation",
+        "query2": "subscribe call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "Lake Tekapo’s still waters create a flawless mirror of sky and mountains, thanks to glacial silt and protected winds. Stay tuned for more awe‑inspiring places.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#NewZealand",
+      "#LakeTekapo",
+      "#Travel",
+      "#Nature",
+      "#MirrorLake"
+    ]
   }
 ]
