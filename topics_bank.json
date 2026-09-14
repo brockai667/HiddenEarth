@@ -12927,5 +12927,201 @@
       "#Nature",
       "#MirrorLake"
     ]
+  },
+  {
+    "title": "Kjeragbolten Hanging Rock",
+    "thumb": "HANGING ROCK",
+    "place": "Kjeragbolten",
+    "country": "Norway",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "7 seconds to see the world’s most daring rock squeeze",
+        "hook_top": "7 SECONDS DANGER",
+        "query": "Kjeragbolten rock between cliffs view from below",
+        "query2": "Norway hanging boulder tourists",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "NATURAL ROCK TRAP FORMATION",
+        "label_on": "Formation",
+        "text": "Erosion wedged the boulder between two sheer cliffs over millennia",
+        "query": "Kjeragbolten erosion formation close-up",
+        "query2": "rock trapped between cliffs Norway geological",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "OVER 1,000 METERS ABOVE SEA LEVEL",
+        "label_on": "Altitude",
+        "text": "The boulder sits more than a kilometre high, offering vertigo‑inducing views",
+        "query": "Kjeragbolten altitude aerial view",
+        "query2": "high cliff boulder Norway landscape",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "THOUSANDS OF ADRENALINE SEEKERS",
+        "label_on": "Thrill",
+        "text": "Each year thousands step onto the stone for the ultimate photo challenge",
+        "query": "tourists standing on Kjeragbolten",
+        "query2": "people on hanging rock Norway",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Kjeragbolten adventure travel short video subscribe animation",
+        "query2": "call to action follow adventure",
+        "role": "cta"
+      }
+    ],
+    "description": "Kjeragbolten in Norway is the iconic boulder that daring travelers step onto, suspended between cliffs. Its raw height and natural history make it a must‑see thrill. Follow for more epic adventure spots.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Kjeragbolten",
+      "#Norway",
+      "#Adventure",
+      "#Travel",
+      "#Explore"
+    ]
+  },
+  {
+    "title": "Patagonia Mirror Lake Secret",
+    "thumb": "MIRROR LAKE REVEALED",
+    "place": "Lake Pehoé, Torres del Paine National Park",
+    "country": "Chile",
+    "scenes": [
+      {
+        "hook_top": "SUNRISE OVER CLIFFS",
+        "query": "Lake Pehoé, Torres del Paine National Park sunrise over Torres del Paine cliffs",
+        "query2": "Patagonia sunrise mountain view",
+        "role": "hook",
+        "text": "5‑minute sunrise over Patagonia’s wild cliffs"
+      },
+      {
+        "chips": [
+          {
+            "t": "720 m altitude",
+            "on": "altitude",
+            "style": "white"
+          }
+        ],
+        "punch": "reflect",
+        "query": "Lake Pehoé, Torres del Paine National Park Lake Pehoé turquoise water reflection",
+        "query2": "Patagonia lake mirror mountains",
+        "role": "fact",
+        "text": "The lake sits at 720 m altitude, reflecting the Cuernos del Paine."
+      },
+      {
+        "chips": [
+          {
+            "t": "4 km² surface",
+            "on": "surface",
+            "style": "accent"
+          }
+        ],
+        "query": "Lake Pehoé, Torres del Paine National Park aerial view of Lake Pehoé glassy surface",
+        "query2": "Patagonia lake aerial glass",
+        "role": "fact",
+        "text": "Its surface area is 4 km², yet it looks like a perfect glass pane."
+      },
+      {
+        "reveal_top": "GLACIAL MELT FEED",
+        "query": "Lake Pehoé, Torres del Paine National Park glacial melt feeding Lake Pehoé",
+        "query2": "underground water source Patagonia lake",
+        "role": "reveal",
+        "text": "The water is actually fed by underground glacial melt, not rain."
+      },
+      {
+        "query": "Lake Pehoé, Torres del Paine National Park travel brand CTA follow animation",
+        "query2": "shorts end screen follow",
+        "role": "cta",
+        "text": "Follow for the planet's best-kept secrets."
+      }
+    ],
+    "description": "Patagonia hides a lake that turns every sunrise into a perfect mirror of the Cuernos del Paine. The secret source makes its glassy surface impossible to miss.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Patagonia",
+      "#LakePehoe",
+      "#Travel",
+      "#Nature",
+      "#MirrorLake"
+    ]
+  },
+  {
+    "title": "Iceland’s Underwater Lava Pillars",
+    "thumb": "LAVA PILLARS UNDERWATER",
+    "place": "Lake Mývatn",
+    "country": "Iceland",
+    "scenes": [
+      {
+        "hook_top": "HIDDEN COLUMN LAKE",
+        "query": "Lake Mývatn hiking path to Lake Myvatn columns",
+        "query2": "trail leading to Iceland lake",
+        "role": "hook",
+        "text": "3‑minute trek reveals a lake of hidden columns"
+      },
+      {
+        "chips": [
+          {
+            "t": "200+ pillars",
+            "on": "pillars",
+            "style": "white"
+          }
+        ],
+        "punch": "ancient",
+        "query": "Lake Mývatn underwater basalt pillars Lake Myvatn",
+        "query2": "Iceland lake lava columns",
+        "role": "fact",
+        "text": "The lake contains over 200 basalt pillars formed 2 million years ago."
+      },
+      {
+        "chips": [
+          {
+            "t": "12 m clarity",
+            "on": "clarity",
+            "style": "accent"
+          }
+        ],
+        "query": "Lake Mývatn clear water Lake Myvatn diving view",
+        "query2": "transparent Iceland lake depth",
+        "role": "fact",
+        "text": "Water clarity reaches 12 meters, letting divers see the tops."
+      },
+      {
+        "reveal_top": "FROZEN LAVA TUBES",
+        "query": "Lake Mývatn frozen lava tubes Lake Myvatn",
+        "query2": "Iceland lava tube underwater",
+        "role": "reveal",
+        "text": "These columns are actually frozen lava tubes that never melt."
+      },
+      {
+        "query": "Lake Mývatn travel brand CTA follow animation",
+        "query2": "shorts end screen follow",
+        "role": "cta",
+        "text": "Follow to see the world's hidden places."
+      }
+    ],
+    "description": "Beneath the calm surface of Lake Mývatn lie towering basalt pillars that look like a submerged forest. They’re frozen lava tubes that have survived centuries of volcanic activity.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Iceland",
+      "#LakeMyvatn",
+      "#LavaPillars",
+      "#Travel",
+      "#Nature"
+    ]
   }
 ]

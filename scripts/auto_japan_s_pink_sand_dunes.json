@@ -1,0 +1,72 @@
+{
+  "title": "Japan's Pink Sand Dunes",
+  "thumb": "PINK DUNES",
+  "place": "Tottori Sand Dunes",
+  "country": "Japan",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 minutes to witness pink dunes in Japan",
+      "hook_top": "5 MINUTES PINK DUNES",
+      "query": "Tottori sand dunes sunrise pink color",
+      "query2": "Japan pink dunes early morning",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The dunes rise up to 50 meters tall",
+      "chips": [
+        {
+          "t": "50 m tall",
+          "on": "tall",
+          "style": "white"
+        }
+      ],
+      "punch": "tall",
+      "query": "Tottori Sand Dunes tall sand dunes Tottori overview",
+      "query2": "high sand dunes Japan aerial",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "They stretch over 0.6 sq km of coastline",
+      "chips": [
+        {
+          "t": "0.6 sq km",
+          "on": "area",
+          "style": "accent"
+        }
+      ],
+      "punch": "area",
+      "query": "map view Tottori sand dunes size",
+      "query2": "satellite view Tottori dunes",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "They turn pink only at sunrise and sunset, the only pink dunes on Earth",
+      "reveal_top": "ONLY PINK DUNES",
+      "query": "Tottori Sand Dunes pink sand dunes sunrise Tottori",
+      "query2": "pink dunes Japan sunset",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for a new corner of Earth every day.",
+      "query": "Tottori Sand Dunes travel short CTA text",
+      "query2": "follow us travel short",
+      "role": "cta"
+    }
+  ],
+  "description": "The Tottori Sand Dunes in Japan are the world's sole pink sand dunes, glowing only at dawn and dusk. Catch the fleeting color shift before it fades. Follow for more hidden wonders.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Japan",
+    "#Tottori",
+    "#PinkDunes",
+    "#Travel",
+    "#Nature"
+  ]
+}

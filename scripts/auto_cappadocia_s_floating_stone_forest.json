@@ -1,0 +1,66 @@
+{
+  "title": "Cappadocia's Floating Stone Forest",
+  "thumb": "FLOATING STONE FOREST",
+  "place": "Göreme National Park, Cappadocia",
+  "country": "Turkey",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Over 1,000 fairy chimneys rise from this valley",
+      "hook_top": "FLOATING STONE FOREST",
+      "query": "Göreme National Park, Cappadocia Cappadocia fairy chimneys sunrise",
+      "query2": "Göreme stone pillars mist",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "VOLCANIC TUFF FORMATIONS",
+      "label_on": "First",
+      "text": "Soft volcanic tuff was eroded by wind and water into towering pillars",
+      "query": "Göreme National Park, Cappadocia Cappadocia tuff erosion closeup",
+      "query2": "volcanic rock pillars Turkey",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "HOLE‑IN‑THE‑WALL CAVES",
+      "label_on": "Second",
+      "text": "Natural caves formed inside the chimneys were later carved into homes and churches",
+      "query": "Göreme National Park, Cappadocia Cappadocia cave interiors fresco",
+      "query2": "Göreme carved cave churches",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "BALLOON‑VIEW PANORAMA",
+      "label_on": "Third",
+      "text": "Hot‑air balloons drift over the forest, giving a surreal floating perspective",
+      "query": "Göreme National Park, Cappadocia Cappadocia hot air balloon aerial",
+      "query2": "Göreme balloon sunrise view",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "Göreme National Park, Cappadocia travel brand follow animation",
+      "query2": "shorts subscribe call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Step into Cappadocia’s fairy‑tale landscape where stone pillars look like a forest suspended in air. Learn how volcanic ash shaped them, the hidden cave dwellings, and why balloons make it magical. Follow for more sky‑high discoveries.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Cappadocia",
+    "#Turkey",
+    "#Travel",
+    "#Nature",
+    "#Adventure"
+  ]
+}
