@@ -13123,5 +13123,340 @@
       "#Travel",
       "#Nature"
     ]
+  },
+  {
+    "title": "Red Lagoon of Bolivia",
+    "thumb": "SCARLET WATER",
+    "place": "Laguna Colorada, Eduardo Avaroa Andean Fauna National Reserve",
+    "country": "Bolivia",
+    "scenes": [
+      {
+        "hook_top": "SCARLET LAKE MYSTERY",
+        "query": "Laguna Colorada, Eduardo Avaroa Andean Fauna National Reserve Laguna Colorada sunrise red water Bolivia",
+        "query2": "red lagoon Bolivia aerial view",
+        "role": "hook",
+        "text": "Why does this Bolivian lake glow scarlet?"
+      },
+      {
+        "num": 3,
+        "label": "ALGAE THAT TURN RED",
+        "label_on": "ALGAE",
+        "text": "The water gets its color from tiny red algae that thrive in salty, high‑altitude conditions.",
+        "query": "Laguna Colorada, Eduardo Avaroa Andean Fauna National Reserve red algae Laguna Colorada close up",
+        "query2": "microalgae red lake Bolivia macro",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "BRINE‑RICH SALT FLATS",
+        "label_on": "SALT",
+        "text": "Surrounding salt flats concentrate minerals, making the water denser and helping the algae bloom.",
+        "query": "Laguna Colorada, Eduardo Avaroa Andean Fauna National Reserve salt flats Eduardo Avaroa landscape",
+        "query2": "white salt plains Bolivia aerial",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 1,
+        "label": "HIGH‑ALTITUDE MIRAGE",
+        "label_on": "MIRAGE",
+        "text": "At over 4,000 m, the thin air creates a mirage‑like glow that intensifies the red hue at sunrise.",
+        "query": "Laguna Colorada, Eduardo Avaroa Andean Fauna National Reserve Laguna Colorada sunrise high altitude",
+        "query2": "Bolivia red lake sunrise mist",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "query": "Laguna Colorada, Eduardo Avaroa Andean Fauna National Reserve travel short video outro follow",
+        "query2": "call to action travel shorts",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "Laguna Colorada’s scarlet surface is a rare natural masterpiece created by algae, brine and altitude. Discover why this high‑altitude lake looks like liquid fire. Stay tuned for more unseen places.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Bolivia",
+      "#LagunaColorada",
+      "#Travel",
+      "#Nature",
+      "#RedLake"
+    ]
+  },
+  {
+    "title": "Glowing Beach of Maldives",
+    "thumb": "NEON SAND",
+    "place": "Vaadhoo Island, Baa Atoll",
+    "country": "Maldives",
+    "scenes": [
+      {
+        "hook_top": "NEON BEACH NIGHT",
+        "query": "Vaadhoo Island, Baa Atoll Vaadhoo Island bioluminescent beach night Maldives",
+        "query2": "glowing shoreline Maldives night time",
+        "role": "hook",
+        "text": "How does this Maldivian shore sparkle at night?"
+      },
+      {
+        "num": 3,
+        "label": "NOCTURNAL DINOFLAGELLATES",
+        "label_on": "DINOFLAGELLA",
+        "text": "Tiny marine plankton emit blue light when disturbed, turning every wave into a starry ripple.",
+        "query": "Vaadhoo Island, Baa Atoll dinoflagellates bioluminescence close up",
+        "query2": "microscopic plankton glowing water",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "CALM TIDAL MOVEMENTS",
+        "label_on": "TIDE",
+        "text": "Gentle tides let the plankton linger near the surface, maximizing the luminous display.",
+        "query": "Vaadhoo Island, Baa Atoll calm waves Vaadhoo beach night",
+        "query2": "still sea bioluminescent Maldives",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 1,
+        "label": "ZERO LIGHT POLLUTION",
+        "label_on": "DARKNESS",
+        "text": "Remote island conditions keep the sky dark, allowing the faint glow to shine brightly.",
+        "query": "Vaadhoo Island, Baa Atoll dark night sky Vaadhoo island remote",
+        "query2": "pristine night Maldives no lights",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "query": "Vaadhoo Island, Baa Atoll travel short video outro follow night",
+        "query2": "call to action glowing beach",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Vaadhoo Island’s shoreline lights up with a blue‑white glow each night, thanks to bioluminescent plankton and perfect darkness. Watch the sea turn into a living galaxy. Hit follow for more nocturnal marvels.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Maldives",
+      "#Vaadhoo",
+      "#Bioluminescence",
+      "#Travel",
+      "#NightNature"
+    ]
+  },
+  {
+    "title": "Mendenhall Ice Cathedral",
+    "thumb": "ICE CATHEDRAL ALASKA",
+    "place": "Mendenhall Glacier Ice Caves",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "6 m high blue arches form inside a glacier",
+        "hook_top": "6M BLUE ARCHES",
+        "query": "Mendenhall Glacier Ice Caves ice caves blue arches interior",
+        "query2": "Mendenhall glacier interior",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The glacier moves 30 m per year, reshaping the caves constantly",
+        "chips": [
+          {
+            "t": "30 m/year",
+            "on": "movement",
+            "style": "white"
+          }
+        ],
+        "punch": "shift",
+        "query": "Mendenhall Glacier Ice Caves glacier flow diagram Mendenhall",
+        "query2": "glacier movement time lapse",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Summer melt creates a hidden network of tunnels up to 300 m long",
+        "chips": [
+          {
+            "t": "300 m tunnels",
+            "on": "tunnels",
+            "style": "accent"
+          }
+        ],
+        "punch": "maze",
+        "query": "Mendenhall Glacier Ice Caves inside Mendenhall ice tunnel system",
+        "query2": "glacier cave network",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "The blue arches are actually frozen waterfalls that refreeze nightly",
+        "reveal_top": "FROZEN WATERFALLS",
+        "query": "Mendenhall Glacier Ice Caves refreezing waterfall inside ice cave",
+        "query2": "ice cave waterfall formation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Mendenhall Glacier Ice Caves travel brand call‑to‑action text overlay",
+        "query2": "short follow animation",
+        "role": "cta"
+      }
+    ],
+    "description": "Inside Alaska’s Mendenhall Glacier, summer melt carves towering blue arches that look like a cathedral. Those arches are frozen waterfalls that refreeze each night, creating a living ice sculpture. Follow for more icy secrets.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Alaska",
+      "#Glacier",
+      "#IceCaves",
+      "#Travel",
+      "#Nature",
+      "#FrozenFalls"
+    ]
+  },
+  {
+    "title": "Glass Beach Sea Glass Paradise",
+    "thumb": "SHIMMERING GLASS BEACH",
+    "place": "Fort Bragg",
+    "country": "United States",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 million pieces of sea glass line this shoreline",
+        "hook_top": "5 MILLION GLASS PIECES",
+        "query": "Fort Bragg close-up of colorful sea glass on a beach",
+        "query2": "macro shot of sea glass fragments",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "The beach formed after a 1960s dump of broken bottles, now a natural mosaic.",
+        "chips": [
+          {
+            "t": "1960s dumping",
+            "on": "dumping",
+            "style": "accent"
+          }
+        ],
+        "punch": "mosaic",
+        "query": "historical footage of Fort Bragg dump site",
+        "query2": "old photos of glass beach origin",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Early 1970s tourists first discovering the glittering shore.",
+        "archive_query": "Fort Bragg Glass Beach 1970s tourists",
+        "archive_label": "1970s visitors",
+        "query": "Fort Bragg archival photos of Glass Beach visitors",
+        "query2": "vintage images of sea glass beach",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Nature turned trash into art.",
+        "label": "Trash to Treasure",
+        "sub": "A coastal rebirth of broken glass",
+        "label_on": "rebirth",
+        "query": "Fort Bragg dramatic drone sweep over Glass Beach",
+        "query2": "wide shot of glass-covered shoreline",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if you love to travel from your screen.",
+        "query": "Fort Bragg smooth transition to channel logo",
+        "query2": "fade out with travel brand branding",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how a former dump became one of the world's most colorful beaches. Follow for more hidden wonders worldwide.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#glassbeach",
+      "#seaglass",
+      "#natureart",
+      "#travel",
+      "#coast",
+      "#usa"
+    ]
+  },
+  {
+    "title": "Jukkasjärvi Ice Hotel Frozen Art",
+    "thumb": "ICE HOTEL MASTERPIECE",
+    "place": "Jukkasjärvi",
+    "country": "Sweden",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "300 tons of ice sculpt the rooms each winter",
+        "hook_top": "300 TONS ICE ROOMS",
+        "query": "Jukkasjärvi interior of Ice Hotel with glowing ice suites",
+        "query2": "night view of illuminated ice hotel rooms",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Artists carve the hotel from the Torne River glacier each December.",
+        "chips": [
+          {
+            "t": "Torne River glacier",
+            "on": "glacier",
+            "style": "white"
+          }
+        ],
+        "punch": "carve",
+        "query": "Jukkasjärvi workers shaping ice blocks at Ice Hotel",
+        "query2": "ice sculptors carving hotel walls",
+        "role": "fact"
+      },
+      {
+        "type": "archive",
+        "text": "Opening ceremony of the 2019 Ice Hotel with lanterns.",
+        "archive_query": "Jukkasjärvi Ice Hotel opening 2019 lanterns",
+        "archive_label": "2019 opening",
+        "query": "Jukkasjärvi archival footage of Ice Hotel inauguration",
+        "query2": "historic video of ice hotel ceremony",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Sleep beneath a frozen masterpiece.",
+        "label": "Sleep in Ice",
+        "sub": "Experience art you can feel",
+        "label_on": "sleep",
+        "query": "Jukkasjärvi guest lying on ice bed with fur blankets",
+        "query2": "tourist inside ice suite with candlelight",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for a new corner of Earth every day.",
+        "query": "Jukkasjärvi smooth transition to channel logo",
+        "query2": "fade out with travel brand branding",
+        "role": "cta"
+      }
+    ],
+    "description": "Step inside the world’s most famous ice hotel, rebuilt every year from glacier ice. Follow for more surreal travel spots.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#icehotel",
+      "#jukkasjärvi",
+      "#sweden",
+      "#travel",
+      "#art",
+      "#winter"
+    ]
   }
 ]

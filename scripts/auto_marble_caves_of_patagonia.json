@@ -1,0 +1,69 @@
+{
+  "title": "Marble Caves of Patagonia",
+  "thumb": "CRYSTAL BLUE CAVES",
+  "place": "General Carrera Lake",
+  "country": "Chile",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5 winding tunnels of turquoise marble await you",
+      "hook_top": "5 TURQUOISE TUNNELS",
+      "query": "General Carrera Lake drone over marble caves turquoise water",
+      "query2": "aerial view marble canyon blue water",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "The caves were formed over 6 million years by glacial erosion",
+      "chips": [
+        {
+          "t": "6 MILLION YEARS",
+          "on": "millions",
+          "style": "accent"
+        }
+      ],
+      "punch": "millions",
+      "query": "General Carrera Lake glacial erosion forming marble caves",
+      "query2": "geology of General Carrera Lake caves",
+      "role": "fact"
+    },
+    {
+      "type": "archive",
+      "text": "Early 20th‑century photos show the untouched marble walls",
+      "archive_query": "General Carrera Lake marble caves historic photograph",
+      "archive_label": "Historic marble view",
+      "query": "General Carrera Lake historic photo marble caves Chile",
+      "query2": "old image General Carrera marble walls",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Only reachable by boat, these caves stay hidden from most maps",
+      "label": "Boat‑Only Access",
+      "sub": "No roads, just water and wonder",
+      "label_on": "access",
+      "query": "General Carrera Lake boat tour marble caves Patagonia",
+      "query2": "kayak into marble caves Chile",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for places that don't feel real.",
+      "query": "General Carrera Lake travel short form CTA follow",
+      "query2": "engaging CTA travel video",
+      "role": "cta"
+    }
+  ],
+  "description": "Dive into the surreal turquoise tunnels carved into marble by ancient glaciers at General Carrera Lake. Discover why only a boat can reveal this hidden masterpiece.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#travel",
+    "#marblecaves",
+    "#Patagonia",
+    "#Chile",
+    "#nature"
+  ]
+}

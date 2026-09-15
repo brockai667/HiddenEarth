@@ -1,0 +1,68 @@
+{
+  "title": "Mystic Icefall of Mount Baker",
+  "thumb": "ICEFALL WONDER",
+  "place": "Mount Baker Wilderness",
+  "country": "United States",
+  "scenes": [
+    {
+      "hook_top": "ICE CANYON SHOCK",
+      "query": "Mount Baker Wilderness massive frozen waterfall Mount Baker",
+      "query2": "glacier icefall winter",
+      "role": "hook",
+      "text": "A 300‑foot ice curtain that never melts"
+    },
+    {
+      "query": "Mount Baker location map",
+      "query2": "Washington state map",
+      "role": "map",
+      "text": "Mount Baker Wilderness, Washington, USA"
+    },
+    {
+      "chips": [
+        {
+          "t": "300 ft",
+          "on": "height",
+          "style": "white"
+        }
+      ],
+      "punch": "cold",
+      "query": "Mount Baker Wilderness frozen waterfall height measurement",
+      "query2": "ice cascade statistics",
+      "role": "fact",
+      "text": "The waterfall drops over 300 feet and stays frozen year‑round"
+    },
+    {
+      "archive_query": "Mount Baker Icefall 1998 Wikimedia Commons",
+      "archive_label": "1998 Icefall Photo",
+      "query": "Mount Baker Wilderness archival image Mount Baker icefall",
+      "query2": "old photo frozen waterfall",
+      "role": "archive",
+      "text": "Historic photo of the icefall taken in 1998"
+    },
+    {
+      "label": "PERMA‑FROST",
+      "sub": "A waterfall that defies the seasons",
+      "label_on": "defies",
+      "query": "Mount Baker Wilderness slow motion icefall melt none",
+      "query2": "permanent ice waterfall",
+      "role": "callout",
+      "text": "Never‑Melt Ice"
+    },
+    {
+      "query": "Mount Baker Wilderness cinematic freeze effect",
+      "query2": "ice sparkle footage",
+      "role": "cta",
+      "text": "Follow to see the world's hidden places."
+    }
+  ],
+  "description": "Discover why Mount Baker’s towering icefall stays solid even in summer. Stay tuned for more icy marvels.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#mountbaker",
+    "#icefall",
+    "#nature",
+    "#travel",
+    "#wanderlust"
+  ]
+}
