@@ -1,0 +1,61 @@
+{
+  "title": "New Zealand Mirror Lake",
+  "thumb": "MIRROR LAKE MAGIC",
+  "place": "Lake Tekapo, Mackenzie Basin",
+  "country": "New Zealand",
+  "scenes": [
+    {
+      "text": "3 mind‑blowing reasons Lake Tekapo looks like a giant mirror",
+      "hook_top": "LAKE MIRROR REVEALED",
+      "query": "Lake Tekapo, Mackenzie Basin Lake Tekapo perfect reflection sunrise",
+      "query2": "mirror like lake New Zealand",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "text": "Its turquoise color comes from glacial rock flour suspended in water",
+      "label": "GLACIAL ROCK FLOUR COLOR",
+      "label_on": "color",
+      "query": "Lake Tekapo, Mackenzie Basin rock flour causing turquoise water Lake Tekapo",
+      "query2": "glacial silt turquoise lake New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "text": "The surrounding Mackenzie Mountains block wind, keeping the surface calm",
+      "label": "CALM SURFACE FROM MOUNTAINS",
+      "label_on": "calm",
+      "query": "Lake Tekapo, Mackenzie Basin Mackenzie Mountains sheltering Lake Tekapo calm water",
+      "query2": "windless lake surface New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "text": "Clear night skies turn the lake into a star‑filled mirror",
+      "label": "STAR‑FILLED NIGHT REFLECTION",
+      "label_on": "stars",
+      "query": "Lake Tekapo, Mackenzie Basin Lake Tekapo night sky reflection stars",
+      "query2": "starry night mirror lake New Zealand",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow to see the world's hidden places.",
+      "query": "Lake Tekapo, Mackenzie Basin travel channel follow animation",
+      "query2": "subscribe call to action",
+      "role": "cta"
+    }
+  ],
+  "description": "Lake Tekapo’s still waters create a flawless mirror of sky and mountains, thanks to glacial silt and protected winds. Stay tuned for more awe‑inspiring places.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#NewZealand",
+    "#LakeTekapo",
+    "#Travel",
+    "#Nature",
+    "#MirrorLake"
+  ]
+}

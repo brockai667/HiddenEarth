@@ -1,0 +1,66 @@
+{
+  "title": "Kjeragbolten Hanging Rock",
+  "thumb": "HANGING ROCK",
+  "place": "Kjeragbolten",
+  "country": "Norway",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7 seconds to see the world’s most daring rock squeeze",
+      "hook_top": "7 SECONDS DANGER",
+      "query": "Kjeragbolten rock between cliffs view from below",
+      "query2": "Norway hanging boulder tourists",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "NATURAL ROCK TRAP FORMATION",
+      "label_on": "Formation",
+      "text": "Erosion wedged the boulder between two sheer cliffs over millennia",
+      "query": "Kjeragbolten erosion formation close-up",
+      "query2": "rock trapped between cliffs Norway geological",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "OVER 1,000 METERS ABOVE SEA LEVEL",
+      "label_on": "Altitude",
+      "text": "The boulder sits more than a kilometre high, offering vertigo‑inducing views",
+      "query": "Kjeragbolten altitude aerial view",
+      "query2": "high cliff boulder Norway landscape",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "THOUSANDS OF ADRENALINE SEEKERS",
+      "label_on": "Thrill",
+      "text": "Each year thousands step onto the stone for the ultimate photo challenge",
+      "query": "tourists standing on Kjeragbolten",
+      "query2": "people on hanging rock Norway",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if you love to travel from your screen.",
+      "query": "Kjeragbolten adventure travel short video subscribe animation",
+      "query2": "call to action follow adventure",
+      "role": "cta"
+    }
+  ],
+  "description": "Kjeragbolten in Norway is the iconic boulder that daring travelers step onto, suspended between cliffs. Its raw height and natural history make it a must‑see thrill. Follow for more epic adventure spots.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#Kjeragbolten",
+    "#Norway",
+    "#Adventure",
+    "#Travel",
+    "#Explore"
+  ]
+}

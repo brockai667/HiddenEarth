@@ -13458,5 +13458,275 @@
       "#art",
       "#winter"
     ]
+  },
+  {
+    "title": "Wave Rock Australia",
+    "thumb": "WAVE ROCK MAGIC",
+    "place": "Wave Rock",
+    "country": "Australia",
+    "scenes": [
+      {
+        "hook_top": "STONE WAVE",
+        "query": "wave rock aerial view",
+        "query2": "wave rock landscape",
+        "role": "hook",
+        "text": "A stone that looks like a crashing wave"
+      },
+      {
+        "query": "Western Australia map Hyden",
+        "query2": "Australia regional map",
+        "role": "map",
+        "text": "Wave Rock sits near the town of Hyden in Western Australia, Australia"
+      },
+      {
+        "chips": [
+          {
+            "t": "350 MILLION YEARS",
+            "on": "years",
+            "style": "accent"
+          }
+        ],
+        "punch": "ancient",
+        "query": "granite wave rock formation",
+        "query2": "geology of wave rock",
+        "role": "fact",
+        "text": "The rock formed 350 million years ago from ancient granite"
+      },
+      {
+        "archive_query": "Wave Rock historic photograph 1900s",
+        "archive_label": "Historic Wave Rock",
+        "query": "archival wave rock photo",
+        "query2": "old wave rock image",
+        "role": "archive",
+        "text": "Early 20th‑century tourists photographed Wave Rock as a natural wonder"
+      },
+      {
+        "label": "SURFING STONE",
+        "sub": "A frozen wave you can walk on",
+        "label_on": "surf",
+        "query": "wave rock close up",
+        "query2": "wave rock texture",
+        "role": "callout",
+        "text": "Nature’s Surf"
+      },
+      {
+        "query": "Wave Rock travel brand call to action",
+        "query2": "short follow prompt",
+        "role": "cta",
+        "text": "Follow to see the world's hidden places."
+      }
+    ],
+    "description": "Wave Rock looks like a giant ocean wave frozen in stone, towering over the arid landscape. Discover how this ancient granite formation became a photographer’s favorite.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Australia",
+      "#WaveRock",
+      "#Geology",
+      "#Travel",
+      "#Nature"
+    ]
+  },
+  {
+    "title": "Hanging Lake Colorado",
+    "thumb": "SUSPENDED MIRROR",
+    "place": "Hanging Lake",
+    "country": "United States",
+    "scenes": [
+      {
+        "hook_top": "CLIFFSIDE LAKE",
+        "query": "Hanging Lake aerial view",
+        "query2": "Colorado Hanging Lake drone",
+        "role": "hook",
+        "text": "A turquoise lake perched on a cliff edge"
+      },
+      {
+        "query": "Colorado map Glenwood Canyon",
+        "query2": "USA Colorado regional map",
+        "role": "map",
+        "text": "Hanging Lake is tucked in Glenwood Canyon, Colorado, USA"
+      },
+      {
+        "chips": [
+          {
+            "t": "1,200 FT",
+            "on": "height",
+            "style": "accent"
+          }
+        ],
+        "punch": "high",
+        "query": "Hanging Lake elevation",
+        "query2": "lake height Colorado",
+        "role": "fact",
+        "text": "The lake sits 1,200 ft above the Colorado River"
+      },
+      {
+        "archive_query": "Hanging Lake historic postcard 1900s",
+        "archive_label": "Historic Postcard",
+        "query": "archival Hanging Lake image",
+        "query2": "old Hanging Lake photograph",
+        "role": "archive",
+        "text": "Early 1900s postcards show the lake as a hidden gem for hikers"
+      },
+      {
+        "label": "MIRROR LAKE",
+        "sub": "Crystal water reflects the canyon walls perfectly",
+        "label_on": "mirror",
+        "query": "Hanging Lake reflection",
+        "query2": "Lake mirror canyon",
+        "role": "callout",
+        "text": "Nature’s Mirror"
+      },
+      {
+        "query": "Hanging Lake travel brand call to action",
+        "query2": "short follow prompt",
+        "role": "cta",
+        "text": "Follow if you love to travel from your screen."
+      }
+    ],
+    "description": "Perched on a sheer cliff, Hanging Lake dazzles with turquoise water that perfectly mirrors the surrounding red rocks. A secret spot that feels like nature’s own looking glass.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Colorado",
+      "#HangingLake",
+      "#Travel",
+      "#Nature",
+      "#Adventure"
+    ]
+  },
+  {
+    "title": "Burgess Shale Fossils",
+    "thumb": "PREHISTORIC TREASURE",
+    "place": "Burgess Shale",
+    "country": "Canada",
+    "scenes": [
+      {
+        "hook_top": "FOSSIL FIELD",
+        "query": "Burgess Shale fossils closeup",
+        "query2": "Cambrian fossil Burgess Shale",
+        "role": "hook",
+        "text": "A fossil field preserving 505‑million‑year‑old creatures"
+      },
+      {
+        "query": "British Columbia map Yoho National Park",
+        "query2": "Canada BC map",
+        "role": "map",
+        "text": "The Burgess Shale lies in Yoho National Park, British Columbia, Canada"
+      },
+      {
+        "chips": [
+          {
+            "t": "150 SPECIES",
+            "on": "species",
+            "style": "white"
+          }
+        ],
+        "punch": "unique",
+        "query": "Burgess Shale species count",
+        "query2": "Cambrian explosion fossils",
+        "role": "fact",
+        "text": "Over 150 unique species were discovered there"
+      },
+      {
+        "archive_query": "Burgess Shale 1910 expedition photo",
+        "archive_label": "1910 Expedition",
+        "query": "historic Burgess Shale image",
+        "query2": "early fossil field photo",
+        "role": "archive",
+        "text": "A 1910 expedition photograph shows paleontologists at the fossil cliffs"
+      },
+      {
+        "label": "ANCIENT LIFE",
+        "sub": "Preserved soft‑bodied animals from the Cambrian era",
+        "label_on": "ancient",
+        "query": "Burgess Shale fossil detail",
+        "query2": "Cambrian soft tissue fossil",
+        "role": "callout",
+        "text": "Time Capsule"
+      },
+      {
+        "query": "Burgess Shale travel brand call to action",
+        "query2": "short follow prompt",
+        "role": "cta",
+        "text": "Follow for a new corner of Earth every day."
+      }
+    ],
+    "description": "The Burgess Shale holds an unrivaled snapshot of early complex life, with exquisitely preserved fossils that reveal creatures from 505 million years ago. Step into a real‑time window of Earth’s deep past.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#Canada",
+      "#BurgessShale",
+      "#Fossils",
+      "#Science",
+      "#Travel"
+    ]
+  },
+  {
+    "title": "Turquoise Mirror Lake in France",
+    "thumb": "CRYSTAL REFLECTION",
+    "place": "Lac Blanc, French Alps",
+    "country": "France",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "5 minutes to see the world’s clearest lake",
+        "hook_top": "CLEAREST LAKE",
+        "query": "Lac Blanc, French Alps Lac Blanc turquoise water reflecting mountains",
+        "query2": "French Alps crystal lake aerial view",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "ALPINE REFLECTION",
+        "label_on": "reflects",
+        "text": "The lake mirrors Mont Blanc with perfect clarity",
+        "query": "Lac Blanc, French Alps Lac Blanc reflecting Mont Blanc sunrise",
+        "query2": "mirror lake French Alps sunrise",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "GLACIAL ORIGIN",
+        "label_on": "formed",
+        "text": "It was carved by ancient glaciers over millennia",
+        "query": "Lac Blanc, French Alps glacially carved Lac Blanc valley",
+        "query2": "glacier formed alpine lake France",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "SEASONAL BLUE",
+        "label_on": "shifts",
+        "text": "In summer the water turns vivid blue from rock minerals",
+        "query": "Lac Blanc, French Alps Lac Blanc summer blue water minerals",
+        "query2": "turquoise alpine lake mineral color",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the planet's best-kept secrets.",
+        "query": "Lac Blanc, French Alps travel inspiration montage",
+        "query2": "nature travel short reel",
+        "role": "cta"
+      }
+    ],
+    "description": "Lac Blanc dazzles with glass‑like water that perfectly reflects the surrounding peaks. Discover why this Alpine gem feels like a portal to another world. Follow for more hidden natural wonders.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#France",
+      "#Alps",
+      "#Lake",
+      "#Nature",
+      "#Travel"
+    ]
   }
 ]
